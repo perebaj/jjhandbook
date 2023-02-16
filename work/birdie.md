@@ -10,7 +10,7 @@
 - Instrumentation/Metrics for puller using prometheus
 - Structured Logs
 - Handbook documentation
-
+- Workload identity in Kubernetes cluster
 
 > 👍 Push -> Pull
 > 
