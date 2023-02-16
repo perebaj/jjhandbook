@@ -11,7 +11,7 @@
 - Structured Logs
 - Handbook documentation
 - Workload identity in Kubernetes cluster
-
+- Reduce .yaml manifest files complexity. Using [overlay/base docs](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/#bases-and-overlays)
 > 👍 Push -> Pull
 > 
 > ## Issues with using push
