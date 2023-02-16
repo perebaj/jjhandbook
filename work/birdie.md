@@ -1,6 +1,7 @@
 ## Quarter 1 2023
 
 - Push → Pull
+- Pubsub emulator for local environment
 - Custom Metrics - Stackdriver Adapter
     - HPA/VPA for optimize puller performance
 - Uptime check for public APIS
