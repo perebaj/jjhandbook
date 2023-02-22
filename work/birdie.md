@@ -22,7 +22,9 @@
 > - *Push* subscriptions require routes exposed to the internet 🌐
 >    * We have to manage the entire network infrastructure to perform this "exposure," including: Ingress, HTTPS Certificates & LoadBalancer 😮‍💨
 > - Since we're constantly loading, enriching, and saving data, it's ideal to do fewer operations with more data to spare effort for our databases, rather than the opposite. Few operations with little data. 🤏🏽🤌🏽
-
+> - Pubsub alert policy
+>   * failure_alert_oldest_unack_message
+>   * failure_alert_number_of_dead_letter_messages
 
 
 
