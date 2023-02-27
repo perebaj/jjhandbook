@@ -43,3 +43,10 @@
 > - Delivery attempt (the last delivery attempt indicates that there are problems occurring);
 > - If the message was ack or nack (status of messages);
 > - Consumer type (which part of the code is processing this message?)
+
+
+> 🫁 Pubsub alert policy
+> 
+> Alerts like:
+> - alert policy to monitor the oldest unacknowledged message in the system.
+> - alert policy to monitor the number of dead letter messages in the system.
