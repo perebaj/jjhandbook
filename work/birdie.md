@@ -34,3 +34,12 @@
 > 🌻Handbook documentation
 >
 > "What if the most important part of "platform engineering" is maintaining a high quality wiki with proven, empathic patterns for Stream-aligned teams to follow?" - Matthew Skelton
+
+
+> 🤡 Instrumentation/Metrics for a puller using Prometheus
+> 
+> This instrumentation involves simple metrics such as verifying the amount of time that each message takes to process and how many messages are processed per second. The difference that made an improvement in our metrics was choosing the right labels, such as:
+> - Subscription name (to easily find the topic and see our status);
+> - Delivery attempt (the last delivery attempt indicates that there are problems occurring);
+> - If the message was ack or nack (status of messages);
+> - Consumer type (which part of the code is processing this message?)
