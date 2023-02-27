@@ -50,3 +50,9 @@
 > Alerts like:
 > - alert policy to monitor the oldest unacknowledged message in the system.
 > - alert policy to monitor the number of dead letter messages in the system.
+
+
+
+👻 (https://cloud.google.com/kubernetes-engine/docs/how-to/workload-identity)[Workload identity] in Kubernetes cluster
+
+Despite passwords in container or mocked as plaintext/git repository, is a god practice😂. When our deployments are in k8s cluster, GKE allows associate service account with k8s workloads without mess configurations🤯
