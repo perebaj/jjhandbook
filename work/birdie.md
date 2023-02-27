@@ -53,6 +53,6 @@
 
 
 
-👻 (https://cloud.google.com/kubernetes-engine/docs/how-to/workload-identity)[Workload identity] in Kubernetes cluster
-
-Despite passwords in container or mocked as plaintext/git repository, is a god practice😂. When our deployments are in k8s cluster, GKE allows associate service account with k8s workloads without mess configurations🤯
+> 👻 [Workload identity](https://cloud.google.com/kubernetes-engine/docs/how-to/workload-identity) in Kubernetes cluster
+> 
+> Avoiding storing passwords in containers or saving them as plaintext in a Git repository is not a good practice. For this reason, when deploying on a Kubernetes cluster, GKE allows for the association of a service account with Kubernetes workloads without > > the need for messy configurations.
