@@ -15,6 +15,7 @@
 - Pubsub alert policy
     - failure_alert_oldest_unack_message
     - failure_alert_number_of_dead_letter_messages
+- Elastic query history
 
 
 > 👍 Push -> Pull
@@ -56,3 +57,9 @@
 > 👻 [Workload identity](https://cloud.google.com/kubernetes-engine/docs/how-to/workload-identity) in Kubernetes cluster
 > 
 > Avoiding storing passwords in containers or saving them as plaintext in a Git repository is not a good practice. For this reason, when deploying on a Kubernetes cluster, GKE allows for the association of a service account with Kubernetes workloads without > > the need for messy configurations.
+
+> 🥷 Elastic query history
+
+> It can be a challenging task to identify problems when you have no idea how to find them. We have > encountered numerous issues with Elastic disruption, and creating mechanisms to trace expensive  
+> queries in our system is an essential task, especially when it comes to Elastic search, which is > our primary database. Even when using a managed database, slow query tracking is not always a >default feature. That is why we have enabled the [slow query](https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-slowlog.html#index-modules-slowlog) log to help us >identify and address these issues.
+> 
