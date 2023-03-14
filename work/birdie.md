@@ -17,6 +17,21 @@
     - failure_alert_number_of_dead_letter_messages
 - Elastic query history
 - Dont treat exceptions in a generic way can cause disruption in code
+- Instrumentatate elastic/opensearch client to get performance evaluation for all queries 
+- Getting ID token by impersonating a svc-account for local environment
+
+---
+
+## TODO
+
+- Structured Logs
+- Custom Metrics - Stackdriver Adapter
+- Uptime check for public APIS
+---
+
+> 🕶 Pubsub emulator for local environment
+>
+> Have a local environment that it's trustworthy to your cloud environment is pure fuck*ing gold. Please spend more time doind that 
 
 
 > 👍 Push -> Pull
@@ -57,14 +72,32 @@
 
 > 👻 [Workload identity](https://cloud.google.com/kubernetes-engine/docs/how-to/workload-identity) in Kubernetes cluster
 > 
-> Avoiding storing passwords in containers or saving them as plaintext in a Git repository is not a good practice. For this reason, when deploying on a Kubernetes cluster, GKE allows for the association of a service account with Kubernetes workloads without > > the need for messy configurations.
+> Avoiding storing passwords in containers or saving them as plaintext in a Git repository is not a good practice. For this reason, when deploying on a Kubernetes cluster, GKE allows for the association of a service account with Kubernetes workloads without the need for messy configurations.
 
 > 🥷 Elastic query history
-
+>
 > It can be a challenging task to identify problems when you have no idea how to find them. We have > encountered numerous issues with Elastic disruption, and creating mechanisms to trace expensive  
 > queries in our system is an essential task, especially when it comes to Elastic search, which is > our primary database. Even when using a managed database, slow query tracking is not always a >default feature. That is why we have enabled the [slow query](https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-slowlog.html#index-modules-slowlog) log to help us >identify and address these issues.
 > 
 
+
 > 😬 Dont treat exceptions in a generic way can cause disruption in your code
 > 
 > Errors make the process die, for this reason, it's essential to treat exceptions to exhibit the error and not finish the program. I figured out this problem because the database wasn't accepting requests, the code broke and didn't accept data at all. In python, just put in the main loop a try/except handler. Error fixed
+
+
+> 👣 Instrumentatate elastic/opensearch client to get performance evaluation for all queries 
+>
+> Instrumentation is a task that not only depends on the tool you are using, but also on the design of your code, as it ultimately determines how easy the implementation will be. In this particular case, there is no magic involved - we simply wrapped the opensearch/elk client, and tracked metrics such as feedback_search_query_total and feedback_search_query_duration_seconds.
+> 
+> The feedback_search_query_total metric tracks the total number of queries made to Elastic Search, counting them by consumer type and query type. On the other hand, the feedback_search_query_duration_seconds metric is a histogram used to measure the duration in seconds of interactions between the code and Elastic Search, grouped by consumer type and query type.
+> 
+> Choosing the right labels is crucial, as they facilitate filtering in dashboards and enable more effective monitoring of the system.
+
+
+> 👘 Getting ID token by impersonating a svc-account for local environment
+>
+>Using svc-accounts as JSON files can be problematic, as it can be difficult to keep track of how many accounts are being used and where they are located. This approach can also be unsafe and may lead to issues such as multiple accounts being used for the same Docker image, with overlapping roles and responsibilities. To address these problems, we spent time working on a solution that synchronizes user accounts to a svc-account with the same roles and permissions as the service deployed in the cloud (staging). This means that developers can simply authenticate and start working without having to share JSON files, while the infrastructure team can maintain better control over who has access to what. This approach helps to prevent incidents and ensures that every user has appropriate access to the necessary resources, specially when developers are trying to access APIS from others teams.
+>
+
+
