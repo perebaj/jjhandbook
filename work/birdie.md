@@ -31,7 +31,7 @@
 
 > 🕶 Pubsub emulator for local environment
 >
-> Have a local environment that it's trustworthy to your cloud environment is pure fuck*ing gold. Please spend more time doind that 
+> Have a local environment that it's trustworthy and looks like with your cloud environment is the pure fucking gold. Please spend more time doing that
 
 
 > 👍 Push -> Pull
