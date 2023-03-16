@@ -27,6 +27,7 @@
 - Structured Logs
 - Custom Metrics - Stackdriver Adapter
 - Uptime check for public APIS
+- Hype guy frustations 
 ---
 
 > 🕶 Pubsub emulator for local environment
