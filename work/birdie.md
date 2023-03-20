@@ -19,6 +19,11 @@
 - Dont treat exceptions in a generic way can cause disruption in code
 - Instrumentatate elastic/opensearch client to get performance evaluation for all queries 
 - Getting ID token by impersonating a svc-account for local environment
+- K8s alerts
+    - CrashLoopBack -  👍🏽 
+    - CPU usage is much higher than request 
+    - Memory usage is at 90% regarding the memory limit
+    - Volume/Disk usage of a pod is at 90%
 
 ---
 
@@ -28,7 +33,9 @@
 - Custom Metrics - Stackdriver Adapter
 - Uptime check for public APIS
 - Hype guy frustations 
+- k8s alerts
 ---
+
 
 > 🕶 Pubsub emulator for local environment
 >
