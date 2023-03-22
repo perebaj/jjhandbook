@@ -24,7 +24,8 @@
     - CPU usage is much higher than request 
     - Memory usage is at 90% regarding the memory limit
     - Volume/Disk usage of a pod is at 90%
-
+- [bug] shadow pubsub timeout withoud nack or error message (difference between pubsub timeout x sdk library)
+- Avoid build image all time. Just promote the most recent 🤔
 ---
 
 ## TODO
@@ -34,6 +35,9 @@
 - Uptime check for public APIS
 - Hype guy frustations 
 - k8s alerts
+- [bug] shadow pubsub timeout withoud nack or error message (difference between pubsub timeout x sdk library)
+- Avoid build image all time. Just promote the most recent 🤔
+
 ---
 
 
