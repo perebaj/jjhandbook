@@ -26,6 +26,7 @@
     - Volume/Disk usage of a pod is at 90%
 - [bug] shadow pubsub timeout withoud nack or error message (difference between pubsub timeout x sdk library)
 - Avoid build image all time. Just promote the most recent 🤔
+- Histogram buckets with wise values can save your API metrics
 ---
 
 ## TODO
