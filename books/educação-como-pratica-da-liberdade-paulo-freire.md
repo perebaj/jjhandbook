@@ -5,7 +5,7 @@
 - Maiêutica = método de ensino Socrático, que envolve realizar uma série de questões para ajudar a alguém alcançar mais a fundo sobre um tópico.
 - filisteísmo = É amplamente utilizado para se referir à falta de interesse ou apreciação pela cultura, literatura, arte, música, teatro e outras formas de expressão artística. A palavra "filisteísmo" vem do termo "filisteu", que era o nome dado a um povo que habitava a região da Filístia, na antiga Palestina.
 
-
+- Oligarquia. Oligos = pequeno/pouco | arkhein = Governar/comandar. Governo de poucos
 ### Sobre a democracia
 
 A palavra democracia, que possui origem na Grécia antiga, no século V a.C. Literalmente significa: Governo do povo. demos = povo | kratos = poder. 
