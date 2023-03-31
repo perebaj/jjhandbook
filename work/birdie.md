@@ -27,6 +27,8 @@
 - [bug] shadow pubsub timeout withoud nack or error message (difference between pubsub timeout x sdk library)
 - Avoid build image all time. Just promote the most recent 🤔
 - Histogram buckets with wise values can save your API metrics
+- Cloud Armor
+- Different APIs connect between trace-id into context logs. 
 ---
 
 ## TODO
@@ -38,7 +40,8 @@
 - k8s alerts
 - [bug] shadow pubsub timeout withoud nack or error message (difference between pubsub timeout x sdk library)
 - Avoid build image all time. Just promote the most recent 🤔
-
+- Cloud Armor
+- Different APIs connect between trace-id into context logs. 
 ---
 
 
