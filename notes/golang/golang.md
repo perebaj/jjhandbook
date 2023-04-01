@@ -3,6 +3,9 @@ By convention, the package name is the same as the last element of the import pa
 
 [Golang declaration sintax](https://go.dev/blog/declaration-syntax) 
 
+
+[Go-Tour](https://go.dev/tour/list)
+
 ## Packages, variables, and functions.
 
 ```
@@ -234,3 +237,133 @@ func main() {
 }
 ```
 
+### Defer
+A defer statement defers the execution of a function until the surrounding function returns.
+
+The deferred call's arguments are evaluated immediately, but the function call is not executed until the surrounding function returns.
+
+```
+package main
+
+import "fmt"
+
+func main() {
+	defer fmt.Println("world")
+
+	fmt.Println("hello")
+}
+```
+
+### Creating a slice with make
+
+Slices can be created with the built-in make function; this is how you create dynamically-sized arrays.
+
+The make function allocates a zeroed array and returns a slice that refers to that array:
+
+```golang
+a := make([]int, 5)  // len(a)=5
+```
+To specify a capacity, pass a third argument to make:
+
+```golang
+b := make([]int, 0, 5) // len(b)=0, cap(b)=5
+
+b = b[:cap(b)] // len(b)=5, cap(b)=5
+b = b[1:]      // len(b)=4, cap(b)=4
+```
+
+
+### Appending to a slice
+It is common to append new elements to a slice, and so Go provides a built-in append function. The documentation of the built-in package describes append.
+
+func append(s []T, vs ...T) []T
+The first parameter s of append is a slice of type T, and the rest are T values to append to the slice.
+
+```golang
+package main
+
+import "fmt"
+
+func main() {
+	var s []int
+	printSlice(s)
+
+	// append works on nil slices.
+	s = append(s, 0)
+	printSlice(s)
+
+	// The slice grows as needed.
+	s = append(s, 1)
+	printSlice(s)
+
+	// We can add more than one element at a time.
+	s = append(s, 2, 3, 4)
+	printSlice(s)
+}
+
+func printSlice(s []int) {
+	fmt.Printf("len=%d cap=%d %v\n", len(s), cap(s), s)
+}
+
+```
+
+### Range
+The range form of the for loop iterates over a slice or map.
+
+When ranging over a slice, two values are returned for each iteration. The first is the index, and the second is a copy of the element at that index.
+
+```golang
+package main
+
+import "fmt"
+
+var pow = []int{1, 2, 4, 8, 16, 32, 64, 128}
+
+func main() {
+	for i, v := range pow {
+		fmt.Printf("2**%d = %d\n", i, v)
+	}
+}
+```
+
+### Mutating Maps
+Insert or update an element in map m:
+
+```m[key] = elem```
+Retrieve an element:
+
+```elem = m[key]```
+Delete an element:
+
+```delete(m, key)```
+Test that a key is present with a two-value assignment:
+
+```elem, ok = m[key]```
+If key is in m, ok is true. If not, ok is false.
+
+If key is not in the map, then elem is the zero value for the map's element type.
+
+Note: If elem or ok have not yet been declared you could use a short declaration form:
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	m := make(map[string]int)
+
+	m["Answer"] = 42
+	fmt.Println("The value:", m["Answer"])
+
+	m["Answer"] = 48
+	fmt.Println("The value:", m["Answer"])
+
+	delete(m, "Answer")
+	fmt.Println("The value:", m["Answer"])
+
+	v, ok := m["Answer"]
+	fmt.Println("The value:", v, "Present?", ok)
+}
+
+```
