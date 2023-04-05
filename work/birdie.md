@@ -133,7 +133,7 @@ In this quarter we brought a new senior member to the infrastructure team and we
 # Quarte 2 2023
 
 * 😍 Golang cmd adpter for the extractor service
-
+* [Bug] Node without right scopes that impossibilitate things like, pull image
 
 
 ---
@@ -142,3 +142,9 @@ In this quarter we brought a new senior member to the infrastructure team and we
 > 😍 The Golang cmd adapter is designed to simplify the debugging of the Extractor service. The Extractor service is responsible for extracting information from a set of feedback, such as the type, sentiment, and intention for each segment of text.
 > 
 >     🫣 The adapter is intended to read a CSV file and generate a summary of the service's performance.
+
+---
+
+>🐛 [Bug] Node without the necessary scopes, making it impossible to perform certain operations such as pulling an image.
+>
+>The solution is to recreate all nodes, and for that, we will use a blue/green deployment approach. We will copy and paste the current node pool with the same configurations, then cordon off the old node pool. Afterwards, we will drain all old nodes. To minimize downtime and prevent issues, it is important that all deployments have the PodDisruptionBudget available.
