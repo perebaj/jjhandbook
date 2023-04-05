@@ -36,7 +36,7 @@
 - Structured Logs
 - Custom Metrics - Stackdriver Adapter
 - Uptime check for public APIS
-- Hype guy frustations 
+- Hype guy frustations (https://twitter.com/jj_neno/status/1641464170796183556)
 - k8s alerts
 - [bug] shadow pubsub timeout withoud nack or error message (difference between pubsub timeout x sdk library)
 - Avoid build image all time. Just promote the most recent 🤔
