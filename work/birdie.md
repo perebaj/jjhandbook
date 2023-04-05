@@ -1,4 +1,4 @@
-## Quarter 1 2023
+# Quarter 1 2023
 
 - Push → Pull
 - Pubsub emulator for local environment
@@ -114,6 +114,29 @@
 > 👘 Getting ID token by impersonating a svc-account for local environment
 >
 >Using svc-accounts as JSON files can be problematic, as it can be difficult to keep track of how many accounts are being used and where they are located. This approach can also be unsafe and may lead to issues such as multiple accounts being used for the same Docker image, with overlapping roles and responsibilities. To address these problems, we spent time working on a solution that synchronizes user accounts to a svc-account with the same roles and permissions as the service deployed in the cloud (staging). This means that developers can simply authenticate and start working without having to share JSON files, while the infrastructure team can maintain better control over who has access to what. This approach helps to prevent incidents and ensures that every user has appropriate access to the necessary resources, specially when developers are trying to access APIS from others teams.
->
+>s
 
 
+## Q1 2023 Resume
+In this quarter we brought a new senior member to the infrastructure team and we focus on improve the backlog  that we don't made in the past and besides that, improve all infrastucture in general, like, instrumenting our applications, automanting all things related to k8s/cloud/infra all of that using terraform. But I think I can sum it up, saying that the better that we do, was spread patters betweens all aplications/teams of the company. While every was focused in develop new features, we are foucused on better the Birdie system.
+
+## Leasons
+- Work with people who inspire you.
+- Being a senior doesn't mean doing the same thing for many years; it means being prepared to solve and help with technical problems.
+- Instrumentation, metrics, logging, and alerts are essential components of any serious system. Experienced and serious engineers know how to implement these effectively.  
+- Even though I have chosen to stay in this role this quarter, I do not enjoy it. I want to be a complete software designer(because of that I put myself in this position), but focus on solve problems that teams don't wanna give a fuck, it's not a thing that I like
+- Python it's not a good option for serious distributed systems, enterprises, all...
+
+
+# Quarte 2 2023
+
+* 😍 Golang cmd adpter for the extractor service
+
+
+
+---
+
+
+> 😍 The Golang cmd adapter is designed to simplify the debugging of the Extractor service. The Extractor service is responsible for extracting information from a set of feedback, such as the type, sentiment, and intention for each segment of text.
+> 
+>     🫣 The adapter is intended to read a CSV file and generate a summary of the service's performance.
