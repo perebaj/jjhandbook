@@ -126,6 +126,8 @@ In this quarter we brought a new senior member to the infrastructure team and we
 - Instrumentation, metrics, logging, and alerts are essential components of any serious system. Experienced and serious engineers know how to implement these effectively.  
 - Even though I have chosen to stay in this role this quarter, I do not enjoy it. I want to be a complete software designer(because of that I put myself in this position), but focus on solve problems that teams don't wanna give a fuck, it's not a thing that I like
 - Python it's not a good option for serious distributed systems, enterprises, all...
+- Async is the pure gold of software development. I hope I never get into a Daily again 
+    > "...the mere consciousness of an engagement will sometimes worry a whole day." – Charles Dickens
 
 
 # Quarte 2 2023
