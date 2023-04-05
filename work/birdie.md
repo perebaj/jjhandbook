@@ -130,10 +130,10 @@ In this quarter we brought a new senior member to the infrastructure team and we
     > "...the mere consciousness of an engagement will sometimes worry a whole day." – Charles Dickens
 
 
-# Quarte 2 2023
+# Quarter 2 2023
 
 * 😍 Golang cmd adpter for the extractor service
-* [Bug] Node without right scopes that impossibilitate things like, pull image
+* 🐛 [Bug] Node without right scopes that impossibilitate things like, pull image
 
 
 ---
