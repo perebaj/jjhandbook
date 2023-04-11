@@ -134,7 +134,8 @@ In this quarter we brought a new senior member to the infrastructure team and we
 
 * 😍 Golang cmd adpter for the extractor service
 * 🐛 [Bug] Node without right scopes that impossibilitate things like, pull image
-
+* [Tips] If you are responsible for manage a secret
+* Export elastic metrics into GCP
 
 ---
 
@@ -148,3 +149,27 @@ In this quarter we brought a new senior member to the infrastructure team and we
 >🐛 [Bug] Node without the necessary scopes, making it impossible to perform certain operations such as pulling an image.
 >
 >The solution is to recreate all nodes, and for that, we will use a blue/green deployment approach. We will copy and paste the current node pool with the same configurations, then cordon off the old node pool. Afterwards, we will drain all old nodes. To minimize downtime and prevent issues, it is important that all deployments have the PodDisruptionBudget available.
+
+---
+>🧑🏼‍✈️  If you are responsible for manage a secret
+>
+> If you or our team are responsible for manage secrets/keys. Associate them to the cloud environment/login it's a good ideia. Google for example have an API to do that, then a command like: 
+> ```
+> gcloud secrets GROUP | COMMAND [GCLOUD_WIDE_FLAG …]
+> 
+> ```
+> can be better than pass across a message
+>
+> Ref: https://cloud.google.com/sdk/gcloud/reference/secrets
+
+---
+>🤠 Export elastic metrics into GCP👹
+> Ref: [ELK MANAGED](https://cloud.elastic.co/home)
+>
+>Using a managed database has a lot of benefits for a company (In special a Startup), this type of thing it's a cool but challenging effort. Choosing the right company to do that, is also a task that needs to be done with attention. elastic.co, it's a good option, but the solution that involves metrics/loggings it's so fucking bad. 
+>For this reason, exporting metrics and logging for this service to our own cloud environment and centralizing all related to monitoring, was a architectural decision made by the Infra team.
+>
+>Attention Points:
+>
+>   * Be responsable for secrets
+>   * A specif ELK user to do this action (With less role permission)
