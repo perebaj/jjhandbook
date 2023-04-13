@@ -6,6 +6,8 @@ By convention, the package name is the same as the last element of the import pa
 
 [Go-Tour](https://go.dev/tour/list)
 
+# [varaibles and funcions](#Packages-variables-and-functions) | [Flow Control](#flow-control-statements-for-if-else-switch-and-defer) | [Methods and interfaces](#methods-and-interfaces)
+
 ## Packages, variables, and functions.
 
 ```
@@ -367,3 +369,94 @@ func main() {
 }
 
 ```
+
+## Methods and Interfaces
+
+Go does not have classes. However, you can define methods on types.
+
+A method is a function with a special receiver argument.
+
+The receiver appears in its own argument list between the func keyword and the method name.
+
+In this example, the Abs method has a receiver of type Vertex named v.
+
+```
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+type Vertex struct {
+	X, Y float64
+}
+
+func (v Vertex) Abs() float64 {
+	return math.Sqrt(v.X*v.X + v.Y*v.Y)
+}
+
+func main() {
+	v := Vertex{3, 4}
+	fmt.Println(v.Abs())
+}
+```
+
+> ⚠️ You can only declare a method with a receiver whose type is defined in the same package as the method. You cannot declare a method with a receiver whose type is defined in another package (which includes the built-in types such as int).
+
+### Pointer receivers 
+
+```
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+type Vertex struct {
+	X, Y float64
+}
+
+func (v Vertex) Abs() float64 {
+	return math.Sqrt(v.X*v.X + v.Y*v.Y)
+}
+
+func (v Vertex) Scale(f float64) {
+	v.X = v.X * f
+	v.Y = v.Y * f
+}
+
+func main() {
+	v := Vertex{3, 4}
+	v.Scale(10)
+	fmt.Println(v.Abs())
+}
+```
+
+It's diferente for :
+
+```
+func (v *Vertex) Scale(f float64) {
+	v.X = v.X * f
+	v.Y = v.Y * f
+}
+```
+
+### Pointer receiver X Value
+
+Use a value receiver when:
+
+- You are working with small structs. If the struct is small, it may be more efficient to pass it by value, as the cost of copying the struct will be negligible.
+
+- You do not need to modify the struct. If your method only needs to read from the struct and does not modify it, a value receiver is appropriate.
+
+- You want to ensure that the struct is not modified. By using a value receiver, you are ensuring that the method cannot modify the original struct, which can be useful in situations where you want to ensure the struct remains unchanged.
+
+Use a pointer receiver when:
+
+- You are working with large structs. If the struct is large, passing it by value can be expensive. By using a pointer receiver, you can avoid the cost of copying the struct.
+
+- You need to modify the struct. If your method needs to modify the struct, a pointer receiver is required, as a value receiver will only modify a copy of the struct.
+
+- You want to modify the struct in a way that persists outside the method. By using a pointer receiver, you can modify the original struct and those changes will be visible outside the method.
