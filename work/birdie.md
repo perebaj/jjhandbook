@@ -40,7 +40,6 @@
 - k8s alerts
 - [bug] shadow pubsub timeout withoud nack or error message (difference between pubsub timeout x sdk library)
 - Avoid build image all time. Just promote the most recent 🤔
-- Cloud Armor
 - Different APIs connect between trace-id into context logs. 
 ---
 
@@ -116,6 +115,19 @@
 >Using svc-accounts as JSON files can be problematic, as it can be difficult to keep track of how many accounts are being used and where they are located. This approach can also be unsafe and may lead to issues such as multiple accounts being used for the same Docker image, with overlapping roles and responsibilities. To address these problems, we spent time working on a solution that synchronizes user accounts to a svc-account with the same roles and permissions as the service deployed in the cloud (staging). This means that developers can simply authenticate and start working without having to share JSON files, while the infrastructure team can maintain better control over who has access to what. This approach helps to prevent incidents and ensures that every user has appropriate access to the necessary resources, specially when developers are trying to access APIS from others teams.
 >s
 
+>🛡️Cloud Armor🛡️
+>
+>From what I understood, if we use the default backend security policy type (Backend security policy. LINK: https://cloud.google.com/armor/docs/security-policy-overview#policy-types), we would allow access to all IPs from all over the world to our load balancer. Another parameter would be setting the rule evaluation order to the maximum (2147483647 - why did they define such a large number???). This value ranges from 0 to 2147483647, and any rule that is smaller than 2147483647 would be applied first until access is fully validated.
+>
+>I also think it's worth keeping this layer 7 enabled.
+>
+>>The seventh layer of the OSI model, often referred to as the application layer, allows for more advanced traffic-filtering rules.
+>>Rather than filtering traffic based on IP addresses, layer 7 firewalls can investigate the contents of data packets to determine whether they include malware or other cyber dangers.
+>>
+>Another parameter - I think we want this policy to be of the "allow" type, which means we allow anything unless we create a rule saying not to allow it.
+>
+>The other policy, "deny," is the opposite, meaning it doesn't allow anything until we explicitly say it can reach our backend.
+>
 
 ## Q1 2023 Resume
 In this quarter we brought a new senior member to the infrastructure team and we focus on improve the backlog  that we don't made in the past and besides that, improve all infrastucture in general, like, instrumenting our applications, automanting all things related to k8s/cloud/infra all of that using terraform. But I think I can sum it up, saying that the better that we do, was spread patters betweens all aplications/teams of the company. While every was focused in develop new features, we are foucused on better the Birdie system.
@@ -166,10 +178,12 @@ In this quarter we brought a new senior member to the infrastructure team and we
 >🤠 Export elastic metrics into GCP👹
 > Ref: [ELK MANAGED](https://cloud.elastic.co/home)
 >
->Using a managed database has a lot of benefits for a company (In special a Startup), this type of thing it's a cool but challenging effort. Choosing the right company to do that, is also a task that needs to be done with attention. elastic.co, it's a good option, but the solution that involves metrics/loggings it's so fucking bad. 
+>Using a managed database has a lot of benefits for a company (In special a Startup). Choosing the right company to do that, is also a task that needs to be done with attention. elastic.co, it's a good option, but the solution that involves metrics/loggings it's so fucking bad. 
 >For this reason, exporting metrics and logging for this service to our own cloud environment and centralizing all related to monitoring, was a architectural decision made by the Infra team.
 >
 >Attention Points:
 >
 >   * Be responsable for secrets
 >   * A specif ELK user to do this action (With less role permission)
+>   * A sepated ELK instance to ship the logs.
+>   * Metrics was exported to our GCP environment using the (ELK-prometheus-exporter)[https://github.com/prometheus-community/elasticsearch_exporter], The setup was easy, just deploy the application into our k8s cluster, and say host/user/password to access ELK from Staging and Produciton
