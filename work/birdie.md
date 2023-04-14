@@ -146,11 +146,16 @@ In this quarter we brought a new senior member to the infrastructure team and we
 
 * 😍 Golang cmd adpter for the extractor service
 * 🐛 [Bug] Node without right scopes that impossibilitate things like, pull image
-* [Tips] If you are responsible for manage a secret
-* Export elastic metrics into GCP
+* 💡 [Tips] If you are responsible for manage a secret
+* 🌱 Export elastic metrics into GCP
+* 💀 [Non-tech] Product meetings is cool
 
 ---
 
+## TODO
+* [Non-tech] Product meetings is cool
+
+---
 
 > 😍 The Golang cmd adapter is designed to simplify the debugging of the Extractor service. The Extractor service is responsible for extracting information from a set of feedback, such as the type, sentiment, and intention for each segment of text.
 > 
