@@ -1,3 +1,9 @@
+# Fast search
+- [Quarter 1 - 2023](#quarter-1-2023)
+    - [Q1 Resume](#q1-2023-resume)
+    - [Q1 Leasons](#leasons)
+- [Quarter 2 - 2023](#quarter-2-2023)
+ 
 # Quarter 1 2023
 
 - Push → Pull
@@ -148,15 +154,36 @@ In this quarter we brought a new senior member to the infrastructure team and we
 * 🐛 [Bug] Node without right scopes that impossibilitate things like, pull image
 * 💡 [Tips] If you are responsible for manage a secret
 * 🌱 Export elastic metrics into GCP
-* 💀 [Non-tech] Product meetings is cool
-
+* 💀 [Non-tech] Product meetings is cool or not
+* 🤐 Secret management solution 🤐
+* 😶‍🌫️ [Tips] Push yourself to solve the problems that will agregate more value(In startup things work like that, do your best to help). Like:
+    * Clients claim that queries are slow
 ---
 
 ## TODO
-* [Non-tech] Product meetings is cool
+* [Non-tech] Product meetings is cool or not
+* 🤐 Secret management solution 🤐
+* Metrics solution
+---
+
+>😶‍🌫️ [Tips] Push yourself to solve the problems that will add more value(In a startup things work like that, do your best to help). Like: Clients claim that queries are slow 😶‍🌫️
+>
+>I spoke with the CTO and my teammate, that I feel who my skills aren't being really used, like, learning about software foundation it's a thing that I already said is good, but it's not my focus, and for this reason, I started to think, how these skills that I'm learning and feel that is so important could be used to help Birdie achieve your PMF (Product Market Fit). **Then CTO says that clients claim that queries are slow**.
+>
+>* What Queries? We don't know
+>* For what services. We don't know
+
+
 
 ---
 
+> 🤐 Secret management solution 🤐
+>
+>How a provider like GCP doesn't have a lightwheitg solution for manage and deploy of new secrets? Really that the only solution it's either use an SKD that will give to you the certantly that you die using GCP or  save the secret into pod volume, and you need to change our code in both approaches?
+>
+>OK, give the rage time aside, to this task, we list some approches that all company will use to manage secrets instead of mocking them into Docker Artifacts through Gitlab variables.
+
+---
 > 😍 The Golang cmd adapter is designed to simplify the debugging of the Extractor service. The Extractor service is responsible for extracting information from a set of feedback, such as the type, sentiment, and intention for each segment of text.
 > 
 >     🫣 The adapter is intended to read a CSV file and generate a summary of the service's performance.

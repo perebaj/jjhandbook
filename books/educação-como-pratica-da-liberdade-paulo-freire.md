@@ -14,6 +14,8 @@ A palavra democracia, que possui origem na Grécia antiga, no século V a.C. Lit
 A democracia em sí nasceu na Grécia, em Atenas e foi uma inspiração para muitos movimentos democráticos ao longo da história. Nesta época existiam assembleias, tribunais e conselhos populares, para garantir que o povo(homens adultos), pudessem exercer seu direito de poder político.
 Esse movimento, nasce da ascenção social da classe média ateniense e sua insatisfação com o governo tirênico, levando-os a criação de um novo sistema político baseado na participação direta dos cidadãos.
 
+# [Educação e política](#educação-e-política-reflexões-sociológicas-sobre-uma-pedagogia-da-liberdade) | [A sociedade brasileira em transição](#a-sociedade-brasileira-em-transição)
+
 ## Educação e política: Reflexões sociológicas sobre uma pedagogia da liberdade
 É urgente alfabelitazar e conscientizar a população pauperizada, que sofre em um sistema desigual e opressor.
 
@@ -24,3 +26,9 @@ Para isso a proposta metodológica, círculo de cultura, unidade de ensino que s
 Outro ponto importante no processo de alfabetização e colocar em confronto as *palavras geradoras*, já que todo aprendizado deve encontra-se intimamente associado à tomada de consciência da sua situação real viviva, portanto, aproximar o vocabulário do alfabetizando, e uma ferramenta importante no processo.
 
 O Círculo se constitui em um grupo de debate, seu interesse central é o debate da linguagem no contexto social. Liberdade e crítica que não podem se limitar às relações internas do grupo, mas que se apresentam na **tomada de consciência que este realiza de sua situação social**
+
+
+## A sociedade brasileira em transição
+
+* O homem faz parte do seu processo evolutivo e da sociedade em que vive
+* O homem não está preso a uma corrente temporal que se resume ao hoje, mas é resultado de todo processo evolutivo até que sua formação
