@@ -158,12 +158,26 @@ In this quarter we brought a new senior member to the infrastructure team and we
 * 🤐 Secret management solution 🤐
 * 😶‍🌫️ [Tips] Push yourself to solve the problems that will agregate more value(In startup things work like that, do your best to help). Like:
     * Clients claim that queries are slow
+* 💝 Remove query param from metric labels 💝
 ---
 
 ## TODO
-* [Non-tech] Product meetings is cool or not
 * 🤐 Secret management solution 🤐
 * Metrics solution
+* 💝 Remove query param from metric labels 💝
+
+---
+
+>💝 Remove query param from metric labels 💝
+>
+>Just a tip for metrics implementation in APIs that use query parameters, if you don't remove it in the code, the cardinality of your metrics labels will increase infinitlly
+
+---
+
+>[Non-tech] Is Product meetings cool or not?
+>
+>I have concerns about this topic, for a simple reason, maybe a product driven by engineering needs to focus on engineering and anything that deviate from this topic need to be rationally thinked. The most of meetings bothered myself and I think that could be an e-mail or a async thread, and this ain't any relation with be away from people, it's just my time and time of company. The meetings that I'm like it's a meeting in Birdie that we call of **product meeting**, everyone, from each team, sumarize a topic that they work in the last 15 days and present to company. That is it. Simple and efficient.
+>
 ---
 
 >😶‍🌫️ [Tips] Push yourself to solve the problems that will add more value(In a startup things work like that, do your best to help). Like: Clients claim that queries are slow 😶‍🌫️
