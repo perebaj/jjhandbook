@@ -159,13 +159,22 @@ In this quarter we brought a new senior member to the infrastructure team and we
 * 😶‍🌫️ [Tips] Push yourself to solve the problems that will agregate more value(In startup things work like that, do your best to help). Like:
     * Clients claim that queries are slow
 * 💝 Remove query param from metric labels 💝
+* 🐝 Difference between tracing and metrics 🐝
+* [Tips] No feedback is tougher than yours
 ---
 
 ## TODO
 * 🤐 Secret management solution 🤐
 * Metrics solution
-* 💝 Remove query param from metric labels 💝
+* 🐝 Difference between tracing and metrics 🐝
+---
 
+> 🗃 🎟 [Tips] No feedback is tougher than yours 🗃 🎟
+>
+> Companies are companies, and regardless of culture, people, or good salaries, they always aim for one thing: money.
+> 
+> One thing that has always bothered me is that in one-on-one meetings, it is hard to give and receive real feedback (the kind that will push you back into your chair and make you think about your position), even when you are performing well. Remember, you are the best one to say whether your work is being well paid and utilized. You need to have a good critical sense, therefore it is not a good practice to stay in a comfort zone. Move yourself to always have a plan B, and don't doubt your instincts. Be a good engineer.
+> 
 ---
 
 >💝 Remove query param from metric labels 💝
