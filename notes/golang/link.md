@@ -1,0 +1,1 @@
+[GO Training](https://github.com/ardanlabs/gotraining/blob/master/reading/README.md)

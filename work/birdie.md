@@ -1,9 +1,38 @@
 # Fast search
+- [Quarter 3 & Quarter 4 - 2022](#quarter-3--quarter-4---2022)
+    - [Q3/Q4 - 2022 Resume](#q3q4---2022-resume)
 - [Quarter 1 - 2023](#quarter-1-2023)
     - [Q1 Resume](#q1-2023-resume)
     - [Q1 Leasons](#leasons)
 - [Quarter 2 - 2023](#quarter-2-2023)
- 
+
+
+# Quarter 1 & 2 - 2022
+## Q1/Q2 - 2022 Resume
+- Amazon migration
+- K8s implementation
+- Backend of batch system maintenance
+
+# Quarter 3 & Quarter 4 - 2022
+## Q3/Q4 - 2022 Resume
+
+In these two quarters, despite not keeping a daily documentation of my activities, I can vaguely remember the tasks that were done. Therefore, even though they are not detailed, I will try to summarize.
+
+During this time, Birdie went through a drastic change process, and it was decided that the product we had was not enough to achieve the results that the management was expecting. As a result, a specific tech team was set up to start building this system. I can say that the main tech-focused objectives of this new product were:
+
+- We would stop collecting public data from the internet and start receiving this data directly from customers.
+- The data enrichment process should be as fast as possible (near-real-time pipeline).
+- We would stop processing data via Batch and start communicating between teams and services via APIs using a data streaming bus.
+
+Therefore, the two main sources of knowledge that we would start exploring were Streaming and APIs.
+
+In this process, I can say that I was a protagonist in the discovery and implementation of both, even though I had never had contact with them. I hit my head a lot and made many mistakes that I now look back on and see as pathetic, haha.
+
+In the end, we delivered the new product and were actually recognized for building something that seemed good. However, because we had a team with little experience in building distributed systems focused on APIs, many very important details were overlooked, details that are being unraveled in the summaries presented in 2023, [Quarter 1 - 2023](#quarter-1-2023) and [Quarter 2 - 2023](#quarter-2-2023)
+
+
+
+
 # Quarter 1 2023
 
 - Push → Pull
@@ -160,7 +189,9 @@ In this quarter we brought a new senior member to the infrastructure team and we
     * Clients claim that queries are slow
 * 💝 Remove query param from metric labels 💝
 * 🐝 Difference between tracing and metrics 🐝
-* [Tips] No feedback is tougher than yours
+* 🗃 🎟 [Tips] No feedback is tougher than yours 🗃 🎟
+* [Tips] Centralize your docs
+
 ---
 
 ## TODO
