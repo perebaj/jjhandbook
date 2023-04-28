@@ -9,9 +9,7 @@
 
 # Quarter 1 & 2 - 2022
 ## Q1/Q2 - 2022 Resume
-- Amazon migration
-- K8s implementation
-- Backend of batch system maintenance
+TODO
 
 # Quarter 3 & Quarter 4 - 2022
 ## Q3/Q4 - 2022 Resume
@@ -191,6 +189,12 @@ In this quarter we brought a new senior member to the infrastructure team and we
 * 🐝 Difference between tracing and metrics 🐝
 * 🗃 🎟 [Tips] No feedback is tougher than yours 🗃 🎟
 * [Tips] Centralize your docs
+* 💨 🎌 Gitlab -> Github Migration 💨 🎌
+* 🗨 🐬 CI Learns 🗨 🐬
+* 🚋 🎨GitHub Authenticating via Workload Identity Federation🚋 🎨
+* 😇 Golang CRUD API 😇
+
+---
 
 ---
 
@@ -198,8 +202,58 @@ In this quarter we brought a new senior member to the infrastructure team and we
 * 🤐 Secret management solution 🤐
 * Metrics solution
 * 🐝 Difference between tracing and metrics 🐝
+
+
 ---
 
+
+> 😇 Golang CRUD API 😇
+> 
+> A simple API that interact with a database. 
+> 
+> ```The true learning is found in simplicity. - Jojo Mage```
+> 
+> Core Concepts: 
+>   * API Development
+>   * Database
+>   * Database Migration
+>   * Structured Logs
+>   * Dev Container environment
+>   * Go Unit test
+>   * Metrics
+>   * CI/CD
+
+
+---
+
+> 🗨 🐬 CI Learns 🗨 🐬
+> 
+> About CI, I developed some principles, like, using docker to guarantee an isolated environment, and **all steps** must be easily reproduced in your machine!
+> * Try to reduce the YAML complexity, migrate your logic (keeping it simple) to Makefile
+> * You just need a single branch, you can separate your environments using image artifacts and just change environment variables that are related to each one. Promote those images for each env. It's good, safe, simple, and fast.
+> * Keep database/language/lint version and other parts of your code centralized, remove hard logic from Dockerfile. If you can feel that your processes are clean and easy to understand, it's a good sign that you are doing things right.
+> 
+--- 
+
+> 🚋 🎨 GitHub Authenticating via Workload Identity Federation 🚋 🎨
+> 
+> Maintain each piece of code that you produce as IAC, is the better effort that a consistent engineer can do!  
+> This workflow it's a prove of that, a lot of CLI commands, but I have certantly that after one month, problably I forgot all.
+> 
+> But giving that aside, we are pushing to leave svc accounts keys and use the maximum of workload identity as possible. Keep the configurations simple between external and cloud provider. In the **Gitlab -> Github Migration** we choose this approach. 
+> Important resources:
+> - https://gist.github.com/palewire/12c4b2b974ef735d22da7493cf7f4d37
+> - https://github.com/google-github-actions/auth#setting-up-workload-identity-federation
+
+>💨 🎌 Gitlab -> Github Migration 💨 🎌
+>
+>could be an excellent opportunity to push everyone to change the CI/CD details that we are talking a long time(as you said dont need to be at once...)
+>
+>But already thinking in that, it's not a good practice develop things that are coupled with a plataform like Gitlab, in essence it's just a Docker runner with some secrets. Details about maintain a documentation of how things are doing it's important for situations like that kkk.
+>
+>And looking over it, it will be at least for me a good opportunity to start thinking about decoupling what I'm developing from where it runs (already thinking about it there are some details that I don't even remember and that will make the migration process difficult , not a new tool per se, they should have it simple if they sell that solution)
+>
+---
 > 🗃 🎟 [Tips] No feedback is tougher than yours 🗃 🎟
 >
 > Companies are companies, and regardless of culture, people, or good salaries, they always aim for one thing: money.
