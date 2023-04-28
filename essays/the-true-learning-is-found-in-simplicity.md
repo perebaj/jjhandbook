@@ -1,0 +1,9 @@
+The True Learning is found in simplicity
+
+For a while now, I've been wondering about what I know about software development. Whether it's knowledge that can and will be relevant in a few years, or whether it will become obsolete or replaced by the likes of LLMs. The truth is, I feel like I know very little, and it bothers me quite a bit. But talking to some people and reading what engineers with decades of experience have to say, they too wonder about this. Maybe it's just an archetype...
+
+It's a little hard to talk about keeping things simple when you're starting from scratch, just trying to build something or get a job, but the fact is, if you follow the herd, they will always push you towards a magical solution with very little reflection on what you're actually doing. True knowledge is hard to build and requires a lot of reflection, debate, and of course, practice. But is so much pragmatism necessary to learn the basics?
+
+I did a test with some topics that I consider simple but fundamental for building any software nowadays. These include API development, simple CRUD with a database, database migration, structured logging, development environment using containers, unit testing, metrics, and CI/CD.
+
+Do I need frameworks, fancy designs, or what people say about them on the internet to develop these things? How simple can I make something that has these characteristics in an uncomplicated way? After all, all the tools that revolve around these topics that I listed always position themselves as a way to increase your productivity and make the development process as readable and cool as possible. Can I recognize these problems?
