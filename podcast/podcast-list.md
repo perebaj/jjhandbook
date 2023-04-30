@@ -33,3 +33,14 @@ What Jhon think about topics like:
 In go the unit of code is the package.
 Code coverage is your guide. 
 When you refactor, use coverage to tell you where you need to add tests.
+
+---
+
+- [Kubernetes: The Documentary](https://www.youtube.com/watch?v=BE77h7dmoQU&t=1s&ab_channel=Honeypot)
+
+A Kubernetes history told by the legends of software
+
+
+---
+
+[Is KUBERNETES Overly Complex?](https://www.youtube.com/watch?v=Ty5Tj4Jag_A&ab_channel=ContinuousDelivery)

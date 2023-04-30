@@ -188,7 +188,6 @@ In this quarter we brought a new senior member to the infrastructure team and we
 * 💝 Remove query param from metric labels 💝
 * 🐝 Difference between tracing and metrics 🐝
 * 🗃 🎟 [Tips] No feedback is tougher than yours 🗃 🎟
-* [Tips] Centralize your docs
 * 💨 🎌 Gitlab -> Github Migration 💨 🎌
 * 🗨 🐬 CI Learns 🗨 🐬
 * 🚋 🎨GitHub Authenticating via Workload Identity Federation🚋 🎨
