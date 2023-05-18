@@ -7,6 +7,11 @@
 - [Quarter 2 - 2023](#quarter-2-2023)
 
 
+
+# What is Birdie:
+A product analytics platform empowers product teams to make better decisions based on user feedback, the voice of the customer. 
+
+
 # Quarter 1 & 2 - 2022
 ## Q1/Q2 - 2022 Resume
 TODO
@@ -192,19 +197,44 @@ In this quarter we brought a new senior member to the infrastructure team and we
 * 🗨 🐬 CI Learns 🗨 🐬
 * 🚋 🎨GitHub Authenticating via Workload Identity Federation🚋 🎨
 * 😇 Golang CRUD API 😇
-
+* 🦁 Consistent enginners start with async 🦁 
+* 🐌 ❄️ end2end loadtest 🐌 ❄️
+* Status code for ELK queries
+* ELK exact count
+* When a bug in production trigger a new feature
 ---
 
 ---
 
 ## TODO
-* 🤐 Secret management solution 🤐
 * Metrics solution
 * 🐝 Difference between tracing and metrics 🐝
-
+* 🐌 ❄️ end2end loadtest 🐌 ❄️
+* 🦁 Consistent enginners start with async 🦁 
 
 ---
 
+> 🦁 Consistent enginners start with async 🦁
+> 
+> The aim of that proposition is not impose rules to software development, but in the end, thinking on the price to deploy a service, it's a cumulative join, between the money that you pay to your employee and the infrastructure cost. Now reducing the provocation to infra, the better way to do that, it's using the tools that software development has the best and async is one of them, this include select the right language to use the right library to garantee that our service is async safe 
+
+
+---
+> 🐌 ❄️ end2end Loadtest 🐌 ❄️
+> 
+> Let's discuss load testing and its value. Firstly, this method should represent a way to simulate user actions, which could be focused on simulating the behavior of an HTTP route when many users are hitting it or creating and measuring an end-to-end user flow action.
+> The complexity of building a load test for an end-to-end case is highly correlated with the clarity of the APIs that collectively build the entire system. 
+> - How easy and clear is the authentication process? 
+> - How easy and clear is the OpenAPI Swagger? 
+> - Is there a way to create a new user/organization and clear the loaded data after the tests are finished?
+
+---
+
+> 🤐 Secret management solution 🤐
+>
+> Having a secure way to store and use secrets is an essential task for every company. At Birdie, we focus on using the standard secret manager for GCP and load them into our cluster environment using an external resource like [external-secrets.io]((https://external-secrets.io/)). To choose the right tool, we target ones with consistent documentation, read the code/issues on GitHub, and do a little exploration on internet forums to hear what people are saying.
+
+---
 
 > 😇 Golang CRUD API 😇
 > 
