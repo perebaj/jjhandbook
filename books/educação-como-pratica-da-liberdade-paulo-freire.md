@@ -32,3 +32,26 @@ O Círculo se constitui em um grupo de debate, seu interesse central é o debate
 
 * O homem faz parte do seu processo evolutivo e da sociedade em que vive
 * O homem não está preso a uma corrente temporal que se resume ao hoje, mas é resultado de todo processo evolutivo até que sua formação
+
+
+
+Transitividade = 
+
+Uns que pretendiam manter a historia para conversar seus privilégios e outros que querem avançar a história, em um movimento quase que sufocante para conquistar mais direitos
+
+A saude para essa estranha democracia está no silência do povo. No Imobilismo
+
+Subsvervidade = dizem por ameaçar a ordem, porém qual conceito de ordem q estamos falando, porque todo processo de formação histórica se deu por vias anarquicas
+
+
+Em uma sociedade tão desigual é quase que impossível viver sem o desencadeamento de forças intensamente emocionais
+
+
+Assistencialismo = O grande problema no assistencialismo está no seu antidiálogo, que, impondo ao homem, mutismo e passividade, não lhe oferece condições para que o desenvolvimento de sua consciência, sem essa consiência é impossivel ver o homem brasileiro integra-se à sua sociedade em transição.
+Existir é um conceito dinâmico. Implica um dialogação eterna do homem com o homem. Do homem com o mundo. Do homem com o seu criador. Esse dialogo do homem com o mundo é debater de fato sobre os problemas que assolam a sociedade.
+
+### Transitividade crítica e ingênua:
+
+
+
+irracionalismo sectário(intolerante) = postura caracterizada por uma devoção irracional e fanática a certos princípios ou ideias, implicando na recusa em considerar ou avaliar criticamente outras ideias. 
