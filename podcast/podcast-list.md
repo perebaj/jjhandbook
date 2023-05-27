@@ -47,6 +47,7 @@ A Kubernetes history told by the legends of software
 
 
 ---
+# REST API and OpenAPI: It’s Not an Either/Or Question
 
 [REST API and OpenAPI: It’s Not an Either/Or Question](https://www.youtube.com/watch?v=pRS9LRBgjYg&ab_channel=IBMTechnology)
 
@@ -64,7 +65,7 @@ Benefits:
     - SDK 
 
 ---
-
+# Introduction to NoSQL - Martin Fowler - GOTO 2012
 
 [Introduction to NoSQL - Martin Fowler - GOTO 2012](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 
@@ -102,3 +103,54 @@ When and why to use a SQL database?
 easier development and larga scale data
 
 An example, imagine an article system, you share the same content to all users, and when you have to update it, for my it's more simple imagine usa a documenta database to do that!
+
+
+--- 
+
+# 1º Meetup API Floripa - 10/05/2023
+
+- Observabilidade de APIs usando golang. Some examples using middlewares to implement basic observability into your applications
+
+MELT: Metrics/Events/Logs/Trace
+
+
+- Transactional Outbox
+    - Problem: When you try to commit a message to an application, but some shit occour in the middle. 
+    The proposed solution is to create an outbox database, that replicates all entities and other applications will consume the "messages" from this relational database and update the status when the message was actually delivered and consumed
+About distributed systems. The question is when the problem will occur. You could mitigate them or trust in fairy tales that solve magically   
+
+
+https://www.youtube.com/watch?v=moUVMdUzz8g&ab_channel=APIFloripa
+
+
+---
+
+# Designing Quality APIs (Cloud Next 18)
+
+Briefing: 
+The main idea of this talk was that software is hard to change because it is complicated and permeated with assumptions, principally when you have integrations and versioning. Pay attention to the basics, in the beginning, to avoid messy software in the future
+
+What is an API: Two pieces of software trying to communicate between network
+
+The communication needs to be fast, secure, and easy to program
+
+Software is hard to change: 
+- Because it is complicated
+- Because it is permeated with assumptions
+
+Some APIs styles offer an "attack" on important problems.
+
+## 2 dominant styles of API
+
+- Entity-oriented: my code manipulates the entities you expose
+
+- Procedure-oriented: my code calls your procedure/function/method
+
+## API properties to attack important problems
+- Uniform API across all applications
+- Uniform model for relationships
+- Free of implementation assumptions
+
+Unfortunately, HTTP tells you how to do CRUD, but not how to do query or versioning
+
+https://www.youtube.com/watch?v=P0a7PwRNLVU&ab_channel=GoogleCloudTech
