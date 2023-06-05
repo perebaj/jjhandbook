@@ -197,11 +197,14 @@ In this quarter we brought a new senior member to the infrastructure team and we
 * 🗨 🐬 CI Learns 🗨 🐬
 * 🚋 🎨GitHub Authenticating via Workload Identity Federation🚋 🎨
 * 😇 Golang CRUD API 😇
-* 🦁 Consistent enginners start with async 🦁 
+* 🦁 Consistent engineers start with async 🦁 
 * 🐌 ❄️ end2end loadtest 🐌 ❄️
 * Status code for ELK queries
-* ELK exact count
-* When a bug in production trigger a new feature
+* ELK exact count - When a bug in production triggers a new feature
+* Forward compatibility
+* The power the new persons have in your team
+* ☹ 🍂 Choose the right columns to be partitioned, this can save costs ☹ 🍂
+* 💩 🚷 Async Migration 💩 🚷
 ---
 
 ---
@@ -209,10 +212,33 @@ In this quarter we brought a new senior member to the infrastructure team and we
 ## TODO
 * Metrics solution
 * 🐝 Difference between tracing and metrics 🐝
-* 🐌 ❄️ end2end loadtest 🐌 ❄️
-* 🦁 Consistent enginners start with async 🦁 
+* ELK exact count - When a bug in production triggers a new feature
+* Forward compatibility for APIs
 
 ---
+
+> 💩 🚷 Async Migration 💩 🚷
+> 
+> This was an incredible challenge task, the most of our services started doing things wrong, one of them was started to sync interactions between databases and thirty APIs. 
+> Try to migrate a service that started using the wrong approach was the challenge that open my mind to the concurrent design that Python uses.
+> 
+> The sync approach changes the way that you test and design the API, you need to choose the right library to do that and change things incrementally to avoid disruptions in the production environment
+> 
+
+
+
+
+>☹ 🍂 Choose the right columns to be partitioned, this can save costs☹ 🍂
+> 
+> We had an incident that drained at least 30k dollars, for a simple reason, a query that didn't use the right column to filter the table, because of that, for each "request" in the table we are scanning all, what significantly increased the costs of the query.
+
+
+
+
+> The power the new persons have in your team
+>
+> Normally, different people do things in different ways, for this reason, when someone new gets into your team, they could have the power of changing things at the root. A good engineer must pay attention to that, and retain the better. But the reverse could also torment your team. For my objective, I  plan to be close to experient engineers to ingest the and learn with them. 
+>
 
 > 🦁 Consistent enginners start with async 🦁
 > 
