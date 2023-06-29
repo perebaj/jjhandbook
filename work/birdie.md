@@ -205,6 +205,8 @@ In this quarter we brought a new senior member to the infrastructure team and we
 * The power the new persons have in your team
 * ☹ 🍂 Choose the right columns to be partitioned, this can save costs ☹ 🍂
 * 💩 🚷 Async Migration 💩 🚷
+* Postgres good practices
+* 🥶 Bad decision 🥶 
 ---
 
 ---
@@ -217,6 +219,26 @@ In this quarter we brought a new senior member to the infrastructure team and we
 
 ---
 
+> 🥶 Bad decision 🥶
+> 
+> I think that I get a bad decision.
+> In Birdie, we are replacing an entire team, for this reason, the new ones that will assume the responsibilities have to understand how things are doing. I have to share that it is a hard task, principally when things are not going well, you have a lot of concerns about the project and a limited time to understand all details about code/infrastructure/design and operations.
+> In my head, it would be good to take a look at the local environment, the main idea is to accelerate the deployment process and guarantee that I can test, run and deploy new releases from my machine, but to do that, I walked away from the team. They have different ways to communicate(I like async), but I confess that to absorb all their information, the right decision would be close to them, even if I don't like it.
+> 
+
+
+
+> Postgres good practices
+> 
+> To optimize PostgreSQL performance for your workload, we can adjust configuration parameters:
+> 
+> - max_connections: Controls the maximum number of concurrent connections allowed to the database.
+> - shared_buffers: Allocates memory for caching frequently accessed data.
+> - work_mem: Manages per-operation memory usage, particularly for sorting and hashing.
+> - max_parallel_workers: Enables parallel execution of queries, improving performance on multi-core systems.
+> By fine-tuning these parameters according to your specific needs and hardware capabilities, you can enhance the concurrency, memory management, and query execution efficiency of PostgreSQL.
+
+---
 > 💩 🚷 Async Migration 💩 🚷
 > 
 > This was an incredible challenge task, the most of our services started doing things wrong, one of them was started to sync interactions between databases and thirty APIs. 
