@@ -8,7 +8,7 @@ To be honest, today, the thing that most fills me is talking and learning with d
 Today, I also understand that the pillars of human being are three, independent of the people.
 There are:
 
-- Wonder
+- To Wonder
 - Happiness
 - To live
 
