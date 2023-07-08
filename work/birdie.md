@@ -207,7 +207,15 @@ In this quarter we brought a new senior member to the infrastructure team and we
 
 ## Q2 2023 Resume
 
-## Q2 Leasons
+I don't think that the beginning of the quarter was a big one, we don't ship incredible things, we don't stabilize the product, we weren't capable to sell it, and all for a simple reason, our software is not good enough and the C-level perceive it, the current team was not capable to build the type of software that Birdie was aiming, and I agree 100% with that. Probably I will write an essay trying to summarize the following topic: For complex problems you need skilled engineers, but I will leave that for the next time, let's focus on Q2.
+
+Also not building amazing features, the company gets important decisions, that as firing some parts of the team and focusing to bring experience people, with that, some barriers were broken, like don't hire just Brazilian fellas and short communication with a small team, focus on core features, keeping away IA as a principle source of value, and obviously, product-market fit!
+
+## Q2 Lessons
+
+- For complex problems, you will need skilled engineers
+- Also, the software is becoming a commodity, there is no way, it's science, and good scientists create good inventions, the GPT is not good because is built around hype, but is good because is good, is well implemented and just works!
+-
 
 ## TODO
 
@@ -403,8 +411,17 @@ In this quarter we brought a new senior member to the infrastructure team and we
 
 - ⛄️ 😃The use case is the best friend to program new features that you don't have any idea⛄️ 😃
 - 🈳 🎤 Golang generate interface approach 🈳 🎤
+- 🚦 Aggregator service - New Golang Service🚦
 
 ---
+
+## 🚦 Aggregator  
+
+Birdie has a new use case that is related to the type of data that we are trying to ingest, for this reason, we need to aggregate the data before sending it forward, this is the objective! The main concepts that we are using are basically:
+
+- Publish and consume data through a bus channel(PubSub);
+- Using a SQL database to store data;
+- Create a trigger mechanism that will be responsible for the delivery of aggregated data for other services.
 
 ## 🈳 🎤 Golang generate interface approach
 
