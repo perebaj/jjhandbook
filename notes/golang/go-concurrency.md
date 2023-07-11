@@ -89,6 +89,7 @@ At the begging of the video, we conclude that if multiple pieces of code could a
 # Important Resources
 
 [Concurrency in GO](https://livebook.manning.com/book/go-in-practice/chapter-3/9)
+[Go class 23 CSP, Goroutines, and Channels](https://www.youtube.com/watch?v=zJd7Dvg3XCk&ab_channel=MattK%C3%98DVB)
 
 # Go Tour - Concurrency
 
@@ -117,3 +118,9 @@ A sender can `close` a channel to indicate that no more values will be sent.
 ⚠️ Note: Only the sender should close a channel, never the receiver. Sending on a closed channel will cause a panic. ⚠️
 
 ⚠️ Closing is only necessary when the receiver must be told there are no more values coming, such as to terminate a range loop. ⚠️
+
+## Sync.Mutex
+
+channels are good for communication, but what do we need to do when we want to make sure only one goroutine can access a variable at a time to avoid conflicts?
+
+This concept is called **mutual exclusion**, and the conventional name for the data structure that provides it is a ``mutex``
