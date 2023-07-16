@@ -13,8 +13,6 @@ I feel that I can resume their philosophy in four principles:
 
 One thing that I perceived from reading the biography of these philosophers, is that the major of them comes from rich families and they had, depending on the epoch that they live, important roles in politics, that way, make sense how your ideas were spread across in an epoch that the communication was limited
 
-Uma coisa que percebi lendo uma breve biografia de diversos filosofos é que a grande maioria vem de familias abastadas e possuiam, a depender da época em que viveram, cargos de relavância na política, dessa forma, se fazendo compreesível como as ideias eram difundidas em uma época que a comunicação era limitada.
-
 ### Plato
 
 This guy dedicates his life to explaining and helping people to achieve a "spiritual state" that he calls eudaimonia, this word in grek could mean happiness or satisfaction, in his theory, happiness suggests a continuous behavior, while satisfaction is more compatible with periods of pain and suffering that everyone is susceptible to fell.
