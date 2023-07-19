@@ -44,3 +44,7 @@ the painful path, from error to error, is inevitable, the revolution is construc
 **We need institutions:*
 
 Here, he argues that important ideas were only diffused because it's was surrounded by important institutions, he gives some examples, about religion and church, Freud, and Tavistock Clinics in London, but in the end, the principal is, the most incredible ideas don't spread across and have the right diffusion, if it not was supported by renowned institutions.
+
+### Friedrich Nietzsche
+
+Aos olhos de Nietzche, e religião de alguma forma, abrandava a sensações naturais dos seres humanos, como a inveja, sexo, fraqueza, submissão tornando-as sinonimos de virtudes quando controladas. Por esse motivo, que ele possuia algumas fortes opiniões sobre a real necessidade da religião, que em sua opinião, afastava das pessoas, o pensamento crítico, tentando subvertelas a um processo 
