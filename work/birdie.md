@@ -412,8 +412,13 @@ Also not building amazing features, the company gets important decisions, that a
 - ⛄️ 😃The use case is the best friend to program new features that you don't have any idea⛄️ 😃
 - 🈳 🎤 Golang generate interface approach 🈳 🎤
 - 🚦 Aggregator service - New Golang Service🚦
+- Integration tests
 
 ---
+
+## Integration tests
+
+Using a database, it's good create for each test integration a different database to keep things isolated and susceptible to parallelization
 
 ## 🚦 Aggregator  
 

@@ -1,0 +1,3 @@
+The word frustration can be used to define when some expectation is broken, triggering disappointment. 
+Although this action could be related to a negative emotion, I also can think that it's a good opportunity to use this feeling to push you forward. 
+Bring the provocation to software development, let's say that you are working with average people, it's normal if you are doing your work well, be an outlier, shiny in our company or team. But this behavior not means that you achieve the next level. 
