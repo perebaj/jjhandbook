@@ -1,5 +1,9 @@
 [Greate Thinkers](https://www.amazon.com.br/Great-Thinkers-Simple-thinkers-improve/dp/0993538703)
 
+# About the book itself
+
+Now, that I'm finished reading the first chapter, which is directed to summarize the principal philosophers of the last century, one thing that I didn't like too much about the book, is that don't exist references, I don't know where I can confirm the information or who wrote about each guy.
+
 # Philosophy
 
 In this section, I was presented with a lot of philosophers' stories, someones pleased me more, but I will try to exemplify what most of them were trying to reach, starting from 348 a.C with Plato and ending with Alber Camus, 1960.
