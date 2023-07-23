@@ -101,6 +101,18 @@ Channels are a typed conduit through which you can **send** and **receive** valu
 
 ⚠️ By default, sends and receives **block** until the other side is ready ⚠️. This allows goroutines to synchronize without **explicit locks or condition variables**
 
+## Directional Channels
+
+Channels can be direction - which means that you can restrict a channel to only send or receive data. This is specified by the arrow (`<-) accompanied by the channel declaration
+
+For example
+
+```go
+out chan <- int
+```
+
+the `chan <-` declaration tells us that you can only send data into the channel, but not receive data from it.
+
 ## Buffered Channels
 
 Channels can be buffered. Provide the buffer length as the second argument to `make` to initialize a buffered ch:
@@ -109,7 +121,7 @@ Channels can be buffered. Provide the buffer length as the second argument to `m
 ch := make(chan int, 100)
 ```
 
-Sends to a buggered channels block only when the buffer is full
+Sends to a buffered channels block only when the buffer is full
 
 ## Range and Close
 
@@ -124,3 +136,4 @@ A sender can `close` a channel to indicate that no more values will be sent.
 channels are good for communication, but what do we need to do when we want to make sure only one goroutine can access a variable at a time to avoid conflicts?
 
 This concept is called **mutual exclusion**, and the conventional name for the data structure that provides it is a ``mutex``
+

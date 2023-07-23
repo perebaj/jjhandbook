@@ -413,8 +413,14 @@ Also not building amazing features, the company gets important decisions, that a
 - 🈳 🎤 Golang generate interface approach 🈳 🎤
 - 🚦 Aggregator service - New Golang Service🚦
 - Integration tests
+- Never use staging/production/development prefix/suffix
 
 ---
+
+
+Never use staging/production/development prefix/suffix
+
+The majority of software engineers that I know are tired about do repetitive tasks, for this reason, it's good to have this mental model, that uses prefix telling what environment your software was deployed in or for what data your table is referencing, it's really bad for reproduce configurations between different environments 
 
 ## Integration tests
 
