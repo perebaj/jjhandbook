@@ -1,4 +1,4 @@
-[Seven Concurrency Models in Seven Weeks: When Threads Unravel]
+[Seven Concurrency Models in Seven Weeks: When Threads Unravel](https://www.amazon.com/Seven-Concurrency-Models-Weeks-Programmers/dp/1937785653)
 
 ```
 If you've spent hours wrestling with difficult-to-diagnose threading bugs, it might be hard to believe, but a concurrency solution can be simpler and clearer than its sequencial equivalent when written in the right language with the right tools.
