@@ -414,13 +414,27 @@ Also not building amazing features, the company gets important decisions, that a
 - 🚦 Aggregator service - New Golang Service🚦
 - Integration tests
 - Never use staging/production/development prefix/suffix
+- Aggregator service command line
+- Aggregator. Buttons engineers keep wanting buttons
 
 ---
 
+## Aggregator. Buttons engineers keep wanting buttons
 
-Never use staging/production/development prefix/suffix
+I'm trying to force myself to be aside from any implementation that gives me a fancy UI, for example, an interface to manage and test SQL queries, with this, I feel compelled to improve the way I test my software, becoming practically impossible validate any changes without made a test to it. Besides that, stay away from Mock libraries that will give a fast way to mock objects(but in the end I don't understand how this works). Just new ways to improve the way I see and do my services
 
-The majority of software engineers that I know are tired about do repetitive tasks, for this reason, it's good to have this mental model, that uses prefix telling what environment your software was deployed in or for what data your table is referencing, it's really bad for reproduce configurations between different environments 
+## Aggregator service command line
+
+When you have an API that will not expose any type of Swagger, it's good to design the code to be testable using command line automation, in the Aggregator, for example, some useful commands are important in the development flow, or to attend some product requirement, some things like:
+
+- Can the service reprocess some data given to a user?
+- Can the service reprocess some data given an ID?
+
+This is a new mental model that for Golang application is a normal thing but for me, is changing the way that I usually code.
+
+## Never use staging/production/development prefix/suffix
+
+The majority of software engineers that I know are tired about do repetitive tasks, for this reason, it's good to have this mental model, that uses prefix telling what environment your software was deployed in or for what data your table is referencing, it's really bad for reproduce configurations between different environments
 
 ## Integration tests
 
