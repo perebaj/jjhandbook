@@ -416,8 +416,11 @@ Also not building amazing features, the company gets important decisions, that a
 - Never use staging/production/development prefix/suffix
 - Aggregator service command line
 - Aggregator. Buttons engineers keep wanting buttons
+- Dealing with UTC
 
 ---
+
+## Dealing with UTC
 
 ## Aggregator. Buttons engineers keep wanting buttons
 
