@@ -53,3 +53,11 @@ I wil try to resume just the pitfalls of this model
 ## Mutual exclusion
 
 This behavior it's about trying to use the threads-lock model to ensure that only one thread can access data at a time, this behavior can go wrong, including *race conditions* and *deadlocks*
+
+We avoid this through locks, which can be held by only a single thread at a time
+
+# Perils of threads and locks
+
+- Race conditions 
+- deadlock
+- memory visibility
