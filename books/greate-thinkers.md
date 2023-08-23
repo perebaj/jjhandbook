@@ -52,3 +52,8 @@ Here, he argues that important ideas were only diffused because it's was surroun
 ### Friedrich Nietzsche
 
 Aos olhos de Nietzche, e religião de alguma forma, abrandava a sensações naturais dos seres humanos, como a inveja, sexo, fraqueza, submissão tornando-as sinonimos de virtudes quando controladas. Por esse motivo, que ele possuia algumas fortes opiniões sobre a real necessidade da religião, que em sua opinião, afastava das pessoas, o pensamento crítico, tentando subvertelas a um processo 
+
+
+## Adam Smith 1723 – 17 July 1790
+
+I notice that the philosophers in the 17 century starts to pay more attentions around topics that involve the capitalism itself and your relation with the human beeing, and one interesting topic that Adam brings that I 
