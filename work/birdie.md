@@ -417,10 +417,14 @@ Also not building amazing features, the company gets important decisions, that a
 - Aggregator service command line
 - Aggregator. Buttons engineers keep wanting buttons
 - Dealing with UTC
-
+- New services
 ---
 
+## New services
+In the past few months, we started a lot of new services, the aim is already to find the PFM, and to achieve that, we are building a new structure, that includes services that are responsible for ingesting, indexing and serving data through the new Birdie app. I'm not able to follow all projects and important things that I want to know something about, like API gateway, and the auth service, but that's it, focused on delivering 3 new services, that were well tested and worked properly for the Birdie goals.
+
 ## Dealing with UTC
+Simple like that, transform all datatime to UTC and be happy. 
 
 ## Aggregator. Buttons engineers keep wanting buttons
 
