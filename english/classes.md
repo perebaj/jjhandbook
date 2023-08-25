@@ -10,7 +10,10 @@ Example:
 - The policy set a curfew between 10am to the **noon**
 - In response to the protest the authorities decided to curfew the entire area
 
-### Neither
+### Neither / Either
+[Reference](https://www.mairovergara.com/qual-a-diferenca-entre-either-e-neither/)
+
+
 
 ### Lend/Borrow
 
