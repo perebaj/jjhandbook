@@ -2,6 +2,28 @@
 
 ## Lesson Topics
 - Model Verbs Lesson
+- English Structures
+
+[Playlist](https://www.youtube.com/playlist?list=PLl_7J18zHKKCwzA0OnGxYiZ9AD6adS3Xb)
+
+### [Could Have](https://www.mairovergara.com/padrao-1-could-have/)
+
+- I could have gone to Oxford University but I preferred Harvard.
+- She could have married him but she didn’t want to.
+- They could have bought a house here 20 years ago but chose not to.
+
+### [Should Have](https://www.mairovergara.com/estruturas-do-ingles-002-should-have/)
+
+- I should have let her know what was happening but I forgot.
+- He should have sent everybody a reminder by email.
+
+### [I was going to](https://www.mairovergara.com/estruturas-do-ingles-003-i-was-going-to/)
+
+- I was going to do that, but I gave up
+- She was going to tell me someting that nobody else knew
+- Jane Said: Sam was going to bring his sister with him, but he came alone
+
+
 
 ## New words:
 ### Curfew - time restrictions or regulation
@@ -19,8 +41,8 @@ Example:
 
 Both have the same meaning but the distinction is related to who is acting, for example, Lend shows that something is given for a limited time, and Borrow shows that something is taken for a limited time
 
-lend → someone
-someone → borrow
+- lend → someone
+- someone → borrow
 
 Examples:
 Lent
@@ -45,7 +67,7 @@ Meanings
 
 `I usually gather all my family for Christmas`
 
-### Deserts
+### Desserts
 The sweet course eaten at the end of a meal
 
 ```
@@ -67,3 +89,12 @@ The sweet course eaten at the end of a meal
 ## Duty
 ## Going through
 
+# 05/09
+
+## Unravel
+
+- Detective Smith was determined **to unravel the mystery** of the missing jewels."
+- "The company's once-solid reputation began to unravel at the seams after the scandal." (the reputation brokes)
+
+## Temper
+## Soar
