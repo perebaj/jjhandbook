@@ -13,6 +13,7 @@ Bugs in production that take your entire Friday night? Document it!
 This will be useful for guys that will come in the future and for their own team, it's really beautiful to see a nice code base, but before it, it's tons of beauty to see documentation that was discussed and approved by everyone.
 
 **Code Review, testing and how easy is it to ship code in production?**
+
 Yes, I think that's a "well-worn phrase". But that it's it! Maybe this could sound odd in environments that never paid due attention to tests and reviews, but I have already seen projects that just died because of the lack of these practices.
 
 
