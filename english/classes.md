@@ -90,7 +90,7 @@ The sweet course eaten at the end of a meal
 ## Going through
 
 # 05/09
-
+T
 ## Unravel
 
 - Detective Smith was determined **to unravel the mystery** of the missing jewels."
@@ -98,3 +98,69 @@ The sweet course eaten at the end of a meal
 
 ## Temper
 ## Soar
+## Show up 
+    I will show up  at the party today
+    He didn't show up for work today
+## Wind up
+
+    How someone wind up here, is this terrible place
+
+
+# 19/09
+
+To be afraid != to fear of
+
+The difference between them is that **to be afraid** is related to a current emotion and **to fear** is related to a log-term emotion
+
+Example: 
+
+- I am afraid of spiders (This means that I'm currently experiencing this fear)
+
+- She fears heights (This suggest that she has a general fear of heights)
+
+
+
+## New words
+
+**Heights** 🎵
+
+Refer to measure someting from its base to its top
+
+    When you're at the top of the mountain it's a great height
+
+    She was a depth knowledge of computer science!
+    
+
+**Frightening** 🎵Fraitning
+
+    Something that is scary me
+
+- Which is why so frightening 
+
+**I will be late**
+
+    That I will put off some event for a few minutes
+
+**Shortcut**
+
+    An easiest path for a task or something else
+
+**Illness**
+
+    chronic disease = efermidade
+
+**susprise/shocked**
+
+**goosebumps**
+
+**weat hands/Tremble hands/go mute/To stutter**
+
+Words to use when you are nervous
+
+- So my whole life, I have had a stutter and Tourette's
+
+**To harm** 🎵Rrarm
+
+- Careful, this person might be tryning **to harm** you!
+- to benefit, and to harm
+
