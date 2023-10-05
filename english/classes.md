@@ -164,3 +164,38 @@ Words to use when you are nervous
 - Careful, this person might be tryning **to harm** you!
 - to benefit, and to harm
 
+
+# 05/10
+
+**my mouth is watery**
+
+    When you see or hear someting about a delicius food
+
+**whistle**
+
+    move your libs to make a song
+
+**city hall**
+
+    the place that solve all burucracy problems of the city
+
+**ware**
+
+    the amount of itens that you have on the kitchen, the spoan, knife, fork and so on
+
+**turn the tide**
+
+    it's like a way to say that you revert some hard situation
+
+**shrine**
+
+    Imagine someone that is very religious, and in his home exist a figuro of Madre Tereza, this place is called shrine
+
+**Upside down** 
+
+    My shoes is upside down
+
+**inside out**
+
+    I put my T-shirt inside out
+
