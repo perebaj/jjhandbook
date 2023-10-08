@@ -80,13 +80,32 @@ The sweet course eaten at the end of a meal
 
 # 23/08/2023
 
-## Bearly
+## Barely
+
+Barely means that someting is hard to deal, have a small quantity and insuficienty
+
+    I barely ate yesterday, I just sleept
+    You barely had fun yesterday, is all good?
+
 ## Sent off 
+
+
 ## Single out
 ## Leaflets
+
+Panfletos
+
 ## Accomplish
 ## Track Down
 ## Duty
+
+When you need to do someting by your honor or something that is for your obligation. Responsability
+
+    When I'm working for someone, I feel that I have a duty to arrive every day in the right hour
+    
+
+
+
 ## Going through
 
 # 05/09

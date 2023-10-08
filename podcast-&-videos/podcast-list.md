@@ -229,6 +229,10 @@ Communicate your vision for the laguange to enable that other programmers ship n
 
 # [Why Generics](https://go.dev/blog/why-generics)
 
+Statically typed langue:
+
+In this type of language the data type of a variable is known at the compile time which means the programmer has to specify the data type of a variable **at the time of its declarations**
+
     Generic programming enables the representation of functions adn data structures in a generic form, with types factored out.
 
 Reverse a slice of int
@@ -248,3 +252,16 @@ Reverse a slice of int
     Go is a statically typed language because that maskes it easier to write large programs, we don't want to lose the benefits of static typing in order to gain the benefits of generics
 
     Ian Taylor
+
+
+## Benefits and costs
+Gerenics can open in the language a new variety of data structure
+
+    Every language change has a cost. There’s no doubt that adding generics to Go will make the language more complicated.
+    
+    As with any change to the language, we need to talk about maximizing the benefit and minimizing the cost.
+
+    We reduce complexity by making the individual features simple, and we maximize the benefit of the features by permitting their free combination. 
+
+
+[Getting started with generics](https://go.dev/doc/tutorial/generics) 
