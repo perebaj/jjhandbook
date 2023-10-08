@@ -33,19 +33,17 @@ When you refactor, use coverage to tell you where you need to add tests.
 
 ---
 
-- [Kubernetes: The Documentary](https://www.youtube.com/watch?v=BE77h7dmoQU&t=1s&ab_channel=Honeypot)
+# [Kubernetes: The Documentary](https://www.youtube.com/watch?v=BE77h7dmoQU&t=1s&ab_channel=Honeypot)
 
 A Kubernetes history told by the legends of software
 
 ---
 
-[Is KUBERNETES Overly Complex?](https://www.youtube.com/watch?v=Ty5Tj4Jag_A&ab_channel=ContinuousDelivery)
+# [Is KUBERNETES Overly Complex?](https://www.youtube.com/watch?v=Ty5Tj4Jag_A&ab_channel=ContinuousDelivery)
 
 ---
 
-# REST API and OpenAPI: It’s Not an Either/Or Question
-
-[REST API and OpenAPI: It’s Not an Either/Or Question](https://www.youtube.com/watch?v=pRS9LRBgjYg&ab_channel=IBMTechnology)
+# [REST API and OpenAPI: It’s Not an Either/Or Question](https://www.youtube.com/watch?v=pRS9LRBgjYg&ab_channel=IBMTechnology)
 
 OpenAPI: Describe a REST API Interface
 File, YAML or JSON that describe what the API/Service can do
@@ -63,9 +61,7 @@ Benefits:
 
 ---
 
-# Introduction to NoSQL - Martin Fowler - GOTO 2012
-
-[Introduction to NoSQL - Martin Fowler - GOTO 2012](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+# [Introduction to NoSQL - Martin Fowler - GOTO 2012](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 
 - Impedance mismatch
   - Match different objects can cause difficulties
@@ -100,7 +96,7 @@ An example, imagine an article system, you share the same content to all users, 
 
 ---
 
-# 1º Meetup API Floripa - 10/05/2023
+# [1º Meetup API Floripa - 10/05/2023](https://www.youtube.com/watch?v=moUVMdUzz8g&ab_channel=APIFloripa)
 
 - Observabilidade de APIs usando golang. Some examples using middlewares to implement basic observability into your applications
 
@@ -111,7 +107,6 @@ MELT: Metrics/Events/Logs/Trace
     The proposed solution is to create an outbox database, that replicates all entities and other applications will consume the "messages" from this relational database and update the status when the message was actually delivered and consumed
 About distributed systems. The question is when the problem will occur. You could mitigate them or trust in fairy tales that solve magically
 
-<https://www.youtube.com/watch?v=moUVMdUzz8g&ab_channel=APIFloripa>
 
 ---
 
@@ -196,3 +191,60 @@ Open Source
 Open the development process. The process would be the same if you work for Google or not
 
 Communicate your vision for the laguange to enable that other programmers ship new things using Go
+
+# [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
+
+**History**
+
+> Go cuncurrency model isn't new, it comes from Hoare's CSP in 1978 and even Dijkstra(1975)
+
+**Gourotines**
+
+- It's not a thread
+- It has its own call stack, which grows and shrinks(decrease) as required
+- It's very cheap. It's practical to ahve thousands, even hundreds of thousands of it
+- There might be only one thread in a program with thousands of goroutines
+
+**Buffered channels**
+
+- Buffering removes synchrinization
+
+**Paterns**
+
+
+
+- 08:33 What is a goroutine ?
+- 10:17 Channel
+- 13:13 Buffered Channel
+- 13:50 Go approach to concurrency
+- 14:27 Generator Pattern (return Channel)
+- 16:58 Multiplexing 2 Channels
+- 20:13 Select statement
+- 22:47 Time out using Select
+- 24:26 Quit using Select
+- 26:28 Daisy chain
+- 29:26 Google search example
+- 37:34 Don't over do ; keep it simple
+- 39:08 Conclusion
+
+# [Why Generics](https://go.dev/blog/why-generics)
+
+    Generic programming enables the representation of functions adn data structures in a generic form, with types factored out.
+
+Reverse a slice of int
+
+```Golang
+  func ReverseInts(s []int) {
+    first := 0
+    last := len(s) - 1
+    for first < last {
+      s[first], s[last] = s[last], s[first]
+      first ++
+      last --
+    }
+  }
+```
+
+    Go is a statically typed language because that maskes it easier to write large programs, we don't want to lose the benefits of static typing in order to gain the benefits of generics
+
+    Ian Taylor

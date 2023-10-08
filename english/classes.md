@@ -122,7 +122,7 @@ Example:
 
 ## New words
 
-**Heights** 🎵
+**Heights** rraites🎵
 
 Refer to measure someting from its base to its top
 

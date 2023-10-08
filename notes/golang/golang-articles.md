@@ -74,6 +74,15 @@ Constraits to get start with tests.
 * Human eyeball the generated golden data. If it is correct, commit it.
 * Very scalable way to test comples structures 
 
+
+## [Go pointers: When & How to use them Efficiently](https://www.youtube.com/watch?v=3WsEDZRif6U) 
+
+Good content about golang pointers
+
+- Sintex sugar compared with C
+- each pointer = 8 bytes
+- If you don't use pointer to manipulate your structures, the size of memory is the size of your struct
+
 ---
 
 # Readlist
