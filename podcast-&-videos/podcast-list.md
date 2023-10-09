@@ -265,3 +265,40 @@ Gerenics can open in the language a new variety of data structure
 
 
 [Getting started with generics](https://go.dev/doc/tutorial/generics) 
+
+# [Go Concurrency patterns](https://www.youtube.com/watch?v=f6kdp27TYZs&t=840s&ab_channel=GoogleforDevelopers)
+
+What is concurrency?
+
+> Concurrency is the compositions of independtly executing computations
+
+```
+  Concurrency is a model for software constructions
+  > Easy to understand
+  > Easy to use
+  > Easy to reason about
+```
+
+**Obs:** Channels can also be created with a buffer
+
+Buffering removes synchronization
+
+## Patterns Generator
+Functions that return a channel
+
+## Multiplexing(fan-in)
+![Alt text](image.png)
+## Select statement
+
+A control structure that control the behavior of your program, based on what communications are able to deal at the moment.
+
+What happen is that you try to evaluate which channel is able to designate an action, and then it blocks the channel.
+
+## Timeout using select
+Returns a channel that blocks for specified duration
+
+## Quit Channel(Determinist approach)
+
+Use a channel that determines when the process is done
+
+**Obs:** All this patterns could be find in my [playground repository](https://github.com/perebaj/playground) 

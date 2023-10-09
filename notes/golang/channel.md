@@ -41,7 +41,7 @@ If one channel value is assigned to another, the two channels share the same und
 
 There are five channel-specified operations.
 
-1. Cle the channel
+1. Close the channel
 `close(ch)`
 
 2. Send a value
