@@ -218,3 +218,83 @@ Words to use when you are nervous
 
     I put my T-shirt inside out
 
+# 10/10
+
+**hostage**
+    
+    release the hostages
+
+    In the war between the Hamas and Israel, Hamas made a lot of foreign hostages
+
+**kidnap & highjack**
+
+    The primary difference between both, lies in the nature of the crime.
+
+    Kidnapping involves the unlawful abduction and detention of an individual, 
+
+    while hijacking involves the control of a vehicle or vessel
+
+
+**trade coin**
+
+    When the terrorists capture some hostages and try to exchange something to free these people
+
+**demand**
+
+    A demand for specialists in Middle East wars was requisited
+
+**out of the blue**
+
+    When something unexpected occurs
+
+**claim**
+
+    Demand recognition or tights over something - Reinvindicar
+
+**then nobody would**
+
+    If Jojo can't finish this task in the correct deadline then nobody would
+
+**besieged enclave**
+
+    A restrict area, like Gaza
+
+**To seize**
+
+    Is related to the act to confiscate some object. To take control. Ofter by force or with determination
+
+    "The general seized control over the rebel-city"
+
+    "The policy seized the card because it's was parked in a wrong place"
+
+    Or could also mean that you have to enjoy the moment
+
+    "And you have to seize those moments"
+
+**to settle**
+
+    To establish
+    To resolve something
+
+    They decided to settle in Europe
+    They settle their differences through meditation
+
+
+**flee**
+
+    They need to flee their houses as soon as possible because Hamas has invaded the city killing everyone
+
+**injured**
+
+    Serius feriment
+
+    She was injured in a car accident and had to go to the hospital for treatment
+
+**wouded**
+
+    less serius feriment
+
+**drafted**
+
+    To be Called to serve the army in the war
+
