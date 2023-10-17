@@ -35,6 +35,16 @@ It's also hard to hear that, but probably, you and I don't have any special knac
 
 This could be achieved, for example, by making new friends, moving to another city, or starting to read a new book, but the fact is, the place where indecision lives is the same place that will make you reap more achievements, and maybe this will trigger the loop that I'm talking about!
 
+## The best
+
+I think that just the phrase: 
+
+```
+    If you aren't trying to be the best, how you will be good?
+```
+
+Compile all. Not too much to mention
+
 ## Conclusion
 
 In the end, to summarize everything, I will come back to the essay title: "If you can make it there, you can make it anywhere".
