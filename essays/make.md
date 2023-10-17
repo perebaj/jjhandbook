@@ -22,7 +22,7 @@ In the end, big cities, at least for me, tell a hidden message: You could do mor
 
 ## Stability X Ambition
 
-People who are looking for **stability** are not brave enough to chase their dreams. Hard to hear that, no? But it's true, [that's life](https://www.youtube.com/watch?v=TnlPtaPxXfc). Putting your mind in the life game it's tough, it's challenging and surrounded by uncertainties. For this reason, I have this opinion that these words are antonyms, it is impossible to dream high if you are chasing stability and the same for the opposite, find stability in a "homeostasis" environment.
+People who are looking for **stability** are not brave enough to chase their dreams. Hard to hear that, no? But it's true, [that's life](https://www.youtube.com/watch?v=TnlPtaPxXfc). Putting your mind in the life game it's tough, it's challenging and surrounded by uncertainties. For this reason, I have this opinion that these words are antonyms, it is impossible to dream high if you are chasing stability and the same for the opposite, find stability in a "marasmus" environment.
 
 
 ## The squeaky wheel gets the grease
