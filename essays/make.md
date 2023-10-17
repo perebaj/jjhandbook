@@ -31,7 +31,7 @@ Working from home it's really awesome, but it's also a safe environment, you don
 
 It's also hard to hear that, but probably, you and I don't have any special knack, we are just normal people trying to be someone, and the only way to "pierce your bubble" if you don't have an influential family or is a rich guy, it's putting effort on the right things. And for me, this is really related to the beginning of this essay: **stimulate your mind with the different.**
 
-This could be achieved, for example, by making new friends, moving to another city, or starting to read a new book, but the fact is, the place where indecision lives is the same place that will make you reap more achievements, and maybe their lives the loop of triggers that I'm talking about!
+This could be achieved, for example, by making new friends, moving to another city, or starting to read a new book, but the fact is, the place where indecision lives is the same place that will make you reap more achievements, and maybe this will trigger the loop that I'm talking about!
 
 ## Conclusion
 
