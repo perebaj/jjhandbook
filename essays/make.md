@@ -14,6 +14,8 @@ This made me question myself, what are the places with outstanding brains in my 
 - If you are a content creator, maybe Los Angeles?
 - Engineer, Germany?
 - Doctor, Canada?
+- Lawyer, Washington?
+
 - **Software engineer: Palo Alto and Berlin**
 
 You don't hear people claiming on the internet that they want to move to Brazil to study computing, the country is really beautiful in other aspects, but to be a brilliant mind in this field, probably not!
@@ -35,4 +37,6 @@ This could be achieved, for example, by making new friends, moving to another ci
 
 ## Conclusion
 
+In the end, to summarize everything, I will come back to the essay title: "If you can make it there, you can make it anywhere".
 
+If you are able to change your environment, be close with different cultures and still stand out, you can do that in any place of the word, we are human and were genetically built to do that. For this reason I'm, at least now, focused on figuring out the maximum of new experiences, that's what more makes sense for me
