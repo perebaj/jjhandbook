@@ -12,7 +12,7 @@ There are:
 - Happiness
 - To live
 
-But my frustration it's impossible to achieve all of them at the same time, I have to admit for myself that some dreams will not be possible until my death, it's life, it's the good and bad parts to be alive.  
+But for my frustration it's impossible to achieve all of them at the same time, I have to admit for myself that some dreams will not be possible until my death, it's life, it's the good and bad parts to be alive.  
 
 Should I redirect my efforts away from material pursuits and focus on spiritual ones? If I acknowledge that it's impossible, should I simply disregard these principles and move on with life?
 I don't think so!
