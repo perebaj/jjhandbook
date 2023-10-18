@@ -6,4 +6,11 @@ In my short life experiences, I'm already had to deal with this type of person/i
 
 But my conclusion about this behavior is very clear, this tells more about the people/institution than you, and in my humble opinion is always related that the people/institutions are suffering pressure or some insecurity, for this reason, choose the right leaders is the core duty of the most RH and companies mission.
 
-So, my tip here is, if you face some guy or company that is annoying to you or your teammate, document it and try to not reproduce the same. Try to take a position where you don't lose your reason, be polite, and if the temperature soars, tell your leader, C-level, someone who could help you and you trust. But keep in mind, nobody one deserves that, and it's not normal don't feel free and your work setting.
+So, my tip here is, if you face some guy or company that is annoying to you or your teammate, document it and try to not reproduce the same. 
+
+> "When education is not liberating, the oppressed person's dream is to become the oppressor."
+> 
+> Paulo Freire
+
+
+Try to take a position where you don't lose your reason, be polite, and if the temperature soars, tell your leader, C-level, someone who could help you and you trust. But keep in mind, nobody one deserves that, and it's not normal don't feel free and your work setting.
