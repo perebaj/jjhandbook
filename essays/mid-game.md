@@ -2,17 +2,17 @@
 
 ## Assumptions
 
-```
-Software is hard to change because it's complicated and permeated with assumptions, principally when you have integrations and versioning.
-```
-[Martin Nally - Designing Quality APIs (Cloud Next '18)
-](https://www.youtube.com/watch?v=P0a7PwRNLVU)
+
+> Software is hard to change because it's complicated and permeated with > assumptions, principally when you have integrations and versioning.
+> 
+> [Martin Nally - Designing Quality APIs (Cloud Next '18)
+> ](https://www.youtube.com/watch?v=P0a7PwRNLVU)
 
 In a chess game, as soon as possible you develop your pieces to achieve the mid-game, better is for your match! At this stage of the game, the number of unknown plays starts to increase exponentially, At this exact point the players who built a good foundation, in the beginning(early-game), start to contrast, without saying that it is in this phase that it's possible to differentiate players with the [good taste](http://www.paulgraham.com/taste.html)
 
 I really think that software development could be compared with a chess game, in truth, I'm always asking myself, which are the core plays, that I as an engineer could follow to guarantee that the mid-game of my projects will be successful. Because the only certainty that I have is that in this phase I will have more premises than concrete and determinist certain 
 
-What I want to tease here, are the lacks in languages that are widely used to build distribuited system, and not a mage 🧙🏾‍♂️ of the software development, but for me it's possible to perceive these lacks and also weave opitions on top of it!
+What I want to tease here, are the lacks in languages that are widely used to build distributed system, and not a mage 🧙🏾‍♂️ of the software development, but for me it's possible to perceive these lacks and also weave options on top of it!
 
 ## Side effect
 
@@ -25,23 +25,23 @@ But at least for me, I think that I will always commit a foolish error and if th
 
 ## Other era, other principles
 
-```
-Programs don’t run in a single computer anymore. They run in lots of computers that are all interacting, all communicating. So it’s not about computation anymore, so much as it’s about communication. And we need languages which are built to solve the problems in that paradigm.
-```
-[Embrace new paradigms - Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/#embrace-new-paradigms)
+
+> Programs don’t run in a single computer anymore. They run in lots of  computers that are all interacting, all communicating. So it’s not about > computation anymore, so much as it’s about communication. And we need > languages which are built to solve the problems in that paradigm.
+> 
+> [Embrace new paradigms - Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/#embrace-new-paradigms)
 
 When you have a limited time to embrace new problems and product challenges, I really think that you need to be very strict in the tools that you are using, because this will reflect in the way that new guys will build on top of your code base and obviously the way that you need to circumvent the architecture design to make these languages that weren't built to run in distributed environment had a good performance.
 
 
 ## Threads and locks
 
-```
-Threads-and-locks programming is like a Ford Model T. It will get you from point A to point B, but it is primitive, difficult to drive, and both unreliable and dangerous comparad to newer technology
 
-Paul Butcher - Seven Concurrency models in seven weeks
-```
+> Threads-and-locks programming is like a Ford Model T. It will get you from point A to point B, but it is primitive, difficult to drive, and both unreliable and dangerous compared to newer technology
+> 
+> Paul Butcher - Seven Concurrency models in seven weeks
 
-Don't know if this should be wrote with big letters in the home page of the languages that use thread-and-locks as your principal model of paralellism. But the fact is, it's hard to deal in a pragmatic way with this type of model. I'm always have the sensations that I'm working for the language not the oposite.
+
+Don't know if this should be wrote with big letters in the home page of the languages that use thread-and-locks as your principal model of parallelism. But the fact is, it's hard to deal in a pragmatic way with this type of model. I'm always have the sensations that I'm working for the language not the opposite.
 
 
 ## Serverless 
