@@ -39,9 +39,8 @@ This could be achieved, for example, by making new friends, moving to another ci
 
 I think that just the phrase: 
 
-```
-    If you aren't trying to be the best, how you will be good?
-```
+
+> If you aren't trying to be the best, how you will be good?
 
 Compile all. Not too much to mention
 
