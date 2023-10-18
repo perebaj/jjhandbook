@@ -26,7 +26,7 @@ But at least for me, I think that I will always commit a foolish error and if th
 ## Other era, other principles
 
 
-> Programs don’t run in a single computer anymore. They run in lots of  computers that are all interacting, all communicating. So it’s not about > computation anymore, so much as it’s about communication. And we need > languages which are built to solve the problems in that paradigm.
+> Programs don’t run in a single computer anymore. They run in lots of  computers that are all interacting, all communicating. So it’s not about computation anymore, so much as it’s about communication. And we need languages which are built to solve the problems in that paradigm.
 > 
 > [Embrace new paradigms - Douglas Crockford](https://corecursive.com/json-vs-xml-douglas-crockford/#embrace-new-paradigms)
 
