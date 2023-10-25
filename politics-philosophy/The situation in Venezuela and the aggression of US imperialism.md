@@ -1,1 +1,0 @@
-[The situation in Venezuela and the aggression of US imperialism](https://revolutionarydemocracy.org/icmlpo/US30/venezuela.htm)

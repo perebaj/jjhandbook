@@ -1,12 +1,3 @@
-# Fast search
-
-- [Quarter 3 & Quarter 4 - 2022](#quarter-3--quarter-4---2022)
-  - [Q3/Q4 - 2022 Resume](#q3q4---2022-resume)
-- [Quarter 1 - 2023](#quarter-1-2023)
-  - [Q1 Resume](#q1-2023-resume)
-  - [Q1 Leasons](#leasons)
-- [Quarter 2 - 2023](#quarter-2-2023)
-
 # What is Birdie
 
 A product analytics platform empowers product teams to make better decisions based on user feedback, the voice of the customer.
@@ -159,7 +150,7 @@ In the end, we delivered the new product and were actually recognized for buildi
 >The other policy, "deny," is the opposite, meaning it doesn't allow anything until we explicitly say it can reach our backend.
 >
 
-## Q1 2023 Resume
+## Q1 2023 Briefing
 
 In this quarter we brought a new senior member to the infrastructure team and we focus on improve the backlog  that we don't made in the past and besides that, improve all infrastucture in general, like, instrumenting our applications, automanting all things related to k8s/cloud/infra all of that using terraform. But I think I can sum it up, saying that the better that we do, was spread patters betweens all aplications/teams of the company. While every was focused in develop new features, we are foucused on better the Birdie system.
 
@@ -205,7 +196,7 @@ In this quarter we brought a new senior member to the infrastructure team and we
 
 ---
 
-## Q2 2023 Resume
+## Q2 2023 Briefing
 
 I don't think that the beginning of the quarter was a big one, we don't ship incredible things, we don't stabilize the product, we weren't capable to sell it, and all for a simple reason, our software is not good enough and the C-level perceive it, the current team was not capable to build the type of software that Birdie was aiming, and I agree 100% with that. Probably I will write an essay trying to summarize the following topic: For complex problems you need skilled engineers, but I will leave that for the next time, let's focus on Q2.
 
@@ -414,13 +405,46 @@ Also not building amazing features, the company gets important decisions, that a
 - 🚦 Aggregator service - New Golang Service🚦
 - Integration tests
 - Never use staging/production/development prefix/suffix
-
+- Aggregator service command line
+- Aggregator. Buttons engineers keep wanting buttons
+- Dealing with UTC
+- New services
+- Keep Doing APIs
 ---
 
+## Keep Doing APIs
 
-Never use staging/production/development prefix/suffix
+Implementing APIs is a cool job, you need to think about how to circumvent some problems and most of my time is spent trying to unravel better ways to build on top of some Golang Structure. There isn't any doubt that this project is the one that I most have pride. I'm having a very nice experience around: 
 
-The majority of software engineers that I know are tired about do repetitive tasks, for this reason, it's good to have this mental model, that uses prefix telling what environment your software was deployed in or for what data your table is referencing, it's really bad for reproduce configurations between different environments 
+- How to receive parameters to filter data
+- Dealing with the publishing and consumption of data
+- Implementing command line interfaces/Routes to deal with reprocessing (This one is very useful and helpful and was a lack in other projects)😊
+- Testing all my code 
+- Getting more experience of how good and consistent APIs are made
+
+
+## New services
+In the past few months, we started a lot of new services, the aim is already to find the PFM, and to achieve that, we are building a new structure, that includes services that are responsible for ingesting, indexing and serving data through the new Birdie app. I'm not able to follow all projects and important things that I want to know something about, like API gateway, and the auth service, but that's it, focused on delivering 3 new services, that were well tested and worked properly for the Birdie goals.
+
+## Dealing with UTC
+Simple like that, transform all datatime to UTC and be happy. 
+
+## Aggregator. Buttons engineers keep wanting buttons
+
+I'm trying to force myself to be aside from any implementation that gives me a fancy UI, for example, an interface to manage and test SQL queries, with this, I feel compelled to improve the way I test my software, becoming practically impossible validate any changes without made a test to it. Besides that, stay away from Mock libraries that will give a fast way to mock objects(but in the end I don't understand how this works). Just new ways to improve the way I see and do my services
+
+## Aggregator service command line
+
+When you have an API that will not expose any type of Swagger, it's good to design the code to be testable using command line automation, in the Aggregator, for example, some useful commands are important in the development flow, or to attend some product requirement, some things like:
+
+- Can the service reprocess some data given to a user?
+- Can the service reprocess some data given an ID?
+
+This is a new mental model that for Golang application is a normal thing but for me, is changing the way that I usually code.
+
+## Never use staging/production/development prefix/suffix
+
+The majority of software engineers that I know are tired about do repetitive tasks, for this reason, it's good to have this mental model, that uses prefix telling what environment your software was deployed in or for what data your table is referencing, it's really bad for reproduce configurations between different environments
 
 ## Integration tests
 
@@ -443,3 +467,16 @@ Good examples of how to do that: [Link](https://gist.github.com/thiagozs/4276432
 ## ⛄️ 😃The use case is the best friend to program new features that you don't have any idea
 
 In the cases that you have to integrate multiple systems, or maybe any kind of distributed program that you are trying to build, probably have consistent use cases will be the better option to start the code. It's useful to define database models, event schemas, start discussions, and so on.
+
+## Q3 2023 Briefing
+
+Was a very fast quarter, don't know if it's related to my vacations 🏖️.
+About the company itself and the fact that most of the employees have been fired, that brings a lot of changes, including the fact that I changed the team, In the begging was a little scary for me, because, have to deal with old repositories and projects that I know that wasn't built very well, probably is the thing that bored everyone, but in the end, I just had to play around small changes, most of the time I was building new services (using Go), yep, was THE GO QUARTER🎉 !!!. 
+We are building new services, around an idea that the C-Level is calling, CORE PRODUCT, which is a set of features, that are well-made, tested, and simple as possible, to keep the attention of the customers to possibly sell it, this to unlock, in a near future the Birdie initial idea, that is **AI**, but as we already perceived, AI and Big data are a hard deal, but we need to sell something and find the PMF as soon as possible. So, that is life
+
+## Q3 Lessons
+- Be egoist with your career: You have to know your ambitions and what is better for you, if this is not making you grow up, probably it's making you go down
+- Pressure environments make the tempers soar
+- 
+
+# Quarter 4 2023

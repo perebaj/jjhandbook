@@ -4,8 +4,8 @@ I don't know too much about life and I have a lot of things to discover, but I'm
 
 I will try to explain that effort around the word `ambition`. I am just 23 and always I feel confused about what is the right path for me and if need to focus on new challenges, discover new places, force myself to earn a lot of money, move to another country, learn new languages, improve my spirituality, study more, ready a book per day, things like that. kkkk
 
-To be honest, today, the thing that most fills me is talking and learning with different people, observing them, and making reflections on it.
-Today, I also understand that the pillars of human being are three, independent of the people.
+To be honest, today, the thing that most fills me is talking and learning with different people, observing them, and making reflections on them.
+Today, I also understand that the pillars of human beings are three, independent of the people.
 There are:
 
 - To Wonder
