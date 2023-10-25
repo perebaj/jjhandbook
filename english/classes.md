@@ -298,3 +298,35 @@ Words to use when you are nervous
 
     To be Called to serve the army in the war
 
+# 17/10
+
+
+**apprenticeship**
+
+**stains**
+
+**feral animals/wild animal**
+
+**giving away**
+
+**cage**
+
+**living being**
+
+**take them for a walk**
+
+**tide up**
+
+**forbidden**
+
+**to faint/to pass out**
+
+**contentious**
+
+**strives**
+
+**welfare**
+
+**poultry**
+
+**afford**
