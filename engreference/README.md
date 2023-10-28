@@ -8,3 +8,4 @@ Some of the engineers that inspire me
 # [Russ Cox](https://research.swtch.com/)
 # [David Golden](https://xdg.me/)
 # [Katz](https://github.com/katcipis/sophia)
+# [Ivan Velichko](https://labs.iximiuz.com/)
