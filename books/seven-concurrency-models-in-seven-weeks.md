@@ -61,3 +61,27 @@ We avoid this through locks, which can be held by only a single thread at a time
 - Race conditions 
 - deadlock
 - memory visibility
+
+# Functional 
+
+> Functional programming is like an electric car, advanced, futuristic and not yet widely used, but it's what we'll all rely on in twenty years.
+
+## Terms 
+
+**Mutable state**
+
+A state is basically a variable assignment, and we can slip team in different types, like, mutable, if this **state** can be modified from different parts of the code 
+
+## Perils of mutable state
+
+These are some of the dangers of mutable state that inflict concurrent programs and what functional programming enables, is basically avoid this perils
+
+**Hidden mutable state**
+
+The tease here is about variables that affect the behavior of your code, but it's hard/impossible to avoid it when it's happening, you could say that this is a bug, but in this case, I think that doesn't matter, the problem is that some languages enable it, turning easy to commit dumb mistakes and crash your codebase.
+
+
+**Escapologist/Escaped mutable state** ->
+
+Escapology is the practice of escaping from restraints or traps, in this case, we could say that the code looked thread-safe, maybe you had some functions that when called by a different thread, could trigger a concurrent modification exception, even if this isn't clear in the code.
+1118
