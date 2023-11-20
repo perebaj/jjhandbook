@@ -330,3 +330,9 @@ Words to use when you are nervous
 **poultry**
 
 **afford**
+
+16/11
+
+**announcement**
+    
+    Initial period where the woman is prenant
