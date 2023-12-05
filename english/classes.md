@@ -91,6 +91,9 @@ Barely means that someting is hard to deal, have a small quantity and insuficien
 
 
 ## Single out
+To highlight or distinguish someone or something from others in a group based on specific characteristics or qualities.
+
+
 ## Leaflets
 
 Panfletos
@@ -336,3 +339,37 @@ Words to use when you are nervous
 **announcement**
     
     Initial period where the woman is prenant
+
+## 04/12 
+
+- package includes health benefits, or other
+- embarassed
+- ashamed 
+
+**look forward**
+
+`I'm looking forward for that` = That I'm anxious for that
+
+
+**thrilled**
+
+Different way to say very happy
+
+**laid out**
+
+I'm laid out to do this work = prepared/designed
+
+**easy going**
+
+I'm a easy going guy = chill/serene
+
+- under pressure
+- goes on
+- could you repeat/could you ask again
+- I will be considered
+- resting
+instead of say `right now`= pretty open, fexible
+- perfectly on time
+- overwhelmed - sobrecarregado
+- coming back
+
