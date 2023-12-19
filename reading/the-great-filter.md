@@ -15,3 +15,5 @@
 **slip** Her birthday completely slipped my mind
 
 **waste** unusable materials, discarted
+
+**bleak** "the future look bleak: depressing, dark, unmotivated
