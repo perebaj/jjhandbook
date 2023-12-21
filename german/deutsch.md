@@ -52,7 +52,17 @@ zusammen = {tsuzammen}
 - Ich bin stolz auf dich. = I'm proud of you = dich fala como se o ch fosse um bravo
 - Sie kann nur ihm trauen = trau-en 
 - Könnt ihr mir bitte helfen? = Can you help, please?
+- Das sah böse aus.
+- Mach deine Augen auf. = Mach = to do/to make | deinen = your | Augen = eyes | auf = open
+- Wie war heute dein Tag? |r Wie = How | Was = was | heute = today | dein = your | Tag = day
+- Wie hat es Ihnen gefallen? 
 
+```
+    gefallen = utilizado para indicar algo agradável, normalmente utilizado com o pronome **es**
+
+    meaning: What do you think? OR How it was for you?
+```
+---
 
 - ("ich") ich (eu)
 - ("du") du (você, tu)
