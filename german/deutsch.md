@@ -48,7 +48,6 @@ zusammen = {tsuzammen}
 - Sie ging von Laden zu Laden. = She went from one shop to another
 - Wir haben Wichtigeres zu tun = We have more important things to do
 - Er geht gern auf Reisen = He likes to travel
-- Schaut euch dieses Bild an = Look at this picture
 - Ich bin stolz auf dich. = I'm proud of you = dich fala como se o ch fosse um bravo
 - Sie kann nur ihm trauen = trau-en 
 - Könnt ihr mir bitte helfen? = Can you help, please?
@@ -56,12 +55,28 @@ zusammen = {tsuzammen}
 - Mach deine Augen auf. = Mach = to do/to make | deinen = your | Augen = eyes | auf = open
 - Wie war heute dein Tag? |r Wie = How | Was = was | heute = today | dein = your | Tag = day
 - Wie hat es Ihnen gefallen? 
-
 ```
     gefallen = utilizado para indicar algo agradável, normalmente utilizado com o pronome **es**
 
     meaning: What do you think? OR How it was for you?
 ```
+- Er blieb ein armer Mann. | Er = He | blieb = remain| ein = a | armen = poor
+
+- Schaut euch dieses Bild an | 
+```
+Schaut euch
+
+Schaut means look or see, but Schaut euch meaning look for the group of people
+
+dises Bild means: This image
+
+```
+
+Seid nicht verrückt - Seid nich = Don't be | verrückt = crazy
+
+Die Gute kocht eine Suppe.
+
+Hat das Zimmer ein Bad?
 ---
 
 - ("ich") ich (eu)
@@ -122,3 +137,19 @@ Er ist in der Schule. (Ele está na escola.)
 Wir sind glücklich. (Nós estamos felizes.)
 Ihr seid Geschwister. (Vocês são irmãos.)
 Sie sind Lehrer. (Eles são professores.)
+
+
+# Sounds 
+
+## h
+
+## hard ch
+
+if ch preceded by a, o, u or au
+
+der Bach
+das Loch
+
+## soft ch
+
+similar to the sound when we spelling "huge"
