@@ -373,3 +373,146 @@ instead of say `right now`= pretty open, fexible
 - overwhelmed - sobrecarregado
 - coming back
 
+## 05/12
+
+**hunch**
+
+**windy** - improve the pronunciation
+**thrilled** - 
+**backpacking** - mochilão
+**nervous wracking**
+
+
+- edging bussiness
+    * enhance speed 
+    * reduce costs
+
+mail = MAEIL != male = MEIL
+puzzles me
+desasemble
+faifthfully
+well set
+augmented reallity
+googles 
+realize
+possesives
+
+## 10/12
+
+**sunblock**
+**harbor**
+**would rather**
+
+
+## 12/12
+
+
+**homeless**
+
+**humble**
+
+**elbow**
+
+**bottom**
+
+**calf/calves** parte de tras da perna
+
+**heel**
+
+**knuckles**
+
+**ankle** enkle ancle
+
+**mole** black pointer in the face
+
+**freckles**
+
+**scar**
+
+**stole from my** **steal**
+
+**vanish** to go missing: magician that vanish the rabbit in the cap
+
+**running away** != **fugitive**
+
+**chubby**/**fat**
+
+**skinny**/**thin**
+
+**bold**: no hair
+
+**strip**
+
+**bangs in hair**
+
+**took her**
+
+**Kidnap** that someone was tooked
+
+**ripped** ripped jeans/fashion
+
+**ponytail**
+
+**flip flops** havaianas
+
+**spell you name** j o n a t h a n
+
+**endangered** at risk
+
+**long-sleeved shirt**/ **touca**
+
+**to dye your hard/ blond dyed hair**
+
+**to use != wearing**
+
+**earings** uerings
+
+**chin**/ queixo
+
+**someting rare/unusual in her eyebrown**
+
+## 14/12
+
+**did I respond to your question?**
+**pull over**
+**more of a want than an actual knowing**
+**swamp**
+**rescue**
+**stick/stuck**
+**get out of here**
+**got damn it**
+**all of the above**
+**It's so crypted/so weird**
+
+## 19/12
+
+- rider
+- engaged
+- I never got
+- supplies
+- put away = afastar
+- fuel | beautiful
+- cashier 
+- trustworthy
+- trailling = testing
+- feasible
+- assumption
+- neglected = the mom the neglected the baby
+- pace
+- girth
+
+## 26/12
+
+- ambrance the opportunity
+- persevere
+- gift the mind
+- wild life
+- dip = mergulhar
+- keen student = focused/sharp student
+- the roof/chimney/fireplace
+- state of the art/top notch
+- lousy = disgusting
+- necklace = A neat jew to put in the neck
+- to pour the bear
+- silveware
+
