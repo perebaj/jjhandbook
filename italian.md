@@ -4,19 +4,19 @@ There are 21 letters in the Italian alphabet, 5 vowels and 16 consonants.
 
 Italian is a phonetic language, meaning the words are typically pronounced as they are written.
 
-## Italian vowels
+## [Italian vowels](https://preply.com/en/blog/italian-alphabet/)
 
 > There are seven vowel sounds in Italian: **e** and **o** have two differenct pronunciation each, depending on acute or grave accents.
 
 **Examples**
 
-casa - kah-sah
-mela - may-lah
-festa - feh-stah
-dormire - dohr-mee-reh
-notte - noht-teh
-mondo - mawn-doh
-gufo - goo-foh - moon
+- casa - kah-sah
+- mela - may-lah
+- festa - feh-stah
+- dormire - dohr-mee-reh
+- notte - noht-teh
+- mondo - mawn-doh
+- gufo - goo-foh - moon
 
 ## Italian glides, semivowels and diphthongs
 
@@ -24,8 +24,8 @@ In Italian, we can find semivowels **i** and **u** whenever another vowel follow
 
 **Examples**
 
-aiuto - ah-you-toh - help
-quello - kweh-lo - that
+- aiuto - ah-you-toh - help
+- quello - kweh-lo - that
 
 ### Diphthongs
 
@@ -33,8 +33,8 @@ Is when vowels **u** or **i** are in second position. In these cases, the sound 
 
 **Diphthong vowels are supposed to be pronounced together as one single syllable**
 
-zaino - zah+ee-noh - backpack
-direi - dee-reh+ee
-poi - poh+ee - then, later
-lui - loo+ee - ele
-aumento - ah+oo-mehn-toh - increase
+- zaino - zah+ee-noh - backpack
+- direi - dee-reh+ee
+- poi - poh+ee - then, later
+- lui - loo+ee - ele
+- aumento - ah+oo-mehn-toh - increase

@@ -77,6 +77,19 @@ Seid nicht verrückt - Seid nich = Don't be | verrückt = crazy
 Die Gute kocht eine Suppe.
 
 Hat das Zimmer ein Bad?
+
+Baseball gefällt ihm sehr
+
+Sollen wir auf dich warten? 
+
+```
+Sollen = should
+Wir = we
+auf dich = on you
+Warten = wait
+
+```
+
 ---
 
 - ("ich") ich (eu)
@@ -131,12 +144,12 @@ Pronome	Alemão	Tradução
 
 Exemplos de frases:
 
-Ich bin Student. (Eu sou estudante.)
-Du bist freundlich. (Tu és amigável.)
-Er ist in der Schule. (Ele está na escola.)
-Wir sind glücklich. (Nós estamos felizes.)
-Ihr seid Geschwister. (Vocês são irmãos.)
-Sie sind Lehrer. (Eles são professores.)
+- Ich bin Student. (Eu sou estudante.)
+- Du bist freundlich. (Tu és amigável.)
+- Er ist in der Schule. (Ele está na escola.)
+- Wir sind glücklich. (Nós estamos felizes.)
+- Ihr seid Geschwister. (Vocês são irmãos.)
+- Sie sind Lehrer. (Eles são professores.)
 
 
 # Sounds 
