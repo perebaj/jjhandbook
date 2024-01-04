@@ -9,3 +9,5 @@ Some of the engineers that inspire me
 # [David Golden](https://xdg.me/)
 # [Katz](https://github.com/katcipis/sophia)
 # [Ivan Velichko](https://labs.iximiuz.com/)
+# [Peter Bourgon](https://peter.bourgon.org/)
+# [Kent Beck](https://tidyfirst.substack.com/)
