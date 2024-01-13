@@ -11,3 +11,4 @@ Some of the engineers that inspire me
 # [Ivan Velichko](https://labs.iximiuz.com/)
 # [Peter Bourgon](https://peter.bourgon.org/)
 # [Kent Beck](https://tidyfirst.substack.com/)
+# [Andrew Gerald](https://nf.wh3rd.net/)
