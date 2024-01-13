@@ -1,6 +1,6 @@
 # Quantum Computing
 
-Just gathering some basic concepts about quantum computing
+The smaller transistor that we can build have a size of an atom, an atom that could control the flow of electricity, not just on or off, but everything in between
 
 # Recap
 
@@ -26,7 +26,36 @@ Visualy, could be represented as something like that:
 
 
 - entanglement
+
+Alow two or more qubits to be correlated
+
+TODO
+
 - interference
 
+TODO
 
+## Shor's Algorithm
 
+TODO
+
+Efficient quantum algorithm that do factorization in a fast way
+
+**How much hard is to factorise a number where n=9?**
+
+Scaling of factorisation using the best classical algorithm is exponential: $ 2^{n/2} $
+
+The scaling of shor's algorithm is polynomial: $log(N)$ (If you have a working quantum computer)
+
+## Logical Operations
+
+TODO
+
+Hadamard, CNOT, etc
+
+## Potential applications
+
+Quantum computers deal better with complex systems, which means it's okay to reproduce some environments that could be expensive using normal approaches. Some typical examples can be found on chemical reactions, electronic properties, prototyping different materials, and Machine learning, basically, all normal topics when they face some physic barriers to evolve and giving better results for extremes systems
+
+## Richard Feyman 1918 - 1988
+TODO
