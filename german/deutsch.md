@@ -15,7 +15,7 @@ Beethoven
 
 Sport:
 Manuel Neuer
-Michael Schuhmacher
+rael Schuhmacher
 
 Marken:
 Nivea
@@ -41,16 +41,16 @@ zusammen = {tsuzammen}
 
 ---
 
-- Setz dich hin, wo du willst = Sit wherever you like
-- Was für ein Spaß! = What fun!
-- Mach keinen Lärm. = Don't make noiseS
-- Niemand weiß die Antwort. = No one knows the answer = Niemand vaiz die anTVoRRt
-- Sie ging von Laden zu Laden. = She went from one shop to another
-- Wir haben Wichtigeres zu tun = We have more important things to do
-- Er geht gern auf Reisen = He likes to travel
-- Ich bin stolz auf dich. = I'm proud of you = dich fala como se o ch fosse um bravo
+- Setz dich hin, wo du willst
+- Was für ein Spaß! 
+- Mach keinen Lärm.
+- Niemand weiß die Antwort. = Niemand vaiz die anTVoRRt
+- Sie ging von Laden zu Laden. 
+- Wir haben Wichtigeres zu tun 
+- Er geht gern auf Reisen 
+- Ich bin stolz auf dich. = dich fala como se o ch fosse um bravo
 - Sie kann nur ihm trauen = trau-en 
-- Könnt ihr mir bitte helfen? = Can you help, please?
+- Könnt ihr mir bitte helfen?
 - Das sah böse aus.
 - Mach deine Augen auf. = Mach = to do/to make | deinen = your | Augen = eyes | auf = open
 - Wie war heute dein Tag? |r Wie = How | Was = was | heute = today | dein = your | Tag = day
@@ -90,6 +90,21 @@ Warten = wait
 
 ```
 
+- Reden Sie nicht so
+
+```
+just like in English, sprechen is more like speak, reden is more like talk and sagen is to say.
+```
+
+- Was tun sie da oben?
+- wirst du auch gehen?
+- Es sieht wir ein Apfel aus
+
+```
+Es sieht - it looks
+
+
+```
 ---
 
 - ("ich") ich (eu)
