@@ -10,6 +10,29 @@ Channels make goroutines share memory by communicating. We can view a channel as
 
 > ⚠️ Go channels can help programmers write data races free code easily, but Go channels can't prevent programmers from writing bad concurrent code from the syntax level. ⚠️
 
+## A simple example
+
+```go
+package main
+func main() {
+    ch := make(chan, int)
+    ch <- 1
+    <-ch
+}
+```
+
+We know that if you send a piece of information to a channel and don't read it, the channel stays blocked until the read operation is made with success. In the above example, we receive a deadlock error, because we are trying to do that using the same goroutine(main loop) and also using an unbuffered channel, that only supports one action at a time, read or receive.
+
+An this sample example summarizes, the following quote present in the oficial documentation
+
+```
+Only one goroutine has access to the value at any given time. Data races cannot occur, by design. To encourage this way of thinking we have reduced it to a slogan:
+
+Do not communicate by sharing memory; instead, share memory by communicating.
+```
+
+(Resource)[https://go.dev/doc/effective_go#concurrency]
+
 ## Channels types and Values
 
 Like array, slice, and map, each channel type has an element type. A channel can only transfer values of the element type of the channel.
