@@ -65,3 +65,4 @@ Try to fix a lack on arrays, that is: **It was designed to be always the right s
 # Important Resources
 
 - [Data Structures](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
+- [DSA Handbook](https://www.techinterviewhandbook.org/)

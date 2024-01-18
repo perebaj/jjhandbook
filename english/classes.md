@@ -519,3 +519,31 @@ possesives
 02/01/2024
 
 - self-soothing
+
+16/01/2014
+
+- eich ar ( HHRR) department
+- hermit
+- after midnight
+- testify in court
+- the process that is going on in the court: trial
+- guilty or no guilty
+- witness testemunha
+- swear \ swear to god that I'm inocent sworn(past sentence)
+- so help you God
+- the surrended to the xerif 
+- thiefs
+- steal
+- to catch
+- 4th one
+- they jumped over the couter
+- to oblying or to obey
+- intimidate
+- walk around
+- reforcement
+- he is pointing the gun
+- encarcelated
+- preach - sermão
+- to be in parole - permission to live normally before 8pm
+- minor or adult
+- handcuff
