@@ -22,6 +22,8 @@ the hidden problem is that in order to test the two functions above we need to m
 
 - [Interfaces good pattern](https://github.com/golang/go/wiki/CodeReviewComments#interfaces)
 
+**Go interfaces generally belong in the package that uses values of the interface type, not the package that implements those values.**
+
 ```go
 type Store interface {
     ListUsers() ([]*User, error)
