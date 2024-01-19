@@ -61,6 +61,78 @@ Try to fix a lack on arrays, that is: **It was designed to be always the right s
 - Adding/Removing in the end of the DS
 - Working in the middle
 
+# Trees
+
+## Binary Search Trees(BSTs)
+
+Binary means two, so node in a binary tree have a maximum of **two children**
+
+Avg. case: search, insert, delete -> O(log(N))
+
+**BST Property:**
+
+For each node u, any lode l in **its left subtree** satisfies l.key <= u.key, any node r in its **right subtree** satisfies r.key >= u.key
+
+![bst](./bst.png)
+
+## Tree traversals
+Unlike linear data structures like, arrays, linked list, queues and stacks, which have only one logical way to traverse them, trees can be traversed in different ways.
+
+A traversal algorithm aims to "process" **each node in the tree exactly once**
+
+We have 2 types of traversals algorithms in tress, that are: Depth First Search or DFS & Level Order Traversal or Breadth First Search or BFS
+
+DFS(As the name suggest, start from the depth point of the tree):
+
+Obs: The results presented, will be on top of the above image tree.
+
+**inorder:**
+[1,2 3, 4, 5, 6]
+
+```python
+def inorder(u):
+    if u:
+        inorder(u.left)
+        print(u.key)
+        inorder(u.right)
+```
+
+**preorder:**
+[1,2,3, 5, 4, 6]
+
+```python
+def preorder(u):
+        if u is not None:
+            print(u.key)
+            preorder(u.left)
+            preorder(u.right)
+```
+
+**postorder:**
+[1,2,4,6,5,3]
+
+```python
+    def postorder(u):
+        if us is not None:
+            postorder(u.left)
+            postorder(u.right)
+            print(u.key)
+```
+
+## Minimum/Maximum O(h):
+
+Minimum/Max: The logic behind those algorithms is the following: The min value will be in the last element of the left and the same for the Maximum, but to the right
+
+## Search O(h)
+TODO
+## Insertion
+TODO
+## Deletion
+TODO
+
+## Resources
+
+[Binary Search Trees: Samuel's tutorial](https://www.youtube.com/watch?v=0woI8l0ZWmA)
 
 # Important Resources
 
