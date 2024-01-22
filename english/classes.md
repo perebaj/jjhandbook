@@ -516,11 +516,11 @@ possesives
 - to pour the bear
 - silveware
 
-02/01/2024
+## 02/01/2024
 
 - self-soothing
 
-16/01/2014
+## 16/01/2014
 
 - eich ar ( HHRR) department
 - hermit
@@ -547,3 +547,25 @@ possesives
 - to be in parole - permission to live normally before 8pm
 - minor or adult
 - handcuff
+
+## 21/01/2024
+
+- turns out
+- over did/do  | overdo | overdid - exagerar
+- aches - dores
+
+- any - thing/where/one/body - absolutely zere
+
+There isn't anybody
+
+There isn't anything today
+
+
+Is tehre anyone here?
+
+Yes, I am here
+
+No, there isn't anyone
+
+Do they rob anything?
+No no one rob anything
