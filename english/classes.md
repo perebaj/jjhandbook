@@ -569,3 +569,11 @@ No, there isn't anyone
 
 Do they rob anything?
 No no one rob anything
+
+## 23/01
+- decoy - "The same occurs for any decoyed object" - is like a bait
+- conceal - hide - dissimulate
+- peasent - guys that work in the farm
+- blunt - "Honestly is like a blunt instrument" - When the knife is not sharp 
+- tailor > "it's much more prudent to tailor your words" - Here tailer means to adapt/measure. It's also the guy that fix your clothes
+- 
