@@ -65,6 +65,8 @@ Try to fix a lack on arrays, that is: **It was designed to be always the right s
 
 ## Binary Search Trees(BSTs)
 
+**Obs:** the difference between a binary tree and a binary search tree is that the binary search follows some rules, that are be explained ahead.
+
 Binary means two, so node in a binary tree have a maximum of **two children**
 
 Avg. case: search, insert, delete -> O(log(N))
