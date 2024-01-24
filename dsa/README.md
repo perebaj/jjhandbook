@@ -136,7 +136,29 @@ TODO
 
 [Binary Search Trees: Samuel's tutorial](https://www.youtube.com/watch?v=0woI8l0ZWmA)
 
-# Important Resources
+# Arrays
+
+Arrays are one of the basic structure in the computer science, and one of the most used. Here I will try to cover some of the most important techniques and algorithms that we can use to solve problems.
+
+## Sliding Window
+The main ideia of a sliding windows technique is to convert a nested loop into a single loop, that will reduce the time complexity of the algorithm.
+
+### Types
+
+- Fixed Size
+- Dynamic Size
+
+## Two Pointers
+
+## Sorting
+
+
+## Resources
+- [Array CheatSheet](https://www.techinterviewhandbook.org/algorithms/array/)
+
+- [Solve subarray problems FASTER (using sliding window)](https://www.youtube.com/watch?v=GcW4mgmgSbw)
+
+# General Important Resources
 
 - [Data Structures](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
 - [DSA Handbook](https://www.techinterviewhandbook.org/)
