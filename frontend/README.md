@@ -36,3 +36,98 @@ Tools that are responsible to convert a code from a language that my ecosystem u
 **Bundlers**:
 
 It's a tool that bundle all the code(all files that we need to run our application) in a single file. The most common bundler that we use in the frontend is the Webpack, Vite and Snowpack.
+
+### Basic tools to get started 
+
+- Node
+- NPM
+- N (Node version manager)
+- Vite (Bundler)
+
+### Components
+
+Components are pieces of code that can be reused in the application. In other words, a functions and return HTML, CSS and JavaScript.
+
+**Example**
+
+```jsx
+function App() {
+  return (
+    <div>
+      <h1>Hello World</h1>
+    </div>
+  );
+}
+
+export default App;
+```
+
+OBS: JSX file type extension, that allow us to write HTML inside the JavaScript code.
+
+#### Named and Default exports
+
+**Named exports**
+
+```jsx
+// Post.jsx
+
+export function Post() {
+  return (
+    <div>
+      <h1>Hello World</h1>
+    </div>
+  );
+}
+
+// index.jsx
+import { Post } from './Post';
+```
+
+**Default exports**
+
+```jsx
+// Post.jsx
+function Post() {
+  return (
+    <div>
+      <h1>Hello World</h1>
+    </div>
+  );
+}
+
+export default Post;
+
+// index.jsx
+
+import App from './App';
+```
+
+### Props
+
+Properties are used to pass data through components.
+
+**Example**
+
+```jsx
+//Post.jsx
+
+export function Post(props) {
+  return (
+    <div>
+      <h1>{props.title}</h1>
+    </div>
+  );
+}
+
+// index.jsx
+
+import { Post } from './Post';
+
+function App() {
+  return (
+    <div>
+      <Post title="Hello World" />
+    </div>
+  );
+}
+```
