@@ -152,6 +152,26 @@ The main ideia of a sliding windows technique is to convert a nested loop into a
 
 ## Sorting
 
+## Circular array
+
+This is a simple approach to solve problems that involves circular arrays.
+
+It's important to notice the following math operation around module:
+
+1 % 5 = 1
+2 % 3 = 2
+
+If the divided is smaller than the divisor, the result will be the divided.
+
+So, if we have a circular array with 5 elements, and we want to access the 6th element, we can do the following:
+
+```go
+n := len(arr)
+for i := 0; i < n; i++ {
+    fmt.Println(arr[i % n])
+}
+```
+
 
 ## Resources
 - [Array CheatSheet](https://www.techinterviewhandbook.org/algorithms/array/)

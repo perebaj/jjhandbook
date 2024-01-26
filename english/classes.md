@@ -576,4 +576,17 @@ No no one rob anything
 - peasent - guys that work in the farm
 - blunt - "Honestly is like a blunt instrument" - When the knife is not sharp 
 - tailor > "it's much more prudent to tailor your words" - Here tailer means to adapt/measure. It's also the guy that fix your clothes
-- 
+
+# 25/01
+**English class**
+
+- to grasp or to understand
+- Unlimited - pronunciation: ANlimited
+- Difference between anyone and nobody:
+    - Anyone: is used in a question and negative sentences
+    - Nobody: is used in a afirmation
+
+- "ANYTHING else sir?". "No, thank you, that's all"
+- tan - When you expose your body to the sun to change your color
+- left out - "I feel left out" - When you feel that you are not included in a group.
+- FOMO - fear of missing out.
