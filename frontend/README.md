@@ -27,7 +27,7 @@ Basically, the SSR pattern is used to render the application on the server side,
 
 In the end, the SPA, splits the application in two parts, the client and the server. The server is responsible to provide the data to the client, and the client is responsible to render the application. This was caused by the evolution of the web, to create more interactive applications, that need to be updated frequently, consuming some backend API to get the data.
 
-### Bundler & Compilers
+## Bundler & Compilers
 
 **Compilers:** 
 
@@ -37,14 +37,14 @@ Tools that are responsible to convert a code from a language that my ecosystem u
 
 It's a tool that bundle all the code(all files that we need to run our application) in a single file. The most common bundler that we use in the frontend is the Webpack, Vite and Snowpack.
 
-### Basic tools to get started 
+## Basic tools to get started 
 
 - Node
 - NPM
 - N (Node version manager)
 - Vite (Bundler)
 
-### Components
+## Components
 
 Components are pieces of code that can be reused in the application. In other words, a functions and return HTML, CSS and JavaScript.
 
@@ -64,7 +64,7 @@ export default App;
 
 OBS: JSX file type extension, that allow us to write HTML inside the JavaScript code.
 
-#### Named and Default exports
+### Named and Default exports
 
 **Named exports**
 
@@ -102,7 +102,7 @@ export default Post;
 import App from './App';
 ```
 
-### Props
+## Props
 
 Properties are used to pass data through components.
 
