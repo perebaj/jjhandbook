@@ -131,3 +131,48 @@ function App() {
   );
 }
 ```
+
+## CSS Modules
+
+Scoped CSS, allow us to create a CSS that aim to be used only in a specific component. 
+
+[CSS Modules](https://github.com/css-modules/css-modules)
+
+Example:
+
+```jsx
+// header.module.css
+
+.header {
+  background: #7159c1;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// header.jsx
+
+import styles from './header.module.css';
+
+export function Header() {
+  return (
+    <header className={styles.header}> // Important to notice that we need to use the className attribute and acess the header class inside the styles object
+      <h1>Hello World</h1>
+    </header>
+  );
+}
+```
+
+## Global Styles
+
+Just a CSS file that gather all the styles that could be used generally in the application.
+
+Obs: Use **rem** instead of **px** to define the size of the elements, because the rem is more flexible to different screen sizes.
+
+## Box Model CSS
+
+TODO
+
+
