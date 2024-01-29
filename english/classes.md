@@ -590,3 +590,29 @@ No no one rob anything
 - tan - When you expose your body to the sun to change your color
 - left out - "I feel left out" - When you feel that you are not included in a group.
 - FOMO - fear of missing out.
+
+# 29/01
+
+- Peak of Employments
+- Job Fair: A place where you can find a lot of companies that are looking for new employees
+- Apprehensive: When you are nervous about something
+- Clouts: Influence/Connections
+- Inicial Kick: The first step
+- Employee | Employer | Employment: The person that works | The person that hires | The act of working
+- lifetime-job: Work for the same work for all your life
+- Doubtful: When you are not sure about something
+- Minimal Wage: The minimum amount of money that you can receive for your work for someones.
+- Veterinarian:
+- Assemble them/disassemble them: To put together or to take apart
+```
+    I Dissambled my computer to clean it
+```
+- Psycology: Pronunciation: Saicology
+- Teacher/Professor: Teacher is used for elementary school and professor is used for college
+- Dean: Top of the professors
+- Faculty Members: The group of professors that work in the college 
+- Alumini: Pronunciation: Aluminai - The group of people that graduated from the university
+- Freshman/Sophore/Junior/Senior: The first year of college/Second year/Third year/Fourth year
+- Assesment: Pronunciation: Assesment - The act of evaluating something
+- To take the test: To do the test
+
