@@ -21,7 +21,8 @@ Crawler C should have a different deployment strategy than crawler D? Like, use 
 
 I'm not creating the wheel, just reasoning about microservices and monolithic code. To summarize, I like of [this paper](https://dl.acm.org/doi/10.1145/3593856.3595909), which explains the pros and cons of each one:
 
-Pros of microservices:
+**Pros of microservices:**
+
 - Improve performance
     Separate binaries can be scaled independently
 - Improve fault tolerance
@@ -31,7 +32,8 @@ Pros of microservices:
 - Flexibility Rollout
     Different binaries can be updated at different times
 
-However, the cons are:
+**However, the cons are:**
+
 - Increase complexity
     It hurts performance: The overhead of communication between services, serialization, and deserialization across a network can be significant
 - It's hard to manage:
