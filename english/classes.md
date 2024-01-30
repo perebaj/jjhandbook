@@ -616,3 +616,12 @@ No no one rob anything
 - Assesment: Pronunciation: Assesment - The act of evaluating something
 - To take the test: To do the test
 
+/*
+For now Bundle it's just an idea that aim to create patterns for help the manufactoring industry to speed up the process of managing and fixing the problems that occurs in the production line. These include:
+
+    - Track all maintenance and repair activities
+    - Track where labor is being used across factories and their sub-areas
+    - Spend less time on Excel and more time having impact
+
+After the initial kick, create side mechanisms to help in the prediction of the problems that could occur, creating a map of all the machines and their parts, and also IOT sensors to keep all the data updated in real time.
+*/
