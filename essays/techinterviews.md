@@ -11,6 +11,6 @@ Lot of questions, and not easy to answer it. But let's think.
 
 First, I don't know if you could prepare yourself for a tech interview, for high roles, like senior and so on, it's a mix of all hard work that you put in your career, being contrasted against you, so, for this reason, it's easy to failed and seems like a complete disaster/foolish guy.
 
-Second, do you face a problem that at least for me is one of my principal weakness, the [Rhetoric](https://en.wikipedia.org/wiki/Rhetoric), you don't need to know all details about engineering, but you need to sell yourself.
+Second, do you face a problem that at least for me is one of my principal weakness, the [Rhetoric](https://en.wikipedia.org/wiki/Rhetoric), you don't need to know all details about engineering, but you need to sell yourself, you need to show that you are the best option, confident, and that you already face similar problems and know, in this different context, with different tools, people, processes, you keep doing the same.
 
 
