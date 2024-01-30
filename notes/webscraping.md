@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My first obey as a software developer was to create scrapers, and it was awesome to see how distributed systems work, how to manage a lot of data, and how the difficulty increases when you need to manage different sources, formats and so on. In this note, I will try to explain the perils & benefits, some architecture possibilities, and some tips to manage this kind of system.
+My first duty as a software developer was to create scrapers, and it was awesome to see how distributed systems work, how to manage a lot of data, and how the difficulty increases when you need to manage different sources, formats and so on. In this note, I will try to explain the perils & benefits, some architecture possibilities, and some tips to manage this kind of system.
 
 Obs: All opinions are my own, based on my experience. I probably will use it to keep my brain fresh about this topic and also to help me to remember some important points.
 
