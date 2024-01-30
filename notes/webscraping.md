@@ -19,7 +19,7 @@ If the answer is **yes**, probably, creating an isolated service for each crawle
 
 Crawler C should have a different deployment strategy than crawler D? Like, use more memory, or more CPU, if the answer is yes, you should probably have a different service for each crawler.
 
-I'm not creating the wheel, just reasoning about microservices and monolithic code. To summarize, I like of [this paper](https://dl.acm.org/doi/10.1145/3593856.3595909), which explains the pros and cons of each one:
+I'm not creating the wheel, just reasoning about microservices and monolithic code. To summarize, I like [this paper](https://dl.acm.org/doi/10.1145/3593856.3595909), which explains the pros and cons of each one:
 
 **Pros of microservices:**
 
@@ -49,4 +49,24 @@ I'm not creating the wheel, just reasoning about microservices and monolithic co
 
 ## Monitoring
 
+Another important point is the monitoring of the crawlers, how create efficient alerts? 
+
+If we stop again to think about the most basic case, we know that the **input is a couple of URLs**, and the **output is a couple of JSONs**, in this case, we could use a simple monitoring system, comparing how much content was extracted from the URLs, create a dashboard and alerts when the percentage of below of the expected.
+
+Or you can create a computation on top of how many status codes each URL returns, and create alerts when the percentage of status code != 200 is above the expected.
+
+But how to do that in near real-time? You need to be aware of when the process finishes to calculate the final percentage, right?
+
+
 ## Data storage
+
+## If all goes wrong 
+
+If the crawler process stops for some disaster, you shouldn't lose the place where you stopped, and also, you should be able to restart the process from the point that you stopped.
+
+## Streaming data and real-time processing
+
+The arrow that connects the different scrapers with the data storage and the following services is the streaming services, like Kafka, RabbitMQ and Pub/Sub.
+
+## Conclusion
+
