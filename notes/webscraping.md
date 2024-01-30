@@ -17,9 +17,9 @@ Here are some points that you need to think about, like, What is more important 
 Don't have any kind of dependency between the crawlers? **If a crawler B fails, for a new feature, the crawler A should NEVER be affected by it?**
 If the answer is **yes**, probably, creating an isolated service for each crawler is the best option. You could have a third library to manage the common parts, but the main code, responsible for gathering the business logic, should be isolated. In this case, you could also use your imagination to the amount of code that will be repeated, like the Docker file, the CI/CD, the tests, and so on, and conforming the things grow, decrease the complexity with support libraries.
 
-Crawler C should have a different deployment strategy than crawler D? Like, use more memory, or more CPU, if the answer is yes, you should probably have a different service for each crawler.
+**Crawler C should have a different deployment strategy than crawler D? Like, use more memory, or more CPU, if the answer is yes**, you should probably have a different service for each crawler.
 
-I'm not creating the wheel, just reasoning about microservices and monolithic code. To summarize, I like [this paper](https://dl.acm.org/doi/10.1145/3593856.3595909), which explains the pros and cons of each one:
+I'm not reinventing the wheel, just reasoning about microservices and monolithic code. To summarize, I like [this paper](https://dl.acm.org/doi/10.1145/3593856.3595909), which explains the pros and cons of each one:
 
 **Pros of microservices:**
 
