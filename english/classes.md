@@ -616,12 +616,32 @@ No no one rob anything
 - Assesment: Pronunciation: Assesment - The act of evaluating something
 - To take the test: To do the test
 
-/*
-For now Bundle it's just an idea that aim to create patterns for help the manufactoring industry to speed up the process of managing and fixing the problems that occurs in the production line. These include:
+# 30/01
 
-    - Track all maintenance and repair activities
-    - Track where labor is being used across factories and their sub-areas
-    - Spend less time on Excel and more time having impact
+- floats: 
+- Customs: The fantasy
+- At all:
+```
+    I don't like it at all
+    This means that I don't understand nothing about it
+```
+- To please: 
+```
+    I'm pleased to meet you
+    I'm pleased to help you
+    To pleased the Brazilian people
+```
+- Barbecue Skewer: Espetinho De Carne
+- To Grill
+- History: Pronunciation: Rristory
+- Let losse: the extreme of chill out
+- Feathers and sequins: The skin of the costume is made of bird FEATHERS. Lantejoulas
+- Belongins: The things that you have
+- Checkered shirt: Camisa xadrez
+- Women: Pronunciation: Uimen
+- Groom: The men that is getting married
+- Bride: The woman that is getting married
+- Cinnamon: Canela
+- Desserts: Sweet food that you eat after the meal
+- dough: Massa
 
-After the initial kick, create side mechanisms to help in the prediction of the problems that could occur, creating a map of all the machines and their parts, and also IOT sensors to keep all the data updated in real time.
-*/
