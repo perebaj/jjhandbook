@@ -43,6 +43,7 @@ It's a tool that bundle all the code(all files that we need to run our applicati
 - NPM
 - N (Node version manager)
 - Vite (Bundler)
+- [Unsplashed (Free images](https://unsplash.com/)
 
 ## Components
 
