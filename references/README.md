@@ -18,3 +18,7 @@
 
 ## [Hacker News](https://news.ycombinator.com/)
 ## [Product Hunt](https://www.producthunt.com/)
+
+# Some of the YouTube channels that I like to watch:
+
+## [GOTO Conferences](https://www.youtube.com/@GOTO-/featured)
