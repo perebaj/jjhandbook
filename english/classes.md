@@ -87,7 +87,7 @@ Barely means that someting is hard to deal, have a small quantity and insuficien
     I barely ate yesterday, I just sleept
     You barely had fun yesterday, is all good?
 
-## Sent off 
+## Sent off
 
 
 ## Single out
@@ -105,7 +105,7 @@ Panfletos
 When you need to do someting by your honor or something that is for your obligation. Responsability
 
     When I'm working for someone, I feel that I have a duty to arrive every day in the right hour
-    
+
 
 
 
@@ -120,7 +120,7 @@ T
 
 ## Temper
 ## Soar
-## Show up 
+## Show up
     I will show up  at the party today
     He didn't show up for work today
 ## Wind up
@@ -134,7 +134,7 @@ To be afraid != to fear of
 
 The difference between them is that **to be afraid** is related to a current emotion and **to fear** is related to a log-term emotion
 
-Example: 
+Example:
 
 - I am afraid of spiders (This means that I'm currently experiencing this fear)
 
@@ -151,13 +151,13 @@ Refer to measure someting from its base to its top
     When you're at the top of the mountain it's a great height
 
     She was a depth knowledge of computer science!
-    
+
 
 **Frightening** 🎵Fraitning
 
     Something that is scary me
 
-- Which is why so frightening 
+- Which is why so frightening
 
 **I will be late**
 
@@ -213,7 +213,7 @@ Words to use when you are nervous
 
     Imagine someone that is very religious, and in his home exist a figuro of Madre Tereza, this place is called shrine
 
-**Upside down** 
+**Upside down**
 
     My shoes is upside down
 
@@ -224,7 +224,7 @@ Words to use when you are nervous
 # 10/10
 
 **hostage**
-    
+
     release the hostages
 
     In the war between the Hamas and Israel, Hamas made a lot of foreign hostages
@@ -233,7 +233,7 @@ Words to use when you are nervous
 
     The primary difference between both, lies in the nature of the crime.
 
-    Kidnapping involves the unlawful abduction and detention of an individual, 
+    Kidnapping involves the unlawful abduction and detention of an individual,
 
     while hijacking involves the control of a vehicle or vessel
 
@@ -337,14 +337,14 @@ Words to use when you are nervous
 16/11
 
 **announcement**
-    
+
     Initial period where the woman is prenant
 
-## 04/12 
+## 04/12
 
 - package includes health benefits, or other
 - embarassed
-- ashamed 
+- ashamed
 
 **look forward**
 
@@ -378,13 +378,13 @@ instead of say `right now`= pretty open, fexible
 **hunch**
 
 **windy** - improve the pronunciation
-**thrilled** - 
+**thrilled** -
 **backpacking** - mochilão
 **nervous wracking**
 
 
 - edging bussiness
-    * enhance speed 
+    * enhance speed
     * reduce costs
 
 mail = MAEIL != male = MEIL
@@ -393,7 +393,7 @@ desasemble
 faifthfully
 well set
 augmented reallity
-googles 
+googles
 realize
 possesives
 
@@ -492,7 +492,7 @@ possesives
 - supplies
 - put away = afastar
 - fuel | beautiful
-- cashier 
+- cashier
 - trustworthy
 - trailling = testing
 - feasible
@@ -527,41 +527,49 @@ possesives
 - after midnight
 - testify in court
 - the process that is going on in the court: trial
-- guilty or no guilty
+- guilty or not guilty
 - witness testemunha
-- swear \ swear to god that I'm inocent sworn(past sentence)
-- so help you God
-- the surrended to the xerif 
-- thiefs
+- swear \ swear to god that I'm innocent sworn(past sentence)
+- they surrendered to the xerif
+- thieves the plural of thief
 - steal
 - to catch
 - 4th one
-- they jumped over the couter
-- to oblying or to obey
+- they jumped over the counter
+- to obey
 - intimidate
 - walk around
-- reforcement
+- reinforcement: The act of calling more people to help
 - he is pointing the gun
-- encarcelated
-- preach - sermão
-- to be in parole - permission to live normally before 8pm
+- incarcerated: The act of putting someone in jail
+- preach: The act of teaching the word of god
+- to be on parole - permission to live normally before 8 pm
 - minor or adult
-- handcuff
+- handcuff: The act of putting a chain in the hands of the thief
 
 ## 21/01/2024
 
-- turns out
-- over did/do  | overdo | overdid - exagerar
-- aches - dores
+<!-- - turns out:  -->
+- over did/do  | overdo | overdid: When you do something too much
+```
+    I overdid the food
+    I overdid the drink
+```
 
-- any - thing/where/one/body - absolutely zere
+- aches: Headache, stomachache, toothache. Pronunciation: Eikis
+
+```
+You can simplify what you are feeling, just using the word ache
+```
+
+anything/where/one/body - absolutely zero
 
 There isn't anybody
 
 There isn't anything today
 
 
-Is tehre anyone here?
+Is there anyone here?
 
 Yes, I am here
 
@@ -573,9 +581,13 @@ No no one rob anything
 ## 23/01
 - decoy - "The same occurs for any decoyed object" - is like a bait
 - conceal - hide - dissimulate
-- peasent - guys that work in the farm
-- blunt - "Honestly is like a blunt instrument" - When the knife is not sharp 
-- tailor > "it's much more prudent to tailor your words" - Here tailer means to adapt/measure. It's also the guy that fix your clothes
+- peasant: guys that work on the farm
+- blunt - "Honestly is like a blunt instrument" - When the knife is not sharp
+- tailor:
+
+```
+"It's much more prudent to tailor your words" - Here tailor means to adapt/measure. It's also the guy that fixes your clothes
+```
 
 # 25/01
 **English class**
@@ -584,7 +596,7 @@ No no one rob anything
 - Unlimited - pronunciation: ANlimited
 - Difference between anyone and nobody:
     - Anyone: is used in a question and negative sentences
-    - Nobody: is used in a afirmation
+    - Nobody: is used in an affirmation
 
 - "ANYTHING else sir?". "No, thank you, that's all"
 - tan - When you expose your body to the sun to change your color
@@ -610,7 +622,7 @@ No no one rob anything
 - Psycology: Pronunciation: Saicology
 - Teacher/Professor: Teacher is used for elementary school and professor is used for college
 - Dean: Top of the professors
-- Faculty Members: The group of professors that work in the college 
+- Faculty Members: The group of professors that work in the college
 - Alumini: Pronunciation: Aluminai - The group of people that graduated from the university
 - Freshman/Sophore/Junior/Senior: The first year of college/Second year/Third year/Fourth year
 - Assesment: Pronunciation: Assesment - The act of evaluating something
@@ -618,14 +630,14 @@ No no one rob anything
 
 # 30/01
 
-- floats: 
+- floats:
 - Customs: The fantasy
 - At all:
 ```
     I don't like it at all
     This means that I don't understand nothing about it
 ```
-- To please: 
+- To please:
 ```
     I'm pleased to meet you
     I'm pleased to help you
@@ -645,3 +657,16 @@ No no one rob anything
 - Desserts: Sweet food that you eat after the meal
 - dough: Massa
 
+# 01/02/204
+
+- A plenty of / A lot of: the only difference is the
+- Pillow: Pronunciation: Pilo
+- Few and litter: Few is used for countable things and litter is used for the size of the things
+- So do I: When you agree with someone, like me too or I'm also like
+- likewise: The same as me too or I'm also like
+- Once: Pronunciation: Uans
+- How come = In what sense/way
+- to realize = to understand = to find out
+- Only with money that the monkey dance
+- patronize: To repeat what
+- tru
