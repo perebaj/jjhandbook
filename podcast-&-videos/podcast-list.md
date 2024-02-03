@@ -171,20 +171,20 @@ Performance: Scalability - 2x computers -> 2x throughput -> 100x Complexity(kk)
 > Do less enable more
 >
 > Keeping the language small enables more important goals. Being small makes Go easier to learn, easier to understand, easier to implement, easier to reimplement, easier to debug, easier to adjust, and easier to evolve. Doing less enables more.
-> 
+>
 
 How should we structure and coordinate concurrent and parallel computations?
 
 Mutexes and condition variables are very general but so low-level that they’re difficult to use correctly. Parallel execution frameworks like OpenMP are so high-level that they can only be used to solve a narrow range of problems. Channels and goroutines sit between these two extremes.
 
-types and interfaces. Having static types enables useful compile-time checking, something lacking in dynamically-typed 
+types and interfaces. Having static types enables useful compile-time checking, something lacking in dynamically-typed
 
 **dynamic typed languages** = Python or Ruby
 
 **Building and sharing**
 
 
-Building and sharing software. In the run up to Go 1, we built goinstall, which became what we all know as “go get”. That tool defined a standard zero-configuration way to resolve import paths on sites like github.com, and later a way to resolve paths on other sites by making HTTP requests. 
+Building and sharing software. In the run up to Go 1, we built goinstall, which became what we all know as “go get”. That tool defined a standard zero-configuration way to resolve import paths on sites like github.com, and later a way to resolve paths on other sites by making HTTP requests.
 
 Open Source
 
@@ -258,13 +258,13 @@ Reverse a slice of int
 Gerenics can open in the language a new variety of data structure
 
     Every language change has a cost. There’s no doubt that adding generics to Go will make the language more complicated.
-    
+
     As with any change to the language, we need to talk about maximizing the benefit and minimizing the cost.
 
-    We reduce complexity by making the individual features simple, and we maximize the benefit of the features by permitting their free combination. 
+    We reduce complexity by making the individual features simple, and we maximize the benefit of the features by permitting their free combination.
 
 
-[Getting started with generics](https://go.dev/doc/tutorial/generics) 
+[Getting started with generics](https://go.dev/doc/tutorial/generics)
 
 # [Go Concurrency patterns](https://www.youtube.com/watch?v=f6kdp27TYZs&t=840s&ab_channel=GoogleforDevelopers)
 
@@ -287,7 +287,7 @@ Buffering removes synchronization
 Functions that return a channel
 
 ## Multiplexing(fan-in)
-![Alt text](image.png)
+![Alt text](./assets/faningolang.png)
 ## Select statement
 
 A control structure that control the behavior of your program, based on what communications are able to deal at the moment.
@@ -301,4 +301,4 @@ Returns a channel that blocks for specified duration
 
 Use a channel that determines when the process is done
 
-**Obs:** All this patterns could be find in my [playground repository](https://github.com/perebaj/playground) 
+**Obs:** All this patterns could be find in my [playground repository](https://github.com/perebaj/playground)
