@@ -25,14 +25,14 @@ Some notes about how I like to structure my REST API projects.
 
 ### Resources
 
-Resources describe the data that will be transmitted through the API. 
+Resources describe the data that will be transmitted through the API.
 **They are usually nouns and should be pluralized.**
 
 Examples:
 
 - /api/v1/users instead of /api/v1/user
 
-Hypens can be used to improve readability:
+Hyphens can be used to improve readability:
 
 - /api/v1/user-roles instead of /api/v1/userroles or /api/v1/user_roles
 
@@ -66,14 +66,14 @@ Examples:
 
 ## How I structure my REST API projects
 
-Usually I like to have a folder called `docs` inside the `api` folder. Within this folder I create two files:
+Usually, I like to have a folder called `docs` inside the `api` folder. Within this folder, I create two files:
 
 - api.md: Here I gather some examples of how to use the API. With some expected requests and responses.
 - api.yaml: Here I gather the API specification using the [OpenAPI Specification](https://www.openapis.org/).
 
-The api folder, is the place where I put all the routes and handlers of the API. 
+The API folder is the place where I put all the routes and handlers of the API.
 
-If my API have different resources, I like to create a different file for each resource. For example:
+If my API has different resources, I like to create a different file for each resource. For example:
 
 ```
 - service
@@ -100,9 +100,9 @@ type User struct {
 }
 ```
 
-The struct that was defined above, inside the `service/api/users.go` file, will be used to define the **response** of the API.
+The struct that was defined above, is inside the `service/api/users.go` file, will be used to define the **response** of the API.
 
-If we are dealing with some database connection, I create different Structs to represent the data that it's being dealt in the diffrent layers of the application. For example:
+If we are dealing with some database connection, I create different Structs to represent the data that is being dealt with by different layers of the application. For example:
 
 ```
 - service
@@ -114,7 +114,7 @@ If we are dealing with some database connection, I create different Structs to r
 ```
 Obs: I like to create a folder for each database that I'm using in the application, for example: postgres, mysql, mongo, etc.
 
-And inside of this folder, the functions that will be used to interact with the resource that was defined in the API folder.
+And inside of this folder, are the functions that will be used to interact with the resource that was defined in the API folder.
 
 Also if the structures across the different layers are close, I like to define them in different packages, for example:
 
@@ -128,23 +128,23 @@ type User struct {
 }
 ```
 
-# Dealing with data consumption throught event driven architecture
+# Dealing with data consumption through event-driven architecture
 
-## What is event driven architecture?
+## What is event-driven architecture?
 
 Send and receive events between a producer and a consumer.
 
-## How I kept track of the events that were sent between the producer and the consumer?
+## How do I keep track of the events that were sent between the producer and the consumer?
 
-In the root of the service, I created a folder called `docs` and inside of it, I create a file called `events.md`. Where I have some example of the input and output, and what service are producing and consuming them. At this way, someone that is not familiar with the service, can understand what is happening, and for someone like me tha don't have a good memory, can remember what is happening.
+In the root of the service, I created a folder called `docs` and inside of it, a file called `events.md`. Where I have some examples of the input and output, and what services are producing and consuming them. In this way, someone who is not familiar with the service can understand what is happening, and someone like me who doesn't have a good memory can remember what is happening.
 
 I learn how to document, using the following pattern, don't know if it's the best, but it's better to start somewhere:
 
 - [Event Catalog](https://www.eventcatalog.dev/)
 
-**Think about this approach as the same way that we document APIs using the OpenAPI Specification, but for events.**
+**Think about this approach in the same way that we document APIs using the OpenAPI Specification but for events.**
 
-# Metrics 
+# Metrics
 
 I like the following philosophy for metrics:
 
@@ -152,9 +152,9 @@ I like the following philosophy for metrics:
 You can't improve what you aren't measuring
 ```
 
-For this reason, I learn to AWAYS have some metrics in my services, and I like to use the following measures:
+For this reason, I learned to AWAYS has some metrics in my services, and I like to use the following measures:
 
-## For APIS: 
+## For APIS:
 
 ### Latency (Histogram)
 
@@ -165,3 +165,7 @@ For this reason, I learn to AWAYS have some metrics in my services, and I like t
 
 - matric name: http_total_requests
 - labels: status_code, method, path or handler
+
+A good example of how to implement this in Go:
+
+[HTTP middleware for instrumenting HTTP servers with Prometheus](https://github.com/prometheus/client_golang/blob/main/examples/middleware/httpmiddleware/httpmiddleware.go)
