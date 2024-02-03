@@ -12,12 +12,12 @@ When you are creating a scraper in scale, there are some perils that you need to
 
 - **Disposition of the crawlers**: Different sources, formats, data and so on, but all the code seems very similar, what is the best way to manage it? A monolithic code? A microservice? A library? A framework?
 
-Here are some points that you need to think about, like, What is more important for you? 
+Here are some points that you need to think about, like, What is more important for you?
 
 Don't have any kind of dependency between the crawlers? **If a crawler B fails, for a new feature, the crawler A should NEVER be affected by it?**
 If the answer is **yes**, probably, creating an isolated service for each crawler is the best option. You could have a third library to manage the common parts, but the main code, responsible for gathering the business logic, should be isolated. In this case, you could also use your imagination to the amount of code that will be repeated, like the Docker file, the CI/CD, the tests, and so on, and conforming the things grow, decrease the complexity with support libraries.
 
-**Crawler C should have a different deployment strategy than crawler D? Like, use more memory, or more CPU, if the answer is yes**, you should probably have a different service for each crawler.
+**Crawler C should have a different **resource allocation strategy** than crawler** D? Like, use more memory, or more CPU, if the answer is yes**, you should probably have a different service for each crawler.
 
 I'm not reinventing the wheel, just reasoning about microservices and monolithic code. To summarize, I like [this paper](https://dl.acm.org/doi/10.1145/3593856.3595909), which explains the pros and cons of each one:
 
@@ -49,24 +49,29 @@ I'm not reinventing the wheel, just reasoning about microservices and monolithic
 
 ## Monitoring
 
-Another important point is the monitoring of the crawlers, how create efficient alerts? 
+Another important point is the monitoring of the crawlers, how create efficient alerts?
 
-If we stop again to think about the most basic case, we know that the **input is a couple of URLs**, and the **output is a couple of JSONs**, in this case, we could use a simple monitoring system, comparing how much content was extracted from the URLs, create a dashboard and alerts when the percentage of below of the expected.
+If we stop again to think about the most basic case, we know that the **input is a couple of URLs**, and the **output is a couple of JSONs**, in this case, we could use a simple monitoring system, comparing how much content was extracted from the URLs, create a dashboard and create a notification when the percentage was below of the expected.
 
-Or you can create a computation on top of how many status codes each URL returns, and create alerts when the percentage of status code != 200 is above the expected.
+Or, you can also create a calculation strategy on top of how many status codes each URL returns, and alerts when the percentage of status code != 200 is above the expected.
 
-But how to do that in near real-time? You need to be aware of when the process finishes to calculate the final percentage, right?
+After defining the approach, you can use tools like Grafana and Prometheus to create the dashboards and alerts.
 
+It's important to choose useful label layers for each metric, metric names, the unit of the metric, and so on, to create a good dashboard and alerts.
+
+A good reference is the [Prometheus best practices](https://prometheus.io/docs/practices/naming/).
 
 ## Data storage
 
-## If all goes wrong 
+## If all goes wrong
 
 If the crawler process stops for some disaster, you shouldn't lose the place where you stopped, and also, you should be able to restart the process from the point that you stopped.
+
+https://github.com/eapache/go-resiliency/tree/main
+https://dl.acm.org/doi/pdf/10.1145/2366316.2366331
 
 ## Streaming data and real-time processing
 
 The arrow that connects the different scrapers with the data storage and the following services is the streaming services, like Kafka, RabbitMQ and Pub/Sub.
 
 ## Conclusion
-
