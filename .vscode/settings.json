@@ -1,5 +1,7 @@
 {
     "grammarly.files.include": [
         "**/*.md"
-    ]
+    ],
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
 }
