@@ -35,3 +35,26 @@ In the end, the companies that punish failure, will never innovate, if everyone 
     It’s what you do. What you do is who you are. This book aims to help you do the things you need to do so you can be who you want to be.
 
 ## Culture and Revolution: The Story of Toussaint Louverture
+
+### Introduction
+
+### Who was the Toussaint Louverture?
+
+- Borned in 1743, in the French colony of Saint-Domingue, now Haiti.
+- He spent his free time reading and learning, including Julius Cesar Commentaries and Abbé Raynal's History of the Two Indies.
+- He was liberated in 1776, because their owner recognized that he was a smart guy.
+- He start to perceive that what made the behavior of their brothers and sisters wasn't related to the color of their skin, but the culture that they absorbed. He start, for example to buy slaves for your own, and give them freedom.
+
+```
+“A courageous chief only is wanted. Where is he, that great man whom Nature owes to her vexed, oppressed, and tormented children? Where is he?”
+```
+
+### Louverture Rise
+
+The fight was against the French, that was facing some problems with the [revolution in France](https://www.britannica.com/event/French-Revolution/Events-of-1789), what opened some opportunities for contries like Spanish and Englang to try to take the control of the island. In the begining, Louverture combine forces with the Spanish, but after some time, he realized that we was also the same behavior of the French, and two other fights were started and won by Louverture.
+
+### How Louverture reprogrammed slave culture
+
+Basically, change the culture of group that already exists, isn't an easy task, but Louverture, use some strategies to do that, he permeated in the culture that already exists, like religion and cults, to change the way that the slaves think about the world.
+
+We also build a group of the most skilled guys, and give them the training to be leaders and fighters, they also use some combat techniques that always surprise the enemies, like use the jungle to hide and attack, using Voodoo signs to communicate over the closest forests.
