@@ -23,18 +23,15 @@ Founded by Gordon Moore, the coiner of Moore's Law and Robert Noyce(CEO of the f
 
 In the end, the companies that punish failure, will never innovate, if everyone think like that, the silicon valley would never exist, because there, was where the idea of failing to build something new was born.
 
-```
     Virtues and values are not the same thing. Virtues are the things that you do, and values are the things that you believe.
-```
 
 ### Objetive of the book/author
 
-```
-The book will take you on a journey through culture, from ancient to modern. Along the way, you will learn how to answer a question fundamental to any organization: who are we? A simple-seeming question that’s not simple at all. Because who you are is how people talk about you when you’re not around. How do you treat your customers? Are you there for people in a pinch? Can you be trusted?
 
-Who you are is not the values you list on the wall. It’s not what you say at an all-hands. It’s not your marketing campaign. It’s not even what you believe.
+    The book will take you on a journey through culture, from ancient to modern. Along the way, you will learn how to answer a question fundamental to any organization: who are we? A simple-seeming question that’s not simple at all. Because who you are is how people talk about you when you’re not around. How do you treat your customers? Are you there for people in a pinch? Can you be trusted?
 
-It’s what you do. What you do is who you are. This book aims to help you do the things you need to do so you can be who you want to be.
-```
+    Who you are is not the values you list on the wall. It’s not what you say at an all-hands. It’s not your marketing campaign. It’s not even what you believe.
+
+    It’s what you do. What you do is who you are. This book aims to help you do the things you need to do so you can be who you want to be.
 
 ## Culture and Revolution: The Story of Toussaint Louverture
