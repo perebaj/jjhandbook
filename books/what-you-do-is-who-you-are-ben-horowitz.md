@@ -40,9 +40,9 @@ In the end, the companies that punish failure, will never innovate, if everyone 
 
 ### Who was the Toussaint Louverture?
 
-- Borned in 1743, in the French colony of Saint-Domingue, now Haiti.
-- He spent his free time reading and learning, including Julius Cesar Commentaries and Abbé Raynal's History of the Two Indies.
-- He was liberated in 1776, because their owner recognized that he was a smart guy.
+- Born in 1743, in the French colony of Saint-Domingue, now Haiti.
+- He spent his free time reading and learning, including Julius Cesar's Commentaries and Abbé Raynal's History of the Two Indies.
+- He was liberated in 1776 because their owner recognized that he was a smart guy.
 - He start to perceive that what made the behavior of their brothers and sisters wasn't related to the color of their skin, but the culture that they absorbed. He start, for example to buy slaves for your own, and give them freedom.
 
 ```
@@ -58,3 +58,23 @@ The fight was against the French, that was facing some problems with the [revolu
 Basically, change the culture of group that already exists, isn't an easy task, but Louverture, use some strategies to do that, he permeated in the culture that already exists, like religion and cults, to change the way that the slaves think about the world.
 
 We also build a group of the most skilled guys, and give them the training to be leaders and fighters, they also use some combat techniques that always surprise the enemies, like use the jungle to hide and attack, using Voodoo signs to communicate over the closest forests.
+
+### Creating Shocking Rules
+
+Louverture created a rule that was very shocking for the team, the rule was that the slaves could not have other relations if it wasn't with their wives. If you can't control your oath, how can you control a whole community?
+
+### Incorporating outside Leadership
+
+Using outside leaders to help build your own culture could sound like a bad idea, but Louverture uses the French and Spanish leaders, keeping their roles, but now obeying him. He just uses the figure of the leader, in that way, the others who already follow the leader will keep following him. (Julius Cesar technique)
+
+### Make decisions that demonstrate cultural priorities
+
+Simple like that, make you the example if you want your partners will follow you.
+
+### Walk the Talk
+
+If you are the ruler, you need to act like one.
+
+### What happened to Louverture?
+
+Louveture was betrayed by her "hand"(Dessalines), which unified forces with the French(Napoleon), this was after Louveture wrote the constitution of the island. But Dessalines perceived that the French were trying to take control of the island again, and different from Louverture, he was a little more radical, and he killed all the French on the island. The island was named Haiti, and the Haitian people were responsible for paying a huge amount of money to the French, a debt that was responsible for keeping the country in poverty for a long time.
