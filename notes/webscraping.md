@@ -74,4 +74,8 @@ https://dl.acm.org/doi/pdf/10.1145/2366316.2366331
 
 The arrow that connects the different scrapers with the data storage and the following services is the streaming services, like Kafka, RabbitMQ and Pub/Sub.
 
+## Development of new scrapers
+
+Initially, the development of multiple scrapers could turn into a nightmare, at least for me, what reduces this swamp, and the time that the developers spend trying to understand what is happening. This, could be circumvented by good documentation, so, before starting to code, or adapt some existent crawler, you should adapt or create the goals of the code, a simple input/output JSON it's enough.
+
 ## Conclusion
