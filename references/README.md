@@ -18,6 +18,7 @@
 
 ## [Hacker News](https://news.ycombinator.com/)
 ## [Product Hunt](https://www.producthunt.com/)
+## [Our World Data](https://ourworldindata.org/)
 
 # Some of the YouTube channels that I like to watch:
 
