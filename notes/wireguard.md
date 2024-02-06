@@ -1,4 +1,4 @@
-# Wireguard
+# Wireguard and Some poor networking concepts(for dumbs and dummies)
 
 Even though WireGuard is a cutting-edge VPN solution, I will try to bring some core concepts of networking that are independent of any tunneling solutions. The idea isn't a deep dive into WireGuard, but try to cover your reason for existence and how it works.
 
