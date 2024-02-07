@@ -2,7 +2,7 @@
 
 # Why?
 
-First go isn't a hipster language, a lot of industries are using it, in diverse fields because it's simple, it's easy to circumvent parallelism problems and when we are talking about working with distributed systems and multiple people touch all day long the same code, it's really easy to maintain.
+First go isn't a hipster language, a lot of industries are using it, in diverse fields because it's simple, it's easy to circumvent parallelism problems and when we are talking about working with distributed systems and multiple people touching all day long the same code, it's really easy to maintain.
 
 ## Procedural
 
@@ -11,6 +11,8 @@ Isn't a language oriented to objects and it's not functional, IT'S PROCEDURAL. W
 TODO
 
 ### Have polimosfism (Interfaces)
+
+TODO
 
 ### Strongly and statically typed
 
@@ -24,7 +26,7 @@ Problems that C and C++ have, with the memory leak that was circumvented by futu
 
 You don't need to wait for a coffee and a sandwich to compile your code, it just produces a once binary that you can put in a container and that is it!
 
-### It's was created for the software that we are using today.
+### It was created for the software that we are building/using today.
 
 Today the software processes a lot of data, you need to have integrations with other systems and services, and you need to keep the ability to scale them without losing the performance.
 
