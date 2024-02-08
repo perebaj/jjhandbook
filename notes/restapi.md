@@ -168,4 +168,5 @@ For this reason, I learned to AWAYS has some metrics in my services, and I like 
 
 A good example of how to implement this in Go:
 
-[HTTP middleware for instrumenting HTTP servers with Prometheus](https://github.com/prometheus/client_golang/blob/main/examples/middleware/httpmiddleware/httpmiddleware.go)
+- [HTTP middleware for instrumenting HTTP servers with Prometheus](https://github.com/prometheus/client_golang/blob/main/examples/middleware/httpmiddleware/httpmiddleware.go)
+- [HTTP Wrapper for instrumenting HTTP servers with Prometheus](https://github.com/perebaj/playground/tree/main/golang/httpmetrics)
