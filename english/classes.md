@@ -609,23 +609,20 @@ No no one rob anything
 - Job Fair: A place where you can find a lot of companies that are looking for new employees
 - Apprehensive: When you are nervous about something
 - Clouts: Influence/Connections
-- Inicial Kick: The first step
+- Initial Kick: The first step
 - Employee | Employer | Employment: The person that works | The person that hires | The act of working
 - lifetime-job: Work for the same work for all your life
 - Doubtful: When you are not sure about something
-- Minimal Wage: The minimum amount of money that you can receive for your work for someones.
+- Minimal Wage: The minimum amount of money that you can receive for your work for someone.
 - Veterinarian:
 - Assemble them/disassemble them: To put together or to take apart
-```
-    I Dissambled my computer to clean it
-```
-- Psycology: Pronunciation: Saicology
+- Psychology: Pronunciation: Saicology
 - Teacher/Professor: Teacher is used for elementary school and professor is used for college
 - Dean: Top of the professors
 - Faculty Members: The group of professors that work in the college
-- Alumini: Pronunciation: Aluminai - The group of people that graduated from the university
+- Alumni: Pronunciation: Aluminai - The group of people that graduated from the university
 - Freshman/Sophore/Junior/Senior: The first year of college/Second year/Third year/Fourth year
-- Assesment: Pronunciation: Assesment - The act of evaluating something
+Assessment:  The act of evaluating something
 - To take the test: To do the test
 
 # 30/01
@@ -646,27 +643,55 @@ No no one rob anything
 - Barbecue Skewer: Espetinho De Carne
 - To Grill
 - History: Pronunciation: Rristory
-- Let losse: the extreme of chill out
+- Let loose: the extreme of chill out
 - Feathers and sequins: The skin of the costume is made of bird FEATHERS. Lantejoulas
-- Belongins: The things that you have
+- Belongings: The things that you have
 - Checkered shirt: Camisa xadrez
 - Women: Pronunciation: Uimen
-- Groom: The men that is getting married
-- Bride: The woman that is getting married
+- Groom: The man who is getting married
+- Bride: The woman who is getting married
 - Cinnamon: Canela
 - Desserts: Sweet food that you eat after the meal
-- dough: Massa
+- dough: Pronunciation: Dôu
 
 # 01/02/204
 
-- A plenty of / A lot of: the only difference is the
+- A plenty of / A lot of: the only difference is that plenty is used for countable things and a lot is used for uncountable things. For example:
+
+```
+    I have a plenty of friends
+    I have a lot of money
+```
+
 - Pillow: Pronunciation: Pilo
 - Few and litter: Few is used for countable things and litter is used for the size of the things
+For example:
+
+```
+    I have a few friends
+    I have a litter of money
+```
+
 - So do I: When you agree with someone, like me too or I'm also like
 - likewise: The same as me too or I'm also like
 - Once: Pronunciation: Uans
 - How come = In what sense/way
 - to realize = to understand = to find out
 - Only with money that the monkey dance
-- patronize: To repeat what
-- tru
+
+# 06/02/2024
+
+To get usage:
+
+- To buy
+- Arrive
+- To give
+- To understand
+- To prepare
+- To obtain
+- Privilege
+- To get it done
+- To become
+
+- gossiping
+-
