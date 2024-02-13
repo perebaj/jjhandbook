@@ -6,11 +6,6 @@ Creating commodities upon developers' experience it's a good approach for the in
 
 But yep, I need to remember some data engineering concepts, and here is the place that I will put them.
 
-# Resource
-
-- [Data Engineering Wiki](https://dataengineering.wiki/Index)
-
-
 ## Parquet
 
 It is a columnar storage format, available for any project in the Hadoop ecosystem. It was designed to efficiently store and process large amounts of data. But, what the fuck is that?
@@ -50,3 +45,6 @@ This is a very simple example, but it's the idea behind the parquet file.
 
 Simply, OLAP is for **Data Warehousing** and OLTP is for **transactional systems.**
 
+# Resource
+
+- [Data Engineering Wiki](https://dataengineering.wiki/Index)
