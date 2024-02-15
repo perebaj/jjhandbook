@@ -78,3 +78,39 @@ If you are the ruler, you need to act like one.
 ### What happened to Louverture?
 
 Louveture was betrayed by her "hand"(Dessalines), which unified forces with the French(Napoleon), this was after Louveture wrote the constitution of the island. But Dessalines perceived that the French were trying to take control of the island again, and different from Louverture, he was a little more radical, and he killed all the French on the island. The island was named Haiti, and the Haitian people were responsible for paying a huge amount of money to the French, a debt that was responsible for keeping the country in poverty for a long time.
+
+## Toussant Louverture Applied
+
+### Creating Shocking Rules
+
+* It must be memorable. If people forget the rules, they forget the culture.
+* It must raise the question “Why?” Your rule should be so bizarre and shocking that everybody who hears it is compelled to ask, “Are you serious?”
+* Its cultural impact must be straightforward. The answer to the “Why?” must clearly explain the cultural concept.
+* People must encounter the rule almost daily. If your incredibly memorable rule applies only to situations people face once a year, it’s irrelevant.
+
+
+### Amazon Rule
+
+No PowerPoint presentations. If you want to show something, write a document and share it with the team, before the meeting everything should be aware of the content and start to discuss on top of it.
+
+### Facebook Rules
+
+- Move fast and break things
+
+
+### Incorporate outside leadership
+
+I've already faced this in my work environment, in truth, it's always annoying was a new leader comes, specially when the team isn't performing well, because this new leader will try to change everything, something it's the right thing to do, but my only concern is that leader should be careful to not create problems with the team.
+
+## The Way of the Warrior
+This chapter summarizes the rules and culture of the samurais, they were a very respected group in Japan that followed some important requisites that made them recognized for their veracity and honor.
+
+The Hagakure group always done to die on the battlefield, for this reason, they always are prepared to die, with the head shaved, nails cut and so on
+
+They follow some virtues that guide the way that they understand the world and live their lives, some of them are:
+
+- Honor: Without honor, you are nothing
+- Politeness(Polidez/Boas maneiras): The way that you act with others
+- Veracity or Sincerity: You are acting in that way because you belive in it.
+
+They develop and refine their culture continuously over a very long period, using defined and specific rules to guide the behavior of their followers.
