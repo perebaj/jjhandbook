@@ -19,6 +19,8 @@
 ## [Hacker News](https://news.ycombinator.com/)
 ## [Product Hunt](https://www.producthunt.com/)
 ## [Our World Data](https://ourworldindata.org/)
+## [app.daily](https://app.daily.dev/)
+## [just ship it](https://marclou.beehiiv.com/)
 
 # Some of the YouTube channels that I like to watch:
 
