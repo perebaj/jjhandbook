@@ -695,3 +695,41 @@ To get usage:
 
 - gossiping
 -
+
+# 15/02/2024
+
+- net > Tool to grab fish
+- Woman/Women
+- Man/Men
+- Mouse/Mice
+- Leaf/Leaves
+- Sheep/Sheep
+- Goat/Goats
+- Child/Children
+- If the word finishes with a consonant and a Y, you need to remove the Y and add IES
+
+Example:
+
+- Baby/Babies
+- Lady/Ladies
+- City/Cities
+
+- Prince | Princes Pronunciation: Princis
+- Princess Pronunciation: Princes | Princesses Pronunciation: Princesis
+- Aircraft: Like a plane
+
+Futebol Words:
+
+- I support Santos FC
+- Cheer for: I cheer for Santos FC
+- Referee: The guy that controls the game
+- Whistle: The sound that the referee makes
+- tight: apertado
+- extended time: The time that the referee adds to the game
+
+19/02
+
+- Take over: When you take control of something
+- Enhance: To improve something
+- Handsome: similar to beautiful
+- Complain: To say that you don't like something
