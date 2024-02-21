@@ -82,7 +82,7 @@ Unlike linear data structures like arrays, linked lists, queues and stacks, whic
 
 A traversal algorithm aims to "process" **each node in the tree exactly once**
 
-We have 2 types of traversal algorithms in tress, that are: Depth First Search or DFS & Level Order Traversal or Breadth First Search or BFS
+We have 2 types of traversal algorithms in tress, that are: **Depth First Search or DFS** & Level Order Traversal or **Breadth First Search or BFS**
 
 DFS(As the name suggests, start from the depth point of the tree):
 
@@ -174,8 +174,8 @@ This is a simple approach to solving problems that involve circular arrays.
 
 It's important to notice the following math operation around the module:
 
-1 % 5 = 1
-2 % 3 = 2
+- 1 % 5 = 1
+- 2 % 3 = 2
 
 If the divided is smaller than the divisor, the result will be the divided.
 
@@ -193,6 +193,19 @@ for i := 0; i < n; i++ {
 - [Array CheatSheet](https://www.techinterviewhandbook.org/algorithms/array/)
 
 - [Solve subarray problems FASTER (using sliding window)](https://www.youtube.com/watch?v=GcW4mgmgSbw)
+
+# Algorithms a visual introduction
+
+[Top 7 Algorithms](https://www.youtube.com/watch?v=kp3fCihUXEg)
+
+These include:
+
+- Binary Search: **Try to find a specific value in a sorted array**
+- Depth-First Search:
+- Breadth-First Search
+- Merge Sort
+- Quick Sort
+- Greedy
 
 # General Important Resources
 
