@@ -1,1 +1,3 @@
-# [Cartas a um jovem terapeuta](https://www.amazon.com.br/Cartas-jovem-terapeuta-psicoterapeutas-aspirantes/dp/854221658X)
+# [Cartas a um jovem terapeuta](https://www.amazon.com.br/
+
+# Talent is Overrated: What Really Separates World-Class Performers from Everybody Else

@@ -727,9 +727,17 @@ Futebol Words:
 - tight: apertado
 - extended time: The time that the referee adds to the game
 
-19/02
+# 19/02
 
 - Take over: When you take control of something
 - Enhance: To improve something
 - Handsome: similar to beautiful
 - Complain: To say that you don't like something
+
+# 25/02
+
+- Outstanding: When you do something very well
+- unencumbered: free from any noise
+- concern: preocupação
+- 'I'm worry about him' - Eu fico preocupado com ele
+- summit: the top of a mountain
