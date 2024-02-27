@@ -39,7 +39,7 @@ Hidden below this simple interface:
 
 Tactical x Strategic design
 
-Tactical is when your manager say to deliver a feature for tomorrow, and maybe everyone already had this type of guy in your team/company. And for me it's ok, but it's easy to notice that in the long term
+Tactical is when your manager says to deliver a feature for tomorrow, and maybe everyone already has this type of guy in your team/company. And for me it's ok, but it's easy to notice that in the long term
 
 
 - Invest in good design today

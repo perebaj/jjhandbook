@@ -9,7 +9,7 @@ The Golang was built to be more than just a programming language, was built to m
 Rob Pike
 ```
 
-# Outstanding decision about Golang
+# the outstanding decision about Golang
 
 ## Golang specification
 
@@ -17,7 +17,7 @@ Indeed, you have a simple place, where all details about the language are gather
 
 - [go spec](https://go.dev/ref/spec)
 
-## Other minors aspects inside specification
+## Other minor aspects of the specification
 
 - Compatibility across version
 - Run and build binaries across different OS
