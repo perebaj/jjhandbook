@@ -34,3 +34,16 @@ Hidden below this simple interface:
 - disk allocation
 - directory management
 - permission management
+
+## Working code isn't enough
+
+Tactical x Strategic design
+
+Tactical is when your manager say to deliver a feature for tomorrow, and maybe everyone already had this type of guy in your team/company. And for me it's ok, but it's easy to notice that in the long term
+
+
+- Invest in good design today
+    - Goal: Produce a great design
+    - Simplify future development
+    - Minimize complexity
+    - Must sweat the details (small things)
