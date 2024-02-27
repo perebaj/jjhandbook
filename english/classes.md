@@ -741,3 +741,15 @@ Futebol Words:
 - concern: preocupação
 - 'I'm worry about him' - Eu fico preocupado com ele
 - summit: the top of a mountain
+
+# 26/02
+
+- I was pleased to meet you: Happy or satisfied to meet you
+- Overlap: when you have a Venn diagram
+    - The two courses have a considerable overlap in terms of content
+    - There is a significant overlap between the interests of the two groups
+    - His work and personal life often overlap, making it hard to find a balance
+- Tight on time: When you don't have time
+    - The deadline is tight, so we need to elaborate a new approach
+    - The budget is tight this month, so let's try to avoid going out to eat
+    - She wore a tight dress that made her uncomfortable with the
