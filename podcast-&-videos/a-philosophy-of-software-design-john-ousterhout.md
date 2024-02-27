@@ -2,11 +2,11 @@
 
 What is the most important thing in computer science: **problem decomposition**
 
-How do you take a complicated problem or system and chop it up into pieces that you can build relatively independently?
+How do you take a complicated problem or system and chop it up into pieces that you can build relatively independently? Basically how you do a good design decisions?
 
-**The first** thing that we need to be aware of. **Is this could be taught?** Or is this something that you are born with? 100% sure that can be taught!
+**The first** question around good software design is: **Is this could be taught?** Or is this something that you are born with? 100% sure that can be taught!
 
-**Second.** Who is going to do it? The best guy to do it is the software engineer. Having a lot of different experiences, and what is more important, make sure that you are evolving and taking notes about engineering decisions that you made in the past, comparing them and also learning from them. (And of course, have a good ecosystem of good engineers around you).
+**Second.** Who is going to do it? The best guy to do it is the **software engineer**. Having a lot of different experiences, and having sure that you are evolving and taking notes about engineering decisions that you made in the past, comparing them and also learning from them. (And of course, have a good ecosystem of good engineers around you).
 
 **Third.** How do you do it? Criticism!
 
@@ -28,18 +28,20 @@ int close(int fd);
 off_t lseek(int fd, off_t offset, int whence);
 ```
 
-In this case you a a complex process, but it's simple to use, the methods are well-defined!
+In this case, you have a complex operation, but it's simple to use, just **five** well-defined methods!
 
 Hidden below this simple interface:
 - disk allocation
 - directory management
 - permission management
 
+But for the end user, this doesn't matter, I just want to, open, read, write or close my file!
+
 ## Working code isn't enough
 
 Tactical x Strategic design
 
-Tactical is when your manager says to deliver a feature for tomorrow, and maybe everyone already has this type of guy in your team/company. And for me it's ok, but it's easy to notice that in the long term
+Tactical is when your manager says to deliver a feature for yesterday, and maybe everyone already has this type of guy in your team/company, For me it's ok, but it's easy to notice that in the long term just can cause a mess on the code base and the product.
 
 
 - Invest in good design today
