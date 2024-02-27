@@ -47,3 +47,23 @@ Tactical is when your manager says to deliver a feature for tomorrow, and maybe 
     - Simplify future development
     - Minimize complexity
     - Must sweat the details (small things)
+
+## How to move fast
+
+- Hire top programmers.
+
+It's possible to have a successful product, with a spaghetti code base, but it's not sustainable, we have a lot of examples in the market (on both sides), but related to software design, have good programmers that will take over the design and make it better with handsome patterns and principles, it's the best way to move fast with a solid architecture.
+
+Some basic "rules":
+
+- Make continual small investments: 10-20% of your time
+- When writing new code
+    - **Careful** design
+    - Good documentation
+
+- When changing existing code
+    - **Always** find something to improve
+
+```txt
+Small steps, not heroics
+```
