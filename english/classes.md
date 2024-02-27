@@ -730,9 +730,21 @@ Futebol Words:
 # 19/02
 
 - Take over: When you take control of something
+    - This company plans to take over the market with its innovative products
+    - The rebels attempted to take over the government
+    - He is worried that AI will take over his job
 - Enhance: To improve something
+    - Studying abroad can enhance cultural understanding and language skills
+    - Adding spices can enhance the flavor of the dish
+    - Regular exercise can enhance your physical and mental health
 - Handsome: similar to beautiful
+    - The mansion has a handsome garden
+    - He received a handsome salary for his work
+    - He invested a handsome amount of time in his project
 - Complain: To say that you don't like something
+    - The customer usually complain about the slow service of the employees
+    - The residents of the neighborhood complain about the noise from the construction at 6 am
+    - Employees complain about the lack of communication between the CEO and the staff engineers
 
 # 25/02
 
@@ -752,4 +764,4 @@ Futebol Words:
 - Tight on time: When you don't have time
     - The deadline is tight, so we need to elaborate a new approach
     - The budget is tight this month, so let's try to avoid going out to eat
-    - She wore a tight dress that made her uncomfortable with the
+    - She wore a tight dress that made her uncomfortable with it
