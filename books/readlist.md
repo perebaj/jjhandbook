@@ -1,3 +1,3 @@
-## Philosophy
+# [Cartas a um jovem terapeuta](https://www.amazon.com.br/
 
-## Comp
+# Talent is Overrated: What Really Separates World-Class Performers from Everybody Else

@@ -14,7 +14,7 @@
 
 ## Flex Box
 
-**flex-direction**: Basically, it defines the direction of a hide arrow, that could point vertically or horizontally.
+**flex-direction**: Basically, it defines the direction of a hidden arrow, that could point vertically or horizontally.
 
 ```css
 .flexbox {
@@ -40,3 +40,6 @@
 
 
 [Learn Flexbox CSS in 8 minutes](https://www.youtube.com/watch?v=phWxA89Dy94)
+[The perfect Spacing Framework in UI](https://www.youtube.com/watch?v=Al1xsdol4Pk)
+
+The to use the space between elements inside a frame lesser than the padding, and always use a multiple of 4 to define these spaces. (Four point grid system)

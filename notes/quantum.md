@@ -22,7 +22,7 @@ Unlike bits act like a switch, meaning that their value could be **zero or one**
 
 Visualy, could be represented as something like that:
 
-![qbits](qbits.png)
+![qbits](./assets/qbits.png)
 
 
 - entanglement

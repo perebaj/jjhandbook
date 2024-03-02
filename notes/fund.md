@@ -1,0 +1,58 @@
+# [What Investors Look for in a Startup Founders from Former YC Partner](https://www.youtube.com/watch?v=4cDCl4cS5xY&ab_channel=JomaTech)
+
+What is more important?
+
+- Grit around iteration: Just make something and iterate on it. Even if it sucks!
+- Shockingly Simple: Just build and show up to people.
+
+1. What is it?
+2. Who's it for?
+3. What problem does it solve?
+4. Does it solve it well?
+
+Why does a startup fail?
+
+- Cofounder problems
+    - Prefer teams that already build something together(Camping example)
+
+# [Software is Eating the Work(and still needs your help)](https://www.youtube.com/watch?v=I8bq5Xamzuo&ab_channel=GarryTan)
+
+```
+Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.
+
+- Marc Andreessen
+```
+
+# [How Startup Fundraising Works | Startup School](https://www.youtube.com/watch?v=zBUhQPPS9AY&list=WL&index=2&t=211s&ab_channel=YCombinator)
+
+```
+Raising money is the second hardest part of starting a startup
+
+- Paul Graham
+```
+
+## Myths
+
+- Found money is glamorous
+- The need to raise money before starting a startup
+    - It's easier than ever to build a site or an app
+    - It's easier than ever to find customers
+- My startup needs to be impressive to raise money
+  - it's not about impressing, it's about building something that people want and will pay for it
+- Raising money is complicated, slow and expensive
+    - Seed Round:
+        - Size: $500k - $2M
+        - Time to close: Weeks
+        - Legal fees: $0
+- I'm going to lose control of my company
+- I need a fancy network to raise money
+- This isn't for you
+    - BULLSHIT!
+
+# TODO:
+
+- [A Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising)
+- [Fundraising](http://www.paulgraham.com/fundraising.html)
+- [StartFund](http://www.paulgraham.com/startupfund.html)
+- [Convince](http://www.paulgraham.com/convince.html)
+- [Herd](http://www.paulgraham.com/herd.html)

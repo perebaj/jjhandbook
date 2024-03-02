@@ -15,3 +15,8 @@ Why people are interest in Rust?
 **system programming**, is when you are aware of your resources, and seems that people are interested in that
 
 He is arguing that C(++) aren't safety languages and to solve that, you need to put a garbage collector on top of the language, but on the name of it, you are sacrificing the control that these languages have
+
+# Good Resources
+
+- [🦀 Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
+- [Why Rust by an Rust engineer OBs: A lot of accurate information](https://corrode.dev/)

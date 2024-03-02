@@ -1,0 +1,2 @@
+- [Attention Is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro)
+- [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
