@@ -765,3 +765,49 @@ Futebol Words:
     - The deadline is tight, so we need to elaborate a new approach
     - The budget is tight this month, so let's try to avoid going out to eat
     - She wore a tight dress that made her uncomfortable with it
+
+# 27/02
+
+- Afford:
+    - I can't afford my time on this project, I have a tight life right now
+    - I don't know if is a good idea to afford this team in this project, we don't know if we can deliver the expected value
+    - Many families struggle to afford time with their children
+
+Pronoun + should/could/would **have** + verb in past participle
+
+choose/chose/chosen
+present/past/past participle
+
+would have. The second part of sentence or will use but or if
+
+
+<!-- what is participle? It's the verb in the past -->
+
+To be  |  been
+to bit |  bitten
+To drive | driven
+To eat | eaten
+To write | written
+To catch | caught
+To hold | held
+To leave | left
+To smell | smelt
+To shine | shone
+To lose | lost
+To drink | drunk
+To do | done
+To understand | understood
+To teach | taught
+To tell | told
+
+
+Pronunciation: I shouldn't have > I "shouldntOF"
+
+To put | put
+To wet | wet
+To shut | shut : meaning to close
+To knit | knit : meaning to make a sweater
+
+read | read > REEAD
+
+to repent
