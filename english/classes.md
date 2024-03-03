@@ -811,3 +811,13 @@ To knit | knit : meaning to make a sweater
 read | read > REEAD
 
 to repent
+
+# 02/03
+
+- Hinder
+    - Think a lot before just starting could hinder your ideas
+    - If you eat a lot before a physical exercise could hinder your performance
+
+- Dodge:
+    - the employee dodged the question and didn't answer it
+    - The girl dodged the ball

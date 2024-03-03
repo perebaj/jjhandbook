@@ -114,3 +114,7 @@ They follow some virtues that guide the way that they understand the world and l
 - Veracity or Sincerity: You are acting in that way because you belive in it.
 
 They develop and refine their culture continuously over a very long period, using defined and specific rules to guide the behavior of their followers.
+
+## ---
+
+About conversations: Don't have a guide because you will pay more attention to the next questions instead of trying to capture some reasoning lack or connect the answers in a different chain of thoughts.
