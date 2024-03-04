@@ -43,3 +43,14 @@ This should be true, but isn't! People look for appearance, the way that you tal
 # Salary range
 
 Just put your salary range to the moon if you are in a comfortable situation, otherwise you are dumb. I'm saying that, because I did this move, based on the "market talk", and looking a step back, I was stupid.
+
+## Questions about the product/company
+
+- How do you make money?
+- How do people know about the product and how do you attract them?
+- How do you deal with the competition?
+
+## Questions about the engineering team
+
+- How do you deal with new demands?
+
