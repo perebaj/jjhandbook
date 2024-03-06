@@ -750,13 +750,16 @@ Futebol Words:
 
 - Outstanding: When you do something very well
 - unencumbered: free from any noise
-- concern: preocupação
+- concern:
+    - I'm concerned about the future of the company
+    - I just have one concern about the project
 - 'I'm worry about him' - Eu fico preocupado com ele
 - summit: the top of a mountain
 
 # 26/02
 
 - I was pleased to meet you: Happy or satisfied to meet you
+    - I'm not pleased with my interview performance, maybe if I speak slowly I can enhance my pitch
 - Overlap: when you have a Venn diagram
     - The two courses have a considerable overlap in terms of content
     - There is a significant overlap between the interests of the two groups
