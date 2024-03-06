@@ -824,3 +824,10 @@ to repent
 - Dodge:
     - the employee dodged the question and didn't answer it
     - The girl dodged the ball
+
+# 06/03
+
+Caught up in that: When you are involved in some topic or something else
+    - I'm caught up in that project
+    - I'm caught up in that book
+    - I'm caught up with that girl
