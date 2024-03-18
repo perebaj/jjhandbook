@@ -67,6 +67,17 @@ Por ser um problema que pode ser resolvido usando recursão, é extremamente imp
 
 Nesse caso, seria quanto o valor de N for 0 ou 1, que são os casos base. E para N < 0.
 
+### Store(Memoization != memorization) also known as Top-Down
+
+A technique to speed up the algorithm by storing the results that were already calculated and using them on future calculations.
+
+The term "memoization" comes from the **Latin** word "memorandum" which means "to remember", and it's confused with "memorization" which means "to memorize".
+
+But both are very similar.
+
+### Bottom-up
+
+Similar to the top-down approach, but instead of using recursion, we use a loop to solve the problem. The tricky is to find the mathematical relationship between the subproblems, but the performance and the memory usage are better.
 
 ## Linked Lists
 
@@ -188,7 +199,6 @@ Trees provide a hierarchical representation of data, making it easy to organize 
 Arrays are one of the basic structures in computer science and one of the most used. Here I will try to cover some of the most important techniques and algorithms that we can use to solve problems.
 
 ## Sliding Window
-The main idea of a sliding windows technique is to convert a nested loop into a single loop, which will reduce the time complexity of the algorithm.
 
 ### Types
 
