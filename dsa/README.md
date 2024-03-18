@@ -37,6 +37,37 @@ In the end, I'm just studying that to be approved for a job interview is pure bu
 
 - Care about the big values
 
+## Dynamic Programming
+
+The method used to solve complex problems chunking them into the smallest subproblems, storing these values and using them to solve further problems.
+
+So, the solution of the whole problem is a result of the solution of the subproblems.
+
+- Establish a mathematician relationship between the subproblems and the main problem and use it to solve the whole problem
+
+![](./DP.jpeg)
+
+O exemplo acima é um bem simples sobre como o DP funciona, aqui,estamos tentando encontrar o valor máximo de possibilidades para chegar ao topo(N) dando 1 ou 2 saltos.
+
+Podemos observar alguns pontos importantes:
+
+- Caso o numero de degraus seja 4, podemos observar que todas as possibilidades de chegar ao 4 foram formadas até a altura 3 dessa árvore.
+- A complexidade para resolver esse problema deve contemplar todas as possibilidades que estamos tentando formar. Fazendo algumas relações básicas, é simples de observar que isso é 2^n, ou seja, exponencial.
+- Agora a parte mais diícil, nos convencermos de que a solução para N=3, é a soma das soluções para N=1 + N=2, ou seja, 3 = 1 + 2.
+    - Para N=4, a solução é a soma das soluções para N=2 + N=3, ou seja, 5 = 2 + 3
+    - Para N=5, a solução é a soma das soluções para N=3 + N=4, ou seja, 8 = 3 + 5
+    - E assim por diante
+
+Sabendo destes pequenos detalhes, podemos aplicar para outros problemas de DP. Entre eles, é comum observar:
+
+- Problemas de maximização ou minimização
+
+
+Por ser um problema que pode ser resolvido usando recursão, é extremamente imporante pensar em como podemos parar a recursão para ela não se tornar infinita.
+
+Nesse caso, seria quanto o valor de N for 0 ou 1, que são os casos base. E para N < 0.
+
+
 ## Linked Lists
 
 ### Introduction
@@ -193,6 +224,10 @@ for i := 0; i < n; i++ {
 - [Array CheatSheet](https://www.techinterviewhandbook.org/algorithms/array/)
 
 - [Solve subarray problems FASTER (using sliding window)](https://www.youtube.com/watch?v=GcW4mgmgSbw)
+
+# Difficulty to learn x Recompensation
+
+![](./learn-table.png)
 
 # Algorithms a visual introduction
 
