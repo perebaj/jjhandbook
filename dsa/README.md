@@ -103,6 +103,36 @@ Try to fix a lack of arrays, that is: **It was designed to be always the right s
 - Adding/Removing at the end of the DS
 - Working in the middle
 
+# Backtracking
+
+I think that it's a good idea to think about back tracking as a permutation of elements with some constraints that will be applied to the solution and consecutively, will reduce the number of possibilities.
+
+Can be solved using recursion. And as usual, the base case and the constraints are the most important part of the solution.
+
+## Good Exercises to think about it
+
+[LeetCode generate parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+In the exercise, we can start to think about generating all the possibilities, and validate if they are correct or not.
+
+The other way is to think about the constraints and the base case
+
+> Where I'm able to put a new open parenthesis?
+
+If N=3, this means that I can put a maximum of 3 open parentheses, in other others open < 3
+
+> Where I'm able to put a new close parenthesis?
+
+If I have 1 open parenthesis, I can put 1 close parenthesis;
+If I have 2 open parenthesis, I can put 2 close parenthesis;
+If I have 0 open parenthesis, I can't put a close parenthesis
+
+in other words, close < open
+
+**the base case is when open == close == n**
+
+Problem solved!
+
 # Trees
 
 ## Binary Search Trees(BSTs)
