@@ -1,10 +1,10 @@
-# Trickies
+# Trickiest
 
-Sometimes you need to be able to know previously, some specific tricks to solve a problem, here are some of them:
+Sometimes you need to previously know some specific tricks to solve a problem, here are some of them:
 
-- Sum of the integer for number like 25: the sum 2 + 5 = 7
+- Sum of digits: 258 : 2 + 5 + 8 = 15
 
-To do that, you can conver the number to a string and then iterate over the string and sum the numbers.
+Ways to implement that using Golang
 
 ```go
 func sumOfDigits(n int) int {

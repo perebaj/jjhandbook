@@ -103,6 +103,64 @@ Try to fix a lack of arrays, that is: **It was designed to be always the right s
 - Adding/Removing at the end of the DS
 - Working in the middle
 
+# Queue
+
+- Linear data structure
+- Flexible size
+- FIFO, first in first out
+
+```go
+type Queue struct {
+    items []int
+}
+
+// inserting the element at the end of the queue
+func (q *Queue) Enqueue(i int) {
+    q.items = append(q.items, i)
+}
+
+// removing the first element of the queue
+func (q *Queue) Dequeue() int {
+    toRemove := q.items[0]
+    q.items = q.items[1:] // removing the first element, that will be always the [0]
+    return toRemove
+}
+
+// returning the first element of the queue
+func (q *Queue) Peek() int {
+    return q.items[0]
+}
+```
+
+# Stack
+
+- Last in, first out
+
+```go
+type Stack struct {
+    items []int
+}
+
+func (s *Stack) Push(i int) {
+    s.items = append(s.items, i)
+}
+
+func (s *Stack) Pop() int {
+    toRemove := s.items[len(s.items)-1]
+    s.items = s.items[:len(s.items)-1]
+    return toRemove
+}
+
+func (s *Stack) Top() int {
+    return s.items[len(s.items)-1]
+}
+```
+
+
+## Monotonic Stack
+
+Used to solve problems that require finding the next greater element in an array and reduce the time complexity to O(N).
+
 # Backtracking
 
 I think that it's a good idea to think about back tracking as a permutation of elements with some constraints that will be applied to the solution and consecutively, will reduce the number of possibilities.
