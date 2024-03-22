@@ -79,6 +79,17 @@ But both are very similar.
 
 Similar to the top-down approach, but instead of using recursion, we use a loop to solve the problem. The tricky is to find the mathematical relationship between the subproblems, but the performance and the memory usage are better.
 
+## Doubly Linked List
+
+- A linked list that has two pointers, one pointing to the next node and the other pointing to the previous node
+
+- Start with a head and a tail
+
+- The tail NEXT points to NULL
+- The head PREV pointer points to NULL
+- The tail PREV points to the last node or head at the beginning
+- The head NEXT points to the first node or tail in the beginning
+
 ## Linked Lists
 
 ### Introduction
