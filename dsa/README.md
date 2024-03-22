@@ -90,6 +90,36 @@ Similar to the top-down approach, but instead of using recursion, we use a loop 
 - The tail PREV points to the last node or head at the beginning
 - The head NEXT points to the first node or tail in the beginning
 
+```go
+    type Node struct {
+        data, value int
+        next, prev *Node // next and prev are just pointer to another node, for this reason, we are using *
+    }
+
+    type DoublyLinkedList struct {
+        head, tail *Node
+    }
+
+    func Constructor() DoublyLinkedList {
+        head := &Node{data: 0, value: 0}
+        tail := &Node{data: 0, value: 0}
+        head.Next = tail
+        head.Prev = nil
+        tail.Prev = head
+        tail.Next = nil
+        return DoublyLinkedList{head, tail}
+    }
+
+    func main() {
+        list := Constructor()
+        fmt.Println(list)
+    }
+```
+
+
+### Resource [Doubly Linked List](https://www.codecademy.com/article/doubly-linked-list-conceptual)
+
+
 ## Linked Lists
 
 ### Introduction
