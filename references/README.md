@@ -13,6 +13,7 @@
 ## [Peter Bourgon](https://peter.bourgon.org/)
 ## [Kent Beck](https://tidyfirst.substack.com/)
 ## [Andrew Gerald](https://nf.wh3rd.net/)
+## [John Arundel](https://bitfieldconsulting.com/golang)
 
 # Some sites that I like to read:
 
