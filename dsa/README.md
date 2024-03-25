@@ -8,7 +8,7 @@
 - Graphs
 - Hash Maps
 
-## Why learn this shi*t?
+# Why learn this shi*t?
 
 - I don't give a fuck about that in the University, this doesn't mean that I'm completely dumb about the topic, but, I'm not even able to feel comfortable weaving a discussion of it
 
@@ -20,7 +20,7 @@
 
 In the end, I'm just studying that to be approved for a job interview is pure bullshit, but as I have free time to spend on it, I think that is a good opportunity.
 
-## Algorithms
+# Algorithms
 
 
 ## Time Complexity
@@ -37,7 +37,7 @@ In the end, I'm just studying that to be approved for a job interview is pure bu
 
 - Care about the big values
 
-## Dynamic Programming
+# Dynamic Programming
 
 The method used to solve complex problems chunking them into the smallest subproblems, storing these values and using them to solve further problems.
 
@@ -67,7 +67,7 @@ Por ser um problema que pode ser resolvido usando recursão, é extremamente imp
 
 Nesse caso, seria quanto o valor de N for 0 ou 1, que são os casos base. E para N < 0.
 
-### Store(Memoization != memorization) also known as Top-Down
+## Store(Memoization != memorization) also known as Top-Down
 
 A technique to speed up the algorithm by storing the results that were already calculated and using them on future calculations.
 
@@ -75,11 +75,11 @@ The term "memoization" comes from the **Latin** word "memorandum" which means "t
 
 But both are very similar.
 
-### Bottom-up
+## Bottom-up
 
 Similar to the top-down approach, but instead of using recursion, we use a loop to solve the problem. The tricky is to find the mathematical relationship between the subproblems, but the performance and the memory usage are better.
 
-## Doubly Linked List
+# Doubly Linked List
 
 - A linked list that has two pointers, one pointing to the next node and the other pointing to the previous node
 
@@ -120,9 +120,9 @@ Similar to the top-down approach, but instead of using recursion, we use a loop 
 ### Resource [Doubly Linked List](https://www.codecademy.com/article/doubly-linked-list-conceptual)
 
 
-## Linked Lists
+# Linked Lists
 
-### Introduction
+## Introduction
 
 Try to fix a lack of arrays, that is: **It was designed to be always the right size**
 
@@ -133,16 +133,6 @@ Try to fix a lack of arrays, that is: **It was designed to be always the right s
     - **data**, information that we decided to save on it
 - The last node points to **NULL**
 - The first component of a linked list is called HEAD
-
-## Nodes and Size
-
-## Boundaries Conditions
-
-- Empty data structure
-- A single element in the DS
-- Adding/Removing at the beginning of DS
-- Adding/Removing at the end of the DS
-- Working in the middle
 
 # Queue
 
@@ -329,7 +319,7 @@ Arrays are one of the basic structures in computer science and one of the most u
 
 ## Sliding Window
 
-### Types
+## Types
 
 - Fixed Size
 - Dynamic Size
@@ -358,8 +348,42 @@ for i := 0; i < n; i++ {
 }
 ```
 
+# Binary Search
 
-## Resources
+A visual representation
+
+0. [2,3,3,4,6,7,8,9] | **target=7**
+1. [6,7,8,9] | **target=7**
+2. [6,7] | **target=7**
+3. [7] | **target=7*
+
+An important detail about binary search is defining if we are trying to say if the element exists or returning it index. Depending on the question, this could change, according to the array and the way that we implement it. We could have different outputs! Let's see an example:
+
+
+A normal Binary search, [like this one](https://github.com/perebaj/playground/blob/main/leetcode/binary-search/main.go), for this input:
+
+- [1,2,2,2,2,2,2,4,4,5,6].
+
+Will return the following index:
+
+- 5
+
+That is true, but we can improve this implementation to return the first occurrence of the element, or the last one. This is very important to understand, and before jumping into the code, let's build a visual representation.
+
+[1,2,2,2,2,2,2,4,4,5,6]. Using the same array. Let's say that we are trying to find 2;
+
+
+[T, F, F, F, F, F, F, F, F, F, F] | **target=2**
+
+the values are True or False, if **<2**, will be **false**, otherwise, will be **true**.
+
+This could be used to find the first occurrence. And we can use a similar representation to find the last.
+
+[T, T, T, T, T, T, T, F, F, F, F] | **target=2**
+
+In both cases, the first occurrence of **F** will be our answer. If there isn't any **F**, the element should occupy the last position or the first one, depending on the case.
+
+# Resources
 - [Array CheatSheet](https://www.techinterviewhandbook.org/algorithms/array/)
 
 - [Solve subarray problems FASTER (using sliding window)](https://www.youtube.com/watch?v=GcW4mgmgSbw)
