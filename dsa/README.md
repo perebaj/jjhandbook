@@ -383,6 +383,19 @@ This could be used to find the first occurrence. And we can use a similar repres
 
 In both cases, the first occurrence of **F** will be our answer. If there isn't any **F**, the element should occupy the last position or the first one, depending on the case.
 
+Using this algorithm you need to have in mind that you are looking for the **false value**. So, if you find a true value in the middle, then you can iterate to the middle + 1, otherwise, you just assign the right value to the middle, because the current **false value could be the answer.**
+
+Something like that:
+
+```
+if nums[mid] < target // true case {
+    left = mid + 1
+} else {
+    right = mid
+}
+
+```
+
 # Resources
 - [Array CheatSheet](https://www.techinterviewhandbook.org/algorithms/array/)
 
