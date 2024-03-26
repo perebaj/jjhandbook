@@ -1,5 +1,7 @@
 # [What You Do Is Who You Are: How to Create Your Business Culture](https://www.amazon.com/What-You-Do-Is-Who-You-Are-audiobook/dp/B07XVPLHV9/ref=sr_1_1?hvadid=616989085178&hvdev=c&hvlocint=9024264&hvlocphy=1031859&hvnetw=g&hvqmt=e&hvrand=10638785214272443872&hvtargid=kwd-832416064946&hydadcr=15283_13597278&keywords=who+you+are+is+what+you+do&qid=1707069814&sr=8-1)
 
+"A cultura é aquilo que você recompensa ou aquilo que você proibe"
+
 ## Introduction
 
 ```txt

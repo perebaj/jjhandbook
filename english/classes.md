@@ -831,3 +831,12 @@ Caught up in that: When you are involved in some topic or something else
     - I'm caught up in that project
     - I'm caught up in that book
     - I'm caught up with that girl
+
+Threat: When someone does something that can harm you
+    - Bolsonaro was a threat president for the Brazilian people
+    - Having this plant close to the city is a threat to the people that live there
+
+# 07/03
+
+- Surveilled: When you are being watched 
+    - I was being surveilled by the US government
