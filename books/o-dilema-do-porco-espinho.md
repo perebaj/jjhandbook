@@ -22,6 +22,7 @@
 
 Experiências normais como, um primeiro encontro, o primeiro dia de aula ou trabalho, ir a um restaurante sozinho, falar uma lingua diferente, mostra como é dificil viver no mundo real, sempre existe muita incerteza, e o que a sociedade vem mostrando, é que estamos cada vez mais distante destas experiências por advento da tecnologia.
 
+A companhia real é boa, pois ela é diferente de mim, causa dor, desconforto, um conhecimento a mais, uma experiência. **Viver em grupo é um ato de maturidade.**
 
 ### Conclusão
 
