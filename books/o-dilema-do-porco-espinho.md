@@ -26,7 +26,12 @@ A companhia real é boa, pois ela é diferente de mim, causa dor, desconforto, u
 
 ### Conclusão
 
-Capítulo fala como a internet cria um isolamente, onde você é o dono de todas as ações, amigo de todos e capaz de compartilhar sua felicidade e ver a felicidade alheia, mas que soa como uma droga, feita para se sentir menos solitário, mas que falha, pois estamos criando uma sociedade onde as pessoas perdem o contato físico e se tornam menos resilientes para as coisas normais da vida.
+Capítulo fala como a internet cria um isolamente, onde você é o dono de todas as ações, amigo de todos e capaz de compartilhar sua felicidade e ver a felicidade alheia, mas que soa como uma droga, feita para se sentir menos solitário, mas que falha, pois estamos criando uma sociedade onde as pessoas perdem o contato físico e se tornam menos resilienocs para as coisas normais da vida.
+
+## Cápitulo 3 - Solidão, Solitude e livros
+
+- Quanto mais consciente você for, mais solitário você é.
+- Somos egitstrangeiros a nós mesmos
 
 ## Termos
 - Seres Gregários
