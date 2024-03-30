@@ -1,5 +1,7 @@
 # [What You Do Is Who You Are: How to Create Your Business Culture](https://www.amazon.com/What-You-Do-Is-Who-You-Are-audiobook/dp/B07XVPLHV9/ref=sr_1_1?hvadid=616989085178&hvdev=c&hvlocint=9024264&hvlocphy=1031859&hvnetw=g&hvqmt=e&hvrand=10638785214272443872&hvtargid=kwd-832416064946&hydadcr=15283_13597278&keywords=who+you+are+is+what+you+do&qid=1707069814&sr=8-1)
 
+"A cultura é aquilo que você recompensa ou aquilo que você proibe"
+
 ## Introduction
 
 ```txt
@@ -114,3 +116,7 @@ They follow some virtues that guide the way that they understand the world and l
 - Veracity or Sincerity: You are acting in that way because you belive in it.
 
 They develop and refine their culture continuously over a very long period, using defined and specific rules to guide the behavior of their followers.
+
+## ---
+
+About conversations: Don't have a guide because you will pay more attention to the next questions instead of trying to capture some reasoning lack or connect the answers in a different chain of thoughts.

@@ -37,3 +37,4 @@ Indeed, you have a simple place, where all details about the language are gather
         - go tidy
 
         make your life easier and tons of time saved
+- Concurrency
