@@ -7,3 +7,5 @@
 # [Build your own DB using Golang](https://build-your-own.org/database/)
 
 # [David Riesman - The lonely crowd]
+
+# Zero to one
