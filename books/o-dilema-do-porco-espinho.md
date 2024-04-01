@@ -33,6 +33,17 @@ Capítulo fala como a internet cria um isolamente, onde você é o dono de todas
 - Quanto mais consciente você for, mais solitário você é.
 - Somos egitstrangeiros a nós mesmos
 
+Mostra vários livros onde a solidão é alvo dos autores e como os protagonistas ou personagens em questão lidam com isso
+
+## Capitulo 4
+
+- Ver o pecado e não participar dele. é uma forma de solidão.
+- Deus prove muito aos seus fieis mais próximos.
+- É facil crer quando se tem tudo, a fé é posta a prova na falta(deserto). Talvez por isso Santo Antão, tenha entrado em um periodo de solidão/reclusão, para ficar mais próximo de sua fé.
+- Nutrição do espirito sobre a abnegação do corpo.
+    - Quem não moritfica o corpo, põe em risco a própria alma.
+
+
 ## Termos
 - Seres Gregários
 - Judáico-Cristão
