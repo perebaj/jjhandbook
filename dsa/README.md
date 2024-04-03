@@ -313,6 +313,26 @@ Trees provide a hierarchical representation of data, making it easy to organize 
 - [Binary Search Trees: Samuel's tutorial](https://www.youtube.com/watch?v=0woI8l0ZWmA)
 - [All you need to know about tree data structure](https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/)
 
+# HashMap
+
+This turns into an important topic for me because, in an interview, I was asked if I knew how to implement a hashmap. And I don't!
+
+But it's pretty simple. I will try to exemplify it here with my words.
+
+There are just 3 components
+
+- Hash Function
+- List(Array)
+- LinkedList
+
+The hash function is responsible for receiving an input(key), and as output, splitting always the same index where the values will be saved.
+
+The list is just a simple list where we can store the keys and their respective values. (So, inside each index, we can have a complex data structure)
+
+The linked list is used to solve the hash collision, so, if for different keys, the **hash function** generates the same index, we can store them in a linked list.
+
+Other complex operations try to minimize the size of the linked list, but this is the basic idea. Simple like that!
+
 # Arrays
 
 Arrays are one of the basic structures in computer science and one of the most used. Here I will try to cover some of the most important techniques and algorithms that we can use to solve problems.
