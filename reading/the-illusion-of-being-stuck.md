@@ -7,7 +7,7 @@
 
 [Good comments](https://news.ycombinator.com/item?id=39884004)
 
-in special, this one
+in particular, this one
 
 ```
 The difference between medicine in poison is the dose ("the dose makes the poison.") Good ideas taken to extreme are often Very Bad, but sometimes a little bit of the idea is exactly what you need.
