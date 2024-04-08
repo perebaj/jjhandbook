@@ -9,3 +9,7 @@
 # [David Riesman - The lonely crowd]
 
 # Zero to one
+
+# [System Design Interview – An insider's guide]
+
+# [The 4-Hour Workwee]
