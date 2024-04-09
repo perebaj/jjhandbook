@@ -5,7 +5,7 @@ Some core foundation knowledge about systems
 **Design fundamentals**
 
 - Defend out position
-- Prove our point
+- Prove your point
 
 Tools: Have a basic understanding of the **available instruments** that should be connected to build a system.
 
@@ -25,3 +25,19 @@ Usually, the ports that public services use are:
 Besides that, we have the client and the server. To components that establish connections to send and receive data.
 
 Usually, the client is the browser, the user or someone else that is trying to access something, on the other hand, the server is the machine that has the data, and it's responsible for sending it back to the client.
+
+# Network Protocols
+
+Set of rules that establish patronized communication between two sides.
+
+A good analogy could be the language, if two people don't speak the same language, they can't communicate. The same happens with serves and clients. The engineers create a set of patterns that makes possible communication between them.
+
+## Protocols
+
+- **IP**: Internet Protocol - All current internet uses this protocol, and it is formed by IP packages, which are bits formed by headers and data.
+
+- Order and Size: The IP protocol by itself doesn't have a reliable way to send packages in an ordered way or even manage chunks of packages that are bigger than the maximum size of a package. For this reason, other protocols were created.
+
+- **TCP**: Transmission Control Protocol - Introduced to solve the problems of the IP protocol, for example adding in the headers other information to make possible the ordered.
+
+**HTTP**: Hypertext Transfer Protocol - It's a protocol that uses TCP to send and receive data. It's the protocol that browsers use to communicate with servers.
