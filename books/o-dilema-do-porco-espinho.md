@@ -2,7 +2,7 @@
 
 ## Introdução
 
-## Cápitulo 1
+## Cápitulo 1 - Não é bom que o homem esteja só
 
 ## Cápitulo 2
 
@@ -35,16 +35,28 @@ Capítulo fala como a internet cria um isolamente, onde você é o dono de todas
 
 Mostra vários livros onde a solidão é alvo dos autores e como os protagonistas ou personagens em questão lidam com isso
 
-## Capitulo 4
+## Capitulo 4 - O deus da solidão
 
 - Ver o pecado e não participar dele. é uma forma de solidão.
 - Deus prove muito aos seus fieis mais próximos.
 - É facil crer quando se tem tudo, a fé é posta a prova na falta(deserto). Talvez por isso Santo Antão, tenha entrado em um periodo de solidão/reclusão, para ficar mais próximo de sua fé.
 - Nutrição do espirito sobre a abnegação do corpo.
     - Quem não moritfica o corpo, põe em risco a própria alma.
+- Tradição judaico-cristã da solidão, onde nesses momentos que os homens solitários, buscam equilibrio e significado para suas vidas.
+    - Existe uma relação entre deserto e essa soliidão
+    - Tentações começam a aparecer para testar a fé. Mas para os que conseguem, são recompensados.
 
+Decartes: Desconfie de sí, pois suas vontades podem ser um simples fruto dos seus desejos carnais.
 
 ## Termos
+
 - Seres Gregários
 - Judáico-Cristão
 - Sincretismo Religioso
+- Impropérios: insultos & ofensas.
+- Emitão: Vivem na solidão do deserto.
+    - Eremita: Pessoa que vive na solidão.
+- Mortificação do corpo
+- Monashios: Solitaŕios que buscam a Deus.
+- Idiossincrasia: Caracteristica própria de um individuo ou grupo.
+    - Origem da palavra: Idio = próprio, peculiar e Synkrasis = mistura.
