@@ -134,6 +134,18 @@ Try to fix a lack of arrays, that is: **It was designed to be always the right s
 - The last node points to **NULL**
 - The first component of a linked list is called HEAD
 
+## Common techniques
+
+- **Fast-Slow pointers**
+
+- **Lead-Lag pointers**
+
+- **Linked-List Reversal**
+
+### Reference
+
+[Solve ANY Linked List question using these 3 simple techniques](https://www.youtube.com/watch?v=zzoAbm35jyQ&)
+
 # Queue
 
 - Linear data structure
