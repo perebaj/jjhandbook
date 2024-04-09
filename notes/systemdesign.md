@@ -15,12 +15,12 @@ A very basic approach to understanding it is trying to comprehend what happens w
 
 Basically, every URL it's a map for an IP address, and our browser is responsible for making this whole process happen.
 
-Each IP address has a lot of ports, that represent am apartment in a building. And you can expose in each of these ports a different program.
+Each IP address has a lot of ports, that represent an apartment in a building. And you can expose in each of these ports a different program.
 
 Usually, the ports that public services use are:
 
-- https: port 443
-- http: port 80
+- HTTPS: port 443
+- HTTP: port 80
 
 Besides that, we have the client and the server. To components that establish connections to send and receive data.
 
