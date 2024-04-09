@@ -48,6 +48,13 @@ Mostra vários livros onde a solidão é alvo dos autores e como os protagonista
 
 Decartes: Desconfie de sí, pois suas vontades podem ser um simples fruto dos seus desejos carnais.
 
+## Capitulo 5 - A imagem do solitário Arte e Cinema em busca do imagético
+
+- Solidão na arte
+- Ninguem cria nada sozinho a partir do nada
+    - todo processo de técnica e conhecimento é um conjunto de colaborações.
+- Mesmo na arte, o isolamento pode nutrir ou destruir o artista.
+
 ## Termos
 
 - Seres Gregários
@@ -60,3 +67,4 @@ Decartes: Desconfie de sí, pois suas vontades podem ser um simples fruto dos se
 - Monashios: Solitaŕios que buscam a Deus.
 - Idiossincrasia: Caracteristica própria de um individuo ou grupo.
     - Origem da palavra: Idio = próprio, peculiar e Synkrasis = mistura.
+- Meandros: disfarces, desvios, subterfúgios.
