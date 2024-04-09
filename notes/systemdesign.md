@@ -40,4 +40,4 @@ A good analogy could be the language, if two people don't speak the same languag
 
 - **TCP**: Transmission Control Protocol - Introduced to solve the problems of the IP protocol, for example adding in the headers other information to make possible the ordered.
 
-**HTTP**: Hypertext Transfer Protocol - It's a protocol that uses TCP to send and receive data. It's the protocol that browsers use to communicate with servers.
+- **HTTP**: Hypertext Transfer Protocol - It's a protocol that uses TCP to send and receive data. It's the protocol that browsers use to communicate with servers.
