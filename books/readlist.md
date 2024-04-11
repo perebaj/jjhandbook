@@ -13,3 +13,5 @@
 # [System Design Interview – An insider's guide]
 
 # [The 4-Hour Workwee]
+
+# [how to solve it by polya]
