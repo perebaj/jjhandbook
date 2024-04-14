@@ -54,6 +54,11 @@ Decartes: Desconfie de sí, pois suas vontades podem ser um simples fruto dos se
 - Ninguem cria nada sozinho a partir do nada
     - todo processo de técnica e conhecimento é um conjunto de colaborações.
 - Mesmo na arte, o isolamento pode nutrir ou destruir o artista.
+- O que é mundo? (Os conceitos fundamentais da metafísica) - Martin Heidegger
+    - Comparação entre os serem inanimados e animados, os inanimados não são capazes de desfrutar do mundo, os animais, como um cachorro vivem em busca de evitar a dor e buscar mais prazeres, são seres pobres de mundo, já o homem seria formador de mundos, pois ele é capaz de criar/explorar e dimensionar o que está a sua volta.
+- Fases da solidão: era utilizada para descrever a falta de alguém, depois a uma condição mental e até uma virtude, relacionada com a capacidade de se autoconhecer, criar e explorar o seu subconsiente.
+- Solidão de alguém que vive na cidade e a solidão de alguém que busca uma vida no campo.
+    - Ou seja, a solidão possiu diversas faces, ela é uma relação direta com um local ou a presença de alguém. É algo inerte ao ser humano, que sempre deve ser tida com cuidado para não se tornar um problema mental ou uma doença.
 
 ## Termos
 
