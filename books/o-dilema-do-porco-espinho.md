@@ -60,6 +60,8 @@ Decartes: Desconfie de sí, pois suas vontades podem ser um simples fruto dos se
 - Solidão de alguém que vive na cidade e a solidão de alguém que busca uma vida no campo.
     - Ou seja, a solidão possiu diversas faces, ela é uma relação direta com um local ou a presença de alguém. É algo inerte ao ser humano, que sempre deve ser tida com cuidado para não se tornar um problema mental ou uma doença.
 
+A solidao pressupoe liberdade. Imagine viver em um local isolado de tudo e todos, voce nao precisa cumprir nenhum dever para com a sociedade ou o ambiente que esta ocupando, pois nao existe ninguem para se encomodar com as suas praticas, a partir do momento que comecamos a viver em sociedade, essa logica deixa de ser valida, pois para vivermos em harmonia, um conjunto de regras e leis, precisa ser estabelecido, caso contrario, viveriamos em um caos.
+
 ## Termos
 
 - Seres Gregários
