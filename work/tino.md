@@ -19,4 +19,30 @@ Portanto criámos uma proposta de valor nas duas etapas da cadeia produtiva, bef
 - Porcentagem sobre as transações
 - Cobrança de multas e juros em caso de atraso no pagamento
 
+# How the market works without Tino
 
+- The supplier sells the products to customers and sometimes doesn't receive the payment immediately
+the clients don't have any idea that this supplier exists
+- The clients don't finalize the payment because they don't have the money
+
+# How the market works with Tino
+
+We create a platform that connects B2B clients and we turn viable the payment and the product delivery for both sides.
+
+# Quarter 1
+
+## Documentation
+
+This could be a huge topic. But what I will try to tease here, is that documentation should also be **simple and easy to understand.**
+
+The documentation space, should not be a place to navigate through a lot of information, but a place to find the key aspects of a service or the motivations behind a decision.
+
+Here are some core topics that should be covered in the documentation:
+
+    Objective - What is the purpose of this documentation
+
+    How does this service/project achieve the objective?
+
+I think that these two questions are more than enough to start a documentation.
+
+Another important aspect. Why not place it on the GitHub?
