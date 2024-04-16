@@ -2,7 +2,31 @@
 
 ## Introdução
 
+Solitários somos livres, mas acompanhados somos mais felizes.
+
+- Ministério da solidão, criado no Reino Unido, mostra como esse é um tema importante na sociedade atual.
+- A solidão não envolve companhia ou falta dela. Você pode presenciar a sensação de solidão em ambas situações.
+- Depressão: Perda dos vínculos com a vida e vontade de viver.
+- Somos seres gregários, ou seja, nos beneficiamos e evoluímos em grupo.
+- Algumas referências bibliográficas citadas que abordam a solidão de diferentes formas:
+    - A paixão segundo G.H. - Clarice Lispector
+    - O pior castigo da prisão é a solitária.
+    - Quando uma criança faz algo errado na escola, ela é isolada, para que sinta a solidão.
+    - Quando o casal briga, existe a ameaça da separação, ou seja, deixar o outro sozinho.
+- O amor é uma forma de duas solidões se protegerem.
+- Aristoteles: O solidão cria deuses ou bestas.
+
+**O objetivo do livro é:** Colocar uma luz sobre todas as faces da solidão, para que possamos entender melhor esses comportamento
+
 ## Cápitulo 1 - Não é bom que o homem esteja só
+
+Aqui uma análise mais biblica sobre a solidão, por exemplo, no mundo bíblico, viver, é viver em casal.
+
+- Qual é a distância ideal entre estar acompanhado e estar sozinho?
+- Vivemos em uma época onde tomamos remédios para virilidade, dormir e até acordar.
+- A sociedade foi mudando, de tar forma, que se formos analisar a definição de felicidade entre diferenetes épocas, veremos que ela mudou.
+    - Para os egípcios, a felicidade era encontrada na morte, pois é quando você vive eternamente.
+    - No renacentismo(1400-1600), a felicidade era encontrada no agora, nas coisas pequenas que podemos fazer e aproveitar enquanto estamos vivos.
 
 ## Cápitulo 2
 
@@ -61,6 +85,16 @@ Decartes: Desconfie de sí, pois suas vontades podem ser um simples fruto dos se
     - Ou seja, a solidão possiu diversas faces, ela é uma relação direta com um local ou a presença de alguém. É algo inerte ao ser humano, que sempre deve ser tida com cuidado para não se tornar um problema mental ou uma doença.
 
 A solidao pressupoe liberdade. Imagine viver em um local isolado de tudo e todos, voce nao precisa cumprir nenhum dever para com a sociedade ou o ambiente que esta ocupando, pois nao existe ninguem para se encomodar com as suas praticas, a partir do momento que comecamos a viver em sociedade, essa logica deixa de ser valida, pois para vivermos em harmonia, um conjunto de regras e leis, precisa ser estabelecido, caso contrario, viveriamos em um caos.
+
+# Capitulo 6 - A solitarias
+
+- solidão no relacionamento amoroso.
+    - Confundir que só existe vida em casal.
+    - monotonia e previsibilidade são fruto dessa solidão a dois.
+- A solidao não é fruto de estar sozinhos, é a distância entre os dois.
+- A solidão do idoso, que sente dificuldade para se enquadrar na evoluçao do mundo em que vive.
+- Michael Foucalut - Vigiar e punir
+
 
 ## Termos
 
