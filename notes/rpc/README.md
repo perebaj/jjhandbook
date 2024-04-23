@@ -46,3 +46,22 @@ In-Process: Is fast and always succeeds
 **Protocol Buffer:** Is a free and open-source data format used to serialize structured data.
 
     In gPRC, a client application can directly call a method on a server application on a different machine as if it were a local object, making it easier for you to create distributed applications and services.
+
+# Protobuf
+
+- In the message definition, we set the field with an integer, like that:
+
+```protobuf
+message Person {
+  string name = 1;
+  int32 id = 2;
+  string email = 3;
+}
+```
+
+Because, in that way we can traffic the data by using the integer as a key, reducing the size of the message, and making it more efficient.
+
+## Important Resouces
+
+- (https://aprendagolang.com.br/2023/07/13/implementando-uma-api-com-protobuf-e-grpc/)
+- (https://aprendagolang.com.br/2023/06/22/o-que-e-e-como-utilizar-protocol-buffers/)
