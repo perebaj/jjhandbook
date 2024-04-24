@@ -14,7 +14,7 @@ Dado essas regras, é que é possível criar um mercado sobre esses URs, onde am
 
         Um , que possui recebiveis em aberto, pode autorizar alguém a ter acesso a esses dados, esse processo de é chamado de **opt-in**, onde algumas informacoes sao compartilhadas e o acesso é concedido.
         Existe também o processo inverto de desvinculação: **opt-out**.
-
+- KYC: Know Your Customer. It's a process that gather some information about the customer to enable or not the access to some services.
 
 
 Levando esses conceitos para a realidade da Tino, basicamente os assets(URs), são produtos físicos que os clientes compram,
@@ -69,3 +69,23 @@ Another important aspect. Why not place it on the GitHub?
 This tool seems to cure a lot of side problems related to software development using different language versions. You can set up a box, this box uses the desired version, and inside of this box, you install your dependencies and run your code.
 
 For Golang, I think that ASDF it's enough to manage versions, but for multiple Python projects, I am not sure if for each project the language creates an isolated environment, where each one has its dependencies.
+
+## Makefile
+
+Probably the starting point of a Developer in a new repository. **This file must be builded to provide a smooth and easy flow.** Otherwise, you can be expected that the left of the project will be a mess.
+
+My golden rules:
+
+    Create a `make help` to print all the Public targets, so the user can see what is available and just choose what is better for him/her.
+
+    dev/
+        This command should be used as a prefix to all the commands that set up some container or environment tool to run the project.
+
+    Env: If some variable is needed to start to play, put it on the docs, if there exists some `.example` file, make it easy for the developer to copy and paste.
+
+    tests & integration tests: Must be a rule, to run those tests in a different environment, using docker and if you want, just say what specific test case you want to run.
+
+## Layers and frameworks
+
+Layers over layers. This is the reality of software development that uses these fancy patterns, like hexagonal, clean, and others...
+But sometimes it provides more complexity than the solution itself, it's hard to understand and maintain all the layers.
