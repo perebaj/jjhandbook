@@ -41,3 +41,7 @@ A good analogy could be the language, if two people don't speak the same languag
 - **TCP**: Transmission Control Protocol - Introduced to solve the problems of the IP protocol, for example adding in the headers other information to make possible the ordered.
 
 - **HTTP**: Hypertext Transfer Protocol - It's a protocol that uses TCP to send and receive data. It's the protocol that browsers use to communicate with servers.
+
+# Load balancer x API Gateway
+
+Summarizing, both are layers related to network and traffic control, but the load balancer acts in the redirection of the traffic to the right servers, avoiding overloading, otherwise, the API gateway is a layer between the client(user) and the services, in the sense that this tool helps in the management of authentication, authorization.
