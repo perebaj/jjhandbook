@@ -1,3 +1,7 @@
+# What is Tino?
+
+An attempt to create a B2B network payment system that connects suppliers and clients.
+
 # Vocabulary
 
 - /creditor: Someone who has the right to receive a payment from a debtor(someone else).
@@ -89,3 +93,17 @@ My golden rules:
 
 Layers over layers. This is the reality of software development that uses these fancy patterns, like hexagonal, clean, and others...
 But sometimes it provides more complexity than the solution itself, it's hard to understand and maintain all the layers.
+
+## Cloud Run x Kubernetes
+
+Sharing some experiences that I had with both services and where I think that each one fits better.
+
+TODO
+
+# Detect duplicated messages when using PubSub
+
+TODO
+
+# Every company has your Moisés
+
+Success companies had market waves that benefited them or used some external factor to grow.
