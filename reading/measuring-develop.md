@@ -29,3 +29,11 @@ This flow englobes the **effort** related to planning, coding, testing and so on
 
     4.1 Have just one red test
     4.2 Set a PR goal/merge goal
+
+## People GAME the system for their own benefit!
+
+## Individual x Team
+
+## Resouce
+
+https://tidyfirst.substack.com/p/measuring-developer-productivity-440
