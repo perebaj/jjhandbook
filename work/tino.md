@@ -107,3 +107,10 @@ TODO
 # Every company has your Moisés
 
 Success companies had market waves that benefited them or used some external factor to grow.
+
+# Approaching problems - my way
+
+- walk it, talk it - Migos
+- nothing better than an image to explain a problem (CREATE DIAGRAMS!)
+- Take notes, share and repeat
+- Build in public and every day share something
