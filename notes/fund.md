@@ -49,6 +49,57 @@ Raising money is the second hardest part of starting a startup
 - This isn't for you
     - BULLSHIT!
 
+# [How to pitch your startup?](https://www.youtube.com/watch?v=17XZGUX_9iM&ab_channel=YCombinator)
+
+Just be CLEAR and Concise!
+
+- I don't need to do all the work
+
+```txt
+probably the biggest thing people don't undestand about the process is the importance of express youself clearly.
+```
+
+Investors will ask themselves and verify if you know the following:
+
+- Do I understand the idea?
+- Am I excited about the idea?
+- Do I like the team
+
+- Talk with enthusiasm
+- How to make it easy to understand?
+    - Make it legible
+    - Make it simple
+    - Make it obvious
+
+```txt
+Legible slides are ones that even old people in the back rows with bad eyesight can read.
+
+Should be understandable by people who don't know nothing about the idea or the topic.
+```
+
+- Things to AVOID:
+    - Ambiguity
+    - Complexity
+    - Mistery
+    - Ignorable (Idle talk)
+
+- NOUNS
+    - What are you making?
+    - What is the problem?
+    - Who is the customer?
+
+## Example
+
+```txt
+Airbnb is the first online marketplace that lets travelers book rooms with locals, rather than hotels.
+
+Dropbox synchronizes files across your/your tem's devices.
+```
+
+- LEAD with WHAT not WHY or HOW
+- PLEASE BE CONSISE
+
+
 # TODO:
 
 - [A Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising)
