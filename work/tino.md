@@ -19,7 +19,7 @@ Dado essas regras, é que é possível criar um mercado sobre esses URs, onde am
         Um , que possui recebiveis em aberto, pode autorizar alguém a ter acesso a esses dados, esse processo de é chamado de **opt-in**, onde algumas informacoes sao compartilhadas e o acesso é concedido.
         Existe também o processo inverto de desvinculação: **opt-out**.
 - KYC: Know Your Customer. It's a process that gather some information about the customer to enable or not the access to some services.
-
+- TPV: Total Payment Volume. It's the total amount of money that is transacted in a given period.
 
 Levando esses conceitos para a realidade da Tino, basicamente os assets(URs), são produtos físicos que os clientes compram,
 e que ainda não estão em suas mãos.
