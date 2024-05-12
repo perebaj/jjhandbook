@@ -12,7 +12,7 @@ Creating -> Shipping -> Iterating over it
 
 This flow englobes the **effort** related to planning, coding, testing and so on. Based on that, you have the **output**, which is the result of the effort, probably a feature, a bug fix, etc. After that, the **outcome** is the perception of the output by the customer. And finally, the **impact**, that is the sum of all.
 
-## who can benefit from these analyzes?
+## who can benefit from these analyses?
 
 1. C-level that want to know who should be fired or promoted
     If you don't have good metrics to support this decision, usually the metrics that will be used are:
@@ -34,6 +34,6 @@ This flow englobes the **effort** related to planning, coding, testing and so on
 
 ## Individual x Team
 
-## Resouce
+## Resources
 
 https://tidyfirst.substack.com/p/measuring-developer-productivity-440
