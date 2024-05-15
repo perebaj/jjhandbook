@@ -21,6 +21,9 @@ How to ask: "How do you call this?" - Comment ça s'appelle?
 - Pasta | Pâtes
 - Delicius | Délicieux
 
-avec tondeuse à gazon
-
 tondre le pelouse/gazon - mown the lawn
+
+- fish | poisson
+- faca | couteau
+- Batata | pomme de terre
+- Panela | casserole
