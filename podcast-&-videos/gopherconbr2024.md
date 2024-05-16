@@ -26,7 +26,7 @@ K.I.S.S - Keep it simple stupid
 
 Steve Francia, Ex-Google/Golang team, all the repositories that this guy built have the same pattern, it less folders, so it is less headache to manage. Example [Cobra cli](https://github.com/spf13/cobra)
 
-- The best reference for your Golang project is the Golang standard library, because different than the other languages, go just uses itself to build the language.
+- The best reference for your Golang project is the Golang standard library, because different than the other languages, go just use itself to build the language.
 
 Owner: Tiago Temporin
 
@@ -46,7 +46,6 @@ Owner: ANDREIACAMILA
 - [mqtt](https://mqtt.org/) - A network protocol for IoT devices
 - [Bleave Search](https://blevesearch.com/) - A top-level API that turns easy text search using Golang
 - Periph.io - A library to interact with microcontrollers and IoT devices
-
 
 # Recommended resources
 
