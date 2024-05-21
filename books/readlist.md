@@ -15,3 +15,5 @@
 # [The 4-Hour Workwee]
 
 # [how to solve it by polya]
+
+#[Radical Candor](https://www.amazon.com.br/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509)
