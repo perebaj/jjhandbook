@@ -18,3 +18,7 @@ A very good history of the entrepreneur life of Ben Horowitz and the development
 - “IF YOU ARE GOING TO EAT SHIT, DON’T NIBBLE”
 
     - In this chapter, I understand that the gains from omitting something and trying to minimize the damage most of the time have the same gains from being direct
+
+What is the difference between good and bad organizations?
+
+In good organizations, the employees are sure that working hard will deliver some value and help someone. If they wake up earlier put in some effort and stay motivated to deliver some value, they will be satisfied with the environment, in bad companies this isn't true.
