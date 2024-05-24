@@ -48,3 +48,4 @@ Simply, OLAP is for **Data Warehousing** and OLTP is for **transactional systems
 # Resource
 
 - [Data Engineering Wiki](https://dataengineering.wiki/Index)
+- [Big query Tutorials](https://count.co/sql-resources/bigquery-standard-sql/window-functions-explained)
