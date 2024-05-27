@@ -71,6 +71,8 @@ Another important aspect. Why not place it on the GitHub?
 
 ## Meetings
 
+<TODO>
+
 ## ASDF
 
 - ASDF is a tool that allows you to manage multiple runtime versions with a single CLI tool.
@@ -105,22 +107,22 @@ Sharing some experiences that I had with both services and where I think that ea
 
 TODO
 
-# Detect duplicated messages when using PubSub
+## Detect duplicated messages when using PubSub
 
 TODO
 
-# Every company has your Moisés
+## Every company has your Moisés
 
 Success companies had market waves that benefited them or used some external factor to grow.
 
-# Approaching problems - my way
+## Approaching problems - my way
 
 - walk it, talk it - Migos
 - nothing better than an image to explain a problem (CREATE DIAGRAMS!)
 - Take notes, share and repeat
 - Build in public and every day share something
 
-# Due debt
+## Due debt
 
 It was my first solo task at this company, and I was very excited to deliver it.
 
@@ -136,13 +138,13 @@ The solution that I proposed:
 
 The result: <TODO>
 
-# Maybe splitting your code according to the environment is a bad idea
+## Maybe splitting your code according to the environment is a bad idea
 
 Those are some design decisions that I usually disagree with, like:
 
 - Create if ENV == 'production' | 'development' | 'staging' | 'test' | 'local', and use them inside the code to create different flows, is a type of design that turns IMPOSSIBLE to test the code in different environments. For me, the code should be written in a way that you can test it in any environment.
 
-# I can't believe in a thing that you aren't measuring
+## I can't believe in a thing that you aren't measuring
 
 This was a tip that I got at the GopherCon 2024, and I think that can be used in multiple contexts. Why I should trust in something that has not been measured yet? It`s the same as hiring someone without knowing his/her skills.
 
