@@ -20,6 +20,11 @@ Dado essas regras, é que é possível criar um mercado sobre esses URs, onde am
         Existe também o processo inverto de desvinculação: **opt-out**.
 - KYC: Know Your Customer. It's a process that gather some information about the customer to enable or not the access to some services.
 - TPV: Total Payment Volume. It's the total amount of money that is transacted in a given period.
+- Instituicao de pagamento/FIDIC
+- Culture aspects
+    - The customer is the sun
+    - We act in the light speed
+    - Evolving day after day
 
 Levando esses conceitos para a realidade da Tino, basicamente os assets(URs), são produtos físicos que os clientes compram,
 e que ainda não estão em suas mãos.
@@ -114,3 +119,31 @@ Success companies had market waves that benefited them or used some external fac
 - nothing better than an image to explain a problem (CREATE DIAGRAMS!)
 - Take notes, share and repeat
 - Build in public and every day share something
+
+# Due debt
+
+It was my first solo task at this company, and I was very excited to deliver it.
+
+The problem that we are trying to solve:
+
+    - Tempestivity: The time that we take to unlock the client's credit after he/she pays the debt.
+    - Save money: Reduce the amount of money spent on the process, today we use a not efficient BQ view that scans a lot of data to give this result.
+    - Debug: As we have just a query, it's hard to debug and understand what is happening after the flow, so we can't see what was the decision and why it was taken.
+
+The solution that I proposed:
+
+    Create an event-driven pipeline that is triggered every time that a client pays a debt and we calculate if we need to unlock based on a set of predefined rules/criteria.
+
+The result: <TODO>
+
+# Maybe splitting your code according to the environment is a bad idea
+
+Those are some design decisions that I usually disagree with, like:
+
+- Create if ENV == 'production' | 'development' | 'staging' | 'test' | 'local', and use them inside the code to create different flows, is a type of design that turns IMPOSSIBLE to test the code in different environments. For me, the code should be written in a way that you can test it in any environment.
+
+# I can't believe in a thing that you aren't measuring
+
+This was a tip that I got at the GopherCon 2024, and I think that can be used in multiple contexts. Why I should trust in something that has not been measured yet? It`s the same as hiring someone without knowing his/her skills.
+
+Measure is the key to success in convincing someone about your idea and principally to convince yourself.
