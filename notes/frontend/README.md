@@ -29,7 +29,7 @@ In the end, the SPA splits the application into two parts, the client and the se
 
 ## Bundler & Compilers
 
-**Compilers:** 
+**Compilers:**
 
 Tools that are responsible for converting code from a language that my ecosystem understands. The most common compiler that we use in the frontend is the Babel;
 
@@ -37,7 +37,7 @@ Tools that are responsible for converting code from a language that my ecosystem
 
 It's a tool that bundles all the code(all files that we need to run our application) in a single file. The most common bundlers that we use in the front end are the Webpack, Vite and Snowpack.
 
-## Basic tools to get started 
+## Basic tools to get started
 
 - Node
 - NPM
@@ -135,7 +135,7 @@ function App() {
 
 ## CSS Modules
 
-Scoped CSS, allowing us to create a CSS that aims to be used only in a specific component. 
+Scoped CSS, allowing us to create a CSS that aims to be used only in a specific component.
 
 [CSS Modules](https://github.com/css-modules/css-modules)
 
@@ -178,6 +178,11 @@ TODO
 
 ## Important CSS Properties to stylize the components
 - Focus
-- Remove the outline 
+- Remove the outline
 - Transition of colors
 
+
+# tools
+
+- https://bg.ibelick.com/
+- shadcn ui
