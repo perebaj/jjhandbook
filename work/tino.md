@@ -149,3 +149,10 @@ Those are some design decisions that I usually disagree with, like:
 This was a tip that I got at the GopherCon 2024, and I think that can be used in multiple contexts. Why I should trust in something that has not been measured yet? It`s the same as hiring someone without knowing his/her skills.
 
 Measure is the key to success in convincing someone about your idea and principally to convince yourself.
+
+# Initiatives
+
+- Improve the async communication between the team members
+    - stimulation of threads instead of calls
+    - Create documents about the task and ideas before the meeting
+- Improve dashboards and alerts to give more flexibility to the team
