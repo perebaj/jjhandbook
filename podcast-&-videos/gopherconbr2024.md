@@ -36,6 +36,11 @@ Here is the BEST lesson learned: It always depends, but the outstanding engineer
 
 Owner: ANDREIACAMILA
 
+# [Concurrency Patterns](https://docs.google.com/presentation/d/1c3wmY-c2eOwiiiM1_SnXN3C4vJFFoQRTdssiNr-knNg/edit#slide=id.g1f20d11cc68_0_1470)
+
+
+- [Cassio Botaro](https://www.youtube.com/watch?v=ajsxiMPazT8&ab_channel=GopherConBrasil)
+
 # Libraries and tools
 
 - [Go releaser](https://goreleaser.com/quick-start/):  A simple way to create different distributions of your code for different OS and chips
