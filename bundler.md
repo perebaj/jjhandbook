@@ -1,50 +1,50 @@
-#
+# Briefing
 
-Queremos empacotar as soluções de tecnologia e engenharia para fábricas em um único produto, que pode ser facilmente integrado em qualquer ambiente de produção e implantado em fábricas de diferentes tamanhos e setores.
+We want to package technology and engineering solutions for factories into a single product that can be easily integrated into any production environment and deployed in factories of various sizes and sectors.
+What do you do?
 
 # What do you do?
 
-Nós monitoramos fábricas, para aumentar a eficiência de gerenciamento, redução de custos e confiabilidade de produção.
+We monitor factories to increase management efficiency, reduce costs, and ensure production reliability.
 
 # How big is the market?
 
-Nosso foco é no setor secundário da industria(parques industriais), ou seja, fábricas dedicadas na transformação de matéria prima em produtos, setores como:
+Our focus is on the secondary sector of industry (industrial parks), specifically factories dedicated to transforming raw materials into products. This includes sectors such as:
 
-- Automobilística, naval e aeronáutica;
-- Metalúrgica e siderúrgica;
-- Têxtil;
-- Alimentícia e de bebidas;
-- Papel e celulose;
-- Madeireira e moveleira;
-- Química e petroquímica;
-- Maquinários;
-- Construção civil
+Automotive, naval, and aerospace
+Metallurgical and steel
+Textile
+Food and beverages
+Paper and pulp
+Wood and furniture
+Chemical and petrochemical
+Machinery
+Construction
+We know this sector is one of the most important for the economy because it is where raw materials are transformed into final products, which is the stage where the greatest value is added to the final result.
 
-Sabemos que esse setor é um dos mais importantes para a economia, pois é quando acontece a transformação de matérias-primas em produtos finais, que por sua vez, é a etapa onde o maior valor é agregado no resultado final.
+Today, the Brazilian industrial park consists of over X thousand factories, which together, move more than X trillion reais per year and have a significant share in the country's GDP. Some indicators also show that medium and large-sized companies already have equipment.
 
-Hoje o parque industrial brasileiro é composto por mais de X mil fábricas, que juntas, movimentam mais de X trilhões de reais por ano e tem uma parcela enorme no PIB do país, temos alguns indicadores também que mostram que empresas de médio e grande porte já possuem equipamento
+We have noticed that technology and engineering solutions for industrial parks lack usability and integration. On one hand, we have hundreds of companies dedicated to building embedded systems, sensors, and IoT in general, and on the other hand, companies focused only on data processing, analysis, and maintenance order management. Our goal is to combine these two aspects into a single product, allowing factories to focus on what really matters, production.
 
-Nos percebemos que as soluções de tecnologia e engenharia para parques industriais possuem uma carência na usabilidade e integração, de um lado temos centenas de empresas dedicadas na construção de embarcados, sensores e Iot em geral e de outro empresas focadas apenas no processamento de dados, análise e gerenciamento de ordens de manutenção, nosso objetivo é unir esses dois aspectos em um único produto, deixando que as fábricas possam focar no que realmente importa, a produção.
-
-Alguns dados coletados por instituições como a Federação de industrias do estado de São Paulo - FIESP, mostram que a industria 4.0 no Brasil ainda é um desafio, pois uma quantidade considerável de empresas nunca ouviram falar sobre o assunto, as que já ouviram, em sua maioria, [**concordam que a Indústria 4.0 “aumentará a produtividade” e que “é uma oportunidade ao invés de um risco”,**](https://www.fiesp.com.br/sicab/noticias/fiesp-identifica-desafios-da-industria-4-0-no-brasil-e-apresenta-propostas/) ou seja, existe um espaço enorme para adoção de tecnologias que possam aumentar a eficiência e a produtividade das fábricas.
+Some data collected by institutions such as the Federation of Industries of the State of São Paulo (FIESP) show that Industry 4.0 in Brazil is still a challenge because a considerable number of companies have never heard of it. Those who have heard, for the most part, [agree that Industry 4.0 "will increase productivity" and that "it is an opportunity rather than a risk"](https://www.fiesp.com.br/sicab/noticias/fiesp-identifica-desafios-da-industria-4-0-no-brasil-e-apresenta-propostas/) which means there is a huge space for adopting technologies that can increase efficiency and productivity in factories.
 
 # What’s your unique insight?
 
-Percebemos, falando com empresas e profissionais do setor industrial, que eles sentem que poderiam ser mais eficientes, mas não sabem como fazer isso.
+We realized, by talking to companies and professionals in the industrial sector, that they feel they could be more efficient but don't know how to achieve that.
 
-De um lado, algumas empresas possuem equipamentos de sensoriamento, mas não conseguem extrair valores desses dados, de outro, empresas que possuem sistemas de gestão de manutenção, mas não conseguem integrar esses dados com os dados dos sensores.
+On one hand, some companies have sensing equipment but cannot extract value from this data, and on the other hand, companies have maintenance management systems but cannot integrate this data with sensor data.
 
-Portanto, conseguimos mapear dois macro problemas:
+Therefore, we identified two major problems:
 
-- **Ineficiência na gestão de manutenção**, ou seja, temos um cenário onde as máquinas já quebram e recebem manutenção, mas a forma que esse processo é organizado, dá pouca visibilidade para os gestores que por sua vez, não conseguem tomar decisões baseadas em dados.
+Inefficiency in maintenance management: We have a scenario where machines already break down and receive maintenance, but the way this process is organized provides little visibility for managers who, in turn, cannot make data-driven decisions.
 
-- **Falta de previsibilidade**. O impacto de uma máquina quebrada é muito grande, isso envolve toda a cadeia produtiva, desde atrasos nas entregas, perda de dinheiro e materiais(matéria-prima).
+Lack of predictability: The impact of a broken machine is huge, involving the entire production chain, from delivery delays to loss of money and materials (raw materials).
 
-Por conta disso, acreditamos que a junção desses dois aspectos, sensores e gestão de manutenção, pode trazer uma visibilidade muito maior para os gestores de fábricas, que por sua vez, **podem tomar suas decisões baseadas em dados e não em deduções.**
+For this reason, we believe that combining these two aspects, sensors and maintenance management, can provide much greater visibility for factory managers, who can then make decisions based on data rather than guesses.
 
-Em nossas pesquisas, também conseguimos perceber que a adoção de tecnologias é algo desejado, mas ao mesmo tempo, o maior entrave é a complexidade de integração, falta de claridade nos resultados e tempo de impletamentação elevado. [Fonte: Portal Indústria](https://noticias.portaldaindustria.com.br/noticias/inovacao-e-tecnologia/industria-40-69-das-industrias-brasileiras-fazem-uso-de-tecnologia-digital-no-brasil/#:~:text=A%20ind%C3%BAstria%20brasileira%20est%C3%A1%20mais,Nacional%20da%20Ind%C3%BAstria%20(CNI).), por esse motivo, nossos sensores de monitoramento visam gerar o mínimo de esforço para a integração e o máximo de valor para o usuário.
+In our research, we also found that the adoption of technology is desired, but at the same time, the biggest obstacle is the complexity of integration, lack of clarity in the results, and long implementation times. Source: Portal Indústria, for this reason, our monitoring sensors aim to generate minimal integration effort and maximum value for the user.
 
-# Referências
+# References
 
 - [How to pitch your company](https://www.ycombinator.com/library/4b-how-to-pitch-your-company)
 - [Fiesp identifica desafios da industria 4.0 no Brasil](https://www.fiesp.com.br/sicab/noticias/fiesp-identifica-desafios-da-industria-4-0-no-brasil-e-apresenta-propostas/)
