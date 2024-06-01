@@ -99,6 +99,19 @@ Dropbox synchronizes files across your/your tem's devices.
 - LEAD with WHAT not WHY or HOW
 - PLEASE BE CONSISE
 
+# [Before the Startup](https://www.youtube.com/watch?v=ii1jcLg-eIQ&t=9s&ab_channel=YCombinator:TheVault)
+
+- [Before the startup notes](https://paulgraham.com/before.html)
+
+- You need to do something that people want! First Value
+- Startups take your whole life and time
+- Starting a startup to earlier in PG vision is not a good decision because you are probably losing time that won't come back
+- Side
+- How to get ideas that matter
+    - Learn about things that matter
+    - work on problems that interest you
+    - Work with people you like and respect
+- just learn
 
 # TODO:
 
