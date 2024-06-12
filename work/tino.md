@@ -36,7 +36,7 @@ por interligar os fornecedores com os clientes e além disso fornecer confiávei
 
 Portanto criámos uma proposta de valor nas duas etapas da cadeia produtiva, befeciando os fornecedores e os clientes.
 
-# Como isso faz dinheiro
+# How does it make money?
 
 - Porcentagem sobre as transações
 - Cobrança de multas e juros em caso de atraso no pagamento
@@ -154,7 +154,7 @@ This was a tip that I got at the GopherCon 2024, and I think that can be used in
 
 Measure is the key to success in convincing someone about your idea and principally to convince yourself.
 
-# Initiatives
+## Initiatives
 
 - Improve the async communication between the team members
     - stimulation of threads instead of calls
@@ -162,12 +162,20 @@ Measure is the key to success in convincing someone about your idea and principa
 - Improve dashboards and alerts to give more flexibility to the team
 - Investigation of infrastructure problems related to cloud-run
 
-# Hipothesis, experiments and results. A scientist building a product
+## Hipothesis, experiments and results. A scientist building a product
 
 - [Feature leading](https://medium.com/safetycultureengineering/an-introduction-to-feature-leading-b57906aa6767)
 - Impact, Metrics and Alignment
 - How capture a business goal and transform it into initiatives that we can measure and track?
 
-# Definition of Done and definition of ready
+## Definition of Done and definition of ready
 
 Such a good initiative to improve the workflow of a team, especially when you are facing a problem related to time to deliver a task, maybe it can be related to the lack of information or a good step-by-step guide to follow. This initiative aims to solve this problem, by creating a checklist that must be followed, that way, the team has more visibility about what they need to implement and the possible blockers that they can face.
+
+## Embedding external tools into internal libraries
+
+I think that when you catch an external service and say, ok this is hard to learn, let's create an abstraction on top of it to reduce the amount of time that new guys will spend to learn it, it's a terrible idea 😅.
+
+Doing that you create silos of knowledge and your coworkers will not be able to understand the whys and how to use these external tools which is a bad thing. You will be always forced to use a library that you don't know how it works. I'm saying that because I'm facing this problem right now.
+
+When you need to use a new feature and extend the existing tools it's a nightmare because now, you need to learn both, the company tools and the external tools, and usually, the company tools are not well documented 🥹, so, lose-lose situation.
