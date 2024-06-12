@@ -144,6 +144,10 @@ Those are some design decisions that I usually disagree with, like:
 
 - Create if ENV == 'production' | 'development' | 'staging' | 'test' | 'local', and use them inside the code to create different flows, is a type of design that turns IMPOSSIBLE to test the code in different environments. For me, the code should be written in a way that you can test it in any environment.
 
+## Pubsub gotchas
+
+If you are using a streamlined pipeline try to save all messages that you are processing in a data warehouse using the built-in cloud solution, like BigQuery.
+
 ## I can't believe in a thing that you aren't measuring
 
 This was a tip that I got at the GopherCon 2024, and I think that can be used in multiple contexts. Why I should trust in something that has not been measured yet? It`s the same as hiring someone without knowing his/her skills.
@@ -156,3 +160,14 @@ Measure is the key to success in convincing someone about your idea and principa
     - stimulation of threads instead of calls
     - Create documents about the task and ideas before the meeting
 - Improve dashboards and alerts to give more flexibility to the team
+- Investigation of infrastructure problems related to cloud-run
+
+# Hipothesis, experiments and results. A scientist building a product
+
+- [Feature leading](https://medium.com/safetycultureengineering/an-introduction-to-feature-leading-b57906aa6767)
+- Impact, Metrics and Alignment
+- How capture a business goal and transform it into initiatives that we can measure and track?
+
+# Definition of Done and definition of ready
+
+Such a good initiative to improve the workflow of a team, especially when you are facing a problem related to time to deliver a task, maybe it can be related to the lack of information or a good step-by-step guide to follow. This initiative aims to solve this problem, by creating a checklist that must be followed, that way, the team has more visibility about what they need to implement and the possible blockers that they can face.
