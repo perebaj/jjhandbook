@@ -838,5 +838,57 @@ Threat: When someone does something that can harm you
 
 # 07/03
 
-- Surveilled: When you are being watched 
+- Surveilled: When you are being watched
     - I was being surveilled by the US government
+
+# 13/06
+
+- flat the tire = furar o pneu
+- to screw the bolt = apertar o parafuso
+- sip = gole
+- dehydrate
+
+# Different ways to say sorry
+
+- pardon me
+- excuse me
+- never mind
+- I beg your pardon
+- I apologize
+    - apologies
+- Forgiveness
+- it is my fault = my bad
+- I apologize you (A mistake)
+- want to = wanna
+- have got to = gotta
+- who else is going?
+- so shall we
+- talkative
+- Do yoi mind me walking you to the hotel?
+- Is it ik if I walk you to the hotel?
+- Do you mind = you are asking for permission
+- do you have something to recommend?
+- do you have any recommendations? offer? suggest?
+
+# 16/06
+
+- fountain or drinker = place to drink water
+- Liner = Place to hang clothes
+- Sneezing = when you sneeze
+- Spoiling = when you spoil someone, like a child
+- Sibling = brother or sister
+- Military dictatorship
+- Owing = when you owe someone, like money
+- Skirt = The part of the dress that covers the legs
+- Cabinet = The place where you put the dishes
+- shelf = the wood material inside the cabinet to organize your dishes
+- Stink = when something smells bad
+- Bleach my hair = to make your hair blonde
+- Snoring = when you make a strange noise when you are sleeping
+- tweezers = the tool to remove the hair
+
+18/06
+
+Questions:
+
+When I have percussion instruments, how I can say that I need to tune it?
