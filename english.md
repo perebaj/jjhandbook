@@ -892,3 +892,30 @@ Threat: When someone does something that can harm you
 Questions:
 
 When I have percussion instruments, how I can say that I need to tune it?
+I was wondering if we can do some group activities.
+
+- Robbery = When the action was done using violence
+- Theft = Something is stolen without violence
+- to steal = to take something that is not yours
+- Burglary = When someone enters your house and steals something = arrombamento
+- Shoplifting = stealing something from a store
+- Smuggling = When someone steals something from one place to another | Contrabando
+- Rape
+- Vandalism = When someone destroys or draws something in a public place like a square
+- TRafficking
+- Torture
+- to bust you = to catch you
+- I want to report a crime/situation
+- to appear =
+- they are wearing glasses and not using
+- beard = beerrd
+- ginger = red hair
+- pony tail = rabo de cavalo
+- bathing suits = roupa de banho
+- boots = botas
+- whispers
+
+# 20/06
+
+- slipery = escorregadio
+- A road beer = The last beer that you drink before you go home
