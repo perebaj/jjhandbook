@@ -15,7 +15,7 @@ Why does a startup fail?
 - Cofounder problems
     - Prefer teams that already build something together(Camping example)
 
-# [Software is Eating the Work(and still needs your help)](https://www.youtube.com/watch?v=I8bq5Xamzuo&ab_channel=GarryTan)
+# [Software is Eating the World(and still needs your help)](https://www.youtube.com/watch?v=I8bq5Xamzuo&ab_channel=GarryTan)
 
 ```
 Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.
