@@ -919,3 +919,27 @@ I was wondering if we can do some group activities.
 
 - slipery = escorregadio
 - A road beer = The last beer that you drink before you go home
+
+# 27/06
+
+- stayed only != just
+    - You can use only to diminish the importance of the action
+
+- I came back home and I fell sleep
+- regarding = about =
+- Vanish | All my things vanished.
+- To lose / lost
+- loose = solto | my clothes are loose in my body now
+- To meet / past tense = met
+- Exception can and to be.
+
+# 30/06
+
+- I received an email = I got an email
+- She bought the ticket = She got the ticket
+- They arrived home at 7 am = They got home at 7
+- He didn't understand the joke = he didn't get the joke
+- I developed a rash/tan = I got a rash/tan
+- Rash = When you need to itch your skin because you got some disease
+- I'm becoming mad = I'm getting mad
+- and stuff = e tal
