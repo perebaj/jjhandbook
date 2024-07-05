@@ -22,6 +22,7 @@
 ## [Our World Data](https://ourworldindata.org/)
 ## [app.daily](https://app.daily.dev/)
 ## [just ship it](https://marclou.beehiiv.com/)
+## [bytebytego](https://bytebytego.com/)
 
 # Some of the YouTube channels that I like to watch:
 
