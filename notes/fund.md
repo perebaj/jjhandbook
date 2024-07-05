@@ -120,3 +120,25 @@ Dropbox synchronizes files across your/your tem's devices.
 - [StartFund](http://www.paulgraham.com/startupfund.html)
 - [Convince](http://www.paulgraham.com/convince.html)
 - [Herd](http://www.paulgraham.com/herd.html)
+
+# Top 10 accelerators
+
+1. Y Combinator | Pre-Seed, $500k for ~10%
+
+2. Entrepreneur First | No team, $250k for ~9%
+
+3. South Park Commons | Pre-Idea, $1M
+
+4. Antler Global | Pre-Seed, $250k for 9%
+
+5. Sequoia Capital Arc | Pre-Seed, Seed $500k - $1m
+
+6. HF0 Residency | Pre-Seed, $500k uncapped + 3%
+
+7. Pioneer | Pre-Idea, $20k for 1%
+
+8. Pear VC | Pre-Seed, $250K - $2M
+
+9. Techstars | Pre-Seed, $100k for 6%
+
+10. Andreessen Horowitz (a16z) Start Program | Pre-Seed. $500k - $1m
