@@ -27,3 +27,7 @@
 # Some of the YouTube channels that I like to watch:
 
 ## [GOTO Conferences](https://www.youtube.com/@GOTO-/featured)
+
+# Robotics
+
+[Robonyx](https://www.youtube.com/@Robonyx)
