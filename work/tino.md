@@ -20,6 +20,7 @@ Dado essas regras, é que é possível criar um mercado sobre esses URs, onde am
         Existe também o processo inverto de desvinculação: **opt-out**.
 - KYC: Know Your Customer. It's a process that gather some information about the customer to enable or not the access to some services.
 - TPV: Total Payment Volume. It's the total amount of money that is transacted in a given period.
+- LTV: Lifetime Value. It's the total amount of money that a customer will spend in a given period.
 - Instituicao de pagamento/FIDIC
 - Culture aspects
     - The customer is the sun
@@ -179,3 +180,9 @@ I think that when you catch an external service and say, ok this is hard to lear
 Doing that you create silos of knowledge and your coworkers will not be able to understand the whys and how to use these external tools which is a bad thing. You will be always forced to use a library that you don't know how it works. I'm saying that because I'm facing this problem right now.
 
 When you need to use a new feature and extend the existing tools it's a nightmare because now, you need to learn both, the company tools and the external tools, and usually, the company tools are not well documented 🥹, so, lose-lose situation.
+
+## My first time using business metrics to drive decisions
+
+- Churn/Average Spending/Total Payment Volume/How happy are the customers that use a specific feature?
+
+First experience using business metrics to drive decisions, and I think that it's a really good approach, but just works if you have a good amount of clients where you can extract some insights from them, otherwise, you will be just guessing.

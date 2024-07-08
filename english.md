@@ -946,19 +946,22 @@ I was wondering if we can do some group activities.
 
 # 07/07
 
-Amusement park = Parque de diversões
-bed sheet = lençol
-worn out = desgastado
-mulling over = pensando
-stroll = passear
-peel = descascar
-outbreak = surto
-pass out = desmaiar
-elbow = cotovelo
-To chew = mastigar
-Topping = cobertura
-Me neigher = nem eu
-Put it down = coloque isso para baixo
-I be right back = eu volto já
-Cabinet = Armário
-Sheleves = prateleiras
+- Amusement park = Parque de diversões
+- bed sheet = lençol
+- worn out = desgastado
+- mulling over = pensando
+- stroll = passear
+- peel = descascar
+- outbreak = surto
+- pass out = desmaiar
+- elbow = cotovelo
+- To chew = mastigar
+- Topping = cobertura
+- Me neigher = nem eu
+- Put it down = coloque isso para baixo
+- I be right back = eu volto já
+- Cabinet = Armário
+- Sheleves = prateleiras
+- busted = pego
+- stakeout = vigia/tocaia
+- screwed = ferrado
