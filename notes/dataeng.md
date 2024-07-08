@@ -8,7 +8,11 @@ But yep, I need to remember some data engineering concepts, and here is the plac
 
 ## Parquet
 
-It is a columnar storage format, available for any project in the Hadoop ecosystem. It was designed to efficiently store and process large amounts of data. But, what the fuck is that?
+Formal definition:
+
+It is a columnar storage format, available for any project in the Hadoop ecosystem. It was designed to efficiently store and process large amounts of data.
+
+But, what the fuck that means?
 
 Imagine that you have the following table
 
@@ -20,13 +24,15 @@ Imagine that you have the following table
 | 4              | 2023-01-04 | 104         | 001        | 2        | 10.99      |
 | 5              | 2023-01-05 | 105         | 002        | 1        | 25.50      |
 
-Now let's imagine that you choose the CustomerID column to use this **"column storage format thing"**, by doing that, you are just increasing the cardinality of your table, because it's obvious that you have one ID per Customer, so not a good choice. But, doing that using the Data, specifically the **Day**, you could return a huge amount of data very fast just doing that.
+Now let's imagine that you choose the CustomerID column to use as the **"partitioned column"**, doing that, you are just increasing the cardinality of your table, because it's obvious that you have one ID per Customer, so, not a good choice. But, doing that using the Date, specifically the **Day**, you could return a huge amount of data very fast.
+
+And, when you run a SQL like this one:
 
 ```sql
 SELECT * FROM table WHERE Date = '2023-01-01'
 ```
 
-Doing that, with a parquet file, will interpret the WHERE clause, just access the **Folder** in our distributed Storage, and return all the data that you need.
+Behind the scenes, the parquet engine, will interpret the WHERE clause and will just access the **Folder** in your distributed storage that are related to that day, avoiding the unuseful scan, and returning all the data that you need.
 
 The distributed storage will have the following structure
 
