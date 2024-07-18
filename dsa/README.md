@@ -455,3 +455,5 @@ These include:
 - [Data Structures](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
 - [DSA Handbook](https://www.techinterviewhandbook.org/)
 - [Leetcode questions with resolution 75](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
+- [System Design](https://github.com/donnemartin/system-design-primer)
+- [best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources)
