@@ -142,3 +142,7 @@ Dropbox synchronizes files across your/your tem's devices.
 9. Techstars | Pre-Seed, $100k for 6%
 
 10. Andreessen Horowitz (a16z) Start Program | Pre-Seed. $500k - $1m
+
+# Interesting things
+
+- [Alex Anton Post](https://www.linkedin.com/posts/alexanton_fundraising-venturecapital-captaaexaetoderecursos-activity-7221856666131054593-391S?utm_source=share&utm_medium=member_desktop)
