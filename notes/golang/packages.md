@@ -21,3 +21,5 @@ The package strategy that I use for my projects involves 4 simple tenets:
 - [rsc - this is not a standard go project layout](https://github.com/golang-standards/project-layout/issues/117#issue-854742264)
 - [organizing go code](https://go.dev/blog/organizing-go-code)
 - [simple go layout](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
+
+- [reddit post](https://www.reddit.com/r/golang/comments/1ak3mmm/internal_package/)

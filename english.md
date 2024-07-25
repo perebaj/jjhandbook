@@ -35,6 +35,11 @@ Example:
 ### Neither / Either
 [Reference](https://www.mairovergara.com/qual-a-diferenca-entre-either-e-neither/)
 
+Either is used to say that one of the two options is correct, and neither is used to say that none of the two options is correct.
+
+Examples:
+
+
 
 
 ### Lend/Borrow
@@ -965,3 +970,83 @@ I was wondering if we can do some group activities.
 - busted = pego
 - stakeout = vigia/tocaia
 - screwed = ferrado
+
+# 08/07
+
+- as you go along
+- enrolled
+- professors
+- leap of faith
+- would reek = cheirar mal
+- underline and highlight
+- going to go
+- I'm gonna buy a pizza tonight
+- will/won't be + verb + ing
+- will/won't have + verb + ed
+
+- I will finish the pizza tonight = I am going to finish the pizza tonight
+
+- I will have finished the pizza by the time you get here
+    - something that will be completed before a specific time
+- I will be finishing the pizza tonight
+- I fell sleep (past)
+- I fall sleep (present)
+
+- Will be + verb + ing / Something that happened in the future but in the first time
+- I will have landing in Brazil at Dinner time
+
+# 11/07
+
+May and might what is the difference?
+
+- May is used to express permission in a very polite way
+- Might is used to express possibility, but when you dont really want to do
+- melted
+- the way that one speakes
+- physicians
+- make a toast = brindar
+- bowing
+- deference = consideração
+- beat around the bushes = never say what they really want
+- Always trying to put the sugar coat
+- hedging = to avoid giving a clear answer
+- unvarnished = honest
+- out of your league
+- articulate = expressar
+
+# 18/07
+
+- tough (táf) - duro/dificil
+- THOUGH (thôu) - embora - Example "I'm tired, though I'm happy" / I will try one more time though
+- THOUGHT (thôt) - pensamento
+- THROUGH (thru) - através
+- get out / get off depends on the size of the vehicle
+taps/faucets
+- elevator /lift
+feast/banquet
+- He has lost his marbles = he is crazy
+- sort of = kind of = mais ou menos
+
+# 19/07
+
+- Since: Starting point | pronunciations: sínz
+- For: A period of time
+- Ago: A time in the past | counting going back. Usually, ago it's used at the end of the sentence
+
+# 21/07
+
+- Shivering = tremendo
+- The bread = the money
+- mandem = group of boys or people
+- sutting = gun or weapon
+- fed = police
+- tease = provocar
+- gyal = girl or woman
+- snitching = to tell the police
+- every once in a while = de vez em quando
+- baffled = confuso/perplexo
+- lift = carona
+- P's, pees = dinheiro
+- shotter = drug dealer
+- pull over
+- line us up = 
