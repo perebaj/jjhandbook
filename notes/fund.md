@@ -146,3 +146,4 @@ Dropbox synchronizes files across your/your tem's devices.
 # Interesting things
 
 - [Alex Anton Post](https://www.linkedin.com/posts/alexanton_fundraising-venturecapital-captaaexaetoderecursos-activity-7221856666131054593-391S?utm_source=share&utm_medium=member_desktop)
+- [top 10 resources for early stage](https://www.linkedin.com/posts/yrebryk_top-10-resources-for-early-stage-startup-activity-7222554246963970049-376v?utm_source=share&utm_medium=member_desktop)
