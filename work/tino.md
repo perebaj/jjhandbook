@@ -70,10 +70,6 @@ I think that these two questions are more than enough to start a documentation.
 
 Another important aspect. Why not place it on the GitHub?
 
-## Meetings
-
-<TODO>
-
 ## ASDF
 
 - ASDF is a tool that allows you to manage multiple runtime versions with a single CLI tool.
@@ -102,16 +98,6 @@ My golden rules:
 Layers over layers. This is the reality of software development that uses these fancy patterns, like hexagonal, clean, and others...
 But sometimes it provides more complexity than the solution itself, it's hard to understand and maintain all the layers.
 
-## Cloud Run x Kubernetes
-
-Sharing some experiences that I had with both services and where I think that each one fits better.
-
-TODO
-
-## Detect duplicated messages when using PubSub
-
-TODO
-
 ## Every company has your Moisés
 
 Success companies had market waves that benefited them or used some external factor to grow.
@@ -122,22 +108,6 @@ Success companies had market waves that benefited them or used some external fac
 - nothing better than an image to explain a problem (CREATE DIAGRAMS!)
 - Take notes, share and repeat
 - Build in public and every day share something
-
-## Due debt
-
-It was my first solo task at this company, and I was very excited to deliver it.
-
-The problem that we are trying to solve:
-
-    - Tempestivity: The time that we take to unlock the client's credit after he/she pays the debt.
-    - Save money: Reduce the amount of money spent on the process, today we use a not efficient BQ view that scans a lot of data to give this result.
-    - Debug: As we have just a query, it's hard to debug and understand what is happening after the flow, so we can't see what was the decision and why it was taken.
-
-The solution that I proposed:
-
-    Create an event-driven pipeline that is triggered every time that a client pays a debt and we calculate if we need to unlock based on a set of predefined rules/criteria.
-
-The result: <TODO>
 
 ## Maybe splitting your code according to the environment is a bad idea
 
@@ -186,3 +156,40 @@ When you need to use a new feature and extend the existing tools it's a nightmar
 - Churn/Average Spending/Total Payment Volume/How happy are the customers that use a specific feature?
 
 First experience using business metrics to drive decisions, and I think that it's a really good approach, but just works if you have a good amount of clients where you can extract some insights from them, otherwise, you will be just guessing.
+
+## Reduce the dead letter queue messages to zero or near zero 💰
+
+In one of my first weeks of work, I perceived a new approach that the team was using: They call it 'on-call guy', basically a guy that will spend the whole week just solving problems that show up in the production environment, these include:
+
+- Clean/understand and fix the dead letter queue messages
+- Fix the alerts that pop up in the dashboard
+- Fix the problems that the clients are facing
+
+But I perceive that most of the problems are related to JUST REPROCESS THE MESSAGES, in other words, they are paying a high salary to a guy who spends the whole week just pressing a button, freaking expensive...
+
+My initiative was to understand what was going on, basically a wrong configuration in our Infra that limits the concurrency of messages that we can process, the solution was to create a workbook with the steps to fix it. Since we have more than 136 microservices to analyze, we adopt an incremental approach, and
+in 2 weeks we reduce the amount of messages in the dead letter queue to zero.
+
+## Block and Cure
+
+Basically, the process to unblock the limit of the client's credit and readjust it to the correct value.
+
+- Before this initiative, we had a batch process that ran some times a day to unlock the credit, but it was not efficient, since the client needed to wait a lot of time to have the credit unlocked.
+
+- The old process also queries a lot of data from a Datawarehouse that doesn't have the tables dimensioned to support efficient queries, which means that we spend a lot of money on this process. We started to consume the data coming from a transactional database (Postgres), that was already implemented but the team didn't migrate yet.
+
+- The new process is event-driven, which means that each time a client pays a debt, we trigger an event that will be used by the new process to unlock the credit, this process was a challenge because I had to understand all the rules that were mapped into a BigQuery View(more than 600 lines) and transform it into a code that can be easily understood, tested, and maintained.
+    - I was recognized by the team for this initiative because the whole process was documented, so a black box was transformed into a white box.
+    - Basically, we reduce the time to unlock the credit from 1 day to minutes, so the client can buy more, and we contribute to the company Goal. Increase the average spending of the clients.
+    - I follow all the rules of the company, including using the existing libraries to structure logs, metrics and alerts to monitor the process.
+
+# Quarter 3
+
+
+## Migrate old provider endpoints to the new one
+
+Simple task to understand what changes are needed to migrate a third-party provider to a new one. The main goal was to understand the differences between the APIs and payloads and finally map what were the changes in the code base to support the new provider.
+
+In this process, I mapped all routes in our code base that were using the old provider and all functions, created a miro board where the team could see a big picture of what was going on, and this was useful for splitting the tasks between the routes that have less overlap.
+
+This process includes some calls with the new provider to understand the new API and how to use it.
