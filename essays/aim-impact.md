@@ -2,7 +2,7 @@
 
 Companies always are looking for people that already delivered results, specifically startups. When you have a narrow team, money and time to ship a product. Have people that will roll up their sleeves and help the business to grow, those are the best ones.
 
-For this reason, have been critical about your career, projects, and people to work with, it's your duty. Because, depending on the environment, you can through your career on the trash. Or simply take more time to achieve your goals.
+For this reason, have been critical about your career, projects, and people to work with, it's your duty. Because, depending on the environment, you can through your career in the trash. Or simply take more time to achieve your goals.
 
 Some good initiatives to start, are:
 
