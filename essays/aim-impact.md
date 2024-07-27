@@ -1,13 +1,17 @@
 # Aim Impact
 
-After changing my work environment I noticed that companies always are looking for people that already had resposability for delivering results, specifically startups. When you have a narrow team, money and time to ship a product, you need to have people that will assume the responsibility to to roll up their sleeves and help the business to grow. For this reason, I have been very critical in choosing projects and people to work with, because depending on the environment, I can through my career in the trash and the next steps will be very hard to achieve, more dedication now, more easy will be in the future.
+Companies always are looking for people that already delivered results, specifically startups. When you have a narrow team, money and time to ship a product. Have people that will roll up their sleeves and help the business to grow, those are the best ones.
 
-Having this critical sence now, it's being so helpful because I'm noticing the amount of opportunities that I can ambrace just being an interested guy and showing that I have energy and curiosity to learn.
+For this reason, have been critical about your career, projects, and people to work with, it's your duty. Because, depending on the environment, you can through your career on the trash. Or simply take more time to achieve your goals.
 
-Some initiatives that I'm doing:
+Some good initiatives to start, are:
 
-- Heard more REAL people and try to make a connection with them, friends or just workmates.
-- Implementing my own projects and showing that for my friends.
-- Participating in hackathons and meetups.
+- heard the ones that achieve something nice, try to copy their steps;
 
-Those things, bright the eyes of the people that are looking for engaged people to help their business and consequently, I'm hopping that will get more opportunities.
+- build your own things;
+
+- take part in events. Meetups, hackathons and open source projects.
+
+Those things brighten the eyes of companies who are looking for engaged people. Remember, be awesome just for you, it's not enough, you should show it. The best way to address it is to think about it and put some energy.
+
+If you are working in some company, try to write down what you are doing, and what needles you are moving. The initiatives that you are commanding. And be always aware of the market. There are a lot of good opportunities out there, but they are looking for the ones that know how to sell them.
