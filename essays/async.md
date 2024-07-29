@@ -28,7 +28,7 @@ A common practice in environments that use Sync, is that your mates will wait un
 
 Why not create small retros between the guys who worked on some task, pointing out the pros and cons? Write a document, and show it in a meeting! The thought behind this approach is:
 
-Give time to your engineers, they should be able to absorb and reflect be themselves. Do that in a meeting without previous mulling, it's a waste of time.
+Give time to your engineers, they should be able to absorb and reflect by themselves. Do that in a meeting without previous mulling, it's a waste of time.
 
 ## Dailies
 
@@ -50,7 +50,7 @@ Or some notices during the day, like, hey I'm stuck with X, but I pretend to com
 
 This is good communication! Be clear and give your mates some forecast about what you are doing.
 
-The end
+## The end
 
 For sure, if you are in an environment that is too hard to change, these ideas won't fit for you. However, I had the pleasure of being involved in teams and companies that use these approaches. In the end, This approach is an attempt to be more quick. To give more autonomy and responsibility to your coworkers and put everyone on the same page.
 
