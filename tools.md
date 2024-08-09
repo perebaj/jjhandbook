@@ -9,3 +9,7 @@ Just things that I would like to use but my brain is too busy to keep everything
 
 - Fusion 360
 - OnShape
+
+# Writing
+
+- https://hemingwayapp.com/
