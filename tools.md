@@ -13,3 +13,7 @@ Just things that I would like to use but my brain is too busy to keep everything
 # Writing
 
 - https://hemingwayapp.com/
+
+# Machine Learning community
+
+- Kaggle
