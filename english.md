@@ -1049,4 +1049,33 @@ feast/banquet
 - P's, pees = dinheiro
 - shotter = drug dealer
 - pull over
-- line us up = 
+- line us up =
+
+# 30/07
+
+- wool
+- knit
+- flesh
+- filthy habit
+- melt = derreter
+- ballots = cédulas
+- refrained people from entering = impedir
+- void = vazio/nulo
+- blank = em branco
+- stamp/seal = carimbo
+- riot = tumulto/big big mess
+- coup = golpe de estado
+- step down = renunciar
+- step aside = afastar
+- runner up = segundo colocado
+- tight different than narrow
+    - narrow is for the space
+- he nailed it = ele acertou = Someone that did something at the perfect time
+- he blew it | he screwed it = ele estragou
+
+# 01/08
+
+- all-around = versátil
+- jag/jug/jog =
+
+- everything in my body is to wear instead of use

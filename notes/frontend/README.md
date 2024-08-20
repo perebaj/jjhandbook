@@ -187,3 +187,7 @@ TODO
 - https://bg.ibelick.com/
 - shadcn ui
 - https://tanstack.com/
+- https://heroicons.com/outline
+- https://phosphoricons.com/?q=%22conn%22
+- https://motionscribe.com/#pricing
+- https://www.typeform.com/private-typeform/?utm_source=typeform.com-15689640-free&utm_medium=typeform&utm_content=typeform-private&utm_campaign=asVViSvm%0A%20%20
