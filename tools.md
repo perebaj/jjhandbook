@@ -4,6 +4,7 @@ Just things that I would like to use but my brain is too busy to keep everything
 
 - [wandb](https://wandb.ai/site)
 - [Assembly AI](https://www.assemblyai.com/discover/)
+- [Web Hook as a Service](https://www.svix.com/)
 
 # 3D modeling
 
