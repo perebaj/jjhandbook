@@ -33,3 +33,7 @@ Pointers for performance?
 ## [Unhappy developers stack overflow survey](https://shiftmag.dev/unhappy-developers-stack-overflow-survey-3896/)
 
 ## [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/#h-it-s-not-a-dream-jobhttps://vadimkravcenko.com/shorts/things-they-didnt-teach-you/#h-it-s-not-a-dream-job)
+
+## [Language Mechanics On Stacks And Pointers](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html)
+
+Such a great text about how memory, pointers and stacks work in Go.
