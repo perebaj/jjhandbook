@@ -14,6 +14,7 @@
 ## [Kent Beck](https://tidyfirst.substack.com/)
 ## [Andrew Gerald](https://nf.wh3rd.net/)
 ## [John Arundel](https://bitfieldconsulting.com/golang)
+## [schollz](https://github.com/schollz)
 
 # Some sites that I like to read:
 
