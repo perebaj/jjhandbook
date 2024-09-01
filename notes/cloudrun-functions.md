@@ -85,3 +85,4 @@ Generate a private key that only you have access. When this functionality encryp
 # Resources
 
 - [Hack: Use Cloud Functions as a webserver with Golang](https://medium.com/google-cloud/hack-use-cloud-functions-as-a-webserver-with-golang-42edc7935247)
+- [organizing your cloud functions](https://codeburst.io/organizing-your-firebase-cloud-functions-67dc17b3b0da)

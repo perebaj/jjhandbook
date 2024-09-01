@@ -5,6 +5,7 @@ Just things that I would like to use but my brain is too busy to keep everything
 - [wandb](https://wandb.ai/site)
 - [Assembly AI](https://www.assemblyai.com/discover/)
 - [Web Hook as a Service](https://www.svix.com/)
+- [Build Packs](https://buildpacks.io/)
 
 # 3D modeling
 
@@ -18,3 +19,7 @@ Just things that I would like to use but my brain is too busy to keep everything
 # Machine Learning community
 
 - Kaggle
+
+# Documentation
+
+- [Read the docs](https://about.readthedocs.com/)
