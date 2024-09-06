@@ -6,7 +6,8 @@ Just things that I would like to use but my brain is too busy to keep everything
 - [Assembly AI](https://www.assemblyai.com/discover/)
 - [Web Hook as a Service](https://www.svix.com/)
 - [Build Packs](https://buildpacks.io/)
-
+- [Test Containers](https://testcontainers.com)
+- [Modal](https://modal.com/)
 # 3D modeling
 
 - Fusion 360
