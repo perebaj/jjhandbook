@@ -8,6 +8,11 @@ Just things that I would like to use but my brain is too busy to keep everything
 - [Build Packs](https://buildpacks.io/)
 - [Test Containers](https://testcontainers.com)
 - [Modal](https://modal.com/)
+- @v0 to generate UI skeleton
+- @_reweb visual editor to customize it fast
+- @cursor_ai to add business logic
+
+
 # 3D modeling
 
 - Fusion 360
