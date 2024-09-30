@@ -19,3 +19,5 @@
 - [Radical Candor](https://www.amazon.com.br/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509) 📚✅
 
 - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
+
+- A crise como modo de governo - Vladimir Safatle
