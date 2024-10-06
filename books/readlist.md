@@ -21,3 +21,5 @@
 - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
 
 - A crise como modo de governo - Vladimir Safatle
+
+- Database internals - A Deep Dive Into How Distributed Data Systems Work
