@@ -37,3 +37,9 @@ Pointers for performance?
 ## [Language Mechanics On Stacks And Pointers](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html)
 
 Such a great text about how memory, pointers and stacks work in Go.
+
+## [Myth of thamus and theuth](https://conversational-leadership.net/myth-of-thamus-and-theuth/)
+
+Originally questioned by Socrates and written by Plato, this myth is about the invention of writing and how it would affect the memory of the people.
+
+Theuth, a smarth guy who invented some intresting things, show his inventions to Thamus,saying that his inventions will make the people wiser and improve their memory to spread stories and knowledge. Thamus was against the invention, because for him, the most important thing in that era, was the dialectic, and if people start to write things, they will forget how to convince others with their own words.
