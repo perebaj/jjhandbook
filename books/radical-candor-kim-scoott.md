@@ -27,3 +27,22 @@ Radical Candor = True care about peers + Willingness to challenge them.
 - Difference between discussion and dialogue. Is your team able to discuss hard topics without getting sad/angry? Good engineers are able to do that!
 
 The radical candor variate from the company, culture, and the person. Adapt your approach before any move.
+
+- direct confrontation for someones may sound like a personal attack. But ANY good thing can be build without a good confrontation of ideas.
+
+- to keep winning you have to criticize the victories. `The problem to live in the top of the mountain is that you can't see the mountain.`
+
+
+## Knows what motivates each member of the team
+
+- Stars: Be an artist doesn't mean that you want to have a gallery of art. Some coworkers are happy with their functions, they love what they do, and they keeping the wheel spinning.
+
+- Super Starts: They are the ones that have a high ambition, they are building things, proposing, discussing, and they are the ones that will lift up the whole team.
+
+If I say that a member is estable, how this sounds to you? This chapter bring to me a different perpective about the word "estable". I always thought that this word was related to someone that is not ambitious, but this guys are very important to keep everything running. The Goal of the boss is to identify them and keep each one motivated based on their goals and ambitions.
+
+- Try to find some purpose in your work. If you ask for a mason that was responsible to build the São Pedro's Cathedral. The first can say that he was working. The second, helping to raise a wall. The third, building a cathedral. The last one, building a cathedral that will be a reference for the next generations.
+
+- Learnig to tell your story is a good skill to have.
+
+- Promote the wrong guys can trigger a series of problems. Like team discontentment.
