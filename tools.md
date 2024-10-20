@@ -11,7 +11,7 @@ Just things that I would like to use but my brain is too busy to keep everything
 - @v0 to generate UI skeleton
 - @_reweb visual editor to customize it fast
 - @cursor_ai to add business logic
-
+- https://replicate.com/
 
 # 3D modeling
 
@@ -29,3 +29,8 @@ Just things that I would like to use but my brain is too busy to keep everything
 # Documentation
 
 - [Read the docs](https://about.readthedocs.com/)
+
+# Eletronics
+
+- solid works
+- easy eda
