@@ -28,6 +28,8 @@
 Andrew shows research that exposes some students for some material. And the logic was:
 
 Expose the students to the material 4 times and after it apply the final test
+
+
 Expose the students to the material once, test the students 3 times before the final test.
 
 The students that were exposed more to the material, felt more confident that they will perform well in the final test, the other group have the opposite feeling. But in the end. The performance was better in the second group.
