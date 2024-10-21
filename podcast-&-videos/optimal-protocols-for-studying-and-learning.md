@@ -8,9 +8,9 @@
     - 3. Formation of new synapses
 - Transform study into retention knowledge
 - Alert and focused are defined by your sleep quality/normal caffeine level and hydration
-- Don't be a passive participang in the learning process
+- Don't be a passive participant in the learning process
 - 10 minute medidation per day improve your level of focus dramatically
-- Yoga nidra/nsdr = nnon sleep deep rest
+- Yoga nidra/nsdr = non sleep deep rest
 
 # Tips to study better
     - Set a time to study
@@ -31,3 +31,7 @@ Expose the students to the material 4 times and after it apply the final test
 Expose the students to the material once, test the students 3 times before the final test.
 
 The students that were exposed more to the material, felt more confident that they will perform well in the final test, the other group have the opposite feeling. But in the end. The performance was better in the second group.
+
+## Articles and references
+
+https://www.hubermanlab.com/episode/optimal-protocols-for-studying-learning
