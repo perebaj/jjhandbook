@@ -79,6 +79,24 @@ But both are very similar.
 
 Similar to the top-down approach, but instead of using recursion, we use a loop to solve the problem. The tricky is to find the mathematical relationship between the subproblems, but the performance and the memory usage are better.
 
+# Greedy
+
+- Objective:  Find the optimal solution
+- Optimization problems
+- minimize or maximaze
+- It has some condition constraint
+- minimum cost
+
+**Method**
+
+1) Greedy Method
+    Tip: Solve in stages, if the input obey the constraints, then increment it on the final solution
+An example of greedy algorithm is choose a candidate to hire or a car to buy. You select some features that you would like and based on that select the best one.
+Classic algorithm. *Knapsack Problem*
+
+2) Dynamic Programming
+3) Branch and Bound
+
 # Doubly Linked List
 
 - A linked list that has two pointers, one pointing to the next node and the other pointing to the previous node
