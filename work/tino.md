@@ -52,7 +52,7 @@ the clients don't have any idea that this supplier exists
 
 We create a platform that connects B2B clients and we turn viable the payment and the product delivery for both sides.
 
-# Quarter 1
+# Quarter 2 Apr-May
 
 ## Documentation
 
@@ -183,8 +183,11 @@ Basically, the process to unblock the limit of the client's credit and readjust 
     - Basically, we reduce the time to unlock the credit from 1 day to minutes, so the client can buy more, and we contribute to the company Goal. Increase the average spending of the clients.
     - I follow all the rules of the company, including using the existing libraries to structure logs, metrics and alerts to monitor the process.
 
-# Quarter 3
+# Quarter 3 Jun-Aug
 
+## Q3 Brieding
+
+## Q3 Lessons
 
 ## Migrate old provider endpoints to the new one
 
@@ -193,3 +196,21 @@ Simple task to understand what changes are needed to migrate a third-party provi
 In this process, I mapped all routes in our code base that were using the old provider and all functions, created a miro board where the team could see a big picture of what was going on, and this was useful for splitting the tasks between the routes that have less overlap.
 
 This process includes some calls with the new provider to understand the new API and how to use it.
+
+## Reduce manual labor using Retool and application data
+
+## Fraud flow for first purchases
+
+# Quarter 4 Sep - Dec
+
+## Q3 Brieding
+
+## Q3 Lessons
+
+## Drammatically reduce the credit concession
+
+Experience in the credit flow
+
+## Rollout new fraud engine for first purchases
+
+brov, this task takes almost 1 quarter. WTF
