@@ -170,3 +170,10 @@ A good example of how to implement this in Go:
 
 - [HTTP middleware for instrumenting HTTP servers with Prometheus](https://github.com/prometheus/client_golang/blob/main/examples/middleware/httpmiddleware/httpmiddleware.go)
 - [HTTP Wrapper for instrumenting HTTP servers with Prometheus](https://github.com/perebaj/playground/tree/main/golang/httpmetrics)
+
+
+# Api Guidelines
+
+Some good principles about API development. For event base architectures or normal REST APIs
+
+[Link](https://opensource.zalando.com/restful-api-guidelines/#events)
