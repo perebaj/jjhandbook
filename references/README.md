@@ -32,3 +32,11 @@
 # Robotics
 
 [Robonyx](https://www.youtube.com/@Robonyx)
+
+# Front-end engineers
+
+- [Web Prodigies](https://www.youtube.com/@webprodigies)
+
+# Rockets
+
+- https://www.youtube.com/@ExcitingCrapo
