@@ -46,3 +46,30 @@ If I say that a member is estable, how this sounds to you? This chapter bring to
 - Learnig to tell your story is a good skill to have.
 
 - Promote the wrong guys can trigger a series of problems. Like team discontentment.
+
+# Feedbacks
+
+The boss inherits a lot of assumptions, mainly if it is a new member in the team. The goal of this fella is to conquer the trust of their mates. The feedbacks are the best way to do that.
+
+The feedback, when well done, can propel your career.
+
+- Instead of say: `There is something that a can do to help you?`
+
+- Say: `There is something that I can do to help you? According to our last converstions and the things that you have been claimed, I think that you are having some problems with the X and maybe Y wold be a good idea to fix it`
+
+- Managing reactions to bad feedback
+
+- box of critics: The head of a company realized that at each meeting, his employees did not feel comfortable about the outcomes of the meeting. His idea was to set up an anonymous feedback box and use this as a tool to improve interaction between employees.
+
+- If you are not able to give sincere feedbacks your subordinates won't to
+
+- Give feedbacks with actions. Otherwise, it might sound like a personal attack.
+- Give the feedback immediately
+- Praise in public criticize in private
+    - The praise in public should be done as a way to elevate the barrier of the other ones
+- In the criticize chances, don't blame the other by the actions but the outcome that it can generate.
+- I think that this is wrong > You are wrong
+-  Monitor your feedbacks are the best way to keep them worth and improve it on the long term
+- Use the Kim Scoot map as reference. Share it with your subordinates and ask them to choose how was the last interaction.
+
+![alt text](./assets/image.png)
