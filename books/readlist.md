@@ -23,3 +23,5 @@
 - A crise como modo de governo - Vladimir Safatle
 
 - Database internals - A Deep Dive Into How Distributed Data Systems Work
+
+- The pragmatic programmer. David Thomas and Andrew hunt
