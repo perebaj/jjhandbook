@@ -59,6 +59,64 @@ Just put your salary range to the moon if you are in a comfortable situation, ot
 - How do people know about the product and how do you attract them?
 - How do you deal with the competition?
 
+1. "Como vocês decidem o que construir?"
+Essa pergunta revela muito sobre a cultura da empresa.
+- Decisões top-down vs colaborativas
+- Se engenheiros são ouvidos
+- Se existe processo de product discovery
+
+🚩 Red flag: "O CEO decide tudo"
+
+2. "Qual foi o último projeto que deu errado e o que vocês aprenderam?"
+A resposta mostra:
+- Como a empresa lida com falhas
+- Se existe uma cultura de aprendizado
+- Transparência da liderança
+
+🚩 Red flag: "Todos nossos projetos são um sucesso"
+
+3. "Como vocês medem o sucesso de um engenheiro aqui?"
+Busque entender:
+- Critérios de promoção
+- Se é apenas entregas ou impacto
+- Se existe um plano de carreira claro
+
+🚩 Red flag: Critérios vagos ou focados só em tempo de casa
+
+4. "Qual o maior desafio técnico que vocês têm hoje?"
+Importante para:
+- Avaliar maturidade técnica
+- Entender problemas reais
+- Ver se há alinhamento com suas habilidades
+
+🚩 Red flag: Não saber identificar desafios claros
+
+5. "Como você desenvolve as pessoas do seu time?"
+Procure por:
+- Exemplos concretos de crescimento
+- Mentorias estruturadas
+- Budget para educação
+
+🚩 Red flag: "As pessoas crescem naturalmente"
+
+6. "Qual o runway atual da empresa?"
+Fundamental para startups:
+- Quanto tempo até precisar levantar mais
+- Se já tem caminho pra se tornar lucrativo (cash flow positive / default alive)
+- Planos de crescimento realistas
+
+🚩 Red flag: Não saber ou evitar responder
+
+7. "Como você garante que o time mantém um bom work-life balance?"
+Observe:
+- Políticas de oncall
+- Expectativas de horário
+- Como lidam com deadlines
+
+🚩 Red flag: "Aqui todo mundo é workaholic e ama isso"
+
+
+
 ## Questions about the engineering team
 
 - How do you deal with new demands?
