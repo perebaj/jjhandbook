@@ -1,5 +1,7 @@
 # The pragmatic programmer
 
+## The pragmatic philosophy
+
 Topic 1: It's your life
 
 Assuma as rédeas, analise tudo com muito cuidado, é a sua vida.
@@ -49,4 +51,14 @@ Topic 6: Your knowledge portfolio
     - Read nontechnical books too
     - Take classes
     - Participate in local user groups
-    
+
+Topic 7 - Communicate
+
+- Make it look good
+    - Your ideas are important. They deserve a good-looking vehicle to convey them to your audience.
+- Choose the right moment
+    - Ask for a salary raise when you're boss isn't in a good mood doesn't seem to be a good idea.
+- Plan what you want to say. Write it down helps a lot.
+- Involve your audience
+    - Public documents and public thread always help to involve everyone.
+- Write documentation to avoid duplicate work and be assertive about tough decisions that were made. (I usually like to do this using github and github discussions to straighten the communication between the team).
