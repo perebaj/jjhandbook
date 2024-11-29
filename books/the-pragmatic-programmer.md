@@ -4,13 +4,13 @@
 
 Topic 1: It's your life
 
-Assuma as rédeas, analise tudo com muito cuidado, é a sua vida.
+Take ownership of your ideas, analyze everything very carefully, it's your life.
 
 Topic 2: The cat ate my source code
 
 Bro, talk yo shit!
 
-Quando estiver assumindo responsábilidades, tente ser o mais detalhista possível. Ser assertivo nas respostas e tentar dar alternativas para as indagações feitas. As vezes a única forma de encontrar as respostas é lendo o source code, sim, é horrível, mas são tantas variáveis repassadas de pessoa para pessoa, que muitas vezes é isso que devemos fazer.
+When taking on responsibilities, try to be as detailed as possible. Be assertive in your answers and try to provide alternatives to the questions asked. Sometimes the only way to find the answers is by reading the source code. Yes, it's horrible, but there are so many variables passed from person to person that often that's what we should do.
 
 Topic 3; Software Entropy
 
@@ -26,8 +26,7 @@ Topic 4: Stone Soup and Boiled Frogs
 - Start-up fatigue: The point where the team is so tired that they can't see the light at the end of the tunnel
     - The solution: Try to cook a stone soup. Start putting a small amount of carots, after that, ask for potatoes, and so on.
 
-- The Boiled frogs: Se você colocar um sapo para cozinhar e ir aumentando a temperatura aos poucos, no final ele vai acabar cozida sem ao menos perceber o que aconteceu com ele.
-
+- The Boiled frogs: If you put a frog to cook and gradually increase the temperature, in the end it will end up cooked without even realizing what happened to it.
 
 Topic 5: Good-enough software
 
