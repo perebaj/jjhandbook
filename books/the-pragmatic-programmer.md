@@ -8,8 +8,6 @@ Take ownership of your ideas, analyze everything very carefully, it's your life.
 
 Topic 2: The cat ate my source code
 
-Bro, talk yo shit!
-
 When taking on responsibilities, try to be as detailed as possible. Be assertive in your answers and try to provide alternatives to the questions asked. Sometimes the only way to find the answers is by reading the source code. Yes, it's horrible, but there are so many variables passed from person to person that often that's what we should do.
 
 Topic 3; Software Entropy
