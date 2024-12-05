@@ -167,8 +167,14 @@ In one of my first weeks of work, I perceived a new approach that the team was u
 
 But I perceive that most of the problems are related to JUST REPROCESS THE MESSAGES, in other words, they are paying a high salary to a guy who spends the whole week just pressing a button, freaking expensive...
 
-My initiative was to understand what was going on, basically a wrong configuration in our Infra that limits the concurrency of messages that we can process, the solution was to create a workbook with the steps to fix it. Since we have more than 136 microservices to analyze, we adopt an incremental approach, and
+My initiative was to understand what was going on, basically a wrong configuration in our Infra that limits the concurrency of messages that we can process, including cloud run tunning and pubsub retry logic with exponential backoff to
+
+the solution was to create a workbook with the steps to fix it. Since we have more than 136 microservices to analyze, we adopt an incremental approach, and
 in 2 weeks we reduce the amount of messages in the dead letter queue to zero.
+
+Besides that I help in the creation of better DLQ visualizations, that list the time that the messages stay on the DLQs & the number of messages that should be reprocessed, this was able to enhance the way that we access and filter topics and subscriptions that were causing problems.
+
+Moreover, this initiative reduces the time spend by team looking DLQs and we can foucus on prioritize bugs and other problems that were most relevant for the company.
 
 ## Block and Cure
 
@@ -182,6 +188,7 @@ Basically, the process to unblock the limit of the client's credit and readjust 
     - I was recognized by the team for this initiative because the whole process was documented, so a black box was transformed into a white box.
     - Basically, we reduce the time to unlock the credit from 1 day to minutes, so the client can buy more, and we contribute to the company Goal. Increase the average spending of the clients.
     - I follow all the rules of the company, including using the existing libraries to structure logs, metrics and alerts to monitor the process.
+- Reduce the amount of tickets to the support team to near zero. Happy clients.
 
 # Quarter 3 Jun-Aug
 
@@ -203,9 +210,9 @@ This process includes some calls with the new provider to understand the new API
 
 # Quarter 4 Sep - Dec
 
-## Q3 Brieding
+## Q4 Briefing
 
-## Q3 Lessons
+## Q4 Lessons
 
 ## Drammatically reduce the credit concession
 
@@ -214,3 +221,26 @@ Experience in the credit flow
 ## Rollout new fraud engine for first purchases
 
 brov, this task takes almost 1 quarter. WTF
+
+## Implement a fallback mechanism to speed up the credit concession
+
+### What is a fallback mechanism and why it's important?
+
+Imagine that we are accessing multiple providers to request data about a client or even to request internal data. But those providers somethimes have problems and instabilities(maily related to time). And this flow that we are creating is time-sentive. The solution:
+
+## Reduce the credit concession to 40 seconds in p90.
+
+- Begging of the quarter just 45% of our clients were served in the right time. After some changes we where able to serve 90% of the clients in the right time.
+- The remaining 10% were related to deploys that affect the time our problems related to the provider that we are using to request data.
+- To circumvent it we create a fallback mechanism that controls the time that each providers will wait to respond and we adapt the ML models to retrive the same results when we don't have the data for all the providers.
+
+## Why this should be rethinked?
+
+- The current flow doesn't have a simples way to be tested, deployed and maintained
+    - The only way that the engineer team found to achieve it, was creating a hard dependency between BAs and the engineering team, we build some visualizations on top of the data that were saved in our warehouse.
+    - Deploys that affect the concession flow. When we decide to deploy a new version of the service, our service crashes, breaking the concession flow.
+    - High costs related to infraestructure. The widespread cloud run usage is a think that we need to rethink. We duplica code, duplicate infra, increasing the tail scale network problems.
+
+## Reduce fraud for a new provider creating a side flow (Samsung)
+    - Serve 100% of the requests in less than 5 seconds
+        - Tunning in the infraestructure to support more requests and tunning python workflows to avoid lock in the event loop and using threads to load ml models in a single shot.
