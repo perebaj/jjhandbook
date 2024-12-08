@@ -28,6 +28,7 @@
 # Some of the YouTube channels that I like to watch:
 
 ## [GOTO Conferences](https://www.youtube.com/@GOTO-/featured)
+## [Internet of Bugs    ](https://www.youtube.com/@InternetOfBugs/videos)
 
 # Robotics
 
@@ -40,3 +41,7 @@
 # Rockets
 
 - https://www.youtube.com/@ExcitingCrapo
+
+# Data engineering
+
+- [Data with Zach](https://www.youtube.com/@EcZachly_/videos)
