@@ -38,3 +38,7 @@ Just things that I would like to use but my brain is too busy to keep everything
 
 # Db design
 - https://dbdiagram.io/home/
+
+# Music
+
+- https://www.whosampled.com/
