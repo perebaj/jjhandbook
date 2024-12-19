@@ -244,3 +244,10 @@ Imagine that we are accessing multiple providers to request data about a client 
 ## Reduce fraud for a new provider creating a side flow (Samsung)
     - Serve 100% of the requests in less than 5 seconds
         - Tunning in the infraestructure to support more requests and tunning python workflows to avoid lock in the event loop and using threads to load ml models in a single shot.
+
+## Communication between subscriptions and multiple cloud run services
+
+When we are dealing with mulitple push subscriptions and multiple cloud run services, we need to be aware of some important aspects:
+
+- oidc token
+- audience
