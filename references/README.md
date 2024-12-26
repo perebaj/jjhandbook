@@ -51,3 +51,4 @@
 - fast.ai
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 - [Jeremy Howard](https://www.youtube.com/@howardjeremyp/playlists)
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
