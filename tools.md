@@ -42,3 +42,7 @@ Just things that I would like to use but my brain is too busy to keep everything
 # Music
 
 - https://www.whosampled.com/
+
+# Design
+
+https://www.framer.com
