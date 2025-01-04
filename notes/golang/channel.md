@@ -21,7 +21,7 @@ func main() {
 }
 ```
 
-We know that if you send a piece of information to a channel and don't read it, the channel stays blocked until the read operation is made with success. In the above example, we receive a deadlock error, because we are trying to do that using the same goroutine(main loop) and also using an unbuffered channel, that only supports one action at a time, read or receive.
+We know that if you send a piece of information to a channel and don't read it, the channel stays blocked until the read operation is made with success. In the above example, we receive a deadlock error, because we are trying to use the same goroutine(main loop) and also using an unbuffered channel, that only supports one action at a time, read or receive.
 
 An this sample example summarizes, the following quote present in the oficial documentation
 

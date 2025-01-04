@@ -17,6 +17,7 @@ To turn on or close the GATE voltage must be positive.
 - [MOSFET Why use a Gate and a Pull-Down Resistor?](https://www.youtube.com/watch?v=Wd6NzCY3NgI&ab_channel=DustinWatts)
 - [Electronic Basics #23: Transistor (MOSFET) as a Switch](https://www.youtube.com/watch?v=o4_NeqlJgOs&ab_channel=GreatScott%21)
 - [The MOSFET as Switch](https://wolles-elektronikkiste.de/en/the-mosfet-as-switch#comment-30429)
+https://www.youtube.com/watch?v=t1WRxmG3h3I
 
 
 # Important Resouces

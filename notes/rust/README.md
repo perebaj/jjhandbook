@@ -18,6 +18,8 @@ A good example of this is when you want to find a spot for a group of friends in
 
 This is because the stack is faster than the heap. Less overhead logic is needed to manage the stack!
 
+In the heap, on the other hand, the memory is less organized. When you put data on the heap, you request a certain amount of space. The operating system finds an empty spot in the heap that is big enough, marks it as being in use, and returns a pointer, which is the address of that location. This process is called allocating on the heap and is sometimes abbreviated as just allocating.
+
 ### ownership rules
 
 - Each value in Rust has a variable that's called its owner.
@@ -27,3 +29,7 @@ This is because the stack is faster than the heap. Less overhead logic is needed
 
 ## The String type
 
+
+# References
+
+- https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html
