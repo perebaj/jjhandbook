@@ -1079,3 +1079,56 @@ feast/banquet
 - jag/jug/jog =
 
 - everything in my body is to wear instead of use
+
+# 09/01/2025
+
+Introduction
+
+# 16/01/2025
+
+- sore = Quando vc vai a academia e fica dolorido
+- ached
+- goes beyond
+- I get your point
+- I love the way you lie
+- Looking for != looking at
+- lying
+- lay down - lie down
+- she has a sore neck
+- atonished =
+- lost/lose
+- to be a pain in the neck/ass
+- tech-neck
+- looking things up
+- clinging = scrolling
+- outsorced
+- worried = worrie
+- all in all
+- adverbers = ly. com
+
+AI is making us dumb?
+
+# 22/01/2025
+
+Its my favorit social media
+handed over =
+purposes = Speak =
+bill = Sign a document or even a conta de um restaurante
+foe = enemy
+tough = like coffee
+harassment = assédio
+beauty parlor = salon
+on the other hand = constrasting a point
+however = constrasting a point
+on top of that = adding to a point
+in short
+all in all = Inconclusion, Take everything in consideration. Concluding ideas
+not to mention = adding to a point
+valuable = pronunciation = VÁluable
+food poison = when you eat something that make you feel bad.
+
+I really like to study english but on the **on other hand** I would like to learn new languages, like French
+I like to travel, because it is really nice to meet new friends and discover new places, **not to mention**, the time that you give for your brain to rest
+
+Well worth it = The feedback was positive.
+appealing = To convince someone
