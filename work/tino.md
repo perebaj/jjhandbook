@@ -276,7 +276,15 @@ This give to us a huge opportunity to learn and propose changes that can improve
 
 - We are sending a response with a broken JSON, which is causing a problem when we are trying to unmarshal the response, and this is causing a timeout in the client side, so the client is able to make a fraudulent transaction. The issue behind it, was related to a internal library that use a middleware to handle the response, and this middleware was injecting broken data in the response. We fix it by removing the points in the code that use this middleware.
 
-# Quarter 1 2025
+# Quarter 1 Jan - Mar 2025
+
+## Q4 Briefing
+
+## Q4 Lessons
+
+- Start the quarter defining what you want. This will reduce anxiety and both parts, manager and employee, will know what is expected.
+
+## Achievements
 
 - I was recognized with merits for my work in the last quarters. Receive more stocks and a bonus.
 - Start to guide new members in the team.
