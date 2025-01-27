@@ -278,8 +278,13 @@ This give to us a huge opportunity to learn and propose changes that can improve
 
 # Quarter 1 2025
 
+- I was recognized with merits for my work in the last quarters. Receive more stocks and a bonus.
+- Start to guide new members in the team.
+
 - Frustration: Lead a project where I decided to adopt a light structure, that were agains the default company one(I thought that this one was too heavy). For this reason I generate some circular dependencies between my mocks and interfaces that were blocking my team to work smootly and ship their code.
 
 The principal lesson learned was that I spend my weekend studing about this topic, craete an essay about it and learn something about rush.
 
 - Sometimes, you can build a scrapy design, run it manually and harvast the same outcomes. It will delivery fast and you don't need to what the whole process to ship something to production to see things working. Reduce steps = avoid mistakes when they can not exists
+
+- [CSv6 and Behavior model]. Recognized by tribe lead and director of product by give the right priorities and sharing all the thinking process behind the decisions that were made. We deleiver the results before the implementation and re-organize the team to be more efficient and focus on the company goals.
