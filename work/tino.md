@@ -285,6 +285,6 @@ This give to us a huge opportunity to learn and propose changes that can improve
 
 The principal lesson learned was that I spend my weekend studing about this topic, craete an essay about it and learn something about rush.
 
-- Sometimes, you can build a scrapy design, run it manually and harvast the same outcomes. It will delivery fast and you don't need to what the whole process to ship something to production to see things working. Reduce steps = avoid mistakes when they can not exists
+- Sometimes, you can build a scrapy design, run it manually and harvast the same outcomes. It will delivery fast and you don't need to was the whole process to ship something to production to see things working. Reduce steps = avoid mistakes when they can not exists
 
-- [CSv6 and Behavior model]. Recognized by tribe lead and director of product by give the right priorities and sharing all the thinking process behind the decisions that were made. We deleiver the results before the implementation and re-organize the team to be more efficient and focus on the company goals.
+- [CSv6 and Behavior model]. Recognized by tribe lead and director of product by give the right priorities and sharing all the thinking process behind the decisions that were made. We delivered the results before the implementation and re-organize the team to be more efficient and focus on the company goals and the tasks that really matter.
