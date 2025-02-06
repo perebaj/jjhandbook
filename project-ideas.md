@@ -15,3 +15,8 @@ Play some notes in your Guitar and jammer will complement your music using AI.
 References:
 - https://github.com/schollz/PIanoAI
 - https://infinitedigits.co/tinker/piano-ai/
+
+
+# Trigger a spotify song using a voice command
+
+# Sentiment analysis using the leaked list of influencers ✅

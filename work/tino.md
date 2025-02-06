@@ -244,3 +244,55 @@ Imagine that we are accessing multiple providers to request data about a client 
 ## Reduce fraud for a new provider creating a side flow (Samsung)
     - Serve 100% of the requests in less than 5 seconds
         - Tunning in the infraestructure to support more requests and tunning python workflows to avoid lock in the event loop and using threads to load ml models in a single shot.
+
+## Communication between subscriptions and multiple cloud run services
+
+When we are dealing with mulitple push subscriptions and multiple cloud run services, we need to be aware of some important aspects:
+
+- oidc token
+- audience
+
+## Fix Fraud flow for creating a decision tree flow
+
+Adaptação rápida com virada p/ produção com observabilidade e testes, atendendo uma necessidade urgente do time de negócios que estava enfrentando problemas críticos com criminosos que encontraram uma brecha no sistema.
+
+## Follow the DLQ is not enogh
+
+Criamos uma nova subscription para consumir uns dados em um fluxo paralelo, e isso fez com que o tempo de crédito fosse afetado, mesmo dividindo a um nível físico. Nossos alertas não pegaram esse problema vimos através de dashboards que estavamos com problema.
+
+- A ideia aqui, foi melhorar os dashboards e criar alertas sobre esse problema detectado.
+- Encontramos os clientes que ficaram travados
+- Notificamos a empresa sobre o problema
+- Efetuamos o rollback do deploy
+- Reprocessamos os clientes
+
+# Why have specialist in the current software solutions is so important?
+
+Recently, we are working in a team that was not responsible to create and maintain the software that we are using, so, we are facing small issues of someone that don't know how the software works, details that are very important to enhance the software and attend the business needs.
+This give to us a huge opportunity to learn and propose changes that can improve the software and the business. But at same time, we are broking the flow in a constant pace.
+
+
+# The bug that crashes the payload response and return a timeout for your clients, so fraudulent transactions are made
+
+- We are sending a response with a broken JSON, which is causing a problem when we are trying to unmarshal the response, and this is causing a timeout in the client side, so the client is able to make a fraudulent transaction. The issue behind it, was related to a internal library that use a middleware to handle the response, and this middleware was injecting broken data in the response. We fix it by removing the points in the code that use this middleware.
+
+# Quarter 1 Jan - Mar 2025
+
+## Q4 Briefing
+
+## Q4 Lessons
+
+- Start the quarter defining what you want. This will reduce anxiety and both parts, manager and employee, will know what is expected.
+
+## Achievements
+
+- I was recognized with merits for my work in the last quarters. Receive more stocks and a bonus.
+- Start to guide new members in the team.
+
+- Frustration: Lead a project where I decided to adopt a light structure, that were agains the default company one(I thought that this one was too heavy). For this reason I generate some circular dependencies between my mocks and interfaces that were blocking my team to work smootly and ship their code.
+
+The principal lesson learned was that I spend my weekend studing about this topic, craete an essay about it and learn something about rush.
+
+- Sometimes, you can build a scrapy design, run it manually and harvast the same outcomes. It will delivery fast and you don't need to was the whole process to ship something to production to see things working. Reduce steps = avoid mistakes when they can not exists
+
+- [CSv6 and Behavior model]. Recognized by tribe lead and director of product by give the right priorities and sharing all the thinking process behind the decisions that were made. We delivered the results before the implementation and re-organize the team to be more efficient and focus on the company goals and the tasks that really matter.

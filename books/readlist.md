@@ -25,3 +25,5 @@
 - Database internals - A Deep Dive Into How Distributed Data Systems Work
 
 - The pragmatic programmer. David Thomas and Andrew hunt
+
+- The Art of Doing Science and Engineering

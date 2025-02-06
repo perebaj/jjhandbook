@@ -45,3 +45,17 @@ A good analogy could be the language, if two people don't speak the same languag
 # Load balancer x API Gateway
 
 Summarizing, both are layers related to network and traffic control, but the load balancer acts in the redirection of the traffic to the right servers, avoiding overloading, otherwise, the API gateway is a layer between the client(user) and the services, in the sense that this tool helps in the management of authentication, authorization.
+
+# Storage
+
+- Disk
+- Persistence
+- Memory
+
+# Event Driven Architecture
+
+## Many-to-one pattern
+
+## Many-to-many pattern
+
+## One-to-many pattern

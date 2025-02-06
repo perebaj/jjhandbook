@@ -45,3 +45,10 @@
 # Data engineering
 
 - [Data with Zach](https://www.youtube.com/@EcZachly_/videos)
+
+# Deep Learning
+
+- fast.ai
+- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
+- [Jeremy Howard](https://www.youtube.com/@howardjeremyp/playlists)
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
