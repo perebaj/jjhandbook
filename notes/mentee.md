@@ -1,4 +1,9 @@
-# Engineer environment
+> “If I have seen further it is by standing on the shoulders of giants.” ~ Isaac Newton
+
+
+> “Show me a successful individual and I’ll show you someone who had real positive influences in his or her life. I don’t care what you do for a living—if you do it well I’m sure there was someone cheering you on or showing the way. A mentor.” ~ Denzel Washington
+
+# David Reis Mentorship
 
 Dentre todas as coisas que gostaria de abordar nessa essay, vou focar em tópicos relacionados a ambientes de engenharia. Profissionalmente, sinto que estou em uma fase de me expor a ambientes e problemas que vão ser responsáveis por moldar o engenheiro que quero ser(ou não, a depender do ambiente em questão 🤔).
 
@@ -20,4 +25,16 @@ O que mais me chama atenção, são ambientes de trabalho duro/aprendizado, segu
 
 Diante de tantas possibilidades, como escolher o que é melhor e minimizar o risco de ter feito a escolha errada?
 
-# Bozo culture & bozo managers 🤡
+# Mentoria Vitor Agnello
+
+Venho lendo bastante conteúdos sobre mentorias e como elas foram fundamentais para pessoas que chegaram muito longe em suas carreiras. Comecei a fazer algumas mentorias tanto aqui dentro como com outros engenheiros de fora e tenho gostado bastante da experiência.
+
+Na minha cabeça o que vamos começar a tirar + proveito seria falar sobre liderança, pq afinal de contas, vc lidera uma companhia inteira. E eu acho q voce já deve ter aprendido muito com isso.
+
+- Que decisão te trouxe mais sucesso na sua carreira?
+- Quais pessoas preciso manter por perto para maximizar as chances de sucesso nesta área?
+- Eu gostaria de saber mais sobre você, você sempre se imaginou no papel que está hoje?
+- O que você gostaria de ter sabido antes de assumir seu primeiro cargo de liderança?
+- Quais habilidades de liderança foram as mais difíceis de desenvolver?
+- Você pode me contar sobre uma vez em que teve um chefe difícil? Como você lidou com a situação?
+- Qual é a lição de liderança mais importante que você aprendeu e como ela se mostrou inestimável?
