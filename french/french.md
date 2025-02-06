@@ -162,6 +162,7 @@ vous êtes
 ils sont
 elles sont
 
+![alt text](image-1.png)
 
 aujourd'hui = hoje
 hier = ontem
