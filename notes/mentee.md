@@ -38,3 +38,7 @@ Na minha cabeça o que vamos começar a tirar + proveito seria falar sobre lider
 - Quais habilidades de liderança foram as mais difíceis de desenvolver?
 - Você pode me contar sobre uma vez em que teve um chefe difícil? Como você lidou com a situação?
 - Qual é a lição de liderança mais importante que você aprendeu e como ela se mostrou inestimável?
+
+https://github.com/truepay/credit/pull/38
+https://www.npr.org/series/490248027/how-i-built-this
+https://fortune.com/2024/06/25/ring-inventor-jamie-siminoff-broke-before-shark-tank-amazon-pitches/
