@@ -221,6 +221,12 @@ vendredi = sexta-feira = Venus
 samedi = sábado Saturno
 dimanche = domingo Sol
 
+![alt text](image.png)
+
+# Material
+
+https://www.languageguide.org/franc%C3%AAs/n%C3%BAmeros/
+
 # Proxima aula
 
 - vamos praticar os números
