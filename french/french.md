@@ -206,7 +206,8 @@ dix-neuf = dezenove
 vingt = vinte
 vingt et un = vinte e um
 
-50 = cinquante
+30 = trente
+50 = cinquante = cínkant
 60 = soixante-dix
 70 = soixante-dix
 80 = quatre-vingts
@@ -232,3 +233,32 @@ https://www.languageguide.org/franc%C3%AAs/n%C3%BAmeros/
 
 - vamos praticar os números
 - verbos no presente
+
+# 11/02/2025
+
+- été = verão
+- musée = museu
+- nager = nadar
+- paquet = pacote
+- parlez = falar
+- pied = pé
+- clef = chave
+- fête = festa
+- être = ser
+- français = francês = Francé
+- chlore = cloro
+- école = escola
+- autre = outro = autr
+- choux = repolho
+- plein = cheio
+- manteau = casaco
+
+
+Comment on dit en français le 19:
+
+dix-neuf
+
+vous est en retard = você está atrasado
+
+c'est la Grand Place = Ali é a grand place
+c'est Mario

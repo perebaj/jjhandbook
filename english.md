@@ -1132,3 +1132,22 @@ I like to travel, because it is really nice to meet new friends and discover new
 
 Well worth it = The feedback was positive.
 appealing = To convince someone
+
+# 08/02/2025
+
+# Linking words
+
+- Because the company is expanding we need to hire
+- Whereas = while. Pronunciation: Uerás
+- Due that = devido a isso
+- unlike = ao contrário
+- in spite of = apesar de
+
+# 13/02/2025
+
+- despite = apesar de
+- although = embora
+- even though = mesmo que
+- though = embora
+- however = entretanto
+- due to = devido a. Sempre deve ser usado com 'to'
