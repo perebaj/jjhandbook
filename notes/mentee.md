@@ -25,6 +25,8 @@ O que mais me chama atenção, são ambientes de trabalho duro/aprendizado, segu
 
 Diante de tantas possibilidades, como escolher o que é melhor e minimizar o risco de ter feito a escolha errada?
 
+- Comparação com a carreira de outros eng, vc já se sentiu atrasado em algum momento?
+
 # Mentoria Vitor Agnello
 
 Venho lendo bastante conteúdos sobre mentorias e como elas foram fundamentais para pessoas que chegaram muito longe em suas carreiras. Comecei a fazer algumas mentorias tanto aqui dentro como com outros engenheiros de fora e tenho gostado bastante da experiência.
