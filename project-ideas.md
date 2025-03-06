@@ -20,3 +20,7 @@ References:
 # Trigger a spotify song using a voice command
 
 # Sentiment analysis using the leaked list of influencers ✅
+
+# Museum guide
+
+# Take care of my plants using embedded systems
