@@ -262,3 +262,156 @@ vous est en retard = você está atrasado
 
 c'est la Grand Place = Ali é a grand place
 c'est Mario
+
+13/03/2025
+
+speak = parler
+
+je parle
+tu parles
+il/elle parle
+nous parlonsaimer
+vous parlez
+ils/elles parlent
+
+visit
+
+je visite
+tu visites
+il visite
+nous visitons
+vous visitez
+ils/elles
+
+aime
+avoir
+s'appeler
+habiter/live
+
+je ha
+
+manger
+
+Je mange
+Tu manges = comer
+nourrir = alimentar
+
+
+verbo ir
+
+- je vais
+- tu vas
+- il/ elle va
+- vous allez
+- nous allons
+- ils/elles vont
+
+faire = fazer
+
+
+Quel âge tu as?
+c'est super!
+Vous pouvez répéter?/ Tu peux répéter?
+Comment ça se  prononce? Como se pronuncia
+sac-à-dos
+le cahier
+drôle = engraçado
+un soeur ? uma irmã | seeRr
+chien = cachorro
+le chat = o gato
+frere = irmão
+voiture = carro
+je vais magasiner caque jour = eu vou para revistaria todo dia
+il au stade chaque lundi =
+cottage = casinha/cabana/chalé
+choses bizarre = coisas bizarras
+est que vous faites des gateaux?
+
+# 27/03
+
+# Un jour est composé d'une jornée et d'une nuit
+# Les Jours = Os dias
+
+jour = jornada
+1 journée = 12 heures
+
+quando eu chego = quand j'arrive
+
+bonjour = bom dia
+bonsoir = boa noite
+
+quando eu saio = quand je pars
+
+bonne journée = bom dia (Quando você se despede de alguém pela manhã)
+bonne soirée = boa noite (Quando você se despede de alguém pela noite)
+
+bonne nuit = boa noite (Quando você deseja uma boa noite de sono)
+
+Se situer dans le temps
+
+avant = antes
+
+Il fait ses devoirs avant de diner = Ele faz a lição de casa antes de jantar
+
+pedant = durante
+
+On ne doit pas parler pendant le cours = Não devemos falar durante a aula
+
+On pode ser nos ou a gente. é o nous impessoal.
+
+* Il também pode ser usado como impessoal. No portugues a gente pode omitir o pronome/sujeito. No frances é obrigatório.
+
+après = depois
+
+Après les vacances, il faut reprendre le travail = Depois das férias, é preciso voltar ao trabalho
+
+- à tes souhaits = saúde
+- à tes amours = amor
+
+
+
+Chaque matin je me lève à 8h = Toda manhã eu me levanto às 8h
+
+se lever = verbo nominal. Para descrever algo que eu ƒaço comigo mesmo
+
+Chaque jour je vais à l'école = Todos os dias eu vou para a escola
+Chaque semaine je une série tv = Toda semana eu assisto uma série de tv
+Tous les jours je prends ma duche = Todos os dias eu tomo banho
+
+* prende = tomar igual no portugues
+    * prendre un café = tomar um café
+    * eu vou pegar meu celular = je vais prendre mon téléphone
+    * prendre un bain = tomar um banho
+
+Toutes le semaines je fais les courses = Todas as semanas eu faço compras
+D'habitude = Normalmente = Geralmente não pronunciamos o E, mas até a ultima letra. Nesse caso o D fica mais forte
+En général = Em geral
+Souvent = frequentemente
+Vers 11 heures = Por volta das 11 horas (aproximadamente)
+Toujours = sempre
+tous les jours = todos os dias
+
+Aller = ir
+
+je vais
+tu vas
+il/elle va
+nous allons
+vous allez
+ils/elles vont
+
+Aujourd'hui = hoje. Pronuncia: ojurdí
+Hier = ontem
+Demain = amanhã
+Cette semaine = essa semana
+Ce mois = esse mês
+Le mois prochain = o próximo mês. Pronuncia até o ai
+L'année prochaine = o próximo ano. Pronuncia o `n` é nasal
+
+- jamais = nunca/jamais
+- rarement = raramente = pronuncia: raromã
+- parfois = às vezes = pronuncia: parfua
+- quelquefois = às vezes = pronuncia: quelqufua
+
+
+me réveille. Pronuncia: me revéi. Despertar
