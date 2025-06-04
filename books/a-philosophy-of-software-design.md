@@ -1,5 +1,40 @@
-# A philosophy of Software Design
+# A philosophy of Software Design - John Ousterhout
 
+In this book, John Outerhout specifically talks about software decomposition, when is the best time to split code, make it more modular, and what techniques and principles can be taken into account to make these decisions!
+
+A question before continuing: What differentiates a good developer from a great developer?
+
+According to the book "Talent Is Overrated: What Really Separates World-Class Performers from Everybody Else", talent is a mix of a few factors:
+
+* *Prática deliberada*
+* *Dedicação*
+* *Resiliência*
+
+In short. Working smart, focused, and with clear goals is what makes anyone, not just developers, better at what they do.
+
+## Chapter 1 - Introduction (It's all about complexity)
+
+* The bigger the program and the more people working on it, the harder it is to manage complexity
+
+* Complexity will still increase over time. Despite our best efforts, simpler designs allow us to build larger, more powerful systems.
+
+* There are 2 general approaches to dealing with complexity:
+
+* Eliminate it by making it simpler and more obvious.
+
+* Encapsulate it.
+
+* Encapsulation is the process of hiding complexity behind a simpler interface. It allows us to build complex systems without having to understand all the details of how they work.
+
+Unlike physical projects (bridges and buildings) and specific projects, where you have to visualize exactly what you want to build before you even start, software has a different characteristic.
+
+What was used in the past was a code production model called the `waterfall model`, which aimed to design the system completely before it was even implemented. As a result, the initial design had many problems, problems that only appeared when implementation began.
+
+Because of these problems, most projects began to adopt agile development, based on incremental software development, where it is emphasized that the first deliveries are just a small piece of a final delivery, which is gradually increased as the product is evaluated by customers.
+
+This practice also reflects the technical level of your project, since in each iteration, new problems arise and are corrected before new features are even added.
+
+In other words, incremental development means that the software is never ready; the design happens constantly throughout the life of the project.
 
 ## Chapter 7 - Different layers, different abstractions
 
