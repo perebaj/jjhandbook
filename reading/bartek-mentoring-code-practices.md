@@ -1,0 +1,1 @@
+# How to became a oss mantainer - https://www.bwplotka.dev/2020/how-to-became-oss-maintainer/
