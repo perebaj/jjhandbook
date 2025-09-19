@@ -9,7 +9,7 @@ Histograms and summaries both measure distributions but differ in how they store
 Histograms bucket observations into predefined ranges (buckets) and keep counts per bucket, plus a total count and sum, allowing calculation of approximate quantiles by aggregating buckets.
 Summaries directly calculate and expose quantiles (like median, 90th percentile) without defining buckets.
 
-**Differences:**
+## **Differences:**
 
 * Classic summaries store quantiles as floating-point labels with separate series; native summaries would store quantiles natively in a single series.
 
@@ -17,27 +17,94 @@ Summaries directly calculate and expose quantiles (like median, 90th percentile)
 
 * 🚨Observations: Summaries tend to be less recommended in practice now due to native histograms🚨
 
-**Key points of the issue:**
+# **Key points of the issue:**
 
-* There are discussions about code maintenance challenges due to duplicated code (switch statements) around native histograms that should be addressed before adding native summaries.
+* There are discussions about code maintenance challenges due to duplicated code (switch statements) around native histograms that, maybe, should be addressed before adding native summaries.
 * There is a visionary discussion about potentially merging histograms and summaries into a unified "distribution" metric type that could have both buckets and pre-calculated quantiles, improving flexibility and implementation.
-* Challenges include how to expose and aggregate quantiles and buckets in a single sample, and compatibility with existing standards like OpenMetrics, which deliberately keep histograms and summaries distinct.
-* The unified type would improve usage consistency and simplify both storage and query logic, while making it possible to choose, per use case, if only buckets, only quantiles, or both are needed.
+  * Challenges include how to expose and aggregate quantiles and buckets in a single sample, and compatibility with existing standards like OpenMetrics, which deliberately keep histograms and summaries distinct.
+  * The unified type would improve usage consistency and simplify both storage and query logic, while making it possible to choose, per use case, if only buckets, only quantiles, or both are needed. (need to validate this idea/feasibility @perebaj)
 
-**Turn Summaries into a sub-type of Histograms**
+# **Turn Summaries into a sub-type of Histograms**
 
 > IIRC OpenMetrics kept summaries and histograms deliberately distinct, even regulating that there can be quantile-less summaries, but not bucket-less histograms (but the latter might just be because of the redundant +Inf bucket). So maybe there are good reasons for keeping them separate that I don't see right now.
 >
 > Beorn7 comment
 >
 
-The comment about makes me think about the feasibility of having a single type that can do both, histograms and summaries.
 
 Jojo note: This sounds like a interesting idea, this because, the performance of the new native histograms was already comproved to be better. As defined above, summaries and histograms are similar, with the difference that summaries expose quantiles directly, while histograms expose buckets that can be used to approximate quantiles. So, if we can have a single type that can do both, it would be great.
 
 If you want to have all quantiles, set the "Native Histogram" to "scrape" everything, otherwise, if you want to have only some quantiles, set the "Native Summary" to "scrape" only those quantiles. (Obs: This is just an idea, not sure if it is feasible).
 
-**Stricter Type System**
+Reference: https://www.tigerdata.com/blog/four-types-prometheus-metrics-to-collect#summaries ⬆️
+
+> Summaries provide more accurate quantiles than histograms, but those quantiles have three main drawbacks:
+>
+> 1. computing the quantiles is expensive on the client side. This is because the client library must keep a sorted list of data points over time to make this calculation.
+> 2. the quantiles you want to query must be predefined by the client. Only the quantiles for which there is a metric already provided can be returned by queries. There is no way to calculate other quantiles at query time.
+> 3. It’s impossible to aggregate summaries across multiple series, making them useless for most use cases in dynamic modern systems where you are interested in the view across all instances of a given component.
+
+
+**Observation about 3:**
+
+The afirmation refers to the impossibility of calculating an aggregated quantile (e.g., global p99) over multiple summary-type series in Prometheus, which is crucial in dynamic and distributed environments.
+
+Practical example: Why are summaries not aggregable?
+Imagine you have an "add_product" service running on 3 instances (behind a load balancer):
+
+Instance	p99 (summary)
+host1.domain.com	400ms
+host2.domain.com	200ms
+host3.domain.com	250ms
+Each summary calculates its own p99 locally, using only the requests that arrived at that instance.
+
+What happens if you want the global p99?
+There is no mathematically correct way to take "400ms, 200ms, and 250ms" (the p99s from each host) and calculate the p99 of all requests together.
+
+If you average, take the minimum or maximum of these values, it doesn't mean the result is the real global p99.
+
+Example: suppose host1 received 10k reqs, host2 only 100, and host3 1.000 — each p99 reflects very different populations!
+
+Jojo Note: For this reason, summaries are considered "useless for most use cases in modern systems": in environments with multiple instances (containers, cloud, autoscaling...), it is only possible to know the quantile of each instance, but not that of the sum of all.
+
+## Relation and Difference between Buckets and Quantiles
+
+**Buckets (Histograms)**
+Buckets are numerical intervals defined in a histogram metric.
+Each bucket counts how many events fell into it (i.e., how many events are less than or equal to its upper bound).
+
+For example, if the buckets are [0.5, 1, 2, +Inf], a bucket of 1 counts how many observations are less than or equal to 1.
+
+The histogram, therefore, does not calculate quantiles directly — it only stores the cumulative count, per bucket, of the observed events.
+
+**Quantis (Summaries or calculated via buckets)**
+
+A quantile (p.ex. p95) represents the value below which a certain percentage of observations occur.
+
+Quantiles are typically calculated from the distribution of individual values.
+
+In a histogram, the quantile is estimated: you see which buckets the desired percentile falls into, and interpolate between the lower and upper bounds of the bucket to estimate that value.
+
+In a summary, the quantile can be calculated exactly (via algorithms in the client library), but it is not aggregable across instances.
+
+**Jojo Note:**
+
+Buckets ≠ Quantiles
+Buckets only store ranges and counts; quantiles are statistical positions (percentiles).
+
+The quantile value usually does not fall exactly into any bucket; it is calculated "inside" (by interpolation) a bucket, using the counts of the surrounding buckets.
+
+By increasing the number of buckets near the value of interest, the accuracy of the quantile estimate increases, but it is never exact, only an approximation.
+
+OpenMetrics Documentation
+A histogram needs at least ONE bucket, but this only refers to the aggregation of values – not to the direct calculation of quantiles.
+
+A summary may not provide quantiles, but if it does, it returns the exact value for the chosen quantile (because the calculation or its algorithm is done on the exporter side).
+
+Therefore: Buckets are raw material, quantiles are the statistical result that can be estimated — but they are not equivalent. A bucket is not a quantile. In OpenMetrics (and Prometheus), buckets are predefined intervals to group how many observations fall below certain values. A quantile (like p95 or p99) represents a specific point in the distribution (for example, the value below which 95% of observations occurred).
+
+
+# **Stricter Type System**
 
 In Prometheus today, a single time series can switch types over time. For example, a series might store simple float values, then switch to a native histogram type (NH), or switch between counter histograms and gauge histograms. (I'm not sure if I understand this correctly - need to verify.🧐)
 
