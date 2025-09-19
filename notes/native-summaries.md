@@ -125,6 +125,22 @@ Seems that here we are talking about other internal problem that was introduced 
 
 # Appender V2 Notes
 
+Other related Issues:
+
+- [Simplify TSDB Appender interface #11764](https://github.com/prometheus/prometheus/issues/11764)
+
+
+feat(storage): add new appender interface and compatibility layer #17104
+
+https://github.com/prometheus/prometheus/pull/17104
+
+A new AppenderV2 interface has been proposed for Prometheus TSDB, representing a significant architectural improvement over the existing 9-method Appender interface. This consolidated approach combines metadata, exemplars, and created timestamps into unified append operations, delivering substantial performance gains while enabling direct OTLP ingestion without intermediate Protocol Buffer translation steps.
+
+Initial benchmarks demonstrate impressive performance improvements: 36% reduction in CPU usage, 38% fewer bytes allocated, and 19% fewer allocations.
+
+[Reference that comprove this numbers](https://github.com/prometheus/prometheus/pull/16951)
+
+
 ```mermaid
 sequenceDiagram
     participant OTLP as OTLP Ingestion
@@ -139,3 +155,34 @@ sequenceDiagram
     AppenderV2-->>Converter: Confirm success/failure
     Converter-->>OTLP: Respond ingestion (OK or error)
 ```
+
+```mermaid
+flowchart TB
+    subgraph Before Optimization
+        direction LR
+        OTLP1[Receive OTLP data]
+        Converter1[Convert OTLP → PRW 1.0 protobufs]
+        Appender1[Old Appender Remote Write]
+        Storage1[TSDB]
+        OTLP1 --> Converter1 --> Appender1 --> Storage1
+    end
+
+    subgraph After Optimization
+        direction LR
+        OTLP2[Receive OTLP data]
+        Appender2[AppenderV2 Direct to TSDB]
+        Storage2[TSDB]
+        OTLP2 --> Appender2 --> Storage2
+    end
+
+
+    note1["Conversor OTLP → PRW 1.0<br/>(Removido)"]
+    note2["Less CPU Less Memory Allocation Less Latency"]
+
+    Converter1 -.-> note1
+    Appender2 -.-> note2
+```
+
+## Proposal - TSDB Support for Cumulative CT (and Delta ST on the way) #60
+
+[proposal: TSDB Support for Cumulative CT (and Delta ST on the way) #60](https://github.com/prometheus/proposals/pull/60)
