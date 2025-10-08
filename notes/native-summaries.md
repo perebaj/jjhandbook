@@ -186,3 +186,33 @@ flowchart TB
 ## Proposal - TSDB Support for Cumulative CT (and Delta ST on the way) #60
 
 [proposal: TSDB Support for Cumulative CT (and Delta ST on the way) #60](https://github.com/prometheus/proposals/pull/60)
+
+# Sharding
+
+Sharding refers to splitting the responsibility of scraping and storing metrics across multiple instances, enabling greater scalability and reliability in large environments.
+
+## Why:
+
+Sharding solves two main problems
+
+1. Scalability:
+
+By distributing the workload across multiple instances, the server can handle larger volumes of metrics without reaching scalability limits.
+
+2. High Availability:
+
+In case of failure in one instance, the other instances can continue to scrape and store metrics, ensuring high availability.
+
+# Spareness(underutilization)
+
+Means that not all shards are used at the same time or equally loaded, in other words, underutilization of the resources.
+
+# Spareness in metrics
+
+Spareness means that many parts of a metric are empty. This can happen if the values are not spread out evenly, or if the metric has too many small parts.
+
+In the case of histograms, extesively spares buckets can "leak" storage and memory, as each bucket, even unused ones, requires space to be allocated.
+
+Reference: https://docs.google.com/document/d/1cLNv3aufPZb3fNfaJgdaRBZsInZKKIHo9E6HinJVbpM/edit?tab=t.0#heading=h.2ywoyp13c0bx
+
+Reference 2: https://grafana.com/blog/2021/11/03/how-sparse-histograms-can-improve-efficiency-precision-and-mergeability-in-prometheus-tsdb/
