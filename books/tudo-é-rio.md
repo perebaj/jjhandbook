@@ -1,0 +1,4 @@
+https://www.amazon.com.br/Tudo-%C3%A9-rio-Carla-Madeira/dp/6555871784/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=39IWIR100X2PR&dib=eyJ2IjoiMSJ9.ILwWZ1dbQGWG_XnWxAOc0W5xhfkmUO0UWDqgMCyjsEOxK7rg0RTQOVdH97n-GwNDHE-4lAwQIO_NdjeD75zDnOMcp5wEFzgYK1GzyGVRib1oBJmaoNtOTZAFHo0UZchGsPCSlEHuB0sAAWyNFxiKErFowjyS-TD-1Yf9WqD-F8qpjoElYJq-zSWJYw1oOlZL3FjvookSOz7j9g13s73DFC2jQwUN8fEAYcwYOirDgys.HV_nQrHGSPzvyyImpyi0gc_DiKcPlBJ0DSvRB-uUT7w&dib_tag=se&keywords=tudo+%C3%A9+rio&qid=1760352048&s=books&sprefix=tudo+%C3%A9+ri%2Cstripbooks%2C308&sr=1-1&ufe=app_do%3Aamzn1.fos.b07885ca-1112-4aa2-9643-2c998a360229
+
+
+With a mature, precise yet delicate and poetic narrative, the novel tells the story of the couple Dalva and Venâncio, whose lives are transformed after a tragic loss caused by the husband's morbid jealousy, and of Lucy, the most depraved and coveted prostitute in town, who crosses their path, forming a love triangle.
