@@ -415,3 +415,14 @@ L'année prochaine = o próximo ano. Pronuncia o `n` é nasal
 
 
 me réveille. Pronuncia: me revéi. Despertar
+
+
+30/10/2025
+
+notre choix = outras coisas
+exprimer ses goûts = expressar seus gostos
+Diferença entre aimer et adorer: aimer é quando você gosta de algo, adorer é quando você ama algo.
+regarder = assistir
+regarder la télévision = assistir a tv
+regarder un film = assistir um filme
+Voir = ver
