@@ -53,3 +53,7 @@
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 - [Jeremy Howard](https://www.youtube.com/@howardjeremyp/playlists)
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+
+# Politics
+
+- [Traduagindo](https://traduagindo.com/)
