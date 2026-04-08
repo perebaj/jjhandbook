@@ -426,3 +426,4 @@ regarder = assistir
 regarder la télévision = assistir a tv
 regarder un film = assistir um filme
 Voir = ver
+bious = tchau

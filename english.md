@@ -1151,3 +1151,25 @@ appealing = To convince someone
 - though = embora
 - however = entretanto
 - due to = devido a. Sempre deve ser usado com 'to'
+
+# 08/04/2026
+
+We discuss about the moon trip. Arthemis 2
+
+- flabbergasted
+- software
+- pros and cons
+- learning as we go along
+- self-assurance
+- in advance
+- ashemed
+- earth - pronunciation.
+- gossip
+- international mission
+- evolved
+- they are not certain/they don't have certainty
+- faculty/staff
+- teacher in school and professor in university
+- voyage to the moon
+- small, inteligent and wise.
+- googles = telescopes
