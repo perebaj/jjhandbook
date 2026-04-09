@@ -1173,3 +1173,41 @@ We discuss about the moon trip. Arthemis 2
 - voyage to the moon
 - small, inteligent and wise.
 - googles = telescopes
+
+# 09/04/2026
+
+Argumentation I don’t have a strong foundation/ I don’t have the basics.
+Today I struggle with small talk/ I find it hard to have casual conversations.
+Booths
+Specialization
+I wear many hats/ I’m a jack of all trades: In my job we do a little bit of everything
+Ashamed
+Bodies get weak
+I will share a gossip
+People evolves
+Flip Flops (hawaiianas)
+Sandals: any other kind of open shoes for summertime
+Night vision goggles
+Contact lenses
+NASA: National Aeronautics and Space Administration
+- Jack of all trades = master of none
+- I hear more than one hat
+- small talk = conversa de café
+- injured = ferido. Pronunciation: InJeeJerd
+- at last but not least. Example: I'm at last but not least happy to see you.
+- subdue = abater
+- due to = devido a. Sempre deve ser usado com 'to'
+- due date = data de entrega
+- accelerant liquids = flammable liquids
+- assailant = atacante/agressor
+- gut feeling = intuição
+- to be punished (physically) = ser punido (fisicamente)
+- misrespecting = desrespeitar
+- hurting
+- To be grounded = ser reprimido
+- fist fight = briga de punho
+- roberry = roubo
+- to harrass = assediar
+- bladed weapons = armas cortantes that is different than "white weapons"
+- i have the urge to see people = ter a vontade de ver pessoas
+-
