@@ -1210,4 +1210,8 @@ NASA: National Aeronautics and Space Administration
 - to harrass = assediar
 - bladed weapons = armas cortantes that is different than "white weapons"
 - i have the urge to see people = ter a vontade de ver pessoas
--
+- rotten = podre
+- freaks me out = me assusta
+- **safety** and **security** = segurança e proteção
+  - associate security with airports. Prevention of everything that is external
+  - safety is an accident that is not expected to happen
