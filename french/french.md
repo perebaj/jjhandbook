@@ -427,3 +427,18 @@ regarder la télévision = assistir a tv
 regarder un film = assistir um filme
 Voir = ver
 bious = tchau
+
+# 08/04/2026
+
+- verlain = trocar a ordem das palavras
+- Quelques réponses possibles = Algumas formas de responder quando alguem fala algo incrivel. Ex: eu sou ator da malhação.
+    - Très bien, super bien, impeccable, parfait, c'est cool!
+    - Parfait, en forme = em uma situação que antes vc estava ruim e agora está bem. Pra saber se vc está animado.
+    - ça va pas = não vai passar
+- DSTXZ, essas letras não se pronunciam.
+  - O sxz quando encontram com uma palavra que começa com uma vogal, o som fica como 'zz'. Ex: Nous Allons = nouzallon
+- ça va pas = que porra é essa? Nao está funcionando.
+- Plus ou moins +ou-
+- Pas très bien = Não estou bem.
+- maL = estou mal. 🔉 MaLLe
+-
