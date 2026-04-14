@@ -252,4 +252,5 @@ Multiple approaches have been proposed over the years: limiting label churn (#17
 2. How does the memory limiter interact with the OTel Collector's existing `memorylimiterprocessor` when both are configured?
 3. Should the receiver support the "soft limit" / spike_limit concept from the OTel processor, or start simple with just a hard limit?
 4. What is the right default for `check_interval`? The OTel processor recommends 1s; the proposal also suggests ~1s.
-5. How to handle the case where the Prometheus receiver runs inside a collector that already has GOMEMLIMIT set by the operator?
+5. How to handle the case where the Prometheus receiver runs inside a collector that already has GOMEMLIMIT set by the operator? (*Important question for implementation*)
+
