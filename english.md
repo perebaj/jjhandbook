@@ -1191,7 +1191,7 @@ Night vision goggles
 Contact lenses
 NASA: National Aeronautics and Space Administration
 - Jack of all trades = master of none
-- I hear more than one hat
+- I wear more than one hat
 - small talk = conversa de café
 - injured = ferido. Pronunciation: InJeeJerd
 - at last but not least. Example: I'm at last but not least happy to see you.
@@ -1208,10 +1208,39 @@ NASA: National Aeronautics and Space Administration
 - fist fight = briga de punho
 - roberry = roubo
 - to harrass = assediar
-- bladed weapons = armas cortantes that is different than "white weapons"
+- bladed weapons = armas cortantes that is different than "white weapons" that we use in Brazil
 - i have the urge to see people = ter a vontade de ver pessoas
 - rotten = podre
 - freaks me out = me assusta
 - **safety** and **security** = segurança e proteção
   - associate security with airports. Prevention of everything that is external
   - safety is an accident that is not expected to happen
+
+14/04/2026
+
+- enticing = atraente
+- rougue =
+- big booble =
+- backlash = / = when you did something that turn against you
+- utter = the top of the top. Maximum. You are my utter admiration
+- be mocked = to make fun of someone. Childreen mock each other doing
+- healer/doctor
+- egotistic = self-centered
+- narcissistic = self-centered
+- Jonathan superman-like image = - is used to describe something that looks like...
+- was a step to far = went too far
+- I can do as I want
+- he is loosing it
+- he is nuts
+- cabinet = the secretarie office
+- put him on the trial = put him on the jury
+- we are prone = we are prone to do something when all our friends are doing it
+- normalize
+- skeptic = doubtful
+- threat
+- disguise = to hide
+- you nailed it
+- to be responsible/to be accountable
+- man/men
+- woman/women
+- MAGA = Make America Great Again
