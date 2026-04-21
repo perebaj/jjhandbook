@@ -16,6 +16,7 @@
 ## [John Arundel](https://bitfieldconsulting.com/golang)
 ## [schollz](https://github.com/schollz)
 ## [Bartek Plotka](https://www.bwplotka.dev/)
+## [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker)
 
 # Some sites that I like to read:
 
