@@ -138,28 +138,28 @@ Use the words in the box. You can use each word only once.
    a) safety
    b) security
 
-4. Wearing a helmet helps improve your __________ on a bike.
+4. Wearing a helmet helps improve your SAFETY on a bike.
    a) safety
    b) security
 
-5. At the beach I usually wear __________, not sneakers.
+5. At the beach I usually wear FLIP-FLIPS, not sneakers.
    a) flip-flops
    b) contact lenses
 
-6. He likes talking to new people, so __________ is easy for him.
+6. He likes talking to new people, so SMALL TALK is easy for him.
    a) small talk
    b) fist fight
 
 ### D. Correct the sentences
 
-Rewrite the sentences so they sound natural and correct in English.
+<!-- Rewrite the sentences so they sound natural and correct in English.
 
 1. People evolves when they face new challenges.
 2. I am at last but not least happy to see you.
 3. He was punished physically and then he was grounded.
 4. I wear many hats, so I only do one thing at work.
 5. The airport safety checked everybody's bags.
-6. That movie about an assailant with bladed weapons really freak me out.
+6. That movie about an assailant with bladed weapons really freak me out. -->
 
 ## Part 3: Mixed Review
 
@@ -170,66 +170,14 @@ Write a short paragraph of `6-8` lines about one of the topics below. Use at lea
 Choose one:
 
 1. A future voyage to the moon
+Recently the NASA engineers planend a voyage to the moon, the mission was a sucess since they were able to take off the rocket and land in the earth with sucess, they traverse the whole moon orbit acessing a side that was never been investigated before. What freaks me out about this story, is that the same machine that get out from earth was the same that come back. Gossips in the internet are saying that they come back safety, but there are always prons and cons, returning with live is the pron, but they got some injuries in that road, that is a cons.
 2. A difficult situation where you trusted your gut feeling
-3. Your work routine as someone who wears many hats
+
+I did all reservations in advance to make sure that the trip would be amazing. But my gut feeling was saying something about the plataform where I got the Acropolis ticket, in the end, i was right, I forgot to bought the
+3.
+
+1. Your work routine as someone who wears many hats
 
 Try to include some of these expressions:
 
 `pros and cons` `self-assurance` `in advance` `small talk` `specialization` `gut feeling` `due date` `safety` `security` `freaks me out`
-
-### B. Challenge
-
-Write one original sentence for each pair to show the difference in meaning.
-
-1. `safety` / `security`
-2. `due to` / `due date`
-3. `teacher` / `professor`
-4. `sandals` / `flip-flops`
-
-## Answer Key
-
-### Part 1
-
-Match:
-1-C, 2-D, 3-J, 4-H, 5-B, 6-G, 7-E, 8-I, 9-F, 10-A
-
-Complete the sentences:
-1. in advance
-2. self-assurance
-3. telescopes
-4. flabbergasted
-5. staff
-6. evolved
-7. certain
-8. voyage
-
-### Part 2
-
-Match:
-1-C, 2-I, 3-H, 4-F, 5-J, 6-D, 7-B, 8-A, 9-E, 10-G
-
-Complete the sentences:
-1. small talk
-2. specialization
-3. subdue
-4. gut feeling
-5. injured
-6. harass
-7. rotten
-8. security
-
-Choose the correct word or expression:
-1. due to
-2. due date
-3. security
-4. safety
-5. flip-flops
-6. small talk
-
-Possible corrections:
-1. People evolve when they face new challenges.
-2. I am very happy to see you at last.
-3. He was physically punished and then he was grounded.
-4. I wear many hats, so I do many different things at work.
-5. Airport security checked everybody's bags.
-6. That movie about an assailant with bladed weapons really freaks me out.
