@@ -1244,3 +1244,29 @@ NASA: National Aeronautics and Space Administration
 - man/men
 - woman/women
 - MAGA = Make America Great Again
+
+# 24/04/2026
+
+- Rubbish = garbage
+- lawsuit
+- narrow
+- still and yet
+- still and yet = Still é algo que ja aconteceu. Yet é algo que ainda não aconteceu.
+Still is on going process. I haven't stopped yet.
+yet is a surprise to soon
+already(suprised in a Woww way) could also be used in the end of the sentence to express that something is already done.
+
+I still haven't found what I am looking for = U2 song.
+- tributes = homenagens
+- I'm justing leading you there.
+- I bet my head chop
+- acostumada = used to
+- To wear = to put on
+- To dress = action to getting dressed
+- i dont lile to go with my clothes wrinkles
+- iroed
+- the sinner perfume = uma marca que eu sempre uso, minha marca
+- metrosexual
+- jealously = com ciúmes
+- boddy daddy
+-
