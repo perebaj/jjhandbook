@@ -1269,4 +1269,12 @@ I still haven't found what I am looking for = U2 song.
 - metrosexual
 - jealously = com ciúmes
 - boddy daddy
--
+- pathetic
+- awkard feeling.
+- wanna be
+- skimpy
+- inadequate
+- lousy way of dressing = roupa de mal gosto
+- slang = jargão/giria
+- cut it out already! = Pare de falar isso já!
+- fed up = past tense of to feed. I'm fed up with you. Full of it
