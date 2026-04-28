@@ -1278,3 +1278,35 @@ I still haven't found what I am looking for = U2 song.
 - slang = jargão/giria
 - cut it out already! = Pare de falar isso já!
 - fed up = past tense of to feed. I'm fed up with you. Full of it
+
+
+- basic grasp = facil compreensão
+- toddlers = bebês de 1 a 3 anos
+- gotten out = saiu, foi divulgada
+- whip-smart = someone who is extremely intelligent, quick-witted, and perceptive
+- trait = característica. é mais que é herdado. Já Characteristic é algo que adquirido.
+- befuddled = confuso/perplexo befuddled mind = mente confusa
+- neatly = limpo, arrumado, perfeito. Maps neatly: mapeia perfeitamente
+  - neat or messy = limpo ou sujo
+- attuned = ajustado, sincronizado, em harmonia.
+- beep of the air fryer
+- to forge = criar, forjar
+- neutter = castrado.
+- to get lay = ficar deitado.
+- prouly = com orgulho
+- cues = pistas.
+- gaze at = olhar para algo encantado
+- glance at = olhar para algo rapidamente
+- intriguingly = de forma intrigante
+- colocar o ly no ficar é para dizer que algo foi feito daquela forma.
+- streaming in =
+- faucet = torneira
+- rescue = resgatar
+- feral = selvagem
+- rip the garbage back = tirar o lixo de volta
+
+- paramount = supremo, essencial, fundamental.
+- skimming through = olhar rapidamente
+- alike
+- dimmer
+- brighter
