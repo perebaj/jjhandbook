@@ -493,15 +493,15 @@ Cette nuit
 
 ## Exercicio 0 - Traduza :
 
-Essa segunda de manhã: Ce lundi matin
-Esse sábado de madrugada: Ce samedi nuit
-Essa noite: ce soir
-Hoje de noite: ce soir
-Hoje de tarde: cet après-midi
-Essa quinta de manhã: ce jeudi matin
-Hoje à tarde: Cet après-midi
-Hoje de manhã: ce matin
-Esse domingo à tarde: ce dimanche après-midi
+- Essa segunda de manhã: Ce lundi matin
+- Esse sábado de madrugada: Ce samedi nuit
+- Essa noite: ce soir
+- Hoje de noite: ce soir
+- Hoje de tarde: cet après-midi
+- Essa quinta de manhã: ce jeudi matin
+- Hoje à tarde: Cet après-midi
+- Hoje de manhã: ce matin
+- Esse domingo à tarde: ce dimanche après-midi
 
 les prépositions: leva aquela coisa para algum lugar
 
@@ -525,32 +525,32 @@ chez moi = contigo, seu corpo
 
 ## Exercicio 1 : Traduza com a ajuda da preposição "chez" e o tonique adequado.
 
-Minha casa - chez moi
-Tua casa - chez toi
-Sua casa = chez toi
-Casa dele - chez lui
-Casa dela - chez elle
-Casa de vocês - chez vous
-Sua casa - chez toi
-Casa deles - chez eux
-Casa delas - chez eux
+- Minha casa - chez moi
+- Tua casa - chez toi
+- Sua casa = chez toi
+- Casa dele - chez lui
+- Casa dela - chez elle
+- Casa de vocês - chez vous
+- Sua casa - chez toi
+- Casa deles - chez eux
+- Casa delas - chez eux
 
 ## Exercicio 2: Traduza
 
-Eu vou para casa dela: Je vais chez elle
-Nós vamos para casa dele: Nous allons chez lui
-Ele vai para minha casa: Il va chez moi
-Eu vou ao médico: Je vais chez le médicin
-Ele vai para casa dele: Il va chez lui
-Vocês vão para minha casa: Vous allez chez moi
-Você vai para minha casa: Tu vas chez moi
-Ela vai para casa dela: Elle va chez elle
+- Eu vou para casa dela: Je vais chez elle
+- Nós vamos para casa dele: Nous allons chez lui
+- Ele vai para minha casa: Il va chez moi
+- Eu vou ao médico: Je vais chez le médicin
+- Ele vai para casa dele: Il va chez lui
+- Vocês vão para minha casa: Vous allez chez moi
+- Você vai para minha casa: Tu vas chez moi
+- Ela vai para casa dela: Elle va chez elle
 
 ## Exercicio 3: Traduza
 
-Sábado à noite eu vou para casa dela: samedi soir je vais chez elle
-Domingo de manhã eu vou para casa dele: dimanche matin je vais chez lui
-Hoje de tarde eu vou para a casa dela: cet après-midi je vais chez elle
-Hoje de manhã eu vou para sua casa: ce matin je vais chez toi
-Segunda de tarde eu vou para minha casa: lundi après-midi je vais chez moi
-Hoje de noite eu vou para minha casa: ce soir je vais chez moi
+- Sábado à noite eu vou para casa dela: samedi soir je vais chez elle
+- Domingo de manhã eu vou para casa dele: dimanche matin je vais chez lui
+- Hoje de tarde eu vou para a casa dela: cet après-midi je vais chez elle
+- Hoje de manhã eu vou para sua casa: ce matin je vais chez toi
+- Segunda de tarde eu vou para minha casa: lundi après-midi je vais chez moi
+- Hoje de noite eu vou para minha casa: ce soir je vais chez moi
