@@ -561,9 +561,9 @@ Ela vai para casa dela: Elle va chez elle
 
 Exercice 3: Traduza
 
-Sábado à noite eu vou para casa dela.
-Domingo de manhã eu vou para casa dele
-Hoje de tarde eu vou para a casa dela. (verifique nas explicaçõesdos demonstrativos de vc acertou)
-Hoje de manhã eu vou para sua casa.
-Segunda de tarde eu vou para minha casa.
-Hoje de noite eu vou para minha casa.
+Sábado à noite eu vou para casa dela: samedi soir je vais chez elle
+Domingo de manhã eu vou para casa dele: dimanche matin je vais chez lui
+Hoje de tarde eu vou para a casa dela: cet après-midi je vais chez elle
+Hoje de manhã eu vou para sua casa: ce matin je vais chez toi
+Segunda de tarde eu vou para minha casa: lundi après-midi je vais chez moi
+Hoje de noite eu vou para minha casa: ce soir je vais chez moi
