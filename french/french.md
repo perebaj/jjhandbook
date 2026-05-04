@@ -442,3 +442,128 @@ bious = tchau
 - Pas très bien = Não estou bem.
 - maL = estou mal. 🔉 MaLLe
 -
+
+29/04/2026
+
+segunda = lundi
+terça = mardi
+quarta = mercrerdi
+quinta = jeudi
+sexta = vendredi
+sábado = samedi
+domindo = dimanche
+
+# Atividade
+
+1 - Terça de manhã: mardi matin
+2 - Quarta de noite: mercredi soir
+3 - Quinta de madrugada: jeudi nuit
+4 - Segunda de manhã: lundi matin
+5 - Terça de tarde: mardi après-midi
+6 - Sexta de noite: vendredi soir
+7 - Sábado de noite: samedi soir
+8 - Quinta de manhã: jeudi matin
+9 - Domingo de tarde: dimanche après-midi
+10 - Quarta de tarde: mercredi après-midi
+11 - Quinta de tarde: jeudi après-midi
+12 - Domingo de manhã: dimanche après-midi
+13 - Sábado de manhã: samedi matin
+14 - Segunda de noite: lundi soir
+15 - Terça de madrugada: mardi nuit
+16 - Quarta de manhã: mercredi matin
+
+suar = noite
+
+après-midi = tarde
+matin = manhã
+soir = noite
+nuit = noite madrugada
+
+hoje de manha, hoje de tarde, hoje de noite não é ajourd'hui matin, ajourd'hui apres-midi, ajourd'hui noite -> Não é assim!
+
+Demonstrativos:
+
+Ce matin = Hoje de manhã
+Cet après midi = Hoje de tarde
+Cet soir = Hoje de noite
+Cette nuit = Hoje de noite madrugada
+
+Vamos treinar
+dica : os dias da semana são todos masculinos.
+lembrete : le matin, l’après-midi, le soir, la nuit. ( você deve trocar os artigos le, l’, le, la) pelo demonstrativo correspondente. ce, cette, cet, ces.
+
+ce, cet para palavras masculinas, cet é usada para palavras que começam com vogal
+cette = feminino
+ces = plural feminino e masculino. Este, estas, esses e essa, aqueles e aquelas.
+
+Ce matin
+Cet après-midi
+Ce soir
+Cette nuit
+
+
+# Exercicio 0 - Traduza :
+
+Essa segunda de manhã: Ce lundi matin
+Esse sábado de madrugada: Ce samedi nuit
+Essa noite: ce soir
+Hoje de noite: ce soir
+Hoje de tarde: cet après-midi
+Essa quinta de manhã: ce jeudi matin
+Hoje à tarde: Cet après-midi
+Hoje de manhã: ce matin
+Esse domingo à tarde: ce dimanche après-midi
+
+les prépositions: leva aquela coisa para algum lugar
+
+- à la
+- au (ô pronuncia-se como ô)
+- à l’ = vogal ou h
+- chez 🏡
+  - Aplicação: qnd for p/ casa de alguem ( Je vais chez Marie )
+  - Aplicação: ir para o médito, dentista.
+  - Je vais chez moi
+- les toniques(usado como pronomes)
+moi(meu), toi(seu), lui(dele), elle(dela), nous(nosso), vous(vosso), eux(deles - masculino), elles(delas) - soi(si mesmo)
+muá, tuá, luí, éle, nu, vu, êu+, éle
+
+
+Regras fonéticas:
+
+in = an. Médecin
+en = on = dentiste
+
+chez moi = contigo, seu corpo
+
+## Exercice 1 : Traduza com a ajuda da preposição “chez” e o tonique adequado.
+
+Minha casa - chez moi
+Tua casa - chez toi
+Sua casa = chez toi
+Casa dele - chez lui
+Casa dela - chez elle
+Casa de vocês - chez vous
+Sua casa - chez toi
+Casa deles - chez eux
+Casa delas - chez eux
+
+Exercice 2: Traduza
+
+Eu vou para casa dela: Je vais chez elle
+Nós vamos para casa dele: Nous allons chez lui
+Ele vai para minha casa: Il va chez moi
+Eu vou ao médico: Je vais chez le médicin
+Ele vai para casa dele: Il va chez lui
+Vocês vão para minha casa: Vous allez chez moi
+Você vai para minha casa: Tu vas chez moi
+Ela vai para casa dela: Elle va chez elle
+
+
+Exercice 3: Traduza
+
+Sábado à noite eu vou para casa dela.
+Domingo de manhã eu vou para casa dele
+Hoje de tarde eu vou para a casa dela. (verifique nas explicaçõesdos demonstrativos de vc acertou)
+Hoje de manhã eu vou para sua casa.
+Segunda de tarde eu vou para minha casa.
+Hoje de noite eu vou para minha casa.
