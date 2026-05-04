@@ -116,7 +116,6 @@ e + u
 - Gn som de nh
 - bonne chance = boa sorte
 
-
 # 04/02/2025
 
 Je m;appelle = Meu nome é
@@ -134,7 +133,6 @@ O que é um verbo reflexivo?
 
 - Um verbo reflexivo é um verbo que é acompanhado por um pronome reflexivo. O pronome reflexivo concorda com o sujeito e indica que a ação do verbo é realizada pelo sujeito e retorna ao sujeito. Em francês, os verbos reflexivos são conjugados com o pronome reflexivo correspondente ao sujeito.
 
-
 Comment vous appelez-vous? = Como você se chama?
 
 ai é o a aberto
@@ -149,7 +147,6 @@ nous avons
 vous avez
 ils ont
 elles ont
-
 
 être = ser ou estar
 
@@ -253,7 +250,6 @@ https://www.languageguide.org/franc%C3%AAs/n%C3%BAmeros/
 - plein = cheio
 - manteau = casaco
 
-
 Comment on dit en français le 19:
 
 dix-neuf
@@ -263,7 +259,7 @@ vous est en retard = você está atrasado
 c'est la Grand Place = Ali é a grand place
 c'est Mario
 
-13/03/2025
+# 13/03/2025
 
 speak = parler
 
@@ -296,7 +292,6 @@ Je mange
 Tu manges = comer
 nourrir = alimentar
 
-
 verbo ir
 
 - je vais
@@ -307,7 +302,6 @@ verbo ir
 - ils/elles vont
 
 faire = fazer
-
 
 Quel âge tu as?
 c'est super!
@@ -329,8 +323,9 @@ est que vous faites des gateaux?
 
 # 27/03
 
-# Un jour est composé d'une jornée et d'une nuit
-# Les Jours = Os dias
+## Un jour est composé d'une jornée et d'une nuit
+
+## Les Jours = Os dias
 
 jour = jornada
 1 journée = 12 heures
@@ -367,8 +362,6 @@ Après les vacances, il faut reprendre le travail = Depois das férias, é preci
 
 - à tes souhaits = saúde
 - à tes amours = amor
-
-
 
 Chaque matin je me lève à 8h = Toda manhã eu me levanto às 8h
 
@@ -413,11 +406,9 @@ L'année prochaine = o próximo ano. Pronuncia o `n` é nasal
 - parfois = às vezes = pronuncia: parfua
 - quelquefois = às vezes = pronuncia: quelqufua
 
-
 me réveille. Pronuncia: me revéi. Despertar
 
-
-30/10/2025
+# 30/10/2025
 
 notre choix = outras coisas
 exprimer ses goûts = expressar seus gostos
@@ -441,9 +432,8 @@ bious = tchau
 - Plus ou moins +ou-
 - Pas très bien = Não estou bem.
 - maL = estou mal. 🔉 MaLLe
--
 
-29/04/2026
+# 29/04/2026
 
 segunda = lundi
 terça = mardi
@@ -453,7 +443,7 @@ sexta = vendredi
 sábado = samedi
 domindo = dimanche
 
-# Atividade
+## Atividade
 
 1 - Terça de manhã: mardi matin
 2 - Quarta de noite: mercredi soir
@@ -490,7 +480,7 @@ Cette nuit = Hoje de noite madrugada
 
 Vamos treinar
 dica : os dias da semana são todos masculinos.
-lembrete : le matin, l’après-midi, le soir, la nuit. ( você deve trocar os artigos le, l’, le, la) pelo demonstrativo correspondente. ce, cette, cet, ces.
+lembrete : le matin, l'après-midi, le soir, la nuit. ( você deve trocar os artigos le, l', le, la) pelo demonstrativo correspondente. ce, cette, cet, ces.
 
 ce, cet para palavras masculinas, cet é usada para palavras que começam com vogal
 cette = feminino
@@ -501,8 +491,7 @@ Cet après-midi
 Ce soir
 Cette nuit
 
-
-# Exercicio 0 - Traduza :
+## Exercicio 0 - Traduza :
 
 Essa segunda de manhã: Ce lundi matin
 Esse sábado de madrugada: Ce samedi nuit
@@ -518,7 +507,7 @@ les prépositions: leva aquela coisa para algum lugar
 
 - à la
 - au (ô pronuncia-se como ô)
-- à l’ = vogal ou h
+- à l' = vogal ou h
 - chez 🏡
   - Aplicação: qnd for p/ casa de alguem ( Je vais chez Marie )
   - Aplicação: ir para o médito, dentista.
@@ -527,7 +516,6 @@ les prépositions: leva aquela coisa para algum lugar
 moi(meu), toi(seu), lui(dele), elle(dela), nous(nosso), vous(vosso), eux(deles - masculino), elles(delas) - soi(si mesmo)
 muá, tuá, luí, éle, nu, vu, êu+, éle
 
-
 Regras fonéticas:
 
 in = an. Médecin
@@ -535,7 +523,7 @@ en = on = dentiste
 
 chez moi = contigo, seu corpo
 
-## Exercice 1 : Traduza com a ajuda da preposição “chez” e o tonique adequado.
+## Exercicio 1 : Traduza com a ajuda da preposição "chez" e o tonique adequado.
 
 Minha casa - chez moi
 Tua casa - chez toi
@@ -547,7 +535,7 @@ Sua casa - chez toi
 Casa deles - chez eux
 Casa delas - chez eux
 
-Exercice 2: Traduza
+## Exercicio 2: Traduza
 
 Eu vou para casa dela: Je vais chez elle
 Nós vamos para casa dele: Nous allons chez lui
@@ -558,8 +546,7 @@ Vocês vão para minha casa: Vous allez chez moi
 Você vai para minha casa: Tu vas chez moi
 Ela vai para casa dela: Elle va chez elle
 
-
-Exercice 3: Traduza
+## Exercicio 3: Traduza
 
 Sábado à noite eu vou para casa dela: samedi soir je vais chez elle
 Domingo de manhã eu vou para casa dele: dimanche matin je vais chez lui
