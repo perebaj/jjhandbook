@@ -462,34 +462,38 @@ domindo = dimanche
 15 - Terça de madrugada: mardi nuit
 16 - Quarta de manhã: mercredi matin
 
-suar = noite
-
-après-midi = tarde
-matin = manhã
-soir = noite
-nuit = noite madrugada
+- suar = noite
+- après-midi = tarde
+- matin = manhã
+- soir = noite
+- nuit = noite madrugada
 
 hoje de manha, hoje de tarde, hoje de noite não é ajourd'hui matin, ajourd'hui apres-midi, ajourd'hui noite -> Não é assim!
 
 Demonstrativos:
 
-Ce matin = Hoje de manhã
-Cet après midi = Hoje de tarde
-Cet soir = Hoje de noite
-Cette nuit = Hoje de noite madrugada
+- Ce matin = Hoje de manhã
+- Cet après midi = Hoje de tarde
+- Cet soir = Hoje de noite
+- Cette nuit = Hoje de noite madrugada
 
 Vamos treinar
 dica : os dias da semana são todos masculinos.
-lembrete : le matin, l'après-midi, le soir, la nuit. ( você deve trocar os artigos le, l', le, la) pelo demonstrativo correspondente. ce, cette, cet, ces.
+
+lembrete : le matin, l'après-midi, le soir, la nuit. ( você deve trocar os artigos le, l', le, la) pelo demonstrativo
+
+correspondente. ce, cette, cet, ces.
 
 ce, cet para palavras masculinas, cet é usada para palavras que começam com vogal
+
 cette = feminino
+
 ces = plural feminino e masculino. Este, estas, esses e essa, aqueles e aquelas.
 
-Ce matin
-Cet après-midi
-Ce soir
-Cette nuit
+- Ce matin
+- Cet après-midi
+- Ce soir
+- Cette nuit
 
 ## Exercicio 0 - Traduza :
 
@@ -514,12 +518,13 @@ les prépositions: leva aquela coisa para algum lugar
   - Je vais chez moi
 - les toniques(usado como pronomes)
 moi(meu), toi(seu), lui(dele), elle(dela), nous(nosso), vous(vosso), eux(deles - masculino), elles(delas) - soi(si mesmo)
+
 muá, tuá, luí, éle, nu, vu, êu+, éle
 
 Regras fonéticas:
 
-in = an. Médecin
-en = on = dentiste
+- in = an. Médecin
+- en = on = dentiste
 
 chez moi = contigo, seu corpo
 
