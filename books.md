@@ -59,6 +59,10 @@ A collection of books I've read with notes and summaries.
 
 ## Summaries
 
+### A Carne - Rosa Montero
+
+Fácil de ser lido e bom para passar o tempo. Coloca o leitor em contato com a velhice de uma mulher que acredita estar perdendo sua pulsão de desejar pois está prestes a completar 60 anos. Uma reflexão interessante sobre a velhice.
+
 ### A Fé e o Fuzil - Bruno Paes Manso
 
 Crime e religião no Brasil do século XXI.
