@@ -13,3 +13,9 @@ Key Methods and methodologies: transformers, encoder-decoder models, pretraining
 TensorTonic is a plataform to learn math, probability and statistics, and machine learning using a well structured and interactive plataform.
 
 [TensorTonic](https://www.tensortonic.com/)
+
+Assigments -> [https://web.stanford.edu/class/cs224n/assignments/](https://web.stanford.edu/class/cs224n/assignments/)
+
+Co-Occurrence Matrix details ⬇️
+
+Word Embedding - [Reference](https://web.archive.org/web/20190530091127/https://medium.com/data-science-group-iitr/word-embedding-2d05d270b285)
