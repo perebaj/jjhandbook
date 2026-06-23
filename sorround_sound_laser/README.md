@@ -65,3 +65,52 @@ Este projeto consiste em um sistema de som surround sem fio que utiliza **transm
 - Criar um sistema de **surround sound sem fios visíveis**, usando reflexão de laser no teto.
 - Integrar DSP e equalização por canal para melhor qualidade sonora.
 - Construir caixas acústicas rígidas e com boa massa usando combinação de plástico impresso em 3D, acrílico e enchimento.
+
+# Lista de Materiais
+
+# Orçamento
+
+# Orçamento final estimado — Projeto DIY Surround Sound com Laser
+
+Este documento reúne uma estimativa de custo para o projeto considerando que as peças de gabinete serão impressas por uma empresa especializada, já que não há impressora 3D disponível. Os valores são aproximados e servem como base para planejamento. As faixas de preço de impressão 3D e de alguns componentes foram obtidas em fontes consultadas neste turno. [web:71][web:72][web:73][web:85][web:86][web:87][web:88]
+
+## Premissas
+
+- Impressão terceirizada de todas as peças 3D do projeto.
+- Compra dos componentes de áudio no Brasil ou na Europa.
+- Estimativa de câmbio de ordem de grandeza apenas para conversão de referência.
+- O número de caixas pode variar; aqui foi considerada uma configuração parecida com a do vídeo, com múltiplos módulos acústicos e eletrônica dedicada. [web:71][web:72]
+
+## Estimativa por categoria
+
+| Categoria | Itens incluídos | Faixa estimada |
+| --- | --- | --- |
+| Impressão 3D terceirizada | Gabinetes, suportes, espelhos e peças estruturais | R$ 1.200 a R$ 1.500 [web:71][web:72][web:73] |
+| Eletrônica e áudio | Conversores SPDIF/TOSLINK, drivers Dayton, amplificador, DSP e cabos | R$ 3.300 a R$ 5.000 [web:85][web:86][web:87][web:88][web:89] |
+| Materiais e acabamento | Tubos acrílicos, cola, espuma, lã, primer, tinta, parafusos e conexões | R$ 450 a R$ 900 [web:29][web:60] |
+
+## Detalhamento dos componentes
+
+| Componente | Quantidade típica | Faixa unitária estimada | Total estimado |
+| --- | --- | --- | --- |
+| Conversor analógico → SPDIF/TOSLINK | 1 | R$ 70 a R$ 90 [web:85] | R$ 80 |
+| Conversor SPDIF/TOSLINK → analógico | 3 a 4 | R$ 90 a R$ 130 [web:88] | R$ 300 a R$ 500 |
+| Dayton TCP115-4 | 4 a 5 | R$ 250 a R$ 350 [web:86][web:91] | R$ 1.000 a R$ 1.750 |
+| Dayton ND25FA-4 | 4 a 6 | R$ 120 a R$ 180 [web:35][web:89] | R$ 500 a R$ 1.000 |
+| Dayton ND25FN-4 | 1 a 2 | R$ 120 a R$ 180 [web:87] | R$ 120 a R$ 360 |
+| Amplificador 4 canais | 1 a 2 | R$ 250 a R$ 500 | R$ 300 a R$ 800 |
+| DSP | 1 | R$ 600 a R$ 1.200 [web:56][web:62] | R$ 900 |
+| Cabos e fixação | 1 kit | R$ 80 a R$ 150 [web:29][web:60] | R$ 100 |
+
+## Total estimado
+
+- **Total mínimo aproximado:** R$ 4.900
+- **Total máximo aproximado:** R$ 7.400
+
+Em euro, isso fica aproximadamente na faixa de **€ 700 a € 1.200**, dependendo das cotações e do local de compra.
+
+## Observações
+
+- O maior impacto no orçamento tende a vir dos **drivers Dayton**, do **DSP** e da **impressão 3D terceirizada**. [web:71][web:86][web:87][web:88]
+- Se você reduzir o número de caixas, simplificar os gabinetes ou trocar os drivers por equivalentes mais baratos, o custo final pode cair bastante.
+- Se comprar tudo importado com impostos e frete altos, o valor pode subir acima da faixa estimada.
