@@ -24,3 +24,7 @@ References:
 # Museum guide
 
 # Take care of my plants using embedded systems
+
+# RFID detector for home lighters
+
+Tag every lighter at home with an RFID chip and put a reader at the door. If a tagged lighter crosses the doorway, an alarm goes off — so nobody walks out with one.
