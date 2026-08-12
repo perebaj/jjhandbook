@@ -12,6 +12,7 @@ Just things that I would like to use but my brain is too busy to keep everything
 - @_reweb visual editor to customize it fast
 - @cursor_ai to add business logic
 - https://replicate.com/
+- https://artificialanalysis.ai/ <- Help me to choose the best model for my project and agentic workflows
 
 # 3D modeling
 
