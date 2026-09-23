@@ -4,6 +4,22 @@ https://www.youtube.com/watch?v=eZ8WWZzoaR0
 
 Homa on GitHub: https://github.com/PlatformLab/HomaModule
 
+## Glossary
+
+- **ECN (Explicit Congestion Notification)** — a switch whose queue passes a threshold flips a bit in the IP header of passing packets instead of dropping them; the receiver echoes the mark back to the sender in its next ACK, and the sender slows down. "Explicit" by contrast with the older implicit signal: letting queues overflow and inferring congestion from packet loss. Still weak: 1 bit, no "where" or "how much", delayed by round trips.
+- **Incast** — many nodes sending to the same destination at once; the aggregate exceeds the destination's link speed and packets pile up at the last hop.
+- **Tail latency (p99)** — the latency of the slowest ~1% of messages. Matters more than the average when one slow exchange stalls every GPU waiting on a barrier.
+- **Top-of-rack (ToR) switch / egress port** — the switch connecting a rack's servers to the fabric; the egress port toward the destination host is where incast queues build up.
+- **Head-of-line blocking** — a small message serialized behind large ones in the same TCP stream (or queue) waits for them even though it's independent.
+- **RPC (remote procedure call)** — Homa's fundamental unit: one request message plus one response message. Message length is known to the transport from the start.
+- **SRPT (shortest remaining processing time first)** — scheduling policy that favors whichever message has the fewest bytes left; how Homa keeps short messages fast.
+- **Unscheduled / scheduled packets** — the first few packets of a Homa message are sent without permission (covering ~1 RTT, so short messages finish immediately); the rest wait for grants.
+- **Grant** — a control packet from the receiver authorizing the sender to transmit the next chunk; the receiver paces grants to keep queues empty and to implement SRPT.
+- **RDMA / RoCE** — remote direct memory access over converged Ethernet, the other datacenter transport incumbent; throughput-oriented and dependent on fragile fabric-wide PFC configuration.
+- **PFC (priority flow control)** — Ethernet hop-by-hop pause mechanism RoCE relies on to avoid drops; misconfiguration can deadlock or head-of-line-block the whole fabric.
+- **DSCP** — the IP header field Homa marks to pick which switch priority queue a packet enters.
+- **Run-to-completion** — finishing one message before moving to the next, rather than fair-sharing bandwidth across all active messages; why Homa beats TCP even on large messages.
+
 ## References
 
 - [Homa deep-dive by Harsh Kapadia](https://networking.harshkapadia.me/homa.html) — covers message vs packet, TCP's problems in datacenters, Homa packet types, and Linux kernel integration
