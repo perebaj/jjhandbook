@@ -12,7 +12,7 @@ Cada item é um título a ser detalhado depois. O tema por trás de todos: **imp
 
 ## Conexões & fluxo
 
-- [ ] **Pooling de conexões com teto** — todo client direto carrega seu próprio pool limitado; um gateway só cobre os clients atrás dele. Quando vários serviços conectam direto, um proxy compartilhado (ex.: chproxy) centraliza pooling, limites e fila num ponto só. A quota por usuário no servidor é o orçamento global, e a soma dos orçamentos deve caber na capacidade do servidor.
+- [ ] **Pooling de conexões com teto** — todo client direto carrega seu próprio pool limitado; um gateway só cobre os clients atrás dele. A quota por usuário no servidor é o orçamento global, e a soma dos orçamentos deve caber na capacidade do servidor. Comece sem proxy: profiles + quotas no servidor já fazem a governança; um proxy compartilhado (ex.: chproxy) só entra quando houver réplicas para rotear ou cache de resposta.
 - [ ] **Hierarquia de timeouts** — timeout do client < timeout do gateway < kill timeout do servidor, com cancelamento propagado; senão trabalho abandonado continua queimando recurso.
 - [ ] **Fila ou fail-fast, decidido de propósito** — excesso de carga espera numa fila curta e limitada ou falha com erro claro; nunca uma fila infinita implícita.
 - [ ] **Backoff com jitter na reconexão** — reconexão em massa depois de um restart é um DDoS autoinfligido (thundering herd).
