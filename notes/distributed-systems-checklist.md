@@ -1,40 +1,40 @@
-# Checklist: manage distributed systems like a pro
+# Checklist: gerenciar sistemas distribuídos como um pro
 
-Each item is a headline to be detailed later. The theme behind all of them: **enforce limits at the layer that owns the resource, and assume every client misbehaves.**
+Cada item é um título a ser detalhado depois. O tema por trás de todos: **imponha limites na camada que é dona do recurso, e assuma que todo client se comporta mal.**
 
-## Resource governance
+## Governança de recursos
 
-- [ ] **Server-side limits per user/tenant** — memory, execution time, rows read/returned. The app asks nicely; the server enforces.
-- [ ] **Quotas per tenant** — concurrent requests and requests-per-interval, so one noisy tenant can't starve the rest.
-- [ ] **Workload isolation** — ingest, interactive reads, and background jobs get separate users/profiles/priorities, never one shared identity.
-- [ ] **Memory ceiling below the kill threshold** — the service must hit its own limit (graceful error) before the kernel/k8s OOMKills it (restart loop).
-- [ ] **Disk headroom rule** — define the max steady-state usage (~70%) and the expansion runbook *before* the 90% alert fires.
+- [ ] **Limites server-side por usuário/tenant** — memória, tempo de execução, linhas lidas/retornadas. A aplicação pede com educação; o servidor impõe.
+- [ ] **Quotas por tenant** — requisições simultâneas e requisições por intervalo, para que um tenant barulhento não esgote os demais.
+- [ ] **Isolamento de workload** — ingest, leitura interativa e jobs de background com usuários/perfis/prioridades separados, nunca uma identidade compartilhada.
+- [ ] **Teto de memória abaixo do limite de kill** — o serviço deve bater no próprio limite (erro gracioso) antes que o kernel/k8s dê OOMKill (loop de restart).
+- [ ] **Regra de folga de disco** — defina o uso máximo em steady state (~70%) e o runbook de expansão *antes* do alerta de 90% disparar.
 
-## Connections & flow
+## Conexões & fluxo
 
-- [ ] **Connection pooling with a ceiling** — every direct client carries its own bounded pool; a gateway pool only covers the clients behind it. The server-side per-user quota is the global budget, and the sum of budgets must fit the server's capacity.
-- [ ] **Timeout hierarchy** — client timeout < gateway timeout < server kill timeout, with cancellation propagated; otherwise abandoned work keeps burning resources.
-- [ ] **Queue or fail-fast, decided on purpose** — excess load either waits in a short bounded queue or errors clearly; never an implicit infinite queue.
-- [ ] **Backoff with jitter on reconnect** — mass reconnection after a restart is a self-inflicted DDoS (thundering herd).
-- [ ] **Batching on the write path** — few large writes beat many small ones; enforce it in the contract or buffer server-side.
+- [ ] **Pooling de conexões com teto** — todo client direto carrega seu próprio pool limitado; um gateway só cobre os clients atrás dele. Quando vários serviços conectam direto, um proxy compartilhado (ex.: chproxy) centraliza pooling, limites e fila num ponto só. A quota por usuário no servidor é o orçamento global, e a soma dos orçamentos deve caber na capacidade do servidor.
+- [ ] **Hierarquia de timeouts** — timeout do client < timeout do gateway < kill timeout do servidor, com cancelamento propagado; senão trabalho abandonado continua queimando recurso.
+- [ ] **Fila ou fail-fast, decidido de propósito** — excesso de carga espera numa fila curta e limitada ou falha com erro claro; nunca uma fila infinita implícita.
+- [ ] **Backoff com jitter na reconexão** — reconexão em massa depois de um restart é um DDoS autoinfligido (thundering herd).
+- [ ] **Batching no caminho de escrita** — poucas escritas grandes vencem muitas pequenas; imponha no contrato ou bufferize server-side.
 
-## Data lifecycle
+## Ciclo de vida dos dados
 
-- [ ] **Retention defined at table creation** — TTLs on product data, not just system tables; retrofitting retention on terabytes is an incident.
-- [ ] **Tenant-aware physical layout** — partition by time, order/cluster by tenant; never partition by tenant.
-- [ ] **Tiered storage as the middle step** — hot local / cold object storage buys years before sharding.
+- [ ] **Retenção definida na criação da tabela** — TTLs nos dados de produto, não só em tabelas de sistema; retrofitar retenção em terabytes é um incidente.
+- [ ] **Layout físico consciente de tenant** — particione por tempo, ordene/clusterize por tenant; nunca particione por tenant.
+- [ ] **Tiered storage como degrau intermediário** — quente local / frio em object storage compra anos antes do sharding.
 
-## Failure & recovery
+## Falha & recuperação
 
-- [ ] **RPO/RTO written down** — how much data you accept losing, how long you accept being down; everything else derives from these two numbers.
-- [ ] **Backups are only real after a timed restore** — drill periodically, measure duration at realistic volume, not once at 100 GiB.
-- [ ] **Incremental backup chain** — full backups stop scaling long before the data does.
-- [ ] **Failure drills before prod** — kill the pod, drain the node, fill the disk; record what survives and write the runbook from what you saw.
-- [ ] **HA costed honestly** — compare alternatives at the replication level the SLA requires, not at the single-node price.
+- [ ] **RPO/RTO por escrito** — quanto dado você aceita perder, quanto tempo aceita ficar fora do ar; todo o resto deriva desses dois números.
+- [ ] **Backup só é real depois de um restore cronometrado** — drill periódico, duração medida em volume realista, não uma vez com 100 GiB.
+- [ ] **Cadeia de backup incremental** — backup full para de escalar muito antes dos dados.
+- [ ] **Drills de falha antes de prod** — mate o pod, drene o node, encha o disco; registre o que sobrevive e escreva o runbook a partir do que viu.
+- [ ] **HA com custo honesto** — compare alternativas no nível de replicação que o SLA exige, não no preço do nó único.
 
-## Operations
+## Operação
 
-- [ ] **Alerts page on symptoms, limits prevent damage** — an alert is the notification that a protection worked (or was missing), never the protection itself.
-- [ ] **Metrics allow-list** — observability has a cost model too; unbounded cardinality contaminates the thing you're measuring.
-- [ ] **Load-test concurrency, not just volume** — "how many simultaneous users per node" is the capacity-planning number; derive a scaling rule from it.
-- [ ] **Upgrades rehearsed in a lower environment** — same mechanism (GitOps), same data shape, before prod ever sees the version.
+- [ ] **Alertas pageiam sintomas, limites previnem dano** — um alerta é a notificação de que uma proteção funcionou (ou faltou), nunca a proteção em si.
+- [ ] **Allow-list de métricas** — observabilidade também tem modelo de custo; cardinalidade sem teto contamina a própria medição.
+- [ ] **Load test de concorrência, não só de volume** — "quantos usuários simultâneos por nó" é o número do capacity planning; derive a regra de escala dele.
+- [ ] **Upgrades ensaiados em ambiente inferior** — mesmo mecanismo (GitOps), mesmo formato de dados, antes de prod ver a versão.
