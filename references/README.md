@@ -32,6 +32,7 @@
 
 ## [GOTO Conferences](https://www.youtube.com/@GOTO-/featured)
 ## [Internet of Bugs    ](https://www.youtube.com/@InternetOfBugs/videos)
+## [Computerphile](https://www.youtube.com/@Computerphile)
 
 # Robotics
 
@@ -57,6 +58,7 @@
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 - [Edan Meyer](https://www.youtube.com/@EdanMeyer/videos)
 - [Inexperienced Me](https://www.youtube.com/channel/UCPKiviqIW5vrL-duob6Ld-Q) - e.g. [DreamerV3 Tutorial. Paper, Diagrams, Clean Code](https://www.youtube.com/watch?v=viXppDhx4R0)
+- [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI/videos)
 
 # Politics
 
