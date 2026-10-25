@@ -55,6 +55,8 @@
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 - [Jeremy Howard](https://www.youtube.com/@howardjeremyp/playlists)
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+- [Edan Meyer](https://www.youtube.com/@EdanMeyer/videos)
+- [Inexperienced Me](https://www.youtube.com/channel/UCPKiviqIW5vrL-duob6Ld-Q) - e.g. [DreamerV3 Tutorial. Paper, Diagrams, Clean Code](https://www.youtube.com/watch?v=viXppDhx4R0)
 
 # Politics
 
