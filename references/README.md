@@ -60,6 +60,10 @@
 - [Inexperienced Me](https://www.youtube.com/channel/UCPKiviqIW5vrL-duob6Ld-Q) - e.g. [DreamerV3 Tutorial. Paper, Diagrams, Clean Code](https://www.youtube.com/watch?v=viXppDhx4R0)
 - [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI/videos)
 
+# Statistics
+
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/playlists)
+
 # Politics
 
 - [Traduagindo](https://traduagindo.com/)
