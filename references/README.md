@@ -64,6 +64,12 @@
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/playlists)
 
+# Electronics & Hardware
+
+- [New Analog Circuit Design — Prof. Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
+- [Physics of Semiconductors and Nanostructures — ECE 4070/MSE 6050, Cornell](https://www.youtube.com/playlist?list=PLyWzPf87clvHHoXq9cZozCw-khGltqLAg)
+- [Digital Design and Computer Architecture — Onur Mutlu, ETH Zürich (Spring 2025)](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3)
+
 # Politics
 
 - [Traduagindo](https://traduagindo.com/)
