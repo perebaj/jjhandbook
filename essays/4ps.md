@@ -1,28 +1,28 @@
-# 4Ps meu método para saber se estou no caminho certo
+# 4Ps: my method for knowing whether I'm on the right path
 
-Um amigo uma vez me falou sobre essa ideia a uns 3 anos atrás, e achei esse algoritmo muito eficaz, desde então, venho pensando e usando-o para tomar decisões importantes, principalmente relacionadas a minha carreira. Ele é simples, e baseia-se em 4 fundamentos: Pessoas, Proposito, Progresso e Pagamento.
+A friend told me about this idea about 3 years ago, and I found this algorithm very effective. Since then, I've been thinking about it and using it to make important decisions, mainly related to my career. It's simple, and it rests on 4 fundamentals: People, Purpose, Progress and Pay.
 
-## Pessoas
+## People
 
-Você se identifica com as pessoas com quem você trabalha? Acha que elas promovem um bom ambiente de trabalho? Estão abertas a discussões, acha que elas são competentes e acima da média. Querendo ou não, estar cercado de pessoas geniosas é um fator proeminente para o seu desenvolvimento. Na psicanálise, é de importancia tremenda, o conceito de que a nossa existência é medida a partir do olhar do outro. Um exemplo prático:
+Do you identify with the people you work with? Do you think they foster a good work environment? Are they open to discussion? Do you think they are competent and above average? Like it or not, being surrounded by brilliant people is a prominent factor in your development. In psychoanalysis, the concept that our existence is measured through the gaze of the other is of tremendous importance. A practical example:
 
->  Somente os outros podem nos ver. Temos então que saber de nós pelos outros. A imagem que fazemos de nós mesmos tem como importante fator constitutivo a visão que o outro pode ter de nós. (Espelhos, Reflexos, Reflexões (Parte 1)  - https://pepsic.bvsalud.org/pdf/jp/v43n79/v43n79a06.pdf#:~:text=a%20vis%C3%A3o%20que%20o%20outro%20pode%20ter%20de%20n%C3%B3s)
+>  Only others can see us. So we have to learn about ourselves through others. The image we make of ourselves has, as an important constitutive factor, the view that the other may have of us. (Espelhos, Reflexos, Reflexões (Parte 1)  - https://pepsic.bvsalud.org/pdf/jp/v43n79/v43n79a06.pdf#:~:text=a%20vis%C3%A3o%20que%20o%20outro%20pode%20ter%20de%20n%C3%B3s)
 
-Se esse outro, não é tido como uma figura de autoridade, admiração e confiança, a conclusõa é clara, a imagem que construimos de nós mesmo, será apenas uma versão fragilizada do que poderia ser. Ou seja, cercar-se de pessoas geniosas é fundamental para a formação de um Eu mais complexo, confiante e proeminente.
+If this other is not seen as a figure of authority, admiration and trust, the conclusion is clear: the image we build of ourselves will be only a weakened version of what it could be. In other words, surrounding yourself with brilliant people is fundamental to forming a more complex, confident and prominent Self.
 
-## Proposito
+## Purpose
 
-A palavra propósito tem origem etimológica no latim propositum, uma conjugação do verbo proponere, que significa "colocar à frente". Esse verbo é formado pelos elementos pro ("para frente") e ponere ("colocar" ou "pôr"). Assim, literalmente, propósito significa algo que se coloca à frente, um plano ou intenção que se estabelece para o futuro.
+The word purpose has its etymological origin in the Latin propositum, a form of the verb proponere, which means "to put forward". This verb is made of the elements pro ("forward") and ponere ("to place" or "to put"). So, literally, purpose means something that is put forward, a plan or intention set for the future.
 
-Dado que o próprio significado da palavra cisma com um imaginário futurista, isso significa que ele pode e deve, abordar qualquer coisa. E está intimamente relacionado ao subjetivo de cada ser que o formula. Portanto, cabe a cada ser, definir o que melhor o agrada. O que acaba implicando também, em uma formulação maleável e flexível. Aqui, você pode considerar seu momento de vida, idade, experiência, objetivos, sonhos, etc. Podemos também chamar isso de `Desejo`.
+Given that the very meaning of the word is tied to an imagined future, this means it can, and should, address anything. And it is closely related to the subjectivity of each person who formulates it. Therefore, it's up to each person to define what pleases them most. This also ends up implying a malleable and flexible formulation. Here, you can consider your moment in life, age, experience, goals, dreams, etc. We can also call this `Desire`.
 
-> Em resumo, deseja-se não apenas algo material ou concreto, mas algo que simboliza a impossibilidade de plena satisfação e que sustenta a existência psíquica do sujeito.​ - Jaques Lacan
+> In short, one desires not only something material or concrete, but something that symbolizes the impossibility of full satisfaction and that sustains the psychic existence of the subject.​ - Jaques Lacan
 
 
-## Progresso
+## Progress
 
-Se o desejo está intimamente relacionado ao que lhe falta, o progresso pode ser tido como a métrica que vai guiar se a sua falta está sendo atendida ou não.
+If desire is closely related to what you lack, progress can be seen as the metric that tells you whether your lack is being met or not.
 
-## Pagamento
+## Pay
 
-Simples, você acha que está sendo pago o que vale?
+Simple: do you think you're being paid what you're worth?

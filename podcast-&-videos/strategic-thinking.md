@@ -2,13 +2,13 @@
 
 ## Career and work strategic
 
-- Trabalhar duro e esperar por um aumento é uma estratégia falha. Você precisa ser estratégico e planejar sua carreira.
+- Working hard and waiting for a raise is a flawed strategy. You need to be strategic and plan your career.
 
-Criar situações que podem impulsionar sua carreira. Cada projeto entregue, cada boa relação feita, cada skill adquirida.
+Create situations that can boost your career. Every project delivered, every good relationship made, every skill acquired.
 
-Carrer Moat = Reputação + Network + Skills
+Carrer Moat = Reputation + Network + Skills
 
-Você deixa de ser só um funcionário e passa a ser um ativo da empresa. Quase que insubstituível.
+You stop being just an employee and become an asset of the company. Almost irreplaceable.
 
 Each position should give to you 3 things:
 

@@ -59,61 +59,61 @@ Just put your salary range to the moon if you are in a comfortable situation, ot
 - How do people know about the product and how do you attract them?
 - How do you deal with the competition?
 
-1. "Como vocês decidem o que construir?"
-Essa pergunta revela muito sobre a cultura da empresa.
-- Decisões top-down vs colaborativas
-- Se engenheiros são ouvidos
-- Se existe processo de product discovery
+1. "How do you decide what to build?"
+This question reveals a lot about the company's culture.
+- Top-down vs collaborative decisions
+- Whether engineers are heard
+- Whether there is a product discovery process
 
-🚩 Red flag: "O CEO decide tudo"
+🚩 Red flag: "The CEO decides everything"
 
-2. "Qual foi o último projeto que deu errado e o que vocês aprenderam?"
-A resposta mostra:
-- Como a empresa lida com falhas
-- Se existe uma cultura de aprendizado
-- Transparência da liderança
+2. "What was the last project that went wrong and what did you learn?"
+The answer shows:
+- How the company deals with failure
+- Whether there is a learning culture
+- Leadership transparency
 
-🚩 Red flag: "Todos nossos projetos são um sucesso"
+🚩 Red flag: "All our projects are a success"
 
-3. "Como vocês medem o sucesso de um engenheiro aqui?"
-Busque entender:
-- Critérios de promoção
-- Se é apenas entregas ou impacto
-- Se existe um plano de carreira claro
+3. "How do you measure an engineer's success here?"
+Try to understand:
+- Promotion criteria
+- Whether it's only deliverables or impact
+- Whether there is a clear career plan
 
-🚩 Red flag: Critérios vagos ou focados só em tempo de casa
+🚩 Red flag: Vague criteria or criteria focused only on tenure
 
-4. "Qual o maior desafio técnico que vocês têm hoje?"
-Importante para:
-- Avaliar maturidade técnica
-- Entender problemas reais
-- Ver se há alinhamento com suas habilidades
+4. "What is the biggest technical challenge you have today?"
+Important for:
+- Assessing technical maturity
+- Understanding real problems
+- Seeing whether it aligns with your skills
 
-🚩 Red flag: Não saber identificar desafios claros
+🚩 Red flag: Not being able to identify clear challenges
 
-5. "Como você desenvolve as pessoas do seu time?"
-Procure por:
-- Exemplos concretos de crescimento
-- Mentorias estruturadas
-- Budget para educação
+5. "How do you develop the people on your team?"
+Look for:
+- Concrete examples of growth
+- Structured mentoring
+- Budget for education
 
-🚩 Red flag: "As pessoas crescem naturalmente"
+🚩 Red flag: "People grow naturally"
 
-6. "Qual o runway atual da empresa?"
-Fundamental para startups:
-- Quanto tempo até precisar levantar mais
-- Se já tem caminho pra se tornar lucrativo (cash flow positive / default alive)
-- Planos de crescimento realistas
+6. "What is the company's current runway?"
+Essential for startups:
+- How long until it needs to raise more
+- Whether it already has a path to becoming profitable (cash flow positive / default alive)
+- Realistic growth plans
 
-🚩 Red flag: Não saber ou evitar responder
+🚩 Red flag: Not knowing or avoiding the answer
 
-7. "Como você garante que o time mantém um bom work-life balance?"
-Observe:
-- Políticas de oncall
-- Expectativas de horário
-- Como lidam com deadlines
+7. "How do you make sure the team keeps a good work-life balance?"
+Watch for:
+- On-call policies
+- Working-hours expectations
+- How they deal with deadlines
 
-🚩 Red flag: "Aqui todo mundo é workaholic e ama isso"
+🚩 Red flag: "Everyone here is a workaholic and loves it"
 
 
 

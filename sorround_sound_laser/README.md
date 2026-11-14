@@ -1,106 +1,106 @@
-# Projeto: DIY Surround Sound com Transmissão por Laser
+# Project: DIY Surround Sound with Laser Transmission
 
-Este projeto consiste em um sistema de som surround sem fio que utiliza **transmissão óptica via laser** em vez de cabos tradicionais. O áudio é convertido para SPDIF/TOSLINK, transmitido por feixes de laser refletidos no teto e recebido por sensores TOSLINK nas caixas acústicas, que então reproduzem o som através de drivers Dayton amplificados com DSP por canal.
+This project is a wireless surround sound system that uses **optical laser transmission** instead of traditional cables. The audio is converted to SPDIF/TOSLINK, transmitted by laser beams reflected off the ceiling and received by TOSLINK sensors in the speakers, which then play the sound through amplified Dayton drivers with per-channel DSP.
 
-* Um driver Dayton é um driver de áudio que é usado para reproduzir áudio em uma caixa acústica.
-* Um DSP de áudio é um dispositivo que recebe sinal digital ou analógico, processa (equaliza, crossovers, delays, etc.) e depois envia o sinal já tratado para os amplificadores.
-* SPDIF é o padrão de interface digital (pode ser coaxial – RCA – ou óptico, via TOSLINK).
-* TOSLINK é o conector e cabo de fibra óptica usado para transmitir o SPDIF digital, com luz vermelha dentro do cabo.
+* A Dayton driver is an audio driver used to reproduce audio in a speaker.
+* An audio DSP is a device that receives a digital or analog signal, processes it (equalization, crossovers, delays, etc.) and then sends the processed signal to the amplifiers.
+* SPDIF is the digital interface standard (it can be coaxial – RCA – or optical, via TOSLINK).
+* TOSLINK is the fiber-optic connector and cable used to transmit digital SPDIF, with red light inside the cable.
 
-## Componentes principais
+## Main components
 
-### Áudio e eletrônica
+### Audio and electronics
 
-<img src="./dayton-driver.png" width="260" alt="Driver Dayton Audio" align="right"/>
+<img src="./dayton-driver.png" width="260" alt="Dayton Audio driver" align="right"/>
 
-- Conversores SPDIF/TOSLINK analógico/digital (para transmissão).
-- Conversores TOSLINK/digital-analógico (para recepção).
-- Driver de baixa/midbass: **Dayton Audio TCP115-4** (4 ohms).
-- Tweeter dos canais laterais: **Dayton Audio ND25FA-4**.
-- Tweeter do canal central: **Dayton Audio ND25FN-4**.
-- Amplificador de **4 canais**.
-- DSP (equalização e crossovers por canal).
-- Extração de áudio via **HDMI** do sistema de som surround.
+- Analog/digital SPDIF/TOSLINK converters (for transmission).
+- TOSLINK/digital-to-analog converters (for reception).
+- Low/midbass driver: **Dayton Audio TCP115-4** (4 ohms).
+- Side channel tweeter: **Dayton Audio ND25FA-4**.
+- Center channel tweeter: **Dayton Audio ND25FN-4**.
+- **4-channel** amplifier.
+- DSP (per-channel equalization and crossovers).
+- Audio extraction via **HDMI** from the surround sound system.
 
-<img src="./dsp.png" width="260" alt="DSP de áudio" align="right"/>
+<img src="./dsp.png" width="260" alt="Audio DSP" align="right"/>
 
-- O DSP recebe o sinal digital, aplica equalização, crossovers e delays por canal, e entrega o sinal tratado para cada amplificador.
+- The DSP receives the digital signal, applies per-channel equalization, crossovers and delays, and delivers the processed signal to each amplifier.
 
-<img src="./spdif-tosklink.png" width="260" alt="Conector SPDIF TOSLINK" align="right"/>
+<img src="./spdif-tosklink.png" width="260" alt="SPDIF TOSLINK connector" align="right"/>
 
-- SPDIF/TOSLINK: interface óptica digital usada para transmissão do áudio sem perdas entre os módulos.
+- SPDIF/TOSLINK: digital optical interface used for lossless audio transmission between the modules.
 
-### Transmissão a laser
+### Laser transmission
 
-- Diodos laser vermelhos de baixa potência (classe 1), usados no lugar do LED TOSLINK.
-- Sensores/receptores TOSLINK nas caixas.
-- Espelhos articuláveis para refletir o feixe.
-- Peças impressas em 3D para suporte e ajuste dos espelhos.
+- Low-power red laser diodes (class 1), used in place of the TOSLINK LED.
+- TOSLINK sensors/receivers in the speakers.
+- Adjustable mirrors to reflect the beam.
+- 3D-printed parts to hold and adjust the mirrors.
 
-### Estrutura das caixas
+### Speaker structure
 
-- Tubos acrílicos: 2 peças de 1000 mm, 70 mm de diâmetro externo e 66 mm interno.
-- Gabinete principal, canal central, acopladores, tampas e dutos impressos em 3D.
-- Mistura de **plaster of Paris** com **cola PVA** para massa e amortecimento.
-- **Espuma acústica** e **lã de ovelha** para amortecimento interno.
-- Cola para vedação hermética das junções.
-- Parafusos para montagem das partes.
+- Acrylic tubes: 2 pieces of 1000 mm, 70 mm outer diameter and 66 mm inner.
+- 3D-printed main cabinet, center channel, couplers, caps and ports.
+- Mix of **plaster of Paris** with **PVA glue** for mass and damping.
+- **Acoustic foam** and **sheep's wool** for internal damping.
+- Glue for airtight sealing of the joints.
+- Screws to assemble the parts.
 
-### Acabamento e montagem
+### Finishing and assembly
 
-- Filler/massa para acabamento.
-- Primer plástico.
-- Tinta com efeito **ferro envelhecido/texturizado**.
-- Base de bambu/wooden foot para apoio.
-- Suportes de parede para o canal central.
+- Filler/putty for finishing.
+- Plastic primer.
+- Paint with an **aged/textured iron** effect.
+- Bamboo base/wooden foot for support.
+- Wall mounts for the center channel.
 
-### Ferramentas e acessórios
+### Tools and accessories
 
-- Chave de fenda multifuncional com catraca (ex.: LTT Ratcheting Multi-bit Screwdriver).
-- Bornes de conexão (block terminal).
-- Fonte de alimentação e cabos para amplificadores e módulos digitais.
+- Multi-function ratcheting screwdriver (e.g.: LTT Ratcheting Multi-bit Screwdriver).
+- Connection terminals (block terminal).
+- Power supply and cables for amplifiers and digital modules.
 
-## Objetivo do projeto
+## Project goal
 
-- Criar um sistema de **surround sound sem fios visíveis**, usando reflexão de laser no teto.
-- Integrar DSP e equalização por canal para melhor qualidade sonora.
-- Construir caixas acústicas rígidas e com boa massa usando combinação de plástico impresso em 3D, acrílico e enchimento.
+- Create a **surround sound system with no visible wires**, using laser reflection off the ceiling.
+- Integrate per-channel DSP and equalization for better sound quality.
+- Build rigid speakers with good mass using a combination of 3D-printed plastic, acrylic and filling.
 
-# Lista de Materiais
+# Bill of Materials
 
-# Orçamento
+# Budget
 
-# Orçamento final estimado — Projeto DIY Surround Sound com Laser
+# Estimated final budget — DIY Surround Sound with Laser Project
 
-Este documento reúne uma estimativa de custo para o projeto considerando que as peças de gabinete serão impressas por uma empresa especializada, já que não há impressora 3D disponível. Os valores são aproximados e servem como base para planejamento. As faixas de preço de impressão 3D e de alguns componentes foram obtidas em fontes consultadas neste turno. [web:71][web:72][web:73][web:85][web:86][web:87][web:88]
+This document gathers a cost estimate for the project, assuming the cabinet parts will be printed by a specialized company, since no 3D printer is available. The values are approximate and serve as a basis for planning. The 3D printing price ranges and those of some components were obtained from sources consulted in this turn. [web:71][web:72][web:73][web:85][web:86][web:87][web:88]
 
-## Premissas
+## Assumptions
 
-- Impressão terceirizada de todas as peças 3D do projeto.
-- Compra dos componentes de áudio no Brasil ou na Europa.
+- Outsourced printing of all the project's 3D parts.
+- Purchase of the audio components in Brazil or in Europe.
 
-## Estimativa por categoria
+## Estimate by category
 
-| Categoria | Itens incluídos | Faixa estimada |
+| Category | Included items | Estimated range |
 | --- | --- | --- |
-| Impressão 3D terceirizada | Gabinetes, suportes, espelhos e peças estruturais | R$ 1.200 a R$ 1.500 |
-| Eletrônica e áudio | Conversores SPDIF/TOSLINK, drivers Dayton, amplificador, DSP e cabos | R$ 3.300 a R$ 5.000 |
-| Materiais e acabamento | Tubos acrílicos, cola, espuma, lã, primer, tinta, parafusos e conexões | R$ 450 a R$ 900 |
+| Outsourced 3D printing | Cabinets, mounts, mirrors and structural parts | R$ 1.200 to R$ 1.500 |
+| Electronics and audio | SPDIF/TOSLINK converters, Dayton drivers, amplifier, DSP and cables | R$ 3.300 to R$ 5.000 |
+| Materials and finishing | Acrylic tubes, glue, foam, wool, primer, paint, screws and connectors | R$ 450 to R$ 900 |
 
-## Detalhamento dos componentes
+## Component breakdown
 
-| Componente | Quantidade típica | Faixa unitária estimada | Total estimado |
+| Component | Typical quantity | Estimated unit range | Estimated total |
 | --- | --- | --- | --- |
-| Conversor analógico → SPDIF/TOSLINK | 1 | R$ 70 a R$ 90 | R$ 80 |
-| Conversor SPDIF/TOSLINK → analógico | 3 a 4 | R$ 90 a R$ 130 | R$ 300 a R$ 500 |
-| Dayton TCP115-4 | 4 a 5 | R$ 250 a R$ 350 | R$ 1.000 a R$ 1.750 |
-| Dayton ND25FA-4 | 4 a 6 | R$ 120 a R$ 180 | R$ 500 a R$ 1.000 |
-| Dayton ND25FN-4 | 1 a 2 | R$ 120 a R$ 180 | R$ 120 a R$ 360 |
-| Amplificador 4 canais | 1 a 2 | R$ 250 a R$ 500 | R$ 300 a R$ 800 |
-| DSP | 1 | R$ 600 a R$ 1.200 | R$ 900 |
-| Cabos e fixação | 1 kit | R$ 80 a R$ 150 | R$ 100 |
+| Analog → SPDIF/TOSLINK converter | 1 | R$ 70 to R$ 90 | R$ 80 |
+| SPDIF/TOSLINK → analog converter | 3 to 4 | R$ 90 to R$ 130 | R$ 300 to R$ 500 |
+| Dayton TCP115-4 | 4 to 5 | R$ 250 to R$ 350 | R$ 1.000 to R$ 1.750 |
+| Dayton ND25FA-4 | 4 to 6 | R$ 120 to R$ 180 | R$ 500 to R$ 1.000 |
+| Dayton ND25FN-4 | 1 to 2 | R$ 120 to R$ 180 | R$ 120 to R$ 360 |
+| 4-channel amplifier | 1 to 2 | R$ 250 to R$ 500 | R$ 300 to R$ 800 |
+| DSP | 1 | R$ 600 to R$ 1.200 | R$ 900 |
+| Cables and mounting | 1 kit | R$ 80 to R$ 150 | R$ 100 |
 
-## Total estimado
+## Estimated total
 
-- **Total mínimo aproximado:** R$ 4.900
-- **Total máximo aproximado:** R$ 7.400
+- **Approximate minimum total:** R$ 4.900
+- **Approximate maximum total:** R$ 7.400

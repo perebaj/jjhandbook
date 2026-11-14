@@ -1,12 +1,12 @@
 https://www.youtube.com/watch?v=w82a1FT5o88&ab_channel=ConorNeill
 
-Como n começar
+How not to start
 
-1) Meu nome é x e vou falar sobre y
-2) Conseguem me ouvir? O Cabo está ligado?
+1) My name is x and I'm going to talk about y
+2) Can you hear me? Is the cable plugged in?
 
-Como começar
+How to start
 
-1) Pergunta. Trazer a audiência para o tema
-2) Fator surpresa. Quebrar a expectativa
+1) Question. Bring the audience into the topic
+2) Surprise factor. Break expectations
 3) Once upon a time.
