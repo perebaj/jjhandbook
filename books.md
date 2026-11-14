@@ -15,6 +15,7 @@ A collection of books I've read with notes and summaries.
 | A Paixão Segundo G.H. | Clarice Lispector | [Amazon](https://www.amazon.com.br/s?k=A+paix%C3%A3o+segundo+GH+Clarice+Lispector) |
 | A Philosophy of Software Design | John Ousterhout | [Amazon](https://www.amazon.com.br/s?k=A+Philosophy+of+Software+Design+John+Ousterhout) |
 | A Viena de Freud | - | [Amazon](https://www.amazon.com.br/s?k=A+Viena+de+Freud) |
+| Brasil no Espelho | Felipe Nunes | [Amazon](https://www.amazon.com.br/s?k=Brasil+no+Espelho+Felipe+Nunes) |
 | Cien Años de Soledad | Gabriel García Márquez | [Amazon](https://www.amazon.com.br/s?k=Cem+anos+de+solid%C3%A3o+Gabriel+Garcia+Marquez) |
 | Civilization and Its Discontents | Sigmund Freud | [Amazon](https://www.amazon.com.br/Civilization-Discontents-English-Sigmund-Freud-ebook/dp/B07MPCSC9B) |
 | Discurso sobre as Ciências e sobre as Artes | Rousseau | [Amazon](https://www.amazon.com.br/s?k=Discurso+sobre+as+ci%C3%AAncias+e+sobre+as+artes+Rousseau) |
@@ -26,18 +27,27 @@ A collection of books I've read with notes and summaries.
 | Five Lectures on Psycho-Analysis | Sigmund Freud | [Amazon](https://www.amazon.com.br/s?k=Five+Lectures+on+Psycho-Analysis+Freud) |
 | Freud - O Infamiliar (Das Unheimliche) | Sigmund Freud | [Amazon](https://www.amazon.com.br/s?k=Freud+O+infamiliar) |
 | Freud (1901-1905) - Obras Completas Vol. 6 (Três ensaios sobre a teoria da sexualidade, O caso Dora e outros textos) | Sigmund Freud | [Amazon](https://www.amazon.com.br/s?k=Freud+Obras+completas+Volume+6) |
+| Grande Sertão: Veredas | João Guimarães Rosa | [Amazon](https://www.amazon.com.br/s?k=Grande+Sert%C3%A3o%3A+Veredas+Jo%C3%A3o+Guimar%C3%A3es+Rosa) |
+| Gregos & Baianos | José Paulo Paes | [Amazon](https://www.amazon.com.br/s?k=Gregos+%26+Baianos+Jos%C3%A9+Paulo+Paes) |
 | História da Sexualidade Vol. 1 - A Vontade de Saber | Michel Foucault | [Amazon](https://www.amazon.com.br/s?k=Hist%C3%B3ria+da+sexualidade+1+Foucault) |
 | Jonathan Livingston Seagull | Richard Bach | [Amazon](https://www.amazon.com.br/s?k=Jonathan+Livingston+Seagull+Richard+Bach) |
 | Learning Go | Jon Bodner | [Amazon](https://www.amazon.com.br/s?k=Learning+Go+Jon+Bodner) |
 | Los Vencejos | Fernando Aramburu | [Amazon](https://www.amazon.com.br/Los-Vencejos-Fernando-Aramburu/dp/8490669988) |
 | Lugar de Negro | Lélia Gonzalez & Carlos Hasenbalg | [Amazon](https://www.amazon.com.br/s?k=Lugar+de+Negro+L%C3%A9lia+Gonzalez) |
+| Luto e Melancolia | Sigmund Freud | [Amazon](https://www.amazon.com.br/s?k=Luto+e+Melancolia+Sigmund+Freud) |
 | Malcolm X | Alex Haley | [Amazon](https://www.amazon.com.br/s?k=Autobiography+of+Malcolm+X) |
+| Marxismo e a Opressão às Mulheres: Rumo a uma Teoria Unitária | Lise Vogel | [Amazon](https://www.amazon.com.br/s?k=Marxismo+e+a+Opress%C3%A3o+%C3%A0s+Mulheres%3A+Rumo+a+uma+Teoria+Unit%C3%A1ria+Lise+Vogel) |
 | Mundo em Disputa | Marcia Tiburi | [Amazon](https://www.amazon.com.br/s?k=Mundo+em+disputa+Marcia+Tiburi) |
 | Neuroses and Non-Neuroses | Marion Minerbo | [Amazon](https://www.amazon.com.br/s?k=Neuroses+Marion+Minerbo) |
 | Non-Things: Upheaval in the Lifeworld | Byung-Chul Han | [Amazon](https://www.amazon.com.br/s?k=Non-Things+Byung-Chul+Han) |
 | Normatividade Vital em Georges Canguilhem | - | [Article](https://www.scielo.br/j/sausoc/a/NK6WVy885ksS9RBr4SWTqsR/) |
 | Norwegian Wood | Haruki Murakami | [Amazon](https://www.amazon.com.br/s?k=Norwegian+Wood+Haruki+Murakami) |
+| O Caso Schreber | Sigmund Freud | [Amazon](https://www.amazon.com.br/s?k=O+Caso+Schreber+Sigmund+Freud) |
 | O Dilema do Porco Espinho | Leandro Karnal | [Amazon](https://www.amazon.com.br/s?k=O+Dilema+do+Porco+Espinho+Leandro+Karnal) |
+| O Homem dos Ratos | Sigmund Freud | [Amazon](https://www.amazon.com.br/s?k=O+Homem+dos+Ratos+Sigmund+Freud) |
+| O Peso do Pássaro Morto | Aline Bei | [Amazon](https://www.amazon.com.br/s?k=O+Peso+do+P%C3%A1ssaro+Morto+Aline+Bei) |
+| Oração para Desaparecer | Socorro Acioli | [Amazon](https://www.amazon.com.br/s?k=Ora%C3%A7%C3%A3o+para+Desaparecer+Socorro+Acioli) |
+| Pele Negra, Máscaras Brancas | Frantz Fanon | [Amazon](https://www.amazon.com.br/s?k=Pele+Negra%2C+M%C3%A1scaras+Brancas+Frantz+Fanon) |
 | Ponciá Vicencio | Conceição Evaristo | [Amazon](https://www.amazon.com.br/s?k=Ponci%C3%A1+Vicencio+Concei%C3%A7%C3%A3o+Evaristo) |
 | Psicologia das Massas e Análise do Eu | Sigmund Freud | [Amazon](https://www.amazon.com.br/s?k=Psicologia+das+massas+e+an%C3%A1lise+do+eu+Sigmund+Freud) |
 | Radical Candor | Kim Scott | [Amazon](https://www.amazon.com.br/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509) |
