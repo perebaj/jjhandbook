@@ -652,7 +652,7 @@ The boss inherits a lot of assumptions, mainly if he/she is a new member in the 
 - Monitoring your feedbacks is the best way to keep them worth and improve them in the long term.
 - Use the Kim Scott map as reference. Share it with your subordinates and ask them to choose how was the last interaction.
 
-![radical-candor-map](./books/assets/image.png)
+![radical-candor-map](./assets/books/image.png)
 
 ---
 
@@ -793,7 +793,7 @@ Atender interesses: apropriação latifundiária e ignorância popular.
 
 ### System Design Interview - Alex Xu
 
-![system-design](./books/assets/system-design-interview.jpeg)
+![system-design](./assets/books/system-design-interview.jpeg)
 
 ---
 
