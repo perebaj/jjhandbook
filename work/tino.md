@@ -6,41 +6,41 @@ An attempt to create a B2B network payment system that connects suppliers and cl
 
 - /creditor: Someone who has the right to receive a payment from a debtor(someone else).
 - Devedor/Debtor: Someone who has the obligation to pay a creditor.
-- UR(Unidade de recebíveis): Imagine que você possui algum asset que ainda não está em suas mão, e você sabe que vai recebe-lô. Isso é um UR. **A nossa legislação permite que você transacione esse UR com base em algumas regras.**
-Dado essas regras, é que é possível criar um mercado sobre esses URs, onde ambos os lados saem ganhando.
-- **Registradora:** Uma **empresa que é responsável por registrar e manter informações sobre URs.** Disponibiliza um banco de dados digital que é acessível por todos os participantes do mercado e possibilita a realização de transações.
-- Sobre as registradoras, existe uma abstração chamada **InterOP**, que é um protocolo que permite que **diferentes registradoras se comuniquem entre si.**
-- **Averbação:** Um advérbio na lingua portuguese, é uma palavra que modifica o significado de um verbo. Portanto, no contexto do múndo de crédito, uma averbação é um adendo, uma complementação a um documento, fazendo com que essa nova informação seja registrada e muitas vezes pública, sendo possível realizar operaçõe com base nessa informação.
-- **Credenciador/Subcredenciador**: Uma empresa que é responsável por
-- **Gravame**: Uma restrição colocada sobre um bem, por exemplo, ao financiar um carro, deixar claro que esse objetivo é do banco até que o financiamento seja quitado. Ou seja, você pode usar ele por conta de um contrato.
-- **Agenda de recebiveis**: lista de recebiveis de um estabelecimento.
-- **Anuência**: Consentimento, permissão, aprovação.
+- UR(Unidade de Recebíveis, receivables unit): Imagine that you own some asset that is not yet in your hands, and you know you will receive it. That is a UR. **Our legislation allows you to transact this UR based on some rules.**
+Given these rules, it is possible to create a market around these URs, where both sides win.
+- **Registradora (registrar):** A **company that is responsible for registering and maintaining information about URs.** It provides a digital database that is accessible to all market participants and makes it possible to carry out transactions.
+- On top of the registradoras, there is an abstraction called **InterOP**, which is a protocol that allows **different registradoras to communicate with each other.**
+- **Averbação (annotation/endorsement on a record):** An advérbio (adverb) in the Portuguese language is a word that modifies the meaning of a verb. So, in the context of the credit world, an averbação is an addendum, a complement to a document, making this new information registered and often public, so that it is possible to carry out operations based on this information.
+- **Credenciador/Subcredenciador (acquirer/sub-acquirer)**: A company that is responsible for
+- **Gravame (lien)**: A restriction placed on an asset, for example, when financing a car, making it clear that this object belongs to the bank until the financing is paid off. In other words, you can use it because of a contract.
+- **Agenda de recebiveis (receivables schedule)**: list of receivables of a merchant.
+- **Anuência (consent)**: Consent, permission, approval.
 
-        Um , que possui recebiveis em aberto, pode autorizar alguém a ter acesso a esses dados, esse processo de é chamado de **opt-in**, onde algumas informacoes sao compartilhadas e o acesso é concedido.
-        Existe também o processo inverto de desvinculação: **opt-out**.
+        A , who has open receivables, can authorize someone to access this data; this process is called **opt-in**, where some information is shared and access is granted.
+        There is also the reverse unlinking process: **opt-out**.
 - KYC: Know Your Customer. It's a process that gather some information about the customer to enable or not the access to some services.
 - TPV: Total Payment Volume. It's the total amount of money that is transacted in a given period.
 - LTV: Lifetime Value. It's the total amount of money that a customer will spend in a given period.
-- Instituicao de pagamento/FIDIC
+- Instituicao de pagamento (payment institution)/FIDIC
 - Culture aspects
     - The customer is the sun
     - We act in the light speed
     - Evolving day after day
 
-Levando esses conceitos para a realidade da Tino, basicamente os assets(URs), são produtos físicos que os clientes compram,
-e que ainda não estão em suas mãos.
+Bringing these concepts to Tino's reality, basically the assets (URs) are physical products that the clients buy,
+and that are not yet in their hands.
 
-E forma de pagamento, é o dinheiro normal, e muitas vezes, esses clientes também não possuem imediatamente o dinheiro
-para pagar esses produtos, nosso trabalho, é utilizar desse mecanismo que engloba, URs, Averbações, e registradoras,
-para criar um mercado de crédito, onde esses clientes possam pagar esses assets, e nós possamos receber uma porcentagem
-por interligar os fornecedores com os clientes e além disso fornecer confiáveis formas de pagamentos.
+And the payment method is normal money, and often these clients also don't immediately have the money
+to pay for these products. Our job is to use this mechanism that encompasses URs, Averbações, and registradoras
+to create a credit market, where these clients can pay for these assets, and we can receive a percentage
+for connecting the suppliers with the clients and, besides that, provide reliable forms of payment.
 
-Portanto criámos uma proposta de valor nas duas etapas da cadeia produtiva, befeciando os fornecedores e os clientes.
+So we created a value proposition at both stages of the production chain, benefiting the suppliers and the clients.
 
 # How does it make money?
 
-- Porcentagem sobre as transações
-- Cobrança de multas e juros em caso de atraso no pagamento
+- Percentage on the transactions
+- Charging fines and interest in case of late payment
 
 # How the market works without Tino
 
@@ -254,17 +254,17 @@ When we are dealing with mulitple push subscriptions and multiple cloud run serv
 
 ## Fix Fraud flow for creating a decision tree flow
 
-Adaptação rápida com virada p/ produção com observabilidade e testes, atendendo uma necessidade urgente do time de negócios que estava enfrentando problemas críticos com criminosos que encontraram uma brecha no sistema.
+Quick adaptation with a switch to production with observability and tests, meeting an urgent need of the business team, which was facing critical problems with criminals who found a loophole in the system.
 
 ## Follow the DLQ is not enogh
 
-Criamos uma nova subscription para consumir uns dados em um fluxo paralelo, e isso fez com que o tempo de crédito fosse afetado, mesmo dividindo a um nível físico. Nossos alertas não pegaram esse problema vimos através de dashboards que estavamos com problema.
+We created a new subscription to consume some data in a parallel flow, and this caused the credit time to be affected, even though we split it at a physical level. Our alerts didn't catch this problem; we saw through dashboards that we had a problem.
 
-- A ideia aqui, foi melhorar os dashboards e criar alertas sobre esse problema detectado.
-- Encontramos os clientes que ficaram travados
-- Notificamos a empresa sobre o problema
-- Efetuamos o rollback do deploy
-- Reprocessamos os clientes
+- The idea here was to improve the dashboards and create alerts for this detected problem.
+- We found the clients that got stuck
+- We notified the company about the problem
+- We rolled back the deploy
+- We reprocessed the clients
 
 # Why have specialist in the current software solutions is so important?
 

@@ -1,13 +1,13 @@
-## Mock para testes unitários
+## Mocks for unit tests
 
-### Formas de fazer isso
+### Ways to do it
 
-* 1) Simular as operações de um banco de dado utilizando alguma estrutura de dados
-* 2) Stubs: Objetos que imitam o comportamento de um componente real
-* 3) É possivel ver em alguns blockpost qque algumas ferramentas de fato simularam um banco de dados ou até mesmo se sobe um banco paralelo para realizar os teste, mas como estamos falando de teste unitários, as abordagens 1 e 2 são mais plausíveis.
+* 1) Simulate the operations of a database using some data structure
+* 2) Stubs: Objects that imitate the behavior of a real component
+* 3) You can see in some blog posts that some tools actually simulated a database, or even spin up a parallel database to run the tests, but since we are talking about unit tests, approaches 1 and 2 are more plausible.
 
 w
-Geralmente a opção 1 é muito mais trabalhosa e gera muito código adicional aos seus testes, essas operações podem ficar tão complexas que você pode deixar de confiar em seus próprios teste
+Usually option 1 is much more laborious and adds a lot of extra code to your tests; these operations can get so complex that you may stop trusting your own tests
 
 ## Table tests
 

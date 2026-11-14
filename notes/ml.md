@@ -1,29 +1,29 @@
 # Featuring engineering
 
-## Seleção de features
+## Feature selection
 
-* análise de correlação: identica features altamente correlacionadas com as variáveis alvo
-* RFECV: Recursive Feature Elimination with Cross-Validation: algoritmo que remove features menos importantes
+* correlation analysis: identifies features highly correlated with the target variables
+* RFECV: Recursive Feature Elimination with Cross-Validation: algorithm that removes less important features
 
-## Transformação de features
+## Feature transformation
 
-* Codificação de variáveis categóricas: transforma variaveis categóricas em numéricas, como One-hot encoding
-* Normalização e padronização: ajusta a esacala das features para melhorar a performance do modelo
-* engenharia de recursos: cria novas features a partir das existentes, como interações, polinômios, etc.
+* Encoding of categorical variables: turns categorical variables into numerical ones, such as One-hot encoding
+* Normalization and standardization: adjusts the scale of the features to improve the model's performance
+* feature engineering: creates new features from existing ones, such as interactions, polynomials, etc.
 
-## Criação de features
+## Feature creation
 
-* Combinação de features: combinação de features existentes para criar novas features
-* extração de features: extrai características relevantes de dados não estruturados, como texto, imagens, etc.
+* Feature combination: combining existing features to create new features
+* feature extraction: extracts relevant characteristics from unstructured data, such as text, images, etc.
 
-## Validação
+## Validation
 
-* Cross-validation: técnica para avaliar a performance do modelo cruzando diferentes conjuntos de treinamento e teste
-* Curva ROC e AUC: métricas para avaliar a performance de modelos de classificação
+* Cross-validation: technique to evaluate the model's performance by crossing different training and test sets
+* ROC curve and AUC: metrics to evaluate the performance of classification models
 
-## Ferramentas
+## Tools
 
-- Featuretools: biblioteca para automatizar a engenharia de features
-- Scikit-learn: biblioteca de machine learning com diversas ferramentas para engenharia de features
-- Pandas: biblioteca para manipulação de dados, útil para transformação e criação de features
-- Feature Stora Amazon SageMaker: serviço da AWS para armazenar e compartilhar features entre modelos
+- Featuretools: library to automate feature engineering
+- Scikit-learn: machine learning library with several tools for feature engineering
+- Pandas: library for data manipulation, useful for transforming and creating features
+- Feature Stora Amazon SageMaker: AWS service to store and share features across models
