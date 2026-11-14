@@ -47,25 +47,25 @@ So, the solution of the whole problem is a result of the solution of the subprob
 
 ![](./DP.jpeg)
 
-O exemplo acima é um bem simples sobre como o DP funciona, aqui,estamos tentando encontrar o valor máximo de possibilidades para chegar ao topo(N) dando 1 ou 2 saltos.
+The example above is a very simple one about how DP works; here, we are trying to find the maximum number of possibilities to reach the top (N) taking 1 or 2 steps.
 
-Podemos observar alguns pontos importantes:
+We can observe some important points:
 
-- Caso o numero de degraus seja 4, podemos observar que todas as possibilidades de chegar ao 4 foram formadas até a altura 3 dessa árvore.
-- A complexidade para resolver esse problema deve contemplar todas as possibilidades que estamos tentando formar. Fazendo algumas relações básicas, é simples de observar que isso é 2^n, ou seja, exponencial.
-- Agora a parte mais diícil, nos convencermos de que a solução para N=3, é a soma das soluções para N=1 + N=2, ou seja, 3 = 1 + 2.
-    - Para N=4, a solução é a soma das soluções para N=2 + N=3, ou seja, 5 = 2 + 3
-    - Para N=5, a solução é a soma das soluções para N=3 + N=4, ou seja, 8 = 3 + 5
-    - E assim por diante
+- If the number of steps is 4, we can see that all the possibilities of reaching 4 were formed up to height 3 of this tree.
+- The complexity to solve this problem must cover all the possibilities we are trying to form. Making some basic relations, it is simple to see that this is 2^n, that is, exponential.
+- Now the hardest part: convincing ourselves that the solution for N=3 is the sum of the solutions for N=1 + N=2, that is, 3 = 1 + 2.
+    - For N=4, the solution is the sum of the solutions for N=2 + N=3, that is, 5 = 2 + 3
+    - For N=5, the solution is the sum of the solutions for N=3 + N=4, that is, 8 = 3 + 5
+    - And so on
 
-Sabendo destes pequenos detalhes, podemos aplicar para outros problemas de DP. Entre eles, é comum observar:
+Knowing these small details, we can apply them to other DP problems. Among them, it is common to see:
 
-- Problemas de maximização ou minimização
+- Maximization or minimization problems
 
 
-Por ser um problema que pode ser resolvido usando recursão, é extremamente imporante pensar em como podemos parar a recursão para ela não se tornar infinita.
+Since it is a problem that can be solved using recursion, it is extremely important to think about how we can stop the recursion so it does not become infinite.
 
-Nesse caso, seria quanto o valor de N for 0 ou 1, que são os casos base. E para N < 0.
+In this case, it would be when the value of N is 0 or 1, which are the base cases. And for N < 0.
 
 ## Store(Memoization != memorization) also known as Top-Down
 

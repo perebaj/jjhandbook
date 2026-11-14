@@ -71,19 +71,19 @@ A collection of books I've read with notes and summaries.
 
 ### A Carne - Rosa Montero
 
-Fácil de ser lido e bom para passar o tempo. Coloca o leitor em contato com a velhice de uma mulher que acredita estar perdendo sua pulsão de desejar pois está prestes a completar 60 anos. Uma reflexão interessante sobre a velhice.
+Easy to read and good for passing the time. It puts the reader in contact with the old age of a woman who believes she is losing her drive to desire because she is about to turn 60. An interesting reflection on old age.
 
 ### A Fé e o Fuzil - Bruno Paes Manso
 
-Crime e religião no Brasil do século XXI.
+Crime and religion in 21st-century Brazil.
 
 ---
 
 ### A Paixão Segundo G.H. - Clarice Lispector
 
-Difícil de entender qual a motivação da autora depois da metade do livro, análise sobre análises, sobre análises. Uma barata vira motivo de reflexão, uma sombra, um vaso, a poeira no guarda roupa.
+Hard to understand the author's motivation after the middle of the book, analysis on analyses, on analyses. A cockroach becomes a reason for reflection, a shadow, a vase, the dust in the wardrobe.
 
-Me lembra um pouco as poesias de Manoel de Barros, que se apega ao ínfimo para tentar entender o mundo.
+It reminds me a bit of Manoel de Barros's poetry, which clings to the tiniest things to try to understand the world.
 
 ```
 Na verdade, na verdade, os passarinhos que botavam primavera nas palavras.
@@ -91,7 +91,7 @@ Na verdade, na verdade, os passarinhos que botavam primavera nas palavras.
 Manoel de Barros
 ```
 
-O mesmo para Clarice, que se abraça na solidão de seu quarto, tentando entender e dar sentido para sua vida normal e aparentemente sem graça.
+The same goes for Clarice, who wraps herself in the solitude of her room, trying to understand and give meaning to her normal and seemingly dull life.
 
 ---
 
@@ -103,9 +103,9 @@ A question before continuing: What differentiates a good developer from a great 
 
 According to the book "Talent Is Overrated: What Really Separates World-Class Performers from Everybody Else", talent is a mix of a few factors:
 
-* *Prática deliberada*
-* *Dedicação*
-* *Resiliência*
+* *Deliberate practice*
+* *Dedication*
+* *Resilience*
 
 In short: working smart, focused, and with clear goals is what makes anyone, not just developers, better at what they do.
 
@@ -168,120 +168,120 @@ Reference: [CONSIDERAÇÕES SOBRE O MAL-ESTAR NA CIVILIZAÇÃO](https://slab.uff
 
 ### Discurso sobre as Ciências e sobre as Artes - Rousseau
 
-#### Questão: Ciências e artes → Purificam os costumes?
+#### Question: Sciences and arts → Do they purify customs?
 
-#### Recomendações
+#### Recommendations
 
 - Rousseau - Contrato Social
 - Kant - Que é esclarecimento
 - Pierre Bourdieu
 - Pierre Bourdieu - **Os Herdeiros: Os Estudantes e a Cultura**
 
-#### Termos
+#### Terms
 
-**Indução**: vem do latim *inductio* — "condução" ou "levar para dentro". Em filosofia, método de inferir uma conclusão a partir de evidências particulares.
+**Indução** (induction): comes from the Latin *inductio* — "leading" or "bringing in". In philosophy, a method of inferring a conclusion from particular evidence.
 
-**Retificação**: vem do latim *rectificatio* — "ação de endireitar" ou "ação de corrigir".
+**Retificação** (rectification): comes from the Latin *rectificatio* — "act of straightening" or "act of correcting".
 
 **Entfremdung**
 
-**Politesse**: vem do francês — "cortesia" ou "bondade". Refere-se às maneiras e formas adequadas de se comportar em situações sociais.
+**Politesse**: comes from French — "courtesy" or "kindness". It refers to the proper manners and ways of behaving in social situations.
 
-**Exigência de agradar**
+**Exigência de agradar** (the demand to please)
 
-Costumes não naturais
+Unnatural customs
 
-**Separação ser/parecer** x **Aparecer como se é**
+**Separação ser/parecer** (separation of being/seeming) x **Aparecer como se é** (appearing as one is)
 
-#### Aula 12/01
+#### Class 12/01
 
-Retificação da teoria de que **quanto mais desenvolvidas são as artes e as ciências mais os costumes são elevados** — Rousseau discorre sobre o oposto.
+Rectification of the theory that **the more developed the arts and sciences are, the more elevated the customs are** — Rousseau argues the opposite.
 
-Artes:
-- Utilitária → técnica (leitura)
-- N utilitária → Estética (pintura)
+Arts:
+- Utilitarian → technique (reading)
+- Non-utilitarian → Aesthetics (painting)
 
-Costumes: Modelos de condutas
+Customs: Models of conduct
 
-**Sutilezas metafísicas**:
-- Lei
-- Não concreto
+**Metaphysical subtleties**:
+- Law
+- Not concrete
 
-**Induções históricas**:
-- Fatos
-- Concreto
+**Historical inductions**:
+- Facts
+- Concrete
 
 > Não se afiliar sem refletir, sobre as posições e costumes de sua época
 >
 > Não subjugar-se às opiniões da época
 
-Antes: Ignorância e barbárie
+Before: Ignorance and barbarism
 
-Transição (1453):
-- Cultura da antiga Grécia
-- Renascimento - Ciências, letras e artes
+Transition (1453):
+- Culture of ancient Greece
+- Renaissance - Sciences, letters and arts
 
-Hoje: Esclarecida
+Today: Enlightened
 
 > Em vida social nós dependemos dos outros. Ponto importante para considerarmos um limite da liberdade. Não julgá-la como o limite da sua força.
 
 > Simular virtudes e dissimular defeitos
 
-Cisão entre o ser e o parecer, que opera entre todas as relações sociais.
+A split between being and seeming, which operates across all social relations.
 
 > Letras, ciências e artes → corrupção dos costumes
 
-Os homens se desconhecem como consequência, eles desenvolvem vícios:
-- Sem amizade sincera, confiança fundada
-- Suspeita, traição, medo
-- Vícios decorados com nomes de virtude (Amor = Posse)
+As a consequence, men no longer know each other, and they develop vices:
+- No sincere friendship, no well-founded trust
+- Suspicion, betrayal, fear
+- Vices decorated with the names of virtues (Love = Possession)
 
-**Antes e depois das ciências e artes:**
+**Before and after the sciences and arts:**
 
-- **Egito**: Antes: Conquistadores → Depois: subjugados
-- **Grécia**: Antes: Vencedores → Depois: Corrupção cotidiana, escravizados
-- **Roma**: Antes: Virtude, dominadora → Depois: Degenerada, crimes, subjugada
+- **Egypt**: Before: Conquerors → After: subjugated
+- **Greece**: Before: Victors → After: Everyday corruption, enslaved
+- **Rome**: Before: Virtue, dominant → After: Degenerate, crimes, subjugated
 
-#### Aula 19/01
+#### Class 19/01
 
 > Para agradar você precisa satisfazer os prazeres dos outros
 
-Esse comportamento é provindo das artes e ciências. Quanto mais rústica a origem do homem, mais desvencilhado desse modo de operar.
+This behavior comes from the arts and sciences. The more rustic a man's origin, the freer he is from this way of operating.
 
-Filosofia é um saber vago, o que motiva seu estudo é o **espanto**.
+Philosophy is a vague knowledge; what motivates its study is **wonder**.
 
-Luxo (coisas supérfluas, dispensáveis) → (produz) as **artes**
+Luxury (superfluous, dispensable things) → (produces) the **arts**
 
-Injustiça → Jurisprudência
+Injustice → Jurisprudence
 
-Tirania + Guerras + Conspirações → História
+Tyranny + Wars + Conspiracies → History
 
-Negligência à pátria + infelizes + amigos + deveres + necessidades naturais → Contemplações estéreis.
+Neglect of the homeland + the unfortunate + friends + duties + natural needs → Sterile contemplations.
 
-Rousseau possui argumentos fortes? O que são argumentos fortes? Na visão do professor:
-- Condição inicial como definitivo
-- Parte como todo
-- Imprecisão → Impertinência
+Does Rousseau have strong arguments? What are strong arguments? In the professor's view:
+- Initial condition taken as definitive
+- Part taken as the whole
+- Imprecision → Impertinence
 
-Ciências, artes e letras são ocupações ociosas, tranquilas e sedentárias.
+Sciences, arts and letters are idle, quiet and sedentary occupations.
 
-#### P2 Formação do pensamento filosófico
+#### P2 Formation of Philosophical Thought
 
-**1.1. As ciências, as artes e letras corrompem ou purificam os costumes?**
+**1.1. Do the sciences, the arts and letters corrupt or purify customs?**
 
-Corrompem. Na primeira parte de seu discurso, Rousseau fomenta que a dissimulação das virtudes e distanciamento da rusticidade natural do homem se dá em sociedades onde existe o aumento das ciências, letras e artes.
+They corrupt. In the first part of his discourse, Rousseau argues that the dissimulation of virtues and the distancing from man's natural rusticity happen in societies where the sciences, letters and arts grow.
 
-**1.2. Do ponto de vista metodológico, qual o significado das "induções históricas", isto é, qual a relação entre a tese de Rousseau e essas "induções históricas"?**
+**1.2. From a methodological point of view, what is the meaning of the "historical inductions", that is, what is the relationship between Rousseau's thesis and these "historical inductions"?**
 
-Rousseau busca fortalecer seus argumentos por exemplos históricos que possuem pontos em comum com sua base argumentativa, em especial, formações sociais de grandes sociedades, como Egito, Grécia e Roma. Usando essas formações sociais como exemplo, ele infere que o distanciamento dos costumes se acentuou nessas cidades, justamente pela dissolução da moralidade e dos valores sociais, causados pela ampliação das ciências, artes e letras.
+Rousseau seeks to strengthen his arguments with historical examples that have points in common with his argumentative base, especially the social formations of great societies, such as Egypt, Greece and Rome. Using these social formations as examples, he infers that the distancing from customs grew stronger in these cities, precisely because of the dissolution of morality and social values, caused by the expansion of the sciences, arts and letters.
 
-**1.3. Do ponto de vista conceitual, quais os resultados que essas induções históricas oferecem para embasar e explicitar a tese de Rousseau, isto é, quais eram as principais características das sociedades antes e depois do desenvolvimento das ciências, das artes e das letras?**
+**1.3. From a conceptual point of view, what results do these historical inductions offer to support and make explicit Rousseau's thesis, that is, what were the main characteristics of societies before and after the development of the sciences, the arts and letters?**
 
-É possível observar que as sociedades apresentadas nas análises históricas por Rousseau apresentam pontos altos e baixos em sua formação. Em especial, os pontos negativos se acentuam pela ampliação das CLAs. Como exemplo: Roma, que se caracterizou por ser uma sociedade virtuosa e dominadora, mas passou a ser degenerada, subjugada e com muitos crimes. Outro exemplo é a Grécia, que foi um povo vencedor, mas que ficou marcada pela escravidão e corrupção.
+It is possible to observe that the societies presented in Rousseau's historical analyses show high and low points in their formation. In particular, the negative points become stronger with the expansion of the CLAs. For example: Rome, which was characterized as a virtuous and dominant society, but became degenerate, subjugated and full of crimes. Another example is Greece, which was a victorious people, but became marked by slavery and corruption.
 
-**1.4. Na Segunda Parte do Discurso, Rousseau analisa as ciências, as artes e as letras, relacionando-as com os costumes. Quais são os principais aspectos dessa análise?**
+**1.4. In the Second Part of the Discourse, Rousseau analyzes the sciences, the arts and letters, relating them to customs. What are the main aspects of this analysis?**
 
-Dois aspectos: no primeiro, para Rousseau, as CLAs pressupõem o luxo, e sociedades que se formaram com esse aspecto possuem anseios fúteis — tal formação social não consegue decidir o rumo dos costumes, já que por agirem dessa forma, se distanciam cada vez mais de sua rusticidade e comportamento natural para serem benquistos socialmente, pois precisam simular virtudes e dissimular seus defeitos. Como segundo aspecto, o vício pela produção das CLAs, onde Rousseau faz provocações se a utilização desse conhecimento gerado de fato conseguiu servir para tornar a sociedade um lugar melhor ou somente para alimentar o ego de filósofos e cientistas da época.
+Two aspects: in the first, for Rousseau, the CLAs presuppose luxury, and societies formed with this aspect have futile longings — such a social formation cannot decide the direction of customs, since by acting this way they drift further and further from their rusticity and natural behavior in order to be well liked socially, because they need to simulate virtues and dissimulate their defects. As the second aspect, the addiction to producing the CLAs, where Rousseau provokes the question of whether using this generated knowledge actually served to make society a better place or only to feed the ego of the philosophers and scientists of the time.
 
 ---
 
@@ -293,55 +293,55 @@ Pretty fun reading, the english version it's being hard for me.
 
 ### Educação como Prática da Liberdade - Paulo Freire
 
-#### Termos
+#### Terms
 
-- Pauperizar = empobrecer
-- Relevo = tem origem no latim *relevare*, que significa "levantar".
-- Círculo de cultura = Unidade de ensino que substitui a "escola", autoritária por estrutura e tradição.
-- Maiêutica = método de ensino Socrático, que envolve realizar uma série de questões para ajudar alguém a alcançar mais a fundo sobre um tópico.
-- Filisteísmo = Amplamente utilizado para se referir à falta de interesse ou apreciação pela cultura, literatura, arte, música, teatro e outras formas de expressão artística. Vem do termo "filisteu", nome dado a um povo que habitava a região da Filístia, na antiga Palestina.
-- Celeuma = tumulto/alvoroço.
-- Sociologia = Campo de estudo dentro das ciências sociais, que se dedica a analisar as relações sociais, culturais e políticas entre indivíduos e grupos dentro de uma sociedade.
-- Oligarquia = Oligos = pequeno/pouco | arkhein = governar/comandar. Governo de poucos.
+- Pauperizar (to pauperize) = to impoverish
+- Relevo (relief) = comes from the Latin *relevare*, which means "to lift".
+- Círculo de cultura (culture circle) = A teaching unit that replaces the "school", which is authoritarian by structure and tradition.
+- Maiêutica (maieutics) = Socratic teaching method, which involves asking a series of questions to help someone go deeper into a topic.
+- Filisteísmo (philistinism) = Widely used to refer to a lack of interest in or appreciation for culture, literature, art, music, theater and other forms of artistic expression. It comes from the term "filisteu" (Philistine), the name given to a people who lived in the region of Philistia, in ancient Palestine.
+- Celeuma (uproar) = tumult/commotion.
+- Sociologia (sociology) = A field of study within the social sciences, dedicated to analyzing the social, cultural and political relations between individuals and groups within a society.
+- Oligarquia (oligarchy) = Oligos = small/few | arkhein = to rule/command. Rule by the few.
 
-#### Sobre a democracia
+#### On democracy
 
-A palavra democracia possui origem na Grécia antiga, no século V a.C. Literalmente significa: Governo do povo. *demos* = povo | *kratos* = poder. A democracia nasceu na Grécia, em Atenas, e foi uma inspiração para muitos movimentos democráticos ao longo da história. Nesta época existiam assembleias, tribunais e conselhos populares, para garantir que o povo (homens adultos) pudesse exercer seu direito de poder político.
+The word democracy has its origin in ancient Greece, in the 5th century BC. It literally means: Rule by the people. *demos* = people | *kratos* = power. Democracy was born in Greece, in Athens, and was an inspiration for many democratic movements throughout history. At that time there were assemblies, courts and popular councils, to ensure that the people (adult men) could exercise their right to political power.
 
-Esse movimento nasce da ascensão social da classe média ateniense e sua insatisfação com o governo tirânico, levando-os à criação de um novo sistema político baseado na participação direta dos cidadãos.
+This movement was born from the social rise of the Athenian middle class and its dissatisfaction with tyrannical rule, leading them to create a new political system based on the direct participation of citizens.
 
-#### Educação e política: Reflexões sociológicas sobre uma pedagogia da liberdade
+#### Education and Politics: Sociological Reflections on a Pedagogy of Freedom
 
-É urgente alfabetizar e conscientizar a população pauperizada, que sofre em um sistema desigual e opressor.
+It is urgent to teach literacy to and raise the awareness of the impoverished population, which suffers in an unequal and oppressive system.
 
-A visão pedagógica de Paulo Freire se torna efetiva e completa quando os educandos participam de forma crítica e livre no seu processo de aprendizado.
+Paulo Freire's pedagogical vision becomes effective and complete when learners participate critically and freely in their learning process.
 
-Para isso a proposta metodológica, círculo de cultura, unidade de ensino que substitui a escola, entra como ferramenta nesse processo. O esquema de ensino autoritário e bancário deixa de ser necessário, e abre espaço para um movimento de educação popular, onde, intermediado por um coordenador (que não é dito professor), faz-se o processo de intermediar o diálogo.
+For this, the methodological proposal, the culture circle, a teaching unit that replaces the school, comes in as a tool in this process. The authoritarian, banking model of teaching is no longer needed, and it makes room for a popular education movement where, mediated by a coordinator (who is not called a teacher), the dialogue is facilitated.
 
-Outro ponto importante no processo de alfabetização é colocar em confronto as *palavras geradoras*, já que todo aprendizado deve encontrar-se intimamente associado à tomada de consciência da sua situação real vivida. Portanto, aproximar o vocabulário do alfabetizando é uma ferramenta importante no processo.
+Another important point in the literacy process is to bring the *generative words* into confrontation, since all learning must be closely tied to becoming aware of one's real lived situation. So, bringing the vocabulary close to the learner is an important tool in the process.
 
-O Círculo se constitui em um grupo de debate, seu interesse central é o debate da linguagem no contexto social. Liberdade e crítica que não podem se limitar às relações internas do grupo, mas que se apresentam na **tomada de consciência que este realiza de sua situação social**.
+The Circle is a debate group; its central interest is debating language in the social context. Freedom and criticism that cannot be limited to the group's internal relations, but that show up in the **awareness the group gains of its social situation**.
 
-#### A sociedade brasileira em transição
+#### Brazilian Society in Transition
 
-- O homem faz parte do seu processo evolutivo e da sociedade em que vive.
-- O homem não está preso a uma corrente temporal que se resume ao hoje, mas é resultado de todo processo evolutivo até sua formação.
+- Man is part of his evolutionary process and of the society he lives in.
+- Man is not stuck in a stream of time that comes down to today, but is the result of the whole evolutionary process up to his formation.
 
-**Transitividade**: Uns que pretendiam manter a história para conservar seus privilégios e outros que querem avançar a história, em um movimento quase sufocante para conquistar mais direitos.
+**Transitivity**: Some who wanted to hold history in place to keep their privileges, and others who want to move history forward, in an almost suffocating movement to win more rights.
 
-A saúde para essa estranha democracia está no silêncio do povo. No imobilismo.
+The health of this strange democracy lies in the silence of the people. In immobility.
 
-**Subversividade**: dizem por ameaçar a ordem — porém, qual conceito de ordem estamos falando? Todo processo de formação histórica se deu por vias anárquicas.
+**Subversiveness**: they call it that for threatening order — but which concept of order are we talking about? Every process of historical formation happened through anarchic paths.
 
-Em uma sociedade tão desigual é quase impossível viver sem o desencadeamento de forças intensamente emocionais.
+In such an unequal society it is almost impossible to live without unleashing intensely emotional forces.
 
-**Assistencialismo**: O grande problema no assistencialismo está no seu antidiálogo, que, impondo ao homem mutismo e passividade, não lhe oferece condições para o desenvolvimento de sua consciência. Sem essa consciência é impossível ver o homem brasileiro integrar-se à sua sociedade em transição.
+**Assistentialism**: The big problem with assistentialism lies in its anti-dialogue, which, by imposing muteness and passivity on man, does not give him the conditions to develop his consciousness. Without this consciousness it is impossible to see the Brazilian man integrate into his society in transition.
 
-Existir é um conceito dinâmico. Implica um dialogação eterna do homem com o homem. Do homem com o mundo. Do homem com o seu criador. Esse diálogo do homem com o mundo é debater de fato sobre os problemas que assolam a sociedade.
+To exist is a dynamic concept. It implies an eternal dialogue of man with man. Of man with the world. Of man with his creator. This dialogue of man with the world is actually debating the problems that plague society.
 
-#### Transitividade crítica e ingênua
+#### Critical and Naive Transitivity
 
-**Irracionalismo sectário** (intolerante) = postura caracterizada por uma devoção irracional e fanática a certos princípios ou ideias, implicando na recusa em considerar ou avaliar criticamente outras ideias.
+**Irracionalismo sectário** (sectarian irrationalism) (intolerant) = a stance marked by an irrational and fanatical devotion to certain principles or ideas, implying a refusal to consider or critically evaluate other ideas.
 
 ---
 
@@ -404,7 +404,7 @@ case <-ch4:
 }
 ```
 
-Se na primeira iteração sobre o canal `v` ele estiver "bloqueado", a própria engine do Golang seleciona outro case disponível.
+If on the first iteration the channel `v` is "blocked", the Go engine itself selects another available case.
 
 ---
 
@@ -422,7 +422,7 @@ Se na primeira iteração sobre o canal `v` ele estiver "bloqueado", a própria 
 
 - **staggering**: something impressive
 - **hip**: when a person is described as hip, it means they're trendy or cool
-- **as though**: "I'd go back and serve it as though he were a millionaire" (como se)
+- **as though**: "I'd go back and serve it as though he were a millionaire" (as if)
 - **meant**: "We both knew what he meant" (both know what he tried to say)
 - **I scarcely slept**: I wasn't able to sleep
 - **reefer**: marijuana cigarette
@@ -431,59 +431,59 @@ Se na primeira iteração sobre o canal `v` ele estiver "bloqueado", a própria 
 
 ### Mundo em Disputa - Marcia Tiburi
 
-O conteúdo presente nesse livro nos permite vislumbrar, para além do abismo, um outro mundo possível.
+The content of this book lets us glimpse, beyond the abyss, another possible world.
 
-A autora critica o patrirracialcapacitalismo, um conjunto de preconceitos que reforçam a dominação de grupos, para que os mesmos não se coloquem em contraposição ao sistema.
+The author criticizes patrirracialcapacitalismo (patri-racial-capacitalism), a set of prejudices that reinforce the domination of groups, so that they do not set themselves against the system.
 
-Dentre os grupos apresentados:
-- Mulheres
-- Negros
+Among the groups presented:
+- Women
+- Black people
 - LGBT
-- Socialistas
-- Ativistas políticos
-- Ativistas rurais, dentre outros
+- Socialists
+- Political activists
+- Rural activists, among others
 
-Uma das provocações realizadas que mais me chamou atenção diz respeito ao fato de estarmos criando uma sociedade que imagina poucos futuros possíveis e está acomodada com a realidade que possuímos, vendo nesta a única alternativa possível e existente. Para Marcia, isso é um projeto do sistema por trás do capitalismo, que mercantiliza toda forma de matéria, infiltrando-se na mente das pessoas e manipulando sua forma de pensar.
+One of the provocations that caught my attention the most concerns the fact that we are creating a society that imagines few possible futures and is settled with the reality we have, seeing it as the only possible and existing alternative. For Marcia, this is a project of the system behind capitalism, which commodifies every form of matter, seeping into people's minds and manipulating the way they think.
 
-Aqueles que buscam impulso, lutando pela vida e causas sociais, são os condenados da terra. Os mesmos que criaram uma percepção mais aguçada de mundo e que ao mesmo tempo são mutilados pelo sistema por suas atitudes revolucionárias.
+Those who seek momentum, fighting for life and social causes, are the wretched of the earth. The same ones who developed a sharper perception of the world and who, at the same time, are mutilated by the system for their revolutionary attitudes.
 
 ---
 
 ### Non-Things: Upheaval in the Lifeworld - Byung-Chul Han
 
-#### Da coisa à não-coisa
+#### From Thing to Non-Thing
 
-Esse capítulo tenta abordar a transição do mundo terreno, onde temos acesso às coisas "reais", para a ordem digital, que descoisifica o mundo, no sentido do mundo estar se tornando cada vez mais incompreensível, mais nublado e fantasmagórico. Nada é palpável e tangível.
+This chapter tries to address the transition from the earthly world, where we have access to "real" things, to the digital order, which de-thingifies the world, in the sense that the world is becoming more and more incomprehensible, cloudier and ghostlier. Nothing is palpable and tangible.
 
-A ordem digital fragmenta a vida, no sentido de que essa informação gerada não é capaz de materializar memória e nem história. A continuidade narrativa que se estende por longos períodos de tempo é o que distingue a história e a memória.
+The digital order fragments life, in the sense that the information it generates cannot materialize memory or history. The narrative continuity that stretches over long periods of time is what distinguishes history and memory.
 
-A efetividade e a comodidade substituem a verdade. A verdade aqui, no sentido de ser algo que o ser humano não pode mudar, ela resiste a todas as mudanças e manipulações. O mundo está perdido nas camadas profundas das redes neurais às quais os humanos não têm acesso; essa utopia digital produz constantemente uma prisão inteligente, a vigilância está se infiltrando cada vez mais na vida cotidiana, **sob a forma de conveniência.**
+Effectiveness and convenience replace truth. Truth here in the sense of something human beings cannot change; it resists all changes and manipulations. The world is lost in the deep layers of neural networks that humans have no access to; this digital utopia constantly produces a smart prison, and surveillance is seeping more and more into everyday life, **in the form of convenience.**
 
 ```
 Hoje nós corremos atrás de informações sem obter nenhum saber. Tomamos ciência de tudo sem chegar a nenhum conhecimento. Vamos a todos os lugares sem obter nenhuma experiência. Nós nos comunicamos ininterruptamente, sem participar de nenhuma comunidade. Armazenamos imensas quantidades de dados sem buscar memórias. Acumulamos friends and followers sem toparmos com outros. Assim, as informações desenvolvem uma forma de vida sem constância e duração.
 ```
 
-O homem do futuro não age, ele joga. Sua mão, que era instrumento de trabalho para realizar ações e materializar coisas no mundo, agora é substituída por seus dedos. Ele escolhe ao invés de agir. Ele aperta botões para satisfazer suas necessidades. Sua vida não é um drama que lhe impõe ações, mas um jogo.
+The man of the future does not act, he plays. His hand, which was a tool of work to carry out actions and materialize things in the world, is now replaced by his fingers. He chooses instead of acting. He presses buttons to satisfy his needs. His life is not a drama that imposes actions on him, but a game.
 
-#### Da posse à vivência
+#### From Possession to Experience
 
-Ter ou ser: "Ter se refere às coisas [...]. O ser refere-se a vivências [...]."
+Having or being: "Ter se refere às coisas [...]. O ser refere-se a vivências [...]."
 
-A velha máxima do ter não mais se aplica: quanto mais eu tenho, mais eu sou. A nova máxima da vivência é: quanto mais eu vivencio, mais eu sou.
+The old maxim of having no longer applies: the more I have, the more I am. The new maxim of experience is: the more I experience, the more I am.
 
-Segundo o autor existe uma confusão no **ter e ser** — um exemplo seriam as viagens, como se fossem rituais de separação das coisas. Mas ser, no sentido puro e simples, diz respeito às coisas do coração, que exigem um forte estímulo emocional e libidinoso. Hoje não queremos nem nos vincular às coisas nem às pessoas. Os vínculos são inoportunos. **Eles diminuem as possibilidades de vivência, ou seja, a liberdade no sentido consumista.**
+According to the author there is a confusion between **having and being** — one example would be travel, as if it were a ritual of separating from things. But being, in the pure and simple sense, concerns the things of the heart, which demand a strong emotional and libidinal stimulus. Today we want to bind ourselves neither to things nor to people. Bonds are inconvenient. **They reduce the possibilities of experience, that is, freedom in the consumerist sense.**
 
-Agora esperamos vivências até mesmo no consumo das coisas. O teor informativo das coisas, como a *imagem de uma marca*, está se tornando mais importante do que seu valor utilitário, ou seja, as informações estão se tornando cada vez mais importantes do que os aspectos materiais do produto.
+Now we expect experiences even from consuming things. The informational content of things, like the *image of a brand*, is becoming more important than their utilitarian value, that is, information is becoming more and more important than the material aspects of the product.
 
-Outro exemplo é que as coisas e os lugares estão sendo cada vez menos símbolo de personalidade/identidade. A identidade hoje é produzida por meio de informações, aquelas que estão nas mídias sociais.
+Another example is that things and places are less and less a symbol of personality/identity. Identity today is produced through information, the kind that lives on social media.
 
-**se produire = Colocar em cena. Nós encenamos, performamos nossa identidade.**
+**se produire = To put on stage. We stage, we perform our identity.**
 
-#### Cultura
+#### Culture
 
-Os sítios culturais estão se estabelecendo como marcas rentáveis.
+Cultural sites are establishing themselves as profitable brands.
 
-A cultura tem sua origem na comunidade, ela transmite os valores simbólicos que compõem essa comunidade. Quanto mais ela se torna uma mercadoria, mais ela se afasta de sua origem. A comercialização da cultura, por sua vez, afasta e destrói a comunidade de sua verdade, que por sua vez se transforma em uma commodity — e a mercadoria é seu fim, junto com a comunidade que a acompanha.
+Culture has its origin in the community; it transmits the symbolic values that make up that community. The more it becomes a commodity, the further it moves from its origin. The commercialization of culture, in turn, pulls the community away from its truth and destroys it, and culture turns into a commodity — and the commodity is its end, along with the community that comes with it.
 
 ---
 
@@ -495,100 +495,100 @@ A little bit tired of just reading things about business, computer science and s
 
 ### O Dilema do Porco Espinho - Leandro Karnal
 
-#### Introdução
+#### Introduction
 
-Solitários somos livres, mas acompanhados somos mais felizes.
+Alone we are free, but together we are happier.
 
-- Ministério da solidão, criado no Reino Unido, mostra como esse é um tema importante na sociedade atual.
-- A solidão não envolve companhia ou falta dela. Você pode presenciar a sensação de solidão em ambas situações.
-- Depressão: perda dos vínculos com a vida e vontade de viver.
-- Somos seres gregários, ou seja, nos beneficiamos e evoluímos em grupo.
-- Algumas referências bibliográficas citadas que abordam a solidão de diferentes formas:
+- The Ministry of Loneliness, created in the United Kingdom, shows how important this topic is in today's society.
+- Loneliness is not about having company or lacking it. You can feel loneliness in both situations.
+- Depression: loss of bonds with life and of the will to live.
+- We are gregarious beings, that is, we benefit and evolve in groups.
+- Some bibliographic references cited that approach loneliness in different ways:
   - *A paixão segundo G.H.* - Clarice Lispector
-  - O pior castigo da prisão é a solitária.
-  - Quando uma criança faz algo errado na escola, ela é isolada, para que sinta a solidão.
-  - Quando o casal briga, existe a ameaça da separação, ou seja, deixar o outro sozinho.
-- O amor é uma forma de duas solidões se protegerem.
-- Aristóteles: A solidão cria deuses ou bestas.
+  - The worst punishment in prison is solitary confinement.
+  - When a child does something wrong at school, they are isolated, so that they feel loneliness.
+  - When a couple fights, there is the threat of separation, that is, leaving the other alone.
+- Love is a way for two lonelinesses to protect each other.
+- Aristotle: Solitude creates gods or beasts.
 
-**Objetivo do livro:** Colocar uma luz sobre todas as faces da solidão, para que possamos entender melhor esse comportamento.
+**Goal of the book:** Shed light on all the faces of loneliness, so that we can better understand this behavior.
 
-#### Capítulo 1 - Não é bom que o homem esteja só
+#### Chapter 1 - It Is Not Good That Man Should Be Alone
 
-Aqui uma análise mais bíblica sobre a solidão — por exemplo, no mundo bíblico, viver é viver em casal.
+Here, a more biblical analysis of loneliness — for example, in the biblical world, to live is to live as a couple.
 
-- Qual é a distância ideal entre estar acompanhado e estar sozinho?
-- Vivemos em uma época onde tomamos remédios para virilidade, dormir e até acordar.
-- A sociedade foi mudando, de tal forma, que se formos analisar a definição de felicidade entre diferentes épocas, veremos que ela mudou:
-  - Para os egípcios, a felicidade era encontrada na morte, pois é quando você vive eternamente.
-  - No renascentismo (1400-1600), a felicidade era encontrada no agora, nas coisas pequenas que podemos fazer e aproveitar enquanto estamos vivos.
+- What is the ideal distance between being with others and being alone?
+- We live in a time when we take pills for virility, for sleeping and even for waking up.
+- Society kept changing, so much so that if we analyze the definition of happiness across different eras, we will see that it changed:
+  - For the Egyptians, happiness was found in death, because that is when you live eternally.
+  - In the Renaissance (1400-1600), happiness was found in the now, in the small things we can do and enjoy while we are alive.
 
-#### Capítulo 2
+#### Chapter 2
 
-- Diante do amigo, torno-me de fato quem sou.
-- Não se criam amigos de um dia para o outro.
-- O mundo virtual é mais controlável. Você pode ignorar os chatos.
-- **Demiourgo**: Comerciantes que começaram a questionar a estrutura aristocrática do regime ateniense, transformando a estrutura política da cidade-estado, permitindo a participação de mais pessoas.
-- **Shakespeare**: *A tempestade*. Existiam seres que faziam as pessoas crerem algo que não existia, e controlavam a realidade para manipulá-las. *Admirável Mundo Novo* de Aldous Huxley tem seu título baseado nessa obra. Uma droga para omitir a tristeza ou seja lá o que você queira esquecer ou se lembrar.
-- Talvez a solidão não esteja relacionada a ocupar um espaço ou estar cercado de pessoas, mas talvez estar no controle deste espaço ou pessoas. É normal que criemos praias, parques e serviços que apenas pessoas selecionadas possam frequentar. **Eu** posso estar aqui, mas não quero que você esteja, eu controlo o que vou comer, onde vou dormir, com quem vou conversar. Será que isso é uma forma de controlar a solidão?
+- Before a friend, I truly become who I am.
+- Friends are not made overnight.
+- The virtual world is more controllable. You can ignore the annoying people.
+- **Demiourgo**: Merchants who began to question the aristocratic structure of the Athenian regime, transforming the political structure of the city-state and allowing more people to participate.
+- **Shakespeare**: *A tempestade*. There were beings who made people believe in something that did not exist, and controlled reality to manipulate them. Aldous Huxley's *Admirável Mundo Novo* takes its title from this work. A drug to hide sadness or whatever you want to forget or remember.
+- Maybe loneliness is not related to occupying a space or being surrounded by people, but maybe to being in control of that space or those people. It is normal for us to create beaches, parks and services that only selected people can go to. **I** can be here, but I don't want you to be, I control what I will eat, where I will sleep, who I will talk to. Could this be a way of controlling loneliness?
 - *The Lonely Crowd* - David Riesman
-- Crescimento do transtorno narcisista de personalidade: a pessoa superestima a própria importância, capacidade, e tende a subestimar a capacidade alheia.
+- Rise of narcissistic personality disorder: the person overestimates their own importance and ability, and tends to underestimate other people's abilities.
 
-Experiências normais como um primeiro encontro, o primeiro dia de aula ou trabalho, ir a um restaurante sozinho, falar uma língua diferente, mostram como é difícil viver no mundo real — sempre existe muita incerteza, e o que a sociedade vem mostrando é que estamos cada vez mais distantes destas experiências por advento da tecnologia.
+Normal experiences like a first date, the first day of school or work, going to a restaurant alone, speaking a different language, show how hard it is to live in the real world — there is always a lot of uncertainty, and what society has been showing is that we are more and more distant from these experiences because of the advent of technology.
 
-A companhia real é boa, pois ela é diferente de mim, causa dor, desconforto, um conhecimento a mais, uma experiência. **Viver em grupo é um ato de maturidade.**
+Real company is good because it is different from me; it causes pain, discomfort, extra knowledge, an experience. **Living in a group is an act of maturity.**
 
-Conclusão: Capítulo fala como a internet cria um isolamento, onde você é o dono de todas as ações, amigo de todos e capaz de compartilhar sua felicidade e ver a felicidade alheia, mas que soa como uma droga, feita para se sentir menos solitário, mas que falha, pois estamos criando uma sociedade onde as pessoas perdem o contato físico e se tornam menos resilientes para as coisas normais da vida.
+Conclusion: The chapter talks about how the internet creates isolation, where you own all the actions, are everyone's friend and can share your happiness and see other people's happiness, but it feels like a drug, made to feel less lonely, and it fails, because we are creating a society where people lose physical contact and become less resilient to the normal things of life.
 
-#### Capítulo 3 - Solidão, Solitude e livros
+#### Chapter 3 - Loneliness, Solitude and Books
 
-- Quanto mais consciente você for, mais solitário você é.
-- Somos estrangeiros a nós mesmos.
+- The more conscious you are, the lonelier you are.
+- We are strangers to ourselves.
 
-Mostra vários livros onde a solidão é alvo dos autores e como os protagonistas ou personagens em questão lidam com isso.
+It shows several books where loneliness is the authors' target and how the protagonists or characters in question deal with it.
 
-#### Capítulo 4 - O deus da solidão
+#### Chapter 4 - The God of Solitude
 
-- Ver o pecado e não participar dele é uma forma de solidão.
-- Deus provê muito aos seus fiéis mais próximos.
-- É fácil crer quando se tem tudo, a fé é posta à prova na falta (deserto). Talvez por isso Santo Antão tenha entrado em um período de solidão/reclusão, para ficar mais próximo de sua fé.
-- Nutrição do espírito sobre a abnegação do corpo: quem não mortifica o corpo põe em risco a própria alma.
-- Tradição judaico-cristã da solidão, onde nesses momentos os homens solitários buscam equilíbrio e significado para suas vidas.
-  - Existe uma relação entre deserto e essa solidão.
-  - Tentações começam a aparecer para testar a fé. Mas para os que conseguem, são recompensados.
+- Seeing sin and not taking part in it is a form of loneliness.
+- God provides a lot to His closest faithful.
+- It is easy to believe when you have everything; faith is put to the test in lack (the desert). Maybe that is why Saint Anthony entered a period of solitude/seclusion, to be closer to his faith.
+- Nourishing the spirit through denial of the body: whoever does not mortify the body puts their own soul at risk.
+- The Judeo-Christian tradition of solitude, where in these moments solitary men seek balance and meaning for their lives.
+  - There is a relationship between the desert and this solitude.
+  - Temptations start to appear to test faith. But those who make it are rewarded.
 
-Descartes: Desconfie de si, pois suas vontades podem ser um simples fruto dos seus desejos carnais.
+Descartes: Distrust yourself, because your wishes may simply be the fruit of your carnal desires.
 
-#### Capítulo 5 - A imagem do solitário: Arte e Cinema em busca do imagético
+#### Chapter 5 - The Image of the Solitary: Art and Cinema in Search of the Imagetic
 
-- Solidão na arte.
-- Ninguém cria nada sozinho a partir do nada — todo processo de técnica e conhecimento é um conjunto de colaborações.
-- Mesmo na arte, o isolamento pode nutrir ou destruir o artista.
-- *Os conceitos fundamentais da metafísica* - Martin Heidegger: comparação entre os seres inanimados e animados. Os inanimados não são capazes de desfrutar do mundo; os animais, como um cachorro, vivem em busca de evitar a dor e buscar mais prazeres — são seres pobres de mundo. Já o homem seria formador de mundos, pois ele é capaz de criar/explorar e dimensionar o que está a sua volta.
-- Fases da solidão: era utilizada para descrever a falta de alguém, depois uma condição mental e até uma virtude, relacionada com a capacidade de se autoconhecer, criar e explorar o seu subconsciente.
-- Solidão de alguém que vive na cidade e a solidão de alguém que busca uma vida no campo. A solidão possui diversas faces, ela é uma relação direta com um local ou a presença de alguém. É algo inerente ao ser humano, que sempre deve ser tida com cuidado para não se tornar um problema mental ou uma doença.
+- Loneliness in art.
+- No one creates anything alone out of nothing — every process of technique and knowledge is a set of collaborations.
+- Even in art, isolation can nourish or destroy the artist.
+- *Os conceitos fundamentais da metafísica* - Martin Heidegger: a comparison between inanimate and animate beings. Inanimate beings cannot enjoy the world; animals, like a dog, live seeking to avoid pain and seek more pleasure — they are poor in world. Man, on the other hand, would be world-forming, because he is able to create/explore and give dimension to what is around him.
+- Phases of loneliness: it was used to describe missing someone, then a mental condition and even a virtue, related to the ability to know oneself, create and explore one's subconscious.
+- The loneliness of someone who lives in the city and the loneliness of someone who seeks a life in the countryside. Loneliness has many faces; it is a direct relationship with a place or with someone's presence. It is something inherent to human beings, which must always be handled with care so it does not become a mental problem or an illness.
 
-A solidão pressupõe liberdade. Imagine viver em um local isolado de tudo e todos: você não precisa cumprir nenhum dever para com a sociedade ou o ambiente que está ocupando, pois não existe ninguém para se incomodar com as suas práticas. A partir do momento em que começamos a viver em sociedade, essa lógica deixa de ser válida, pois para vivermos em harmonia, um conjunto de regras e leis precisa ser estabelecido, caso contrário, viveríamos em um caos.
+Solitude presupposes freedom. Imagine living in a place isolated from everything and everyone: you don't need to fulfill any duty toward society or the environment you are occupying, because there is no one to be bothered by your practices. From the moment we start living in society, this logic stops being valid, because to live in harmony a set of rules and laws needs to be established; otherwise, we would live in chaos.
 
-#### Capítulo 6 - As solitárias
+#### Chapter 6 - The Solitary Ones
 
-- Solidão no relacionamento amoroso. Confundir que só existe vida em casal.
-- Monotonia e previsibilidade são fruto dessa solidão a dois.
-- A solidão não é fruto de estar sozinhos, é a distância entre os dois.
-- A solidão do idoso, que sente dificuldade para se enquadrar na evolução do mundo em que vive.
+- Loneliness in a romantic relationship. Mistakenly believing that life only exists as a couple.
+- Monotony and predictability are the fruit of this loneliness for two.
+- Loneliness is not the fruit of being alone; it is the distance between the two.
+- The loneliness of the elderly, who find it hard to fit into the evolution of the world they live in.
 - Michel Foucault - *Vigiar e Punir*
 
-#### Termos
+#### Terms
 
-- Seres gregários
-- Judaico-cristão
-- Sincretismo religioso
-- Impropérios: insultos e ofensas.
-- Eremita: pessoa que vive na solidão. (Eremitas vivem na solidão do deserto.)
-- Mortificação do corpo
-- Monashios: solitários que buscam a Deus.
-- Idiossincrasia: característica própria de um indivíduo ou grupo. (Idio = próprio, peculiar; Synkrasis = mistura.)
-- Meandros: disfarces, desvios, subterfúgios.
+- Seres gregários (gregarious beings)
+- Judaico-cristão (Judeo-Christian)
+- Sincretismo religioso (religious syncretism)
+- Impropérios (insults): insults and offenses.
+- Eremita (hermit): a person who lives in solitude. (Hermits live in the solitude of the desert.)
+- Mortificação do corpo (mortification of the body)
+- Monashios: solitary people who seek God.
+- Idiossincrasia (idiosyncrasy): a characteristic specific to an individual or group. (Idio = own, peculiar; Synkrasis = mixture.)
+- Meandros (meanders): disguises, detours, subterfuges.
 
 ---
 
@@ -664,10 +664,10 @@ How the Rasta movement is going against the materialism, money and capitalism st
 
 #### Words
 
-- Hedge - cercar, proteger, limitar
-- Bondage - escravidão
-- Held - hold - segurar, manter
-- Breakthroughs - avanços
+- Hedge - to fence in, protect, limit
+- Bondage - slavery
+- Held - hold - to grip, keep
+- Breakthroughs - advances
 
 #### Who is Marcus Garvey?
 
@@ -746,48 +746,48 @@ Threads-and-locks programming is like a Ford Model T. It will get you from point
 
 ### Sobre o Óbvio - Darcy Ribeiro
 
-Em uma crítica com tom debochado e descontraído, Darcy Ribeiro descreve em poucas páginas o processo de colonização no Brasil e a falta de interesse do império lusitano de promover uma cultura de crescimento social, que por sua vez utilizou de ferramentas políticas para promover intencionalmente a extração de riquezas em solo brasileiro e o desmantelamento da sociedade que aqui se formava, beneficiando e promovendo o acúmulo de riqueza sobre a classe que ele denomina: classe dominante.
+In a mocking and relaxed critique, Darcy Ribeiro describes in a few pages the process of colonization in Brazil and the Portuguese empire's lack of interest in promoting a culture of social growth; the empire in turn used political tools to intentionally promote the extraction of wealth from Brazilian soil and the dismantling of the society that was forming here, benefiting and promoting the accumulation of wealth in the class he calls: the ruling class.
 
-#### Primeira Parte
+#### Part One
 
-Darcy traz de forma escancarada opiniões populares da época colonial que eram amplamente difundidas e que possuem, ainda hoje, reflexo em como nossa sociedade tece opiniões sobre nossa formação social:
+Darcy openly brings up popular opinions from the colonial era that were widely spread and that are still reflected today in how our society forms opinions about our social formation:
 
-- Os negros são inferiores aos brancos;
-- Os pobres vivem dos ricos;
-- Nós brasileiros somos um povo inferior, um país de segundo mundo.
+- Black people are inferior to white people;
+- The poor live off the rich;
+- We Brazilians are an inferior people, a second-world country.
 
-Ele tenta rebater estas atrocidades, mostrando como o empenho dos imperadores da época em difundir tais opiniões se deu como modus operandi, com viés unicamente político.
+He tries to refute these atrocities, showing how the effort of the emperors of the time to spread such opinions worked as a modus operandi, with a purely political bias.
 
-Dentre as práticas e fundamentos utilizados:
+Among the practices and foundations used:
 
 - "Somos 100 anos mais velhos que os estadunidenses, mas eles hoje estão muito adiante."
-- A utilização do "catolicismo barroco", introduzido pelos jesuítas portugueses durante o período colonial com o objetivo de catequizar os índios.
+- The use of "Baroque Catholicism", introduced by the Portuguese Jesuits during the colonial period with the goal of catechizing the Indigenous peoples.
 
-E por fim, que os culpados de nosso subdesenvolvimento somos nós mesmos, ou melhor, parte de nós mesmos. Que ao criar mecanismos de manter o povo faminto, chucro e feio, colocou-se assim uma barreira no desenvolvimento deste, e por trás disto, um objetivo claro: enriquecer suas famílias se apropriando de riquezas latinas, utilizando o trabalho escravo/indígena.
+And finally, that the ones to blame for our underdevelopment are ourselves, or rather, part of ourselves. That by creating mechanisms to keep the people hungry, uncouth and ugly, a barrier was placed on their development, and behind this, a clear goal: to enrich their families by appropriating Latin American wealth, using slave/Indigenous labor.
 
-#### Segunda Parte
+#### Part Two
 
-Darcy, também em tom banal, critica a classe dominante, expondo que a razão para os acontecimentos que aqui se davam em relação ao modelo de sociedade e economia altamente próspera foram ideias fundamentadas, e que nada que aqui se formava se deu de maneira aleatória.
+Darcy, also in a casual tone, criticizes the ruling class, showing that the reason for what happened here regarding the highly prosperous model of society and economy was well-founded ideas, and that nothing that formed here happened at random.
 
-A classe dominante fundava um sistema sem apelo sentimental com o povo brasileiro, beneficiando unicamente os senhores da época. Tal sistema compelia o povo a produzir o que ele não consumia, para exportar para o exterior.
+The ruling class founded a system with no sentimental appeal to the Brazilian people, benefiting only the masters of the time. Such a system compelled the people to produce what they did not consume, to export abroad.
 
 ```
 É importante, indispensável e patriótico ter paciência, esperem um pouco, não sejam tão imediatistas, o bolo precisa crescer para que a parte de todos seja maior.
 ```
 
-Fundamentalmente, os argumentos que reforçam essa forma maquiavélica de lidar com a formação do Brasil, segundo Darcy, se apresentam de algumas formas:
+Fundamentally, the arguments that reinforce this Machiavellian way of handling Brazil's formation, according to Darcy, show up in a few forms:
 
-- A vinda da família real de Portugal ao Brasil, com mais de 15 mil fâmulos, que já possuíam um sistema burocrático e a materialização de camadas homogêneas que favoreciam a classe dominante europeia, que logicamente não viriam ao Brasil com intenções de cultivar uma formação social.
-- A extraordinária capacidade de enfrentar e vendar todas as revoluções sociais.
-- Leis, como a Lei de Terras, que defendia de maneira transparente que a obtenção de terras em solos brasileiros seria por meio da compra.
-- Revolução industrial/abolição da escravidão. O modelo escravista era tão sustentável que, mesmo após a invenção das máquinas — que tinham única e exclusivamente o objetivo de transicionar o trabalho braçal pelas máquinas — só se formalizou no Brasil após a abolição da escravidão, que por sua vez foi um dos últimos países do mundo a adotar tal lei.
+- The arrival of the Portuguese royal family in Brazil, with more than 15 thousand servants, who already had a bureaucratic system and the materialization of homogeneous layers that favored the European ruling class, who logically would not come to Brazil with the intention of cultivating a social formation.
+- The extraordinary ability to confront and blindfold all social revolutions.
+- Laws, like the Land Law (Lei de Terras), which openly established that land in Brazil could only be obtained by purchase.
+- Industrial revolution/abolition of slavery. The slave model was so sustainable that, even after the invention of machines — whose sole and exclusive goal was to replace manual labor with machines — it was only formalized in Brazil after the abolition of slavery, and Brazil was one of the last countries in the world to adopt such a law.
 
-#### Terceira Parte
+#### Part Three
 
-Atender interesses: apropriação latifundiária e ignorância popular.
+Serving interests: large-landowner appropriation and popular ignorance.
 
-- Formação básica: católica/estatal.
-- Universidades no Brasil: dezenas de universidades no território hispano-latino foram criadas a partir de 1550. No Brasil, quem tinha dinheiro mandava seus filhos para estudar em Coimbra.
+- Basic education: Catholic/state-run.
+- Universities in Brazil: dozens of universities in Spanish-speaking Latin America were created from 1550 on. In Brazil, those who had money sent their children to study in Coimbra.
 
 ---
 
@@ -947,11 +947,11 @@ After gathering all these concepts and putting them in production, some simple q
 
 ### Triste Fim de Policarpo Quaresma - Lima Barreto
 
-#### Palavras
+#### Words
 
-- Misantropo: oposto de filantropo, aversão ou ódio ao ser humano.
-- Bongada: apanhar, tomar.
-- Capadócio: malandro.
+- Misantropo (misanthrope): the opposite of a philanthropist, aversion to or hatred of human beings.
+- Bongada: to get beaten, to take a hit.
+- Capadócio: a rogue, a trickster.
 
 > O que o patriotismo o fez pensar, foi num conhecimento inteiro do Brasil, levando-o a meditações sobre os seus recursos, para depois então apontar os remédios, as medidas progressivas, com pleno conhecimento de causa.
 
@@ -1072,7 +1072,7 @@ The Hagakure group always intended to die on the battlefield. For this reason, t
 They followed virtues that guide the way they understand the world and live their lives:
 
 - **Honor**: Without honor, you are nothing.
-- **Politeness** (boas maneiras): The way that you act with others.
+- **Politeness** (good manners): The way that you act with others.
 - **Veracity / Sincerity**: You are acting in that way because you believe in it.
 
 They develop and refine their culture continuously over a very long period, using defined and specific rules to guide the behavior of their followers.

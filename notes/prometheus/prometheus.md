@@ -1,10 +1,10 @@
-* [Instrumentation](#instrumentation---três-tipos-de-serviços)
+* [Instrumentation](#instrumentation---three-types-of-services)
     * [online-serving](#online-serving)
     * [offline-processing](#offline-processing)
     * [batch-jobs](#batch-jobs)
-* [Agregação](#agregação)
+* [Aggregation](#aggregation)
     * [Sum x Count](#sum-x-count)
-    * [Operadores de agregação e agrupamento](#operadores-de-agreção-e-agrupamento)
+    * [Aggregation and grouping operators](#aggregation-and-grouping-operators)
 * [Metric Type](#metrics-type)
     * [Counter](#counter)
     * [Gauge](#gauge)
@@ -16,42 +16,42 @@
 
 
 
-# Instrumentation - Três tipos de serviços
+# Instrumentation - Three types of services
 
 [Instrumentation | Prometheus](https://prometheus.io/docs/practices/instrumentation/#instrumentation)
 
 ## Online Serving
 
-Tipos de serviço que esperam uma resposta imediata. Por exemplo, uma requisição a um banco de dados.
+Types of service that expect an immediate response. For example, a request to a database.
 
-As principais métricas em tal sistema são o número de consultas realizadas, erros e latência. O número de solicitações em andamento também pode ser útil.
+The main metrics in such a system are the number of queries performed, errors and latency. The number of in-progress requests can also be useful.
 
 ## Offline-processing
 
-Tipo de sistema que você não espera a ativamente sua resposta.
-Para cada estágio é importante acompanhar os itens que chegam, quantos estão em progresso, a última vez que você processou algo ou até mesmo qual é a relação entre itens que saem/entram.
+Type of system where you don't actively wait for its response.
+For each stage it is important to track the items that arrive, how many are in progress, the last time you processed something, or even what the ratio is between items going out/coming in.
 
 ## Batch Jobs
 
-Tem uma caracteristica peculiar que, não são tipos de sistemas que rodam frequentemente, tornando a coleta de suas métricas um pouco mais difícil.
+They have a peculiar characteristic: they are not types of systems that run frequently, which makes collecting their metrics a bit more difficult.
 
-Uma métrica chave para serviços em *batch* é a última vez que ele rodou com sucesso.
+A key metric for *batch* services is the last time it ran successfully.
 
-Qual o foi o tempo que cada etapa demorou
+How long each step took
 
-# Agregação
+# Aggregation
 
 ## Sum x Count
 
 
-A principal diferença entre as duas funções é que "sum" retorna a soma dos valores da métrica, enquanto "count" retorna o número de amostras da métrica. Em outras palavras, "sum" é uma função de agregação que lida com valores numéricos, enquanto "count" é uma função de agregação que lida com a contagem de amostras.
+The main difference between the two functions is that "sum" returns the sum of the metric's values, while "count" returns the number of samples of the metric. In other words, "sum" is an aggregation function that deals with numeric values, while "count" is an aggregation function that deals with counting samples.
 
 --- 
 
-## Operadores de agreção e agrupamento
-Os operadores de agregação podem ser usados
+## Aggregation and grouping operators
+Aggregation operators can be used
 
-Esses operadores podem ser usados para agregar as métricas do Prometheus em todas as dimensões de rótulos ou preservar as dimensões distintas, incluindo uma cláusula "without" ou "by". Essas cláusulas podem ser usadas antes ou depois da expressão.
+These operators can be used to aggregate Prometheus metrics across all label dimensions or to preserve distinct dimensions by including a "without" or "by" clause. These clauses can be used before or after the expression.
 
 ```sql
 <aggr-op> [without|by (<label list>)] ([parameter,] <vector expression>)

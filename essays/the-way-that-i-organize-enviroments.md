@@ -1,24 +1,24 @@
-A forma que eu gosto de organizar meus ambientes segue alguns princípios:
+The way I like to organize my environments follows a few principles:
 
-Preferencialmente, o código não deve saber se está em produção, staging, teste, etc. Portanto, passar variáveis de ambientes para meu código, sendo essas, variáveis que carregam informações do tipo: PROD, DEV, INTERNAL, é algo que eu evito ao máximo.
+Preferably, the code should not know whether it's in production, staging, test, etc. So passing environment variables to my code, when those variables carry information like PROD, DEV, INTERNAL, is something I avoid as much as possible.
 
-Particularmente, esse tipo de prática é um problema, pois não é difícil de se criar um ambiente onde seja muito confuso manejar e controlar o que está acontecendo. Segundo minha experiência, the easiest way to manage a software is dealing with it like a black box, if that is or isn't some option to be turned on, this options should be controled via flags. https://prometheus.io/docs/prometheus/latest/feature_flags/
+Personally, I find this kind of practice a problem, because it's not hard to end up with an environment where it's very confusing to manage and control what is going on. In my experience, the easiest way to manage a software is dealing with it like a black box, if that is or isn't some option to be turned on, this options should be controled via flags. https://prometheus.io/docs/prometheus/latest/feature_flags/
 
 Take a look into the prometheus documentation, it's something like this.
 
-O método além de funcionar para mim, funciona para outros software por aí, pois fica a cargo do engenheiro por trás daquele software decidir o que ele pretende ou não habilitar de acordo com os recursor q ele tem, a partir do momento que você coloca detalhes de ambientes de deploy no seu código, você está basicamente forçando um padrão que é algo exclusivo a como você roda aquele software naquele exato momento.
+Besides working for me, the method works for other software out there, because it's up to the engineer behind that software to decide what they want to enable or not according to the resources they have. The moment you put deployment environment details in your code, you are basically forcing a pattern that is exclusive to how you run that software at that exact moment.
 
-Blz, mas como alcançar isso em um ambiente minimamente produtivo. As vezes que organizei isso, a formatação dos meus projetos era a seguinte.
+Ok, but how do you achieve this in a minimally productive environment? The times I organized this, my projects were laid out like this.
 
-Dentro da minha cloud, eu separada os ambientes em diferentes projetos. Digamos que:
+Inside my cloud, I split the environments into different projects. Let's say:
 
-Projeto-production
-projeto-internal
-projeto-development
+Project-production
+project-internal
+project-development
 
-Na criação da infraestrutura eu também evito ao máximo colocar prefixos ou sufixos que remetam o nome do meu projeto, a infraestrutura que os 3 carregam, deve sempre ser a mesma, mas redimencionadas de maneira diferente a depender das necessidades que minha empresa demanda. Com isso, erros de digitação e detalhes de implementação entre ambientes são reduzidos drásticamente, você tem N projetos diferentes, que na teoria, carregam configuração muito parecidas. o kustomize/helm/yaml que cada serviço utiliza é quase o mesmo para todos os ambientes, o que muda? Em dev eu quero usar 500vCPU e em produção 2vCPU... A configuração em produção sõa mais agressivas que em outros ambientes.
+When creating the infrastructure, I also avoid as much as possible adding prefixes or suffixes that refer to the name of my project. The infrastructure the 3 carry should always be the same, but sized differently depending on the needs my company has. With this, typos and implementation details between environments are drastically reduced: you have N different projects that, in theory, carry very similar configuration. The kustomize/helm/yaml each service uses is almost the same for all environments. What changes? In dev I want to use 500vCPU and in production 2vCPU... The configuration in production is more aggressive than in other environments.
 
-Mas imagina ter que mexer em arquivos terraform como esses:
+But imagine having to touch terraform files like these:
 
 
 resource "creating_of_s3_bucket" "name-of-bucket-production" {
@@ -33,9 +33,9 @@ resource "creating_of_s3_bucket" "name-of-bucket-development" {
   name = "name-of-bucket-development"
 }
 
-Isse é um pesadelo na terra, imagina a quantidade de typos que podem acontecer nesse processo. O mesmo vale para o código que vai ser executado em cada ambiente.
+This is hell on earth. Imagine the number of typos that can happen in this process. The same goes for the code that will run in each environment.
 
-Imagina chegar no seu código e ver:
+Imagine getting to your code and seeing:
 
 ```go
 if os.Getenv("ENV") == "production" {
@@ -47,4 +47,4 @@ if os.Getenv("ENV") == "production" {
 }
 ```
 
-é muito mais prático, centralizar todas as feature flags que dizem respeito a funcionalidades que estão sendo mantidas, em um arquivo de configuração, e utilizar essa configuração em todo o código. Assim, fica a cargo do usuário a decisão, ele não precisa decidir isso com base no ambiente onde o software está sendo executado.
+It's much more practical to centralize all the feature flags for the functionality being maintained in a configuration file, and use that configuration throughout the code. That way, the decision is up to the user; they don't need to decide it based on the environment where the software is running.

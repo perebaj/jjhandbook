@@ -1,18 +1,18 @@
-# Processamento da Soja
+# Soybean Processing
 
-- Pré Limpeza ou peneração (Retirar grãos menores ou quebrados)
-- Extração da casca do grão de soja
-- Trituração (facilita a extracão do óleo)
-    - No processo de tritutarão, o grão de soja é quebrado em pequenos pedaços, facilitando a extração do óleo. O farelo resultante é utilizado para a produção de ração animal.
-- Extração do óleo
-    - Extrai o óleo bruto através de prensagem ou método químico através de solventes
-    - Aqui também se incluem processos de filtragem e decantação, seja utilizando filtros de pano, centrífugas e sedimentação em tanques.
-    - Como esse processo envolve calor e solventes, a coloração e sabores do óleo podem ser alterados, sendo necessário um processo de refinamento após a extração do óleo.
-    - A extração pode ser feita a frio ou a quente, sendo a **extração a frio** mais cara e menos eficiente, utilizada em pequenas fábricas, o resultado final é um óleo de melhor qualidade, não sendo necessária etapas de refinamento. Já o **processo a "quente"** é mais eficiente e barato, porém o óleo resultante é de menor qualidade, sendo necessário etapas de refinamento, já que a coloração e sabor do óleo são alterados por conta da temperatura e velocidade de extração.
-- Refino ou Degomagem (Remoção de impurezas)
-- Branqueamento (Remoção de pigmentos)
-- Desodorização (Remoção de odores)
-- Envase
+- Pre-cleaning or sieving (removing smaller or broken grains)
+- Removing the hull from the soybean
+- Crushing (makes oil extraction easier)
+    - In the crushing process, the soybean is broken into small pieces, making oil extraction easier. The resulting meal is used to produce animal feed.
+- Oil extraction
+    - Extracts the crude oil by pressing or by a chemical method using solvents
+    - This also includes filtering and decanting processes, using cloth filters, centrifuges and sedimentation in tanks.
+    - Since this process involves heat and solvents, the color and flavor of the oil can change, so a refining process is needed after the oil is extracted.
+    - Extraction can be done cold or hot. **Cold extraction** is more expensive and less efficient, used in small factories; the end result is a better-quality oil that doesn't need refining steps. The **"hot" process** is more efficient and cheaper, but the resulting oil is of lower quality and needs refining steps, since the color and flavor of the oil are changed by the temperature and speed of extraction.
+- Refining or Degumming (removing impurities)
+- Bleaching (removing pigments)
+- Deodorization (removing odors)
+- Bottling
 
 # References
 
