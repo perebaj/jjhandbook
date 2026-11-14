@@ -1,6 +1,6 @@
-# Meus líderes
+# My leaders
 
-Ninguém chega a lugar nenhum sozinho. Essas pessoas foram minhas líderes e me ajudaram a formar minha opinião sobre engenharia, pessoas, empresas e ética.
+Nobody gets anywhere alone. These people led me and helped shape my views on engineering, people, companies, and ethics.
 
 - [Everton A. Cherman](https://www.linkedin.com/in/everton-cherman/), co-founder & CTO @ Birdie.ai
 - [Vitor Agnello](https://www.linkedin.com/in/vitoragnellorodrigues/)
