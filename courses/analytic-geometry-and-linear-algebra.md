@@ -6,6 +6,16 @@ Where to find the content:
 - [Linear Algebra 1 — Escola Politécnica da USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI), in Portuguese
 - [Essence of Linear Algebra — 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Linear Algebra — DIBEOS](https://www.youtube.com/playlist?list=PLJSvriS_WDruxILw87994IUWw2ASdw0am)
+- [Tudo Que Você Precisa Para Não Reprovar Em Álgebra Linear — Corre de PhD](https://www.youtube.com/watch?v=vRp7cnFKoac), in Portuguese
+
+## Prerequisites
+
+Study in this order before linear algebra proper; each topic is the ground for the next.
+
+1. Analytic geometry
+2. Matrices and determinants
+3. Vector spaces
+4. Subspaces, basis and dimension
 
 ## Main books
 
