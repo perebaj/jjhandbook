@@ -7,11 +7,13 @@ Where to find the content:
 - [Essence of Linear Algebra — 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Linear Algebra — DIBEOS](https://www.youtube.com/playlist?list=PLJSvriS_WDruxILw87994IUWw2ASdw0am)
 
-## Main book
+## Main books
+
+### Analytic geometry
 
 *Geometria Analítica: Um Tratamento Vetorial*, Paulo Boulos & Ivan de Camargo. The chapter order is the study order: vectors come first, so the geometry in part 2 is built on top of them.
 
-### Parte 1 — Vetores
+#### Parte 1 — Vetores
 
 1. Vetores
 2. Adição de vetores
@@ -26,7 +28,7 @@ Where to find the content:
 11. Duplo produto vetorial
 12. Produto misto
 
-### Parte 2 — Geometria Analítica
+#### Parte 2 — Geometria Analítica
 
 13. Sistema de coordenadas
 14. Estudo da reta
@@ -71,3 +73,32 @@ Where to find the content:
     - Superfície cônica
     - Superfície de rotação
     - Quádricas (forma reduzida)
+
+### Linear algebra
+
+*Álgebra Linear*, Elon Lages Lima (IMPA, Coleção Matemática Universitária). The reference text for linear algebra: it works with linear transformations first and brings in matrices only as their representation.
+
+1. Espaços Vetoriais
+2. Subespaços
+3. Bases
+4. Transformações Lineares
+5. Produto de Transformações Lineares
+6. Núcleo e Imagem
+7. Soma Direta e Projeção
+8. A Matriz de uma Transformação Linear
+9. Eliminação
+10. Produto Interno
+11. A Adjunta
+12. Subespaços Invariantes
+13. Operadores Auto-Adjuntos
+14. Operadores Ortogonais
+15. Operadores Normais (Caso Real)
+16. Pseudo-inversa
+17. Tópicos Matriciais
+18. Formas Quadráticas
+19. Determinantes
+20. O Polinômio Característico
+21. Espaços Vetoriais Complexos
+22. Equações a Diferenças Finitas
+
+Appendix: A Forma Canônica de Jordan
