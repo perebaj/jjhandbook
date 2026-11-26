@@ -39,6 +39,7 @@
 - [Robonyx](https://www.youtube.com/@Robonyx)
 - [Programming for Robotics (ROS) — Robotic Systems Lab, ETH Zürich (Course Page)](https://rsl.ethz.ch/education-students/lectures/ros.html)
 - [Programming for Robotics (ROS) — Robotic Systems Lab, ETH Zürich (YouTube Playlist)](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
+- [Robot Learning Course 2026 — Oier Mees, ETH Zürich (YouTube Playlist)](https://www.youtube.com/playlist?list=PLPU18BnWYUZJx3_d901-GD6BGpeWwE2vx)
 
 # Front-end engineers
 
