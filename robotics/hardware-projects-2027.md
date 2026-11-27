@@ -1,6 +1,6 @@
 # Hardware projects 2027
 
-Seven projects to build from 2027 on. They're ordered so each one reuses the tools and skills of the one before. Prices are US retail, checked in November 2026. Use them to size the budget, then confirm each price before ordering.
+Eight projects to build from 2027 on. They're ordered so each one reuses the tools and skills of the one before. Prices are US retail, checked in November 2026. Use them to size the budget, then confirm each price before ordering.
 
 | # | Project | Main new skill | Big new purchase |
 |---|---|---|---|
@@ -11,8 +11,9 @@ Seven projects to build from 2027 on. They're ordered so each one reuses the too
 | 5 | Balancing double pendulum | Modelling, LQR (a standard state-feedback controller), real-time control | Rail and encoders (reuses #4 driver) |
 | 6 | Flight controller | IMU fusion, ESC protocols, embedded firmware | Quad kit, LiPos, radio |
 | 7 | Small CNC | Steppers, motion firmware, CAM | 3018-class machine |
+| 8 | Autonomous drone missions (Nectar SDK) | ROS 2, ArduPilot/PX4 SITL, Gazebo, vision (ArUco, YOLO), mission observability | None to start (Crazyflie optional later) |
 
-The CNC can move earlier. Its lasting value is making enclosures, mounts, heatsinks and the pendulum frame, more than PCBs.
+The CNC can move earlier. Its lasting value is making enclosures, mounts, heatsinks and the pendulum frame, more than PCBs. Project 8 needs no hardware to start — it runs in simulation via Docker and can happen anytime.
 
 ## Buying from Brazil
 
@@ -175,6 +176,19 @@ One cheap machine mills PCBs well and aluminium badly. Rigid aluminium machines 
   - Mill single-sided through-hole boards and same-day RF test coupons.
   - Order from JLCPCB ($2 for 5) for fine-pitch, multi-layer, high-current or keep-forever boards: the flight controller, BLDC, final amp and final RF filter.
 
+## 8. Autonomous drone missions (Nectar SDK)
+
+Starts with zero hardware. [Black Bee Drones' Nectar SDK](https://black-bee-drones.github.io/nectar-sdk/) ([GitHub](https://github.com/Black-Bee-Drones/nectar-sdk), Apache 2.0) is a ROS 2 SDK that unifies flight control, computer vision and AI behind one interface so the same mission runs across drones, sensors and simulators.
+
+- **Simulation:** ArduPilot or PX4 SITL with Gazebo (indoor and outdoor worlds), running the same mission code that flies on real drones — a regular computer is enough.
+- **Setup:** prebuilt images on [Docker Hub](https://hub.docker.com/u/blackbeedrones) skip most of the local ROS 2 setup.
+- **Progression:**
+  1. Bring up the simulation via Docker and follow the "Get started" guide to fly in Gazebo.
+  2. Run the computer-vision examples (ArUco markers, line detection), then the YOLO AI examples.
+  3. Reproduce a full published competition mission (IMAV 2025, SAE-2026, IMAV 2023, CBR 2025, or SAE Eletroquad 2025).
+- **Optional hardware:** works with the Crazyflie, a small indoor drone that pairs with the bench later without needing an outdoor test field.
+- **Contribution angle (Prof. Bruno):** open an issue, bug fix, or new example on `Black-Bee-Drones/nectar-sdk` before reaching out — adding flight telemetry and observability to missions (metrics, traces, vision-pipeline latency) plays to existing observability work and fits distributed systems and IoT research directly.
+
 ## Budget (US prices, before Brazilian tax)
 
 | Bucket | Must-have to start |
@@ -188,6 +202,7 @@ One cheap machine mills PCBs well and aluminium badly. Rigid aluminium machines 
 | Pendulum | ~$80–150 |
 | Flight controller | ~$350–450 |
 | CNC phase 1 | ~$350–450 landed |
+| Autonomous drone missions (Nectar SDK) | $0 in simulation (Crazyflie optional later) |
 | Later (diff probe, current clamp, thermal camera, dyno, CNC phases 2–3) | ~$1,300–2,300 |
 
 Expect the instruments to cost about 1.6–1.9× once Brazilian taxes are paid.
