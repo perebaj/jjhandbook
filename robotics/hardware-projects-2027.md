@@ -11,7 +11,7 @@ Eight projects to build from 2027 on. They're ordered so each one reuses the too
 | 5 | Balancing double pendulum | Modelling, LQR (a standard state-feedback controller), real-time control | Rail and encoders (reuses #4 driver) |
 | 6 | Flight controller | IMU fusion, ESC protocols, embedded firmware | Quad kit, LiPos, radio |
 | 7 | Small CNC | Steppers, motion firmware, CAM | 3018-class machine |
-| 8 | Autonomous drone missions (Nectar SDK) | ROS 2, ArduPilot/PX4 SITL, Gazebo, vision (ArUco, YOLO), mission observability | None to start (Crazyflie optional later) |
+| 8 | Autonomous drone missions (Nectar SDK) | PX4 SITL, ROS 2, Gazebo, vision (ArUco, YOLO), OpenTelemetry | None to start (Crazyflie optional later) |
 
 The CNC can move earlier. Its lasting value is making enclosures, mounts, heatsinks and the pendulum frame, more than PCBs. Project 8 needs no hardware to start — it runs in simulation via Docker and can happen anytime.
 
@@ -178,16 +178,9 @@ One cheap machine mills PCBs well and aluminium badly. Rigid aluminium machines 
 
 ## 8. Autonomous drone missions (Nectar SDK)
 
-Starts with zero hardware. [Black Bee Drones' Nectar SDK](https://black-bee-drones.github.io/nectar-sdk/) ([GitHub](https://github.com/Black-Bee-Drones/nectar-sdk), Apache 2.0) is a ROS 2 SDK that unifies flight control, computer vision and AI behind one interface so the same mission runs across drones, sensors and simulators.
+Starts with zero hardware, prioritizing the Linux Foundation / Dronecode stack (**PX4**, **Pixhawk**, **MAVLink**, **MAVSDK**, **QGroundControl**, **Zephyr**, **OpenTelemetry**) paired with ROS 2, Gazebo and [Black Bee Drones' Nectar SDK](https://black-bee-drones.github.io/nectar-sdk/).
 
-- **Simulation:** ArduPilot or PX4 SITL with Gazebo (indoor and outdoor worlds), running the same mission code that flies on real drones — a regular computer is enough.
-- **Setup:** prebuilt images on [Docker Hub](https://hub.docker.com/u/blackbeedrones) skip most of the local ROS 2 setup.
-- **Progression:**
-  1. Bring up the simulation via Docker and follow the "Get started" guide to fly in Gazebo.
-  2. Run the computer-vision examples (ArUco markers, line detection), then the YOLO AI examples.
-  3. Reproduce a full published competition mission (IMAV 2025, SAE-2026, IMAV 2023, CBR 2025, or SAE Eletroquad 2025).
-- **Optional hardware:** works with the Crazyflie, a small indoor drone that pairs with the bench later without needing an outdoor test field.
-- **Contribution angle (Prof. Bruno):** open an issue, bug fix, or new example on `Black-Bee-Drones/nectar-sdk` before reaching out — adding flight telemetry and observability to missions (metrics, traces, vision-pipeline latency) plays to existing observability work and fits distributed systems and IoT research directly.
+Full stack choices, sim-vs-hardware test boundaries, phased plan and Prof. Bruno contribution notes live in [autonomous-drone/README.md](./autonomous-drone/README.md).
 
 ## Budget (US prices, before Brazilian tax)
 
